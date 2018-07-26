@@ -7,224 +7,13 @@
                 {
                     "__type__": "Deck", 
                     "children": [], 
-                    "crowdanki_uuid": "f762f624-8ec9-11e8-9736-9cb6d00ae587", 
-                    "deck_config_uuid": "f762f61d-8ec9-11e8-9736-9cb6d00ae587", 
+                    "crowdanki_uuid": "9cf4e4ab-86ab-11e8-8aba-00241d725194", 
+                    "deck_config_uuid": "719b4525-861d-11e8-b22c-9cb6d00ae587", 
                     "desc": "", 
                     "dyn": 0, 
                     "extendNew": 10, 
                     "extendRev": 50, 
-                    "media_files": [
-                        "google-c5a98e03-7e6accde-fe096e9e-59ff0031-18147cbe.mp3", 
-                        "google-29c8ef3d-7eebfe5f-05123d88-1df08f00-f6b9b502.mp3", 
-                        "google-3ff8b4c3-01eb2721-e7d03f8d-2377b150-f060a108.mp3", 
-                        "google-10361a33-d804d59d-7a605564-16b4fd16-f0c5eea9.mp3", 
-                        "google-60d4f4fc-66dfa175-4e538102-80a59066-fcad2bc5.mp3", 
-                        "google-361e838e-c3327821-e2150960-571da427-afb46c9a.mp3", 
-                        "google-0996e1fd-9a20fbad-a5d94911-8892b3f6-3a8f9911.mp3", 
-                        "google-5dd17442-86947e8a-8130c9da-e6d5be78-48921844.mp3", 
-                        "google-7f83a064-766a1746-74d648b4-c0544a5f-da190cb4.mp3", 
-                        "google-7a827933-6c6d69dd-0244edf3-6769c674-ac0a6a54.mp3", 
-                        "google-283214e0-92b09b69-4ca14ff7-698befc1-5eb29457.mp3", 
-                        "google-45b62303-ca8f8dd8-2fef79dc-208da7e8-8c0aa7a1.mp3", 
-                        "google-bee4ba6d-71dcb70b-2a688e68-fd5f6e81-8d3f520a.mp3", 
-                        "google-482ad1a1-836604e9-ddc68303-cbed18bb-807f0de5.mp3", 
-                        "google-05ef3079-dbba65fc-a8a5fbb6-862c7007-2bff585e.mp3", 
-                        "google-96f7d54b-14dcedbb-8791ddc7-d7c03eb2-9610ee98.mp3", 
-                        "google-d234ac6e-7efc61bd-3f241380-9d817d7f-39f2b07c.mp3", 
-                        "google-e69ca0b5-76ca8903-9bd4a32c-34cae09e-6f88a773.mp3", 
-                        "google-ff6d4eff-a6a75e4a-d8eae764-78a9ff9a-53a5d684.mp3", 
-                        "google-94fbcb76-b210ed75-54a3852f-5f985dbe-5e50783d.mp3", 
-                        "google-65fa9bb0-ead78519-fc960784-4d2a12cf-bba02fcd.mp3", 
-                        "google-a16c12ed-05187ace-c0ad402c-cd46c22d-0902c23c.mp3", 
-                        "google-a481d1a6-7ee60f85-30b50463-09ebfd55-8163f225.mp3", 
-                        "google-9ea9319f-d1be72e6-9beaeb9c-fe9ceeea-28a51795.mp3", 
-                        "google-50693dd1-1e0bc565-95431d9a-b1257a31-65b02228.mp3", 
-                        "google-7018b64e-bef532f7-d02465f2-e038e077-cee32a2a.mp3", 
-                        "google-efdf038c-f48a3e23-b2cabaf1-c5309b32-7b31ae4a.mp3", 
-                        "google-f84fbdbc-64dc34e7-a04a103c-902d7504-099e8613.mp3", 
-                        "google-b71c4738-e9af5fa1-7d881b59-bfe8e6e3-25cb16a5.mp3", 
-                        "google-b4d9446f-3543e548-dcb5842d-fc76ae92-3881d83f.mp3", 
-                        "google-370d1726-bcaec932-58b891e5-f38372c0-6ad139d7.mp3", 
-                        "google-fa74205c-57e7f2c1-42ff9f40-171f907f-d78f4a3b.mp3", 
-                        "google-0732a44d-d129d426-8ed1e749-6382a299-efb3cd2b.mp3", 
-                        "google-824e2196-b7482f34-a0b4520d-31c02290-20636654.mp3", 
-                        "google-95434370-9aaf6f71-5e322695-f61cc425-d24c7eb6.mp3", 
-                        "google-16c04dbb-8ecc4798-c902ddd7-b936e691-a6ba6d55.mp3", 
-                        "google-fe2994d3-4ed2be2e-16da5af4-2c05f43b-51c511c1.mp3", 
-                        "google-5d6f72a1-656dc45b-39e016d5-d9438770-b3f2c3a9.mp3", 
-                        "google-83b8e3c0-b1325bae-3a721a17-e5e9bf17-f94365b7.mp3", 
-                        "google-446e8324-0e55c07e-bb346788-1231a83d-227707b6.mp3", 
-                        "google-94673229-c338bc50-4b107f2f-165ba589-ac22f5fd.mp3", 
-                        "google-4eb1eb60-ae3a2cf8-fe5efd9a-b2875f29-d26e979e.mp3", 
-                        "google-2d9f41d8-d75c3227-72ce85dd-14493f74-26cbd079.mp3", 
-                        "google-d9a62754-2ab1f625-1bd2cafd-c3c80a61-e61549ca.mp3", 
-                        "google-0fb767b1-5ffbe6ab-88d05137-0d5b3113-029ec816.mp3", 
-                        "google-c27a1f1e-94174f37-254ed6d6-6cf3a54d-22ea39bb.mp3", 
-                        "google-e1fa180f-fad17a35-fb238db9-df666347-4aaf7568.mp3", 
-                        "google-094692da-aa6a8563-657bdc30-08be1cb2-13d9ff41.mp3", 
-                        "google-dd72045e-613e68a7-9fcc763b-293ccdbd-d10e3c74.mp3", 
-                        "google-8d555eb8-d1a20de0-5a9cd87e-4a5c7fbb-76d62baf.mp3", 
-                        "google-fdec8c0d-3dbebcbc-48226abb-87d9d526-af860646.mp3", 
-                        "google-0ed157a4-3fd8f09e-91893df2-c6058139-42796167.mp3", 
-                        "google-97627f29-692e6a45-06146166-9021fbd2-3224f66b.mp3", 
-                        "google-15cf10b8-3793af3b-488eddd6-eac35f4d-a13e9471.mp3", 
-                        "google-4d1fc576-1b0cc7bb-b18e151b-d800dda9-86673d0d.mp3", 
-                        "google-e986f009-609de371-19fdb322-26b41b74-957a5509.mp3", 
-                        "google-055391d3-d6e23a79-79e3e456-3385f25d-4637f09d.mp3", 
-                        "google-f8177a14-9e25cdc5-f82da132-414a1005-50189897.mp3", 
-                        "google-b38170af-3d3f4a56-23958b1e-f6666c27-930bc93e.mp3", 
-                        "google-cd05c8ff-b31651f6-f43d49c4-c65fb636-0afbdc98.mp3", 
-                        "google-d4655ac6-68ae2cdd-7b1a62f8-41721045-d6751b2d.mp3", 
-                        "google-e572f218-2bc1c3d6-e3a0951d-195e83da-053acb36.mp3", 
-                        "google-3ad0a640-25df499c-5908c9e3-c8c6da69-ce6d090f.mp3", 
-                        "google-821297b2-b26c67b8-43692f31-5296f945-4cbbd86e.mp3", 
-                        "google-a30b6d6f-fbb0c78a-cee0be5e-d22cbb41-e0ab37ae.mp3", 
-                        "google-27c2d9a2-928c2fa4-786e166c-db992606-7ddded1f.mp3", 
-                        "google-7a145847-7e02f5b2-31cddb5a-41c4c3b0-fb20a027.mp3", 
-                        "google-b21ab36f-9adc6c34-25e2dd26-434264fb-a4ebb9ad.mp3", 
-                        "google-d46f36bd-52f47591-cddafd28-c66e6ed4-32810cd5.mp3", 
-                        "google-c22a96ba-c26de7ae-261571de-af772cb4-935925c5.mp3", 
-                        "google-7e6e165f-cf4b8d66-375398a4-615031c6-51572a30.mp3", 
-                        "google-e9704531-5d7096cf-03199956-9a3fb3ea-537e35f0.mp3", 
-                        "google-8deefd17-2f20ee19-885fabe8-9c256a12-e3a2e2ae.mp3", 
-                        "google-f5909fd3-9b3185c4-64a5e720-e517c15a-fbfd64cf.mp3", 
-                        "google-5a817d29-b59649fb-15bef6dd-6d3618ab-27bbd2d4.mp3", 
-                        "google-74875a47-b38e07e4-c55b7b2a-3f8c7e64-22f6798b.mp3", 
-                        "google-6957ce62-29d5db59-32e4b83d-30415b9c-e7d4b147.mp3", 
-                        "google-dcd25fbc-97f1a05e-dba890c7-bd344940-ad8f97cd.mp3", 
-                        "google-9053d65f-ebcb9e5b-9f849638-c376d2a6-d25d4a53.mp3", 
-                        "google-b4c27bcf-2f15f94b-cddda5f2-8c532090-96453279.mp3", 
-                        "google-3f7c5f79-555a104e-2fb1157c-9b149caf-88505d91.mp3", 
-                        "google-6ff80b5c-3df39125-3582238b-7ef06d6b-46c3f45b.mp3", 
-                        "google-21626faa-0871e2a6-84a3b5eb-1f4bd4bd-789bd30e.mp3", 
-                        "google-052e0786-1c9624c6-3357d7da-2399ded0-b2acbb8b.mp3", 
-                        "google-6e662ce7-8b552ec1-8b8c530a-a6a51315-cf402595.mp3", 
-                        "google-8c978d1f-6ee5234b-093a4a17-b5f8d09b-974b3003.mp3", 
-                        "google-f465ddeb-be814590-a7eadc43-88fb8251-13772af3.mp3", 
-                        "google-92bbd94b-f2625def-6aba2846-f57e9ba9-69d95b21.mp3", 
-                        "google-412abd08-84a04b97-2210bcca-54b2c559-e51fe8e5.mp3", 
-                        "google-c0fa3a90-3a1006c8-d5fbe5ca-4f205dc4-13db32e6.mp3", 
-                        "google-4dc556ff-3a9ceb0a-ac5da695-597e4ad1-952ecdba.mp3", 
-                        "google-08f5d467-b2a47e28-7e935f02-660c7f1c-f841bda7.mp3", 
-                        "google-ae85b3b8-55f7476e-2c02913e-2e9f9425-191cb86d.mp3", 
-                        "google-0dbcd157-63299325-59f7f286-9df3d610-5df63ddd.mp3", 
-                        "google-e4d674fd-be201fdb-4e01a675-902b0ec3-59f1ce7a.mp3", 
-                        "google-c3450a4d-966f8420-10672a5d-fe1021d4-7c349366.mp3", 
-                        "google-6de3d0a9-a4824b11-06e431b6-db5c4bbf-65bc4efe.mp3", 
-                        "google-3167490f-cc0936d9-46c2b1db-53448b3f-d24f9699.mp3", 
-                        "google-7e16f8f8-4ea3477c-96c859d8-8f3a0ad7-dbfef34d.mp3", 
-                        "google-930e83ae-2a07477f-2edcd40c-535fba13-06e10267.mp3", 
-                        "google-f41ff62c-2e8176ee-8306ba51-0804db9d-2847c4b2.mp3", 
-                        "google-f45161da-c69b2e8d-1c0f5b95-9ef16f90-6e145c42.mp3", 
-                        "google-81cc82df-62385af1-1960ab00-8b7f3e2a-46de7ef4.mp3", 
-                        "google-5cea18f8-efd669ef-a5b03f78-ba0257e6-e5a80bef.mp3", 
-                        "google-06837f82-6e27bade-904223cc-b8d1ff7e-e7c971a6.mp3", 
-                        "google-9ac58004-b3dafd25-d7895b4f-50987db4-e24e4943.mp3", 
-                        "google-55d48eef-8abd7d09-e532ddb8-a5598718-d37cf764.mp3", 
-                        "google-9232fdc6-97288b73-ca2eb30c-4cc8ccbc-35367823.mp3", 
-                        "google-7a036d66-db2c1c32-00e305cc-1aa4bfd8-57a9f014.mp3", 
-                        "google-01aaa207-2f04129a-1319d4da-14eb4a91-16c506d7.mp3", 
-                        "google-3ab34ca3-4194c551-24372164-bddc2567-083f91f5.mp3", 
-                        "google-b84f8bac-7e4a7ddd-24f4a171-97625488-db8e5ff3.mp3", 
-                        "google-f4f61aef-3eb16b16-4cad2679-c6a0d3c0-e28ae3fc.mp3", 
-                        "google-bd814b67-5f565963-8e44688f-9e621de6-5da33342.mp3", 
-                        "google-3beb4890-adb311dd-605ce3bd-544fcb6c-cf6f98e7.mp3", 
-                        "google-ca5084d1-9bf83a99-a3f5c121-14c08359-1bde3a43.mp3", 
-                        "google-489fdea8-709d4f63-e0daab07-470981f5-530ee32f.mp3", 
-                        "google-45f8bb5b-ac32c570-563c7a2d-8e3257a2-40d8922c.mp3", 
-                        "google-6ff828f6-114a588f-298204a7-5b40aedc-49ab6e2b.mp3", 
-                        "google-2c952ec7-713e978c-3d50f14b-d772c5f4-4cd698ae.mp3", 
-                        "google-11566fd0-976c4ad6-4a9c8b1c-3eff3d00-cf7fd1a7.mp3", 
-                        "google-ada9a0bb-63264486-76dfd7df-3359a486-b91b99df.mp3", 
-                        "google-ed054dde-9f5b704c-0b9f922b-cd271b68-71455351.mp3", 
-                        "google-f898a6c5-e6ea329f-1416b26d-f4fc8a05-2e0df488.mp3", 
-                        "google-3b963f61-99448951-60edb96b-238d83d6-7b5953fc.mp3", 
-                        "google-c223aa11-336d6262-b292cf5f-72a61fdc-74a8c7cf.mp3", 
-                        "google-d5a2d754-a50e8756-e61ab3b7-a44bda74-1fcab72d.mp3", 
-                        "google-c992fa5b-4276718c-e52ac893-2ea13e1f-114f5254.mp3", 
-                        "google-0b4394d0-c5aa1697-43c4b7ff-b4b99a5e-e0c4e1e5.mp3", 
-                        "google-4d4db148-8d59b698-5f25542f-4e2f8cf9-4f478694.mp3", 
-                        "google-01446e85-f20de259-b747be54-b4ead8ae-075b812e.mp3", 
-                        "google-bf95a4b8-b1e81506-9e000321-e0676441-a03e81fb.mp3", 
-                        "google-c742c98d-09546842-958cc2e4-0f7f1510-47e0e3a3.mp3", 
-                        "google-c6ee1226-71315fdd-63a9c029-27701c7b-858f0d20.mp3", 
-                        "google-77834c9c-6c2ac5a6-4fb34ed4-c4a99176-affb4faf.mp3", 
-                        "google-3e5e855c-a09b0bd5-f74e660f-4e53c6a3-35fbff19.mp3", 
-                        "google-b37e56f3-20bfeca9-226fd0a7-e8d5edcf-bcf3faa2.mp3", 
-                        "google-83e36828-561617c6-1693fd40-9398683e-85df8c52.mp3", 
-                        "google-15df2fbc-29f272c8-cc3911a4-458cc8c4-f89446aa.mp3", 
-                        "google-aab21352-45839bbd-ca123360-c836026c-b786fe9f.mp3", 
-                        "google-296576cf-c0cad1e1-50315047-3fd3d27d-820e07d8.mp3", 
-                        "google-0a545f1d-3335501d-e88d93b4-3c68c672-345fd3d0.mp3", 
-                        "google-8e79f60c-2eae5234-9515e6d3-2fe38f22-3f3a1c3e.mp3", 
-                        "google-71b6f22b-24df404a-0767ae24-8bcc968c-3e2a105e.mp3", 
-                        "google-90d39814-ee2e7122-db0582c2-f3b65c46-6e72e47f.mp3", 
-                        "google-855ded6c-356337b8-2675ded7-c4ed2353-2818d500.mp3", 
-                        "google-664e6293-32610f15-2b8217d8-aabaa421-0e496fe2.mp3", 
-                        "google-68f630a4-27719277-cd6e5c69-4a7bae01-90ef01cb.mp3", 
-                        "google-2242e74f-87dc1835-25284389-dc7df0cb-6fc4a51b.mp3", 
-                        "google-f134366a-7ff4cc10-3ab5bc28-ea0f5153-896fc94c.mp3", 
-                        "google-2dbf022c-5f8e0484-40e0cb71-2a594484-52543924.mp3", 
-                        "google-9aa97ec3-4f445990-68433859-7a21ff4f-4529e778.mp3", 
-                        "google-298b4faf-85f71184-9b976339-f4de1e21-a1aa1940.mp3", 
-                        "google-fe59fecc-42c275ea-c85b6d62-741c7fd6-e980e41c.mp3", 
-                        "google-d72ebe5a-8f4339ed-649c3c23-fa5701b6-798efb71.mp3", 
-                        "google-a633c881-c6a5b73a-0c154243-7a9f8d46-25806904.mp3", 
-                        "google-b3b8c301-919f9935-5d3791dd-b4c8d88b-de690d60.mp3", 
-                        "google-8c622b2b-49e0d3a8-5e0291ba-f7044c96-39d28ab1.mp3", 
-                        "google-04068cd2-345828a6-546ee2dc-63d9035a-9b47789e.mp3", 
-                        "google-bc27e654-0e601a6c-d28cfaf9-ab04cee4-d7dff423.mp3", 
-                        "google-1e69847c-2e1d3bfa-68427c1d-90e84c67-91b43fb7.mp3", 
-                        "google-5201595e-65e0fc61-6d9c65b9-17755e90-097dd59b.mp3", 
-                        "google-7abb99e4-244e6d0e-94808a7c-3b8d6e74-7bfbfb08.mp3", 
-                        "google-d967e664-fa17f2b3-157bd323-00b04c8d-bed6691a.mp3", 
-                        "google-1ad42f0f-dea43103-4e9313f5-d8a7a20f-200a9624.mp3", 
-                        "google-2b66ef08-9b8804c9-d85a3732-0d3e83dd-630b23ef.mp3", 
-                        "google-f80e63fe-e749a9da-96d68a8a-807a08fd-d995f586.mp3", 
-                        "google-aec2e622-ce6d9f72-5601437b-ac0fbea8-6f634702.mp3", 
-                        "google-c941fe78-fa4faa92-2a8127f7-8122ef3e-1492987b.mp3", 
-                        "google-273ff6a7-401b55a5-668eba7d-16b49ee4-bb2005f6.mp3", 
-                        "google-b1c2916d-fc873b19-bf1c38a1-9a5b8c6f-4d59b02a.mp3", 
-                        "google-ddb2f9f4-c62c856c-a0e2f070-d2b85eba-1035f2d9.mp3", 
-                        "google-968e312b-e9946a25-1749a691-ff5dc756-3cc151fa.mp3", 
-                        "google-0f2eda1f-2b8b9f8a-40a292d4-885a771f-36f7b29d.mp3", 
-                        "google-f571ce5a-da847549-1c33ed91-b13a523e-619e2371.mp3", 
-                        "google-6a910457-140286b2-ccf1a362-fb2d2c1f-4f94bf06.mp3", 
-                        "google-6bbd3539-787e0d18-f404a2b4-9d466e62-1854346c.mp3", 
-                        "google-a3b306b3-4d7f1af4-adec3157-61262036-a6aa35ff.mp3", 
-                        "google-72e9fcee-76668d9e-b4b1d010-4cccc2a3-783a30ef.mp3", 
-                        "google-306e9984-de44ca54-b0c21966-dc79ab95-136cdadf.mp3", 
-                        "google-29a180c7-251faf11-8d3b2ab9-0a732fc2-97c9ae14.mp3", 
-                        "google-0cdfba07-554b2451-3f5b625d-52245f45-e45fe743.mp3", 
-                        "google-3cd0c69b-4256e162-442aa5bc-bcd46d71-13d3f795.mp3", 
-                        "google-68fa7fbc-232c3046-7be5bf0b-925d8ce7-9a5db69c.mp3", 
-                        "google-d9091179-51bbf87f-c435b345-d9cc93f1-aced74ec.mp3", 
-                        "google-21b3b4a3-0338e52d-2753ca6f-3a518fac-e1000f1a.mp3", 
-                        "google-95918c63-573aa608-2a6db91b-89f7b1b5-6e842184.mp3", 
-                        "google-4c94739f-318cd135-0cf22647-0d66e90e-0544cbfd.mp3", 
-                        "google-8ba1e3f3-4d076ec1-d1dee88e-8b6af66a-b6e75a40.mp3", 
-                        "google-b433dc86-d4230c48-d8c33985-ef949f9c-d7741a3b.mp3", 
-                        "google-aa713797-b4b4b028-67545314-7feeb09f-4edf4ede.mp3", 
-                        "google-8ee2d04f-f23de141-da260f7b-21420eb7-63140d10.mp3", 
-                        "google-90444721-1827a827-12987294-02b11d9f-36cb5e30.mp3", 
-                        "google-dab4a0dc-87c2955d-91896eb7-82b1ccce-a0bf9081.mp3", 
-                        "google-edda4600-24418e0f-c3894102-0d5ee206-cda8621f.mp3", 
-                        "google-2e970590-f4047003-41acb799-01aecf72-a5c4badf.mp3", 
-                        "google-e1d165ec-03aa17de-09f44815-d0c8d9b2-4eed92af.mp3", 
-                        "google-be4329fc-d69a5166-be8033d6-daf6afc8-699186a5.mp3", 
-                        "google-de944064-51521785-864e0986-0f6ade56-f27c11f7.mp3", 
-                        "google-a7c3d2f4-a6ce96d5-e83d823c-37ba60ce-b8199f84.mp3", 
-                        "google-f00eeac5-210e73f4-d3c3d918-0821dd7b-51df2836.mp3", 
-                        "google-49fa7d90-0284c4d7-a364c26e-62f1571d-b572b508.mp3", 
-                        "google-18ddea76-f7be35df-c84aa316-5fbf38ee-1a882c27.mp3", 
-                        "google-b0987f0a-d9dcd7b0-c0283e6f-c091c23a-f1d1cf46.mp3", 
-                        "google-1078f1de-05c35979-a93cdcdf-9890ef5c-1a6e9b95.mp3", 
-                        "google-d3969930-363b9599-c8bef295-ae22e35f-3c176ec6.mp3", 
-                        "google-c68a4f8a-f3b1123f-4a13582f-f5a5a21d-42cca04a.mp3", 
-                        "google-4a97fc47-325241aa-2b085836-500d1525-33fb7f66.mp3", 
-                        "google-03824478-b7bff3dc-105e833a-40a6f66b-e2e81438.mp3", 
-                        "google-2f36835e-a3533bd0-48a89ff7-c65fd799-81ac86ef.mp3"
-                    ], 
+                    "media_files": [], 
                     "name": "Definiciones", 
                     "notes": [
                         {
@@ -245,8 +34,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-e9704531-5d7096cf-03199956-9a3fb3ea-537e35f0.mp3]", 
-                                " [sound:google-90444721-1827a827-12987294-02b11d9f-36cb5e30.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "b**+qz5_Wr", 
@@ -277,8 +66,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-0996e1fd-9a20fbad-a5d94911-8892b3f6-3a8f9911.mp3]", 
-                                " [sound:google-b433dc86-d4230c48-d8c33985-ef949f9c-d7741a3b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "b-1!*bAFRQ", 
@@ -309,8 +98,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-9053d65f-ebcb9e5b-9f849638-c376d2a6-d25d4a53.mp3]", 
-                                " [sound:google-b21ab36f-9adc6c34-25e2dd26-434264fb-a4ebb9ad.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "r?s?Gx97Q1", 
@@ -341,8 +130,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-d72ebe5a-8f4339ed-649c3c23-fa5701b6-798efb71.mp3]", 
-                                " [sound:google-824e2196-b7482f34-a0b4520d-31c02290-20636654.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "o9,[(;U5S,", 
@@ -373,8 +162,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-e572f218-2bc1c3d6-e3a0951d-195e83da-053acb36.mp3]", 
-                                " [sound:google-296576cf-c0cad1e1-50315047-3fd3d27d-820e07d8.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "lhFf6I=W3?", 
@@ -405,8 +194,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-2d9f41d8-d75c3227-72ce85dd-14493f74-26cbd079.mp3]", 
-                                " [sound:google-50693dd1-1e0bc565-95431d9a-b1257a31-65b02228.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "b9R|lVn@D0", 
@@ -437,8 +226,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-08f5d467-b2a47e28-7e935f02-660c7f1c-f841bda7.mp3]", 
-                                " [sound:google-3ad0a640-25df499c-5908c9e3-c8c6da69-ce6d090f.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "dpWULXNxX~", 
@@ -469,8 +258,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-d234ac6e-7efc61bd-3f241380-9d817d7f-39f2b07c.mp3]", 
-                                " [sound:google-306e9984-de44ca54-b0c21966-dc79ab95-136cdadf.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "HX$pOHdP7[", 
@@ -480,7 +269,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "みたまでだ"
                             ]
                         }, 
@@ -502,8 +291,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-0fb767b1-5ffbe6ab-88d05137-0d5b3113-029ec816.mp3]", 
-                                " [sound:google-b3b8c301-919f9935-5d3791dd-b4c8d88b-de690d60.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "LT$l`p@3ss", 
@@ -513,7 +302,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "までだ"
                             ]
                         }, 
@@ -535,8 +324,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-7a036d66-db2c1c32-00e305cc-1aa4bfd8-57a9f014.mp3]", 
-                                "[sound:google-f00eeac5-210e73f4-d3c3d918-0821dd7b-51df2836.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "G{#5qD;<{c", 
@@ -546,7 +335,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "それまでだ/これまでだ"
                             ]
                         }, 
@@ -568,8 +357,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-7a145847-7e02f5b2-31cddb5a-41c4c3b0-fb20a027.mp3]", 
-                                " [sound:google-2b66ef08-9b8804c9-d85a3732-0d3e83dd-630b23ef.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "n>_BTGri{>", 
@@ -600,8 +389,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-05ef3079-dbba65fc-a8a5fbb6-862c7007-2bff585e.mp3]", 
-                                " [sound:google-f8177a14-9e25cdc5-f82da132-414a1005-50189897.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ez3zQ$JCuR", 
@@ -632,8 +421,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-2f36835e-a3533bd0-48a89ff7-c65fd799-81ac86ef.mp3]", 
-                                " [sound:google-7abb99e4-244e6d0e-94808a7c-3b8d6e74-7bfbfb08.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "gm]w+/9-RZ", 
@@ -663,8 +452,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-ddb2f9f4-c62c856c-a0e2f070-d2b85eba-1035f2d9.mp3]", 
-                                " [sound:google-bc27e654-0e601a6c-d28cfaf9-ab04cee4-d7dff423.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "B)`JA6XPH3", 
@@ -695,8 +484,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-4d1fc576-1b0cc7bb-b18e151b-d800dda9-86673d0d.mp3]", 
-                                " [sound:google-273ff6a7-401b55a5-668eba7d-16b49ee4-bb2005f6.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "v2tvn{p@lp", 
@@ -727,8 +516,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-a481d1a6-7ee60f85-30b50463-09ebfd55-8163f225.mp3]", 
-                                " [sound:google-c22a96ba-c26de7ae-261571de-af772cb4-935925c5.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "IOs?hC4Gz.", 
@@ -759,8 +548,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-c3450a4d-966f8420-10672a5d-fe1021d4-7c349366.mp3]", 
-                                " [sound:google-e1fa180f-fad17a35-fb238db9-df666347-4aaf7568.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "by@83gdG_8", 
@@ -791,8 +580,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-a3b306b3-4d7f1af4-adec3157-61262036-a6aa35ff.mp3]", 
-                                " [sound:google-6e662ce7-8b552ec1-8b8c530a-a6a51315-cf402595.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "n_`>j!~}Me", 
@@ -823,8 +612,8 @@
                                 "Pará de darme excusas. Te la pasas faltando a clases diciendo que estás resfriado, que te duele la cabeza y cosas por el estilo.", 
                                 "", 
                                 "", 
-                                " [sound:google-27c2d9a2-928c2fa4-786e166c-db992606-7ddded1f.mp3]", 
-                                " [sound:google-c742c98d-09546842-958cc2e4-0f7f1510-47e0e3a3.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Kyt~<irFW5", 
@@ -855,8 +644,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-3beb4890-adb311dd-605ce3bd-544fcb6c-cf6f98e7.mp3]", 
-                                " [sound:google-489fdea8-709d4f63-e0daab07-470981f5-530ee32f.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "eOi9Z`,HFf", 
@@ -887,8 +676,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-5a817d29-b59649fb-15bef6dd-6d3618ab-27bbd2d4.mp3]", 
-                                " [sound:google-0a545f1d-3335501d-e88d93b4-3c68c672-345fd3d0.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "cbeymt@I3", 
@@ -919,8 +708,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-7a827933-6c6d69dd-0244edf3-6769c674-ac0a6a54.mp3]", 
-                                " [sound:google-412abd08-84a04b97-2210bcca-54b2c559-e51fe8e5.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "zX,^6r=|rz", 
@@ -951,8 +740,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-f84fbdbc-64dc34e7-a04a103c-902d7504-099e8613.mp3]", 
-                                " [sound:google-361e838e-c3327821-e2150960-571da427-afb46c9a.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "zA7D+WB%qr", 
@@ -983,8 +772,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-49fa7d90-0284c4d7-a364c26e-62f1571d-b572b508.mp3]", 
-                                " [sound:google-8d555eb8-d1a20de0-5a9cd87e-4a5c7fbb-76d62baf.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "n7rhcf/SD!", 
@@ -1015,8 +804,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-dab4a0dc-87c2955d-91896eb7-82b1ccce-a0bf9081.mp3]", 
-                                " [sound:google-ff6d4eff-a6a75e4a-d8eae764-78a9ff9a-53a5d684.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "A-352t*+z,", 
@@ -1047,8 +836,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-f465ddeb-be814590-a7eadc43-88fb8251-13772af3.mp3]", 
-                                " [sound:google-21626faa-0871e2a6-84a3b5eb-1f4bd4bd-789bd30e.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Cdqgs7@Z`|", 
@@ -1079,8 +868,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-aab21352-45839bbd-ca123360-c836026c-b786fe9f.mp3]", 
-                                " [sound:google-055391d3-d6e23a79-79e3e456-3385f25d-4637f09d.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "y^eK`c8t?8", 
@@ -1111,8 +900,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-7f83a064-766a1746-74d648b4-c0544a5f-da190cb4.mp3]", 
-                                " [sound:google-1ad42f0f-dea43103-4e9313f5-d8a7a20f-200a9624.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "OT9kfrSwgQ", 
@@ -1143,8 +932,8 @@
                                 "Charlo con un colega mientras tomo un descanso.", 
                                 "", 
                                 "", 
-                                " [sound:google-45f8bb5b-ac32c570-563c7a2d-8e3257a2-40d8922c.mp3]", 
-                                " [sound:google-ca5084d1-9bf83a99-a3f5c121-14c08359-1bde3a43.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "m!86TI}?t_", 
@@ -1175,8 +964,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-16c04dbb-8ecc4798-c902ddd7-b936e691-a6ba6d55.mp3]", 
-                                " [sound:google-3f7c5f79-555a104e-2fb1157c-9b149caf-88505d91.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "O&fGNKaM+,", 
@@ -1207,8 +996,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-15cf10b8-3793af3b-488eddd6-eac35f4d-a13e9471.mp3]", 
-                                " [sound:google-6ff828f6-114a588f-298204a7-5b40aedc-49ab6e2b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ho>,8U^x<:", 
@@ -1239,8 +1028,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-a16c12ed-05187ace-c0ad402c-cd46c22d-0902c23c.mp3]", 
-                                " [sound:google-8ee2d04f-f23de141-da260f7b-21420eb7-63140d10.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "s2sXg?$dY7", 
@@ -1271,8 +1060,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-a30b6d6f-fbb0c78a-cee0be5e-d22cbb41-e0ab37ae.mp3]", 
-                                " [sound:google-3ff8b4c3-01eb2721-e7d03f8d-2377b150-f060a108.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "pvqAwyW~aT", 
@@ -1303,8 +1092,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-b84f8bac-7e4a7ddd-24f4a171-97625488-db8e5ff3.mp3]", 
-                                " [sound:google-06837f82-6e27bade-904223cc-b8d1ff7e-e7c971a6.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "uG%4}VLYXE", 
@@ -1335,8 +1124,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-97627f29-692e6a45-06146166-9021fbd2-3224f66b.mp3]", 
-                                " [sound:google-f571ce5a-da847549-1c33ed91-b13a523e-619e2371.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "jCoVp?E[xE", 
@@ -1367,8 +1156,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-efdf038c-f48a3e23-b2cabaf1-c5309b32-7b31ae4a.mp3]", 
-                                " [sound:google-0ed157a4-3fd8f09e-91893df2-c6058139-42796167.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "EkAq+eB0Xj", 
@@ -1399,8 +1188,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-f41ff62c-2e8176ee-8306ba51-0804db9d-2847c4b2.mp3]", 
-                                " [sound:google-aa713797-b4b4b028-67545314-7feeb09f-4edf4ede.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "bN|4-}9>Du", 
@@ -1410,7 +1199,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ほどのことはない/ほどのこともない"
                             ]
                         }, 
@@ -1432,8 +1221,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-3ab34ca3-4194c551-24372164-bddc2567-083f91f5.mp3]", 
-                                " [sound:google-8c978d1f-6ee5234b-093a4a17-b5f8d09b-974b3003.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "J.odU2V_B}", 
@@ -1465,8 +1254,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-03824478-b7bff3dc-105e833a-40a6f66b-e2e81438.mp3]", 
-                                " [sound:google-01aaa207-2f04129a-1319d4da-14eb4a91-16c506d7.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "kQX.Y2]~J*", 
@@ -1498,8 +1287,8 @@
                                 "Cualquiera sea la dificultad con la que él se encuentre, no se desanima.", 
                                 "", 
                                 "", 
-                                " [sound:google-968e312b-e9946a25-1749a691-ff5dc756-3cc151fa.mp3]", 
-                                " [sound:google-10361a33-d804d59d-7a605564-16b4fd16-f0c5eea9.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "mz%6|[-*}P", 
@@ -1531,8 +1320,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-0b4394d0-c5aa1697-43c4b7ff-b4b99a5e-e0c4e1e5.mp3]", 
-                                " [sound:google-482ad1a1-836604e9-ddc68303-cbed18bb-807f0de5.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "NbM$B&]lq", 
@@ -1564,8 +1353,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-c5a98e03-7e6accde-fe096e9e-59ff0031-18147cbe.mp3]", 
-                                " [sound:google-15df2fbc-29f272c8-cc3911a4-458cc8c4-f89446aa.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "y4b&V!c<02", 
@@ -1597,8 +1386,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-bd814b67-5f565963-8e44688f-9e621de6-5da33342.mp3]", 
-                                " [sound:google-b38170af-3d3f4a56-23958b1e-f6666c27-930bc93e.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "D9)h*Kxo6l", 
@@ -1630,8 +1419,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-b4c27bcf-2f15f94b-cddda5f2-8c532090-96453279.mp3]", 
-                                " [sound:google-bf95a4b8-b1e81506-9e000321-e0676441-a03e81fb.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Q%C.V4K[=%", 
@@ -1663,8 +1452,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-71b6f22b-24df404a-0767ae24-8bcc968c-3e2a105e.mp3]", 
-                                " [sound:google-6957ce62-29d5db59-32e4b83d-30415b9c-e7d4b147.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "QK1zo)3#}r", 
@@ -1696,8 +1485,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-b37e56f3-20bfeca9-226fd0a7-e8d5edcf-bcf3faa2.mp3]", 
-                                " [sound:google-fe59fecc-42c275ea-c85b6d62-741c7fd6-e980e41c.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "KYgZ38OP7y", 
@@ -1729,8 +1518,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-2e970590-f4047003-41acb799-01aecf72-a5c4badf.mp3]", 
-                                "[sound:google-68f630a4-27719277-cd6e5c69-4a7bae01-90ef01cb.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "wEGR!ZwsK8", 
@@ -1762,8 +1551,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-83e36828-561617c6-1693fd40-9398683e-85df8c52.mp3]", 
-                                " [sound:google-72e9fcee-76668d9e-b4b1d010-4cccc2a3-783a30ef.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "lK}:67wk-N", 
@@ -1773,7 +1562,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "jgram", 
                                 "限りだ/限りです"
                             ]
@@ -1796,8 +1585,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-e1d165ec-03aa17de-09f44815-d0c8d9b2-4eed92af.mp3]", 
-                                " [sound:google-29c8ef3d-7eebfe5f-05123d88-1df08f00-f6b9b502.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ejYc@@e.SZ", 
@@ -1828,8 +1617,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-8c622b2b-49e0d3a8-5e0291ba-f7044c96-39d28ab1.mp3]", 
-                                " [sound:google-c0fa3a90-3a1006c8-d5fbe5ca-4f205dc4-13db32e6.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ALb$D>rEoX", 
@@ -1861,8 +1650,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-90d39814-ee2e7122-db0582c2-f3b65c46-6e72e47f.mp3]", 
-                                " [sound:google-c68a4f8a-f3b1123f-4a13582f-f5a5a21d-42cca04a.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "r?6DsyZJDM", 
@@ -1894,8 +1683,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-283214e0-92b09b69-4ca14ff7-698befc1-5eb29457.mp3]", 
-                                " [sound:google-f898a6c5-e6ea329f-1416b26d-f4fc8a05-2e0df488.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "c?):a1IIcM", 
@@ -1905,7 +1694,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "からある/からする/からの"
                             ]
                         }, 
@@ -1927,8 +1716,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-4a97fc47-325241aa-2b085836-500d1525-33fb7f66.mp3]", 
-                                " [sound:google-96f7d54b-14dcedbb-8791ddc7-d7c03eb2-9610ee98.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "xM+NgvAZ[g", 
@@ -1938,7 +1727,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "かれ～かれ"
                             ]
                         }, 
@@ -1960,8 +1749,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-a7c3d2f4-a6ce96d5-e83d823c-37ba60ce-b8199f84.mp3]", 
-                                " [sound:google-2242e74f-87dc1835-25284389-dc7df0cb-6fc4a51b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "wqJG#_|J4r", 
@@ -1993,8 +1782,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-95918c63-573aa608-2a6db91b-89f7b1b5-6e842184.mp3]", 
-                                " [sound:google-8ba1e3f3-4d076ec1-d1dee88e-8b6af66a-b6e75a40.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "M){-}xJ7#u", 
@@ -2004,7 +1793,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "jgram", 
                                 "傍ら"
                             ]
@@ -2027,8 +1816,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-18ddea76-f7be35df-c84aa316-5fbf38ee-1a882c27.mp3]", 
-                                " [sound:google-4dc556ff-3a9ceb0a-ac5da695-597e4ad1-952ecdba.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "vh}1K5StYR", 
@@ -2060,8 +1849,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-5cea18f8-efd669ef-a5b03f78-ba0257e6-e5a80bef.mp3]", 
-                                " [sound:google-c27a1f1e-94174f37-254ed6d6-6cf3a54d-22ea39bb.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "G.C45&+C<z", 
@@ -2094,8 +1883,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-7018b64e-bef532f7-d02465f2-e038e077-cee32a2a.mp3]", 
-                                " [sound:google-3167490f-cc0936d9-46c2b1db-53448b3f-d24f9699.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "#KIy88J-j", 
@@ -2105,7 +1894,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "きっての"
                             ]
                         }, 
@@ -2127,8 +1916,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-4eb1eb60-ae3a2cf8-fe5efd9a-b2875f29-d26e979e.mp3]", 
-                                " [sound:google-298b4faf-85f71184-9b976339-f4de1e21-a1aa1940.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "g.^%xTpAxm", 
@@ -2160,8 +1949,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-9232fdc6-97288b73-ca2eb30c-4cc8ccbc-35367823.mp3]", 
-                                " [sound:google-0cdfba07-554b2451-3f5b625d-52245f45-e45fe743.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Folit+*yHN", 
@@ -2193,8 +1982,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-5d6f72a1-656dc45b-39e016d5-d9438770-b3f2c3a9.mp3]", 
-                                " [sound:google-f45161da-c69b2e8d-1c0f5b95-9ef16f90-6e145c42.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "BSKf><itoG", 
@@ -2226,8 +2015,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-81cc82df-62385af1-1960ab00-8b7f3e2a-46de7ef4.mp3]", 
-                                " [sound:google-4d4db148-8d59b698-5f25542f-4e2f8cf9-4f478694.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "bgQ[DHAD3K", 
@@ -2237,7 +2026,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ことだし"
                             ]
                         }, 
@@ -2259,8 +2048,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-821297b2-b26c67b8-43692f31-5296f945-4cbbd86e.mp3]", 
-                                " [sound:google-9aa97ec3-4f445990-68433859-7a21ff4f-4529e778.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "u$}NdZymvU", 
@@ -2270,7 +2059,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "悉く"
                             ]
                         }, 
@@ -2292,8 +2081,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-bee4ba6d-71dcb70b-2a688e68-fd5f6e81-8d3f520a.mp3]", 
-                                " [sound:google-21b3b4a3-0338e52d-2753ca6f-3a518fac-e1000f1a.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "i&f#$pmU;O", 
@@ -2303,7 +2092,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ことなしに"
                             ]
                         }, 
@@ -2325,8 +2114,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-94673229-c338bc50-4b107f2f-165ba589-ac22f5fd.mp3]", 
-                                " [sound:google-d5a2d754-a50e8756-e61ab3b7-a44bda74-1fcab72d.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "o(CLS,4gKU", 
@@ -2336,7 +2125,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ことのないよう（に）"
                             ]
                         }, 
@@ -2358,8 +2147,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-60d4f4fc-66dfa175-4e538102-80a59066-fcad2bc5.mp3]", 
-                                " [sound:google-d967e664-fa17f2b3-157bd323-00b04c8d-bed6691a.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "AR`RbTy7Dm", 
@@ -2369,7 +2158,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "こととて"
                             ]
                         }, 
@@ -2391,8 +2180,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-0dbcd157-63299325-59f7f286-9df3d610-5df63ddd.mp3]", 
-                                " [sound:google-01446e85-f20de259-b747be54-b4ead8ae-075b812e.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "I!Nw2-j+TP", 
@@ -2423,8 +2212,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-edda4600-24418e0f-c3894102-0d5ee206-cda8621f.mp3]", 
-                                " [sound:google-cd05c8ff-b31651f6-f43d49c4-c65fb636-0afbdc98.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "jQHV&*.H/y", 
@@ -2434,7 +2223,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "（く/ぐ）らい（の/な）もの（だ/です）"
                             ]
                         }, 
@@ -2456,8 +2245,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-de944064-51521785-864e0986-0f6ade56-f27c11f7.mp3]", 
-                                "[sound:google-0f2eda1f-2b8b9f8a-40a292d4-885a771f-36f7b29d.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "uZ*i_l?G8)", 
@@ -2489,8 +2278,8 @@
                                 "Escupió un comentario que no era propio de una profesora.", 
                                 "", 
                                 "", 
-                                " [sound:google-f134366a-7ff4cc10-3ab5bc28-ea0f5153-896fc94c.mp3]", 
-                                " [sound:google-3cd0c69b-4256e162-442aa5bc-bcd46d71-13d3f795.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "d*pt7f/dH/", 
@@ -2500,7 +2289,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "まじき"
                             ]
                         }, 
@@ -2522,8 +2311,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-dd72045e-613e68a7-9fcc763b-293ccdbd-d10e3c74.mp3]", 
-                                " [sound:google-c992fa5b-4276718c-e52ac893-2ea13e1f-114f5254.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "PcQ%81!BeK", 
@@ -2555,8 +2344,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-83b8e3c0-b1325bae-3a721a17-e5e9bf17-f94365b7.mp3]", 
-                                " [sound:google-ed054dde-9f5b704c-0b9f922b-cd271b68-71455351.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "J=qn.`SGh_", 
@@ -2588,8 +2377,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-b4d9446f-3543e548-dcb5842d-fc76ae92-3881d83f.mp3]", 
-                                " [sound:google-fe2994d3-4ed2be2e-16da5af4-2c05f43b-51c511c1.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "vN%br}:2Bp", 
@@ -2621,8 +2410,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-ada9a0bb-63264486-76dfd7df-3359a486-b91b99df.mp3]", 
-                                " [sound:google-446e8324-0e55c07e-bb346788-1231a83d-227707b6.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Qz@a|EtO:2", 
@@ -2654,8 +2443,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-74875a47-b38e07e4-c55b7b2a-3f8c7e64-22f6798b.mp3]", 
-                                " [sound:google-95434370-9aaf6f71-5e322695-f61cc425-d24c7eb6.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "EtUgx13y3`", 
@@ -2687,8 +2476,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-6bbd3539-787e0d18-f404a2b4-9d466e62-1854346c.mp3]", 
-                                " [sound:google-92bbd94b-f2625def-6aba2846-f57e9ba9-69d95b21.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "zQfW)$(0*<", 
@@ -2720,8 +2509,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-b71c4738-e9af5fa1-7d881b59-bfe8e6e3-25cb16a5.mp3]", 
-                                " [sound:google-7e16f8f8-4ea3477c-96c859d8-8f3a0ad7-dbfef34d.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Pb4Vj]x/ww", 
@@ -2731,7 +2520,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "もしないで"
                             ]
                         }, 
@@ -2753,8 +2542,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-94fbcb76-b210ed75-54a3852f-5f985dbe-5e50783d.mp3]", 
-                                " [sound:google-5dd17442-86947e8a-8130c9da-e6d5be78-48921844.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "m6]e>XLw*m", 
@@ -2786,8 +2575,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-68fa7fbc-232c3046-7be5bf0b-925d8ce7-9a5db69c.mp3]", 
-                                "[sound:google-04068cd2-345828a6-546ee2dc-63d9035a-9b47789e.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "bqYkbX9,C$", 
@@ -2797,7 +2586,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ば～ものを/たら～ものを"
                             ]
                         }, 
@@ -2819,8 +2608,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-052e0786-1c9624c6-3357d7da-2399ded0-b2acbb8b.mp3]", 
-                                " [sound:google-d46f36bd-52f47591-cddafd28-c66e6ed4-32810cd5.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "HMzem6xmdy", 
@@ -2830,7 +2619,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ものと思われる"
                             ]
                         }, 
@@ -2852,8 +2641,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                " [sound:google-6de3d0a9-a4824b11-06e431b6-db5c4bbf-65bc4efe.mp3]", 
-                                " [sound:google-2c952ec7-713e978c-3d50f14b-d772c5f4-4cd698ae.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "xN>cx4hw5e", 
@@ -2863,7 +2652,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ものとして"
                             ]
                         }, 
@@ -2885,8 +2674,8 @@
                                 "Él ni siquiera me dijo que le gustaba.", 
                                 "お 兄[にい]さんはどこに 行[い]ったのか＿＿＿ 分[わ]からない。", 
                                 "Ni siquiera sé a dónde fue mi hermano mayor.", 
-                                "[sound:google-4c94739f-318cd135-0cf22647-0d66e90e-0544cbfd.mp3]", 
-                                "[sound:google-1078f1de-05c35979-a93cdcdf-9890ef5c-1a6e9b95.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "t3,->|T9[m", 
@@ -2918,8 +2707,8 @@
                                 "Él me dijo incluso que despilfarro el dinero.", 
                                 "お母さんは誰が何時も深夜まで家に帰ってこなかったか＿＿＿もちゃんと分かっていた。", 
                                 "Nuestra madre siempre tuvo bien claro incluso quién era el que no venía a casa sino hasta tarde en la noche.", 
-                                "[sound:google-e69ca0b5-76ca8903-9bd4a32c-34cae09e-6f88a773.mp3]", 
-                                "[sound:google-aec2e622-ce6d9f72-5601437b-ac0fbea8-6f634702.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "qIk~(%MBU+", 
@@ -2951,8 +2740,8 @@
                                 "Si terminas los deberes luego podrás ir a jugar.", 
                                 "ケーキは美味しく＿＿＿できれ＿＿＿彼が元気になります。", 
                                 "Basta con que la torta salga rica para que él quede contento.", 
-                                "[sound:google-9ac58004-b3dafd25-d7895b4f-50987db4-e24e4943.mp3]", 
-                                "[sound:google-5201595e-65e0fc61-6d9c65b9-17755e90-097dd59b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ujCKI#CLe6", 
@@ -2983,8 +2772,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-c6ee1226-71315fdd-63a9c029-27701c7b-858f0d20.mp3]", 
-                                "[sound:google-9ea9319f-d1be72e6-9beaeb9c-fe9ceeea-28a51795.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "D,|yxwA)k,", 
@@ -3016,8 +2805,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-dcd25fbc-97f1a05e-dba890c7-bd344940-ad8f97cd.mp3]", 
-                                "[sound:google-2dbf022c-5f8e0484-40e0cb71-2a594484-52543924.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "zFntIxG`K.", 
@@ -3049,8 +2838,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-d4655ac6-68ae2cdd-7b1a62f8-41721045-d6751b2d.mp3]", 
-                                "[sound:google-f4f61aef-3eb16b16-4cad2679-c6a0d3c0-e28ae3fc.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "b;z+n>5:=R", 
@@ -3082,8 +2871,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-be4329fc-d69a5166-be8033d6-daf6afc8-699186a5.mp3]", 
-                                "[sound:google-c941fe78-fa4faa92-2a8127f7-8122ef3e-1492987b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "qp=Y!V]&Ba", 
@@ -3115,8 +2904,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-d3969930-363b9599-c8bef295-ae22e35f-3c176ec6.mp3]", 
-                                "[sound:google-d9091179-51bbf87f-c435b345-d9cc93f1-aced74ec.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "o>UPu+8oHk", 
@@ -3126,7 +2915,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ないではおかない/ずにはおかない"
                             ]
                         }, 
@@ -3148,8 +2937,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-77834c9c-6c2ac5a6-4fb34ed4-c4a99176-affb4faf.mp3]", 
-                                "[sound:google-664e6293-32610f15-2b8217d8-aabaa421-0e496fe2.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Jp7&XP?Qaz", 
@@ -3159,7 +2948,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ]
                         }, 
@@ -3181,8 +2970,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-ae85b3b8-55f7476e-2c02913e-2e9f9425-191cb86d.mp3]", 
-                                "[sound:google-3e5e855c-a09b0bd5-f74e660f-4e53c6a3-35fbff19.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "Dp%xL+<egr", 
@@ -3214,8 +3003,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-6a910457-140286b2-ccf1a362-fb2d2c1f-4f94bf06.mp3]", 
-                                "[sound:google-7e6e165f-cf4b8d66-375398a4-615031c6-51572a30.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ixByRp!5k5", 
@@ -3225,7 +3014,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "てまで（も）"
                             ]
                         }, 
@@ -3247,8 +3036,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-8deefd17-2f20ee19-885fabe8-9c256a12-e3a2e2ae.mp3]", 
-                                "[sound:google-a633c881-c6a5b73a-0c154243-7a9f8d46-25806904.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "hi^=/[>sh>", 
@@ -3258,7 +3047,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -3280,8 +3069,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-370d1726-bcaec932-58b891e5-f38372c0-6ad139d7.mp3]", 
-                                "[sound:google-65fa9bb0-ead78519-fc960784-4d2a12cf-bba02fcd.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "ED[oI%9u+u", 
@@ -3312,8 +3101,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-29a180c7-251faf11-8d3b2ab9-0a732fc2-97c9ae14.mp3]", 
-                                "[sound:google-c223aa11-336d6262-b292cf5f-72a61fdc-74a8c7cf.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "PGmBGzgs!^", 
@@ -3323,7 +3112,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -3345,8 +3134,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-e986f009-609de371-19fdb322-26b41b74-957a5509.mp3]", 
-                                "[sound:google-f80e63fe-e749a9da-96d68a8a-807a08fd-d995f586.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "f6Ge7u4@_0", 
@@ -3356,7 +3145,7 @@
                                 "Gramática", 
                                 "Japones", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "ないとは限らない/ないとも限らない"
                             ]
                         }, 
@@ -3378,8 +3167,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-930e83ae-2a07477f-2edcd40c-535fba13-06e10267.mp3]", 
-                                "[sound:google-fa74205c-57e7f2c1-42ff9f40-171f907f-d78f4a3b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "w4p^;M&dU2", 
@@ -3389,7 +3178,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "なくして（は）"
                             ]
                         }, 
@@ -3411,8 +3200,8 @@
                                 "No puedo vivir sin ti.", 
                                 "", 
                                 "", 
-                                "[sound:google-11566fd0-976c4ad6-4a9c8b1c-3eff3d00-cf7fd1a7.mp3]", 
-                                "[sound:google-094692da-aa6a8563-657bdc30-08be1cb2-13d9ff41.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "tmyp|D<)sf", 
@@ -3422,7 +3211,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "なしに/なしに（は）/なしでは"
                             ]
                         }, 
@@ -3444,8 +3233,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-855ded6c-356337b8-2675ded7-c4ed2353-2818d500.mp3]", 
-                                "[sound:google-8e79f60c-2eae5234-9515e6d3-2fe38f22-3f3a1c3e.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "vB79d/A#ys", 
@@ -3455,7 +3244,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -3477,8 +3266,8 @@
                                 "Hay roles que sólo él puede asumir.", 
                                 "", 
                                 "", 
-                                "[sound:google-55d48eef-8abd7d09-e532ddb8-a5598718-d37cf764.mp3]", 
-                                "[sound:google-3b963f61-99448951-60edb96b-238d83d6-7b5953fc.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "by_Ms2!pRz", 
@@ -3488,7 +3277,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "jgram", 
                                 "ならでは/ならではの"
                             ]
@@ -3511,8 +3300,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-1e69847c-2e1d3bfa-68427c1d-90e84c67-91b43fb7.mp3]", 
-                                "[sound:google-b0987f0a-d9dcd7b0-c0283e6f-c091c23a-f1d1cf46.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "rQ}S;A^7eX", 
@@ -3544,8 +3333,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-0732a44d-d129d426-8ed1e749-6382a299-efb3cd2b.mp3]", 
-                                "[sound:google-fdec8c0d-3dbebcbc-48226abb-87d9d526-af860646.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "PH$8C{|$yo", 
@@ -3555,7 +3344,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "なり"
                             ]
                         }, 
@@ -3577,8 +3366,8 @@
                                 "Aun él quien ha venido practicando todo este tiempo durante los últimos cinco años tiene un adversario al que no puede vencer.", 
                                 "", 
                                 "", 
-                                "[sound:google-d9a62754-2ab1f625-1bd2cafd-c3c80a61-e61549ca.mp3]", 
-                                "[sound:google-6ff80b5c-3df39125-3582238b-7ef06d6b-46c3f45b.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "DHD*GOt/Lk", 
@@ -3588,7 +3377,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -3610,8 +3399,8 @@
                                 "", 
                                 "", 
                                 "", 
-                                "[sound:google-45b62303-ca8f8dd8-2fef79dc-208da7e8-8c0aa7a1.mp3]", 
-                                "[sound:google-f5909fd3-9b3185c4-64a5e720-e517c15a-fbfd64cf.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "sQ-`z7IzU-", 
@@ -3621,7 +3410,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "に至っては"
                             ]
                         }, 
@@ -3643,8 +3432,8 @@
                                 "Mis piernas estaban tan cansadas que parecía como si me fuese a caer en cualquier momento.", 
                                 "", 
                                 "", 
-                                "[sound:google-b1c2916d-fc873b19-bf1c38a1-9a5b8c6f-4d59b02a.mp3]", 
-                                "[sound:google-e4d674fd-be201fdb-4e01a675-902b0ec3-59f1ce7a.mp3]"
+                                "", 
+                                ""
                             ], 
                             "flags": 0, 
                             "guid": "KU+MA4V#=v", 
@@ -3654,7 +3443,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "んばかり/ぬばかり"
                             ]
                         }
@@ -3663,13 +3452,14 @@
                 {
                     "__type__": "Deck", 
                     "children": [], 
-                    "crowdanki_uuid": "f762f763-8ec9-11e8-9736-9cb6d00ae587", 
-                    "deck_config_uuid": "f762f61d-8ec9-11e8-9736-9cb6d00ae587", 
+                    "crowdanki_uuid": "9cf4e5ea-86ab-11e8-8aba-00241d725194", 
+                    "deck_config_uuid": "719b4525-861d-11e8-b22c-9cb6d00ae587", 
                     "desc": "", 
                     "dyn": 0, 
-                    "extendNew": 10, 
+                    "extendNew": 2, 
                     "extendRev": 50, 
                     "media_files": [], 
+                    "mid": "1512049857666", 
                     "name": "Oraciones", 
                     "notes": [
                         {
@@ -4248,8 +4038,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "みたまでだ"
                             ]
                         }, 
@@ -4269,8 +4059,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "までだ"
                             ]
                         }, 
@@ -4290,8 +4080,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "までだ"
                             ]
                         }, 
@@ -4311,8 +4101,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "それまでだ/これまでだ"
                             ]
                         }, 
@@ -6816,8 +6606,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ひとつ"
                             ]
                         }, 
@@ -6837,8 +6627,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ひとつ"
                             ]
                         }, 
@@ -6858,8 +6648,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ひとつ"
                             ]
                         }, 
@@ -6879,8 +6669,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ひとつ"
                             ]
                         }, 
@@ -6900,8 +6690,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ひとつ"
                             ]
                         }, 
@@ -7550,8 +7340,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "jgram", 
                                 "（の）いかんで（は）/（の）いかんによって（は）"
                             ]
@@ -8455,8 +8245,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "限りだ/限りです"
                             ]
                         }, 
@@ -8476,8 +8266,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "限りだ/限りです"
                             ]
                         }, 
@@ -8497,8 +8287,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "限りだ/限りです"
                             ]
                         }, 
@@ -8518,8 +8308,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Oración", 
-                                "andresangelini"
+                                "Niponismo", 
+                                "Oración"
                             ]
                         }, 
                         {
@@ -8538,8 +8328,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "限りだ/限りです"
                             ]
                         }, 
@@ -8828,8 +8618,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "からある/からする/からの"
                             ]
                         }, 
@@ -8849,8 +8639,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "からある/からする/からの"
                             ]
                         }, 
@@ -8870,8 +8660,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "からある/からする/からの"
                             ]
                         }, 
@@ -8891,8 +8681,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "かれ～かれ"
                             ]
                         }, 
@@ -8912,8 +8702,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "かれ～かれ"
                             ]
                         }, 
@@ -9164,8 +8954,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "嫌いがある"
                             ]
                         }, 
@@ -9185,8 +8975,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "嫌いがある"
                             ]
                         }, 
@@ -9227,8 +9017,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "嫌いがある"
                             ]
                         }, 
@@ -9248,8 +9038,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "嫌いがある"
                             ]
                         }, 
@@ -9395,8 +9185,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "極まる/極まりない"
                             ]
                         }, 
@@ -9458,8 +9248,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "極まる/極まりない"
                             ]
                         }, 
@@ -9479,8 +9269,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "極まる/極まりない"
                             ]
                         }, 
@@ -9645,8 +9435,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことだし"
                             ]
                         }, 
@@ -9666,8 +9456,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことだし"
                             ]
                         }, 
@@ -9687,8 +9477,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことだし"
                             ]
                         }, 
@@ -9708,8 +9498,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことだし"
                             ]
                         }, 
@@ -9729,8 +9519,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことだし"
                             ]
                         }, 
@@ -9750,8 +9540,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことだし"
                             ]
                         }, 
@@ -9834,8 +9624,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Oración", 
-                                "andresangelini"
+                                "Niponismo", 
+                                "Oración"
                             ]
                         }, 
                         {
@@ -9978,8 +9768,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことのないよう（に）"
                             ]
                         }, 
@@ -9999,8 +9789,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことのないよう（に）"
                             ]
                         }, 
@@ -10020,8 +9810,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ことのないよう（に）"
                             ]
                         }, 
@@ -10041,8 +9831,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "こととて"
                             ]
                         }, 
@@ -10083,8 +9873,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "こととて"
                             ]
                         }, 
@@ -10288,8 +10078,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "（く/ぐ）らい（の/な）もの（だ/です）"
                             ]
                         }, 
@@ -10309,8 +10099,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "（く/ぐ）らい（の/な）もの（だ/です）"
                             ]
                         }, 
@@ -10330,8 +10120,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "（く/ぐ）らい（の/な）もの（だ/です）"
                             ]
                         }, 
@@ -10351,8 +10141,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "（く/ぐ）らい（の/な）もの（だ/です）"
                             ]
                         }, 
@@ -10714,8 +10504,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "まじき"
                             ]
                         }, 
@@ -11701,8 +11491,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ものと思われる"
                             ]
                         }, 
@@ -11722,8 +11512,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ものと思われる"
                             ]
                         }, 
@@ -11743,8 +11533,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ものと思われる"
                             ]
                         }, 
@@ -11764,8 +11554,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ものと思われる"
                             ]
                         }, 
@@ -11932,8 +11722,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ものとして"
                             ]
                         }, 
@@ -13209,8 +12999,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "まじき"
                             ]
                         }, 
@@ -13894,8 +13684,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないではおかない/ずにはおかない"
                             ]
                         }, 
@@ -13915,8 +13705,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないではおかない/ずにはおかない"
                             ]
                         }, 
@@ -13936,8 +13726,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないではおかない/ずにはおかない"
                             ]
                         }, 
@@ -13957,8 +13747,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないではおかない/ずにはおかない"
                             ]
                         }, 
@@ -13978,8 +13768,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないではおかない/ずにはおかない"
                             ]
                         }, 
@@ -13999,8 +13789,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ]
                         }, 
@@ -14020,8 +13810,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ]
                         }, 
@@ -14041,8 +13831,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ]
                         }, 
@@ -14062,8 +13852,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ]
                         }, 
@@ -14083,8 +13873,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ]
                         }, 
@@ -14272,8 +14062,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "てまで（も）"
                             ]
                         }, 
@@ -14293,8 +14083,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "てまで（も）"
                             ]
                         }, 
@@ -14314,8 +14104,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "てまで（も）"
                             ]
                         }, 
@@ -14335,8 +14125,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "てまで（も）"
                             ]
                         }, 
@@ -14356,8 +14146,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "てまで（も）"
                             ]
                         }, 
@@ -14377,8 +14167,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -14398,8 +14188,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -14419,8 +14209,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -14440,8 +14230,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -14461,8 +14251,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -14482,8 +14272,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないもの（だろう）か"
                             ]
                         }, 
@@ -14503,8 +14293,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14524,8 +14314,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14545,8 +14335,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14566,8 +14356,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14587,8 +14377,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14608,8 +14398,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14629,8 +14419,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -14692,8 +14482,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ないとは限らない/ないとも限らない"
                             ]
                         }, 
@@ -14713,8 +14503,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なくして（は）", 
                                 "なしに/なしに（は）/なしでは"
                             ]
@@ -14929,7 +14719,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -14950,7 +14740,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -14971,7 +14761,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -14992,7 +14782,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "andresangelini", 
+                                "Niponismo", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -15138,8 +14928,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "ならでは/ならではの"
                             ]
                         }, 
@@ -15222,8 +15012,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15243,8 +15033,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15264,8 +15054,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15285,8 +15075,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15306,8 +15096,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15327,8 +15117,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15348,8 +15138,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15369,8 +15159,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15390,8 +15180,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15411,8 +15201,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15432,8 +15222,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "なり"
                             ]
                         }, 
@@ -15453,8 +15243,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15474,8 +15264,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15495,8 +15285,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15516,8 +15306,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15537,8 +15327,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15558,8 +15348,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15579,8 +15369,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15600,8 +15390,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ]
                         }, 
@@ -15621,8 +15411,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "に至っては"
                             ]
                         }, 
@@ -15642,8 +15432,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "に至っては"
                             ]
                         }, 
@@ -15663,8 +15453,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "に至っては"
                             ]
                         }, 
@@ -15684,8 +15474,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "andresangelini", 
                                 "に至っては"
                             ]
                         }, 
@@ -15923,8 +15713,8 @@
                     ]
                 }
             ], 
-            "crowdanki_uuid": "f762f620-8ec9-11e8-9736-9cb6d00ae587", 
-            "deck_config_uuid": "f762f61d-8ec9-11e8-9736-9cb6d00ae587", 
+            "crowdanki_uuid": "9cf4e4a7-86ab-11e8-8aba-00241d725194", 
+            "deck_config_uuid": "719b4525-861d-11e8-b22c-9cb6d00ae587", 
             "desc": "", 
             "dyn": 0, 
             "extendNew": 10, 
@@ -15934,22 +15724,22 @@
             "notes": []
         }
     ], 
-    "crowdanki_uuid": "f762f61c-8ec9-11e8-9736-9cb6d00ae587", 
-    "deck_config_uuid": "f762f61d-8ec9-11e8-9736-9cb6d00ae587", 
+    "crowdanki_uuid": "9cae1bd2-86ab-11e8-8aba-00241d725194", 
+    "deck_config_uuid": "719b4521-861d-11e8-b22c-9cb6d00ae587", 
     "deck_configurations": [
         {
             "__type__": "DeckConfig", 
             "autoplay": true, 
-            "crowdanki_uuid": "f762f61d-8ec9-11e8-9736-9cb6d00ae587", 
+            "crowdanki_uuid": "719b4525-861d-11e8-b22c-9cb6d00ae587", 
             "dyn": false, 
             "lapse": {
                 "delays": [
                     10
                 ], 
-                "leechAction": 0, 
+                "leechAction": 1, 
                 "leechFails": 8, 
                 "minInt": 1, 
-                "mult": 0
+                "mult": 0.0
             }, 
             "maxTaken": 60, 
             "name": "Default", 
@@ -15966,7 +15756,7 @@
                     7
                 ], 
                 "order": 1, 
-                "perDay": 20, 
+                "perDay": 25, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -15974,19 +15764,64 @@
                 "bury": true, 
                 "ease4": 1.3, 
                 "fuzz": 0.05, 
-                "ivlFct": 1, 
+                "ivlFct": 1.0, 
                 "maxIvl": 36500, 
                 "minSpace": 1, 
-                "perDay": 100
+                "perDay": 25
+            }, 
+            "timer": 0
+        }, 
+        {
+            "__type__": "DeckConfig", 
+            "autoplay": true, 
+            "crowdanki_uuid": "719b4521-861d-11e8-b22c-9cb6d00ae587", 
+            "dyn": false, 
+            "lapse": {
+                "delays": [
+                    10
+                ], 
+                "leechAction": 0, 
+                "leechFails": 8, 
+                "minInt": 1, 
+                "mult": 0.0
+            }, 
+            "maxTaken": 60, 
+            "name": "Japonés", 
+            "new": {
+                "bury": true, 
+                "delays": [
+                    1, 
+                    10
+                ], 
+                "initialFactor": 2500, 
+                "ints": [
+                    1, 
+                    4, 
+                    7
+                ], 
+                "order": 1, 
+                "perDay": 25, 
+                "separate": true
+            }, 
+            "replayq": true, 
+            "rev": {
+                "bury": true, 
+                "ease4": 1.3, 
+                "fuzz": 0.05, 
+                "ivlFct": 1.0, 
+                "maxIvl": 36500, 
+                "minSpace": 1, 
+                "perDay": 50
             }, 
             "timer": 0
         }
     ], 
     "desc": "", 
     "dyn": 0, 
-    "extendNew": 10, 
+    "extendNew": 0, 
     "extendRev": 50, 
     "media_files": [], 
+    "mid": "1519824005325", 
     "name": "Niponismo", 
     "note_models": [
         {
