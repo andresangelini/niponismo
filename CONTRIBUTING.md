@@ -9,6 +9,7 @@ La siguiente es una guía sobre como contribuir de forma que todos estemos coord
 - [¿Qué contribuir y qué no contribuir?](#qué-contribuir-y-qué-no-contribuir)
 - [Reglas básicas](#reglas-básicas)
 - [Tu primera contribución](#tu-primera-contribución)
+- [Dependencias](#dependencias)
 - [Nomenclatura de branches](#nomenclatura-de-branches)
 - [Guía de inicio](#guía-de-inicio)
 - [Cómo reportar un error](#cómo-reportar-un-error)
@@ -52,7 +53,7 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 - Lee sobre [cómo contribuir a un proyecto de Código Abierto](#cómo-contribuir-a-un-proyecto-de-código-abierto).
 - [Aprende Git en 15 minutos]
 
-## dependencias
+## Dependencias
 
 - [CrowdAnki] - Necesario para registrar los cambios en los mazos con git.
 
