@@ -148,7 +148,7 @@ Si crees que me he olvidado de alguien, por favor, no dudes en [hacermelo saber]
 [Anki]: https://apps.ankiweb.net/
 [manual de Anki]: https://apps.ankiweb.net/docs/manual.es.html
 [SRE]: https://apps.ankiweb.net/docs/manual.es.html#repetici%C3%B3n-espaciada
-[mazos compartidos]: https://ankiweb.net/shared/info/
+[mazos compartidos]: https://ankiweb.net/shared/info/1221922925
 [exportar]: https://apps.ankiweb.net/docs/manual.es.html#exportar
 [CrowdAnki]: https://ankiweb.net/shared/info/1788670778
 [Kanji Koohii]: https://kanji.koohii.com/
