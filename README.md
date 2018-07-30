@@ -14,7 +14,6 @@ Colección de mazos [Anki] para el estudio del idoma nipón.
   - [Dependencias](#dependencias)
   - [Tipos de nota](#tipos-de-nota)
   - [Campos](#campos)
-  - [Audio](#audio)
   - [Etiquetas](#etiquetas)
 - [Bibliografía](#bibliografía)
 - [Otras fuentes](#otras-fuentes)
@@ -22,7 +21,7 @@ Colección de mazos [Anki] para el estudio del idoma nipón.
 
 ## Sobre el proyecto
 
-**Niponismo** es una colección de mazos [Anki] para asistir en el estudio de las diferentes áreas del japonés empleando el [Sistema de Repetición Espaciada][SRE] sin usar ningún otro idioma de intermediario.
+**Niponismo** es una colección de mazos [Anki] para asistir en el estudio de las diferentes áreas del japonés empleando el [Sistema de Repetición Espaciada][SRE].
 
 ## Descarga
 
