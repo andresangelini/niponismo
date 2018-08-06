@@ -3446,6 +3446,39 @@
                                 "Niponismo", 
                                 "んばかり/ぬばかり"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なり～なり", 
+                                "なり～なり", 
+                                "なり～なり", 
+                                "como por ejemplo... o...", 
+                                "Verbo en forma diccionario + forma gramatical + Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical + sustantivo + forma gramatical.</div>", 
+                                "Expresa que tanto una cosa o como la otra son válidas y se usa para dar dos opciones ya que su significado es AでもBでも 良[い]い.", 
+                                "彼[かれ]が 来[こ]なかったら、 電話[でんわ]＿＿＿メール＿＿＿で 連絡[れんらく]したらどうですか。", 
+                                "Si él no viene, ¿por qué no lo contactas por teléfono o por e-mail?", 
+                                "&nbsp;分[わ]からなかったら 先生[せんせい]を 聞[き]く＿＿＿、 辞書[じしょ]で 調[しら]べる＿＿＿よかったのに。", 
+                                "Si no entendías podías haberle preguntado al profesor o buscarlo en el diccionario.", 
+                                "旅行[りょこう]はつまらなくなれば、 本[ほん]を 読[よ]む＿＿＿ 何[なん]なりで 過[す]ごせます。", 
+                                "Si el viaje se pone aburrido siempre puedo leer un libro o pasar el tiempo de alguna otra forma.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "D#$V]KuO!s", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "なり～なり"
+                            ]
                         }
                     ]
                 }, 
@@ -6171,7 +6204,7 @@
                             "fields": [
                                 "立て板に水＿＿＿プレゼンテーション、おそれ入りました。", 
                                 "Su presentación fue tan buena y fluída. ¿Qué más podría decir?", 
-                                "立て板に水[たていたにみず]<font color=\"#0000ff\">の&nbsp;</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">如[ごと]き</font></span>プレゼンテーション、おそれ 入[はい]りました。", 
+                                "立て板に水[たていたにみず]<font color=\"#0000ff\">の 如[ごと]</font><font color=\"#0000ff\">き</font>プレゼンテーション、おそれ 入[はい]りました。", 
                                 "の如き"
                             ], 
                             "flags": 0, 
@@ -15709,6 +15742,111 @@
                                 "tatoeba", 
                                 "んばかり/ぬばかり"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "困ったことがあるとき、私＿＿＿他に先生＿＿＿に相談してください。", 
+                                "Cuando tengan algún problema no duden en preguntarme a mi o a cualquier otro profesor.", 
+                                "困[こま]ったことがあるとき、 私[わたし]<font color=\"#0000ff\">なり</font> 他[た]に 先生[せんせい]<font color=\"#0000ff\">なり</font>に 相談[そうだん]してください。", 
+                                "なり～なり"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lI(45D0ca.", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なり～なり"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "風を引いたら、薬を飲む＿＿＿医者に行く＿＿＿した方がいい。", 
+                                "Si agarras un resfrío es mejor que tomes un remedio o vayas al médico.", 
+                                "風[かぜ]を 引[ひ]いたら、 薬[くすり]を 飲[の]む<font color=\"#0000ff\">なり</font> 医者[いしゃ]に 行[い]く<font color=\"#0000ff\">なり</font>した 方[ほう]がいい。", 
+                                "なり～なり"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fTgOR(Vo)s", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なり～なり"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "会議に行かなければ、電話＿＿＿何＿＿＿で連絡してください。", 
+                                "Si no puede venir, por favor contáctenos por teléfono o de cualquier otra forma.", 
+                                "会議[かいぎ]に 行[い]かなければ、 電話[でんわ]<font color=\"#0000ff\">なり</font> 何[なに]<font color=\"#0000ff\">なり</font>で 連絡[れんらく]してください。", 
+                                "なり～なり"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uMfsa^eYVP", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なり～なり"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "仕事ばかりしていないで、たまには休憩を取って自分の子供と遊ぶ＿＿＿、犬を散歩する＿＿＿して、気分転換をやってみて。", 
+                                "No sólo trabajes y trata de tomar un descanso de vez en cuando jugando con tus hijo o paseando al perro.", 
+                                "仕事[しごと]ばかりしていないで、たまには 休憩[きゅうけい]を 取[と]って 自分[じぶん]の 子供[こども]と 遊[あそ]ぶ<font color=\"#0000ff\">なり</font>、 犬[いぬ]を 散歩[さんぽ]する<font color=\"#0000ff\">なり</font>して、 気分[きぶん] 転換[てんかん]をやってみて。", 
+                                "なり～なり"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p;x,$4x=Qz", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なり～なり"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お腹が空いたら、にぎり＿＿＿バナナ＿＿＿食べたらどう。", 
+                                "Si tienes hambre, ¿por qué no comes un nigiri o una banana?", 
+                                "お 腹[なか]が 空[あ]いたら、にぎり<font color=\"#0000ff\">なり</font>バナナ<font color=\"#0000ff\">なり</font> 食[た]べたらどう。", 
+                                "なり～なり"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yjc_+Y#2o8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なり～なり"
+                            ]
                         }
                     ]
                 }
@@ -15725,7 +15863,7 @@
         }
     ], 
     "crowdanki_uuid": "9cae1bd2-86ab-11e8-8aba-00241d725194", 
-    "deck_config_uuid": "719b4521-861d-11e8-b22c-9cb6d00ae587", 
+    "deck_config_uuid": "719b4525-861d-11e8-b22c-9cb6d00ae587", 
     "deck_configurations": [
         {
             "__type__": "DeckConfig", 
@@ -15734,29 +15872,33 @@
             "dyn": false, 
             "lapse": {
                 "delays": [
-                    10
+                    5, 
+                    75, 
+                    360
                 ], 
                 "leechAction": 1, 
                 "leechFails": 8, 
                 "minInt": 1, 
-                "mult": 0.0
+                "mult": 0.15
             }, 
             "maxTaken": 60, 
-            "name": "Default", 
+            "name": "jonkenpon", 
             "new": {
                 "bury": true, 
                 "delays": [
                     1, 
-                    10
+                    10, 
+                    60, 
+                    360
                 ], 
-                "initialFactor": 2500, 
+                "initialFactor": 1800, 
                 "ints": [
                     1, 
                     4, 
                     7
                 ], 
                 "order": 1, 
-                "perDay": 25, 
+                "perDay": 10, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -15768,50 +15910,6 @@
                 "maxIvl": 36500, 
                 "minSpace": 1, 
                 "perDay": 25
-            }, 
-            "timer": 0
-        }, 
-        {
-            "__type__": "DeckConfig", 
-            "autoplay": true, 
-            "crowdanki_uuid": "719b4521-861d-11e8-b22c-9cb6d00ae587", 
-            "dyn": false, 
-            "lapse": {
-                "delays": [
-                    10
-                ], 
-                "leechAction": 0, 
-                "leechFails": 8, 
-                "minInt": 1, 
-                "mult": 0.0
-            }, 
-            "maxTaken": 60, 
-            "name": "Japonés", 
-            "new": {
-                "bury": true, 
-                "delays": [
-                    1, 
-                    10
-                ], 
-                "initialFactor": 2500, 
-                "ints": [
-                    1, 
-                    4, 
-                    7
-                ], 
-                "order": 1, 
-                "perDay": 25, 
-                "separate": true
-            }, 
-            "replayq": true, 
-            "rev": {
-                "bury": true, 
-                "ease4": 1.3, 
-                "fuzz": 0.05, 
-                "ivlFct": 1.0, 
-                "maxIvl": 36500, 
-                "minSpace": 1, 
-                "perDay": 50
             }, 
             "timer": 0
         }
@@ -15883,9 +15981,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "んばかり/ぬばかり"
+                "なり～なり"
             ], 
             "tmpls": [
                 {
@@ -16088,8 +16186,7 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "andresangelini", 
-                "んばかり/ぬばかり"
+                "Niponismo"
             ], 
             "tmpls": [
                 {
