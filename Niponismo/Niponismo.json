@@ -3513,6 +3513,39 @@
                                 "tatoeba", 
                                 "なりに/なりの"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なりとも", 
+                                "なりとも", 
+                                "なりとも", 
+                                "al menos / por lo menos", 
+                                "Sustantivo + forma gramatical.", 
+                                "Equivale a でも y se usa junto a un sustantivo que indique cantidad como 少し, わずか o 多少 para dar un ejemplo de algo mínimo como cuando decimos \"al menos\" o \"por lo menos\" en español. Se debe tener cuidado de no confundir su significado si se usa junto a una palabra interrogativa como 何, どこ o いつ.", 
+                                "課長[かちょう]に 一目[いちめ]＿＿＿ 会[あ]わせて 頂[いた]けないでしょうか。", 
+                                "¿Podría ver al jefe de sección un momento, por favor?", 
+                                "彼の苦しみは少し＿＿＿分かると思う。", 
+                                "Creo entender al menos un poco su dolor.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "l`}R#Uo;Db", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "なりとも"
+                            ]
                         }
                     ]
                 }, 
@@ -16049,6 +16082,132 @@
                                 "Oración", 
                                 "なりに/なりの"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "サッカーが好きだと言えないけど、多少＿＿＿知っています。", 
+                                "Yo no diría que me gusta el fútbol pero por lo menos sé un poco.", 
+                                "サッカーが 好[す]きだと 言[い]えないけど、 多少[たしょう]<font color=\"#0000ff\">なりとも</font> 知[し]っています。", 
+                                "なりとも"
+                            ], 
+                            "flags": 0, 
+                            "guid": "z1P#J%H]Wp", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "田中さん、少し＿＿＿面接頂いてもいいでしょう。", 
+                                "Tanaka, ¿podría entrevistarlo por al menos un monento?", 
+                                "田中[たなか]さん、 少[すこ]し<font color=\"#0000ff\">なりとも</font> 面接[めんせつ] 頂[いただ]いてもいいでしょう。", 
+                                "なりとも"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ms*mP+zBF]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その日が起こったことは多少＿＿＿覚えています。", 
+                                "Me acuerdo al menos un poco de lo que ocurrió ese día.", 
+                                "その 日[ひ]が 起[お]こったことは 多少[たしょう]<font color=\"#0000ff\">なりとも</font> 覚[おぼ]えています。", 
+                                "なりとも"
+                            ], 
+                            "flags": 0, 
+                            "guid": "gv=:0a:@(Y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "久しぶりに彼女はわずか＿＿＿笑っていました。", 
+                                "Ella se rió al menos un poco después mucho tiempo.", 
+                                "久[ひさ]しぶりに 彼女[かのじょ]はわずか<font color=\"#0000ff\">なりとも</font> 笑[わら]っていました。", 
+                                "なりとも"
+                            ], 
+                            "flags": 0, 
+                            "guid": "i@|Vb.:~q9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "コーヒーに少し＿＿＿砂糖を入れてください。", 
+                                "Agréguele por lo menos un poco de azúcar al café, por favor.", 
+                                "コーヒーに 少[すこ]し<font color=\"#0000ff\">なりとも</font> 砂糖[さとう]を 入[い]れてください。", 
+                                "なりとも"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pC_/aY5fy^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そのドラマを多少＿＿＿見たことがありますか。", 
+                                "¿Haz visto al menos un poco de esa serie?", 
+                                "そのドラマを 多少[たしょう]<font color=\"#0000ff\">なりとも</font> 見[み]たことがありますか。", 
+                                "なりとも"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oR|.UP9~Ai", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりとも"
+                            ]
                         }
                     ]
                 }
@@ -16185,7 +16344,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "なりに/なりの"
+                "なりとも"
             ], 
             "tmpls": [
                 {
@@ -16388,7 +16547,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "なりに/なりの"
+                "Niponismo", 
+                "なりとも"
             ], 
             "tmpls": [
                 {
