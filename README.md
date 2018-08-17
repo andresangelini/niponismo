@@ -2,7 +2,7 @@
 [![Apoya en Patreon](https://img.shields.io/badge/apoya%20en-patreon-orange.svg)][Patreon]
 [![Join the chat at https://gitter.im/niponismo/Lobby](https://badges.gitter.im/niponismo/Lobby.svg)](https://gitter.im/niponismo/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Colección de mazos [Anki] para el estudio del idoma nipón.
+Colección de mazos [Anki] para el estudio del idioma nipón.
 
 ## Índice
 - [Sobre el proyecto](#sobre-el-proyecto)
