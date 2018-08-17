@@ -10,6 +10,7 @@ La siguiente es una guía sobre como contribuir de forma que todos estemos coord
 - [Reglas básicas](#reglas-básicas)
 - [Tu primera contribución](#tu-primera-contribución)
 - [Dependencias](#dependencias)
+- [Sistema de versionado](#sistema-de-versionado)
 - [Nomenclatura de branches](#nomenclatura-de-branches)
 - [Guía de inicio](#guía-de-inicio)
 - [Cómo reportar un error](#cómo-reportar-un-error)
@@ -56,6 +57,14 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 ## Dependencias
 
 - [CrowdAnki] - Necesario para registrar los cambios en los mazos con git.
+
+## Sistema de versionado
+
+Niponismo usa una variación del [versionado semántico] con el cual se denota una versión de la forma `x.y.z` donde:
+
+- `x` se incrementa cuando se cumple una [milestone](/releases) o se produce un **cambio mayor** que **provoca una incompatibilidad** causando **que el usuario pierda su progreso**.
+- `y` se incrementa cuando se hace un **cambio menor** como agregar o borrar tarjetas **sin que esto provoque incompatibilidades** que le hagan **perder su progreso al usuario**.
+- `z` se incrementa cuando se hacen **correcciones** que **no provoquen incompatibilidades** que le hagan **perder su progreso al usuario**.
 
 ## Nomenclatura de branches
 
@@ -124,6 +133,7 @@ Nuestra forma principal de contacto es través [Gitter]. Puedes hablar, por ejem
 [manual de Anki]: https://apps.ankiweb.net/docs/manual.es.html
 [Aprende Git en 15 minutos]: https://try.github.io/levels/1/challenges/1
 [CrowdAnki]: https://ankiweb.net/shared/info/1788670778
+[versionado semántico]: https://semver.org/lang/es/
 [Github]: https://github.com/
 [Creative Commons]: https://creativecommons.org/
 [Gitter]: https://gitter.im/niponismo
