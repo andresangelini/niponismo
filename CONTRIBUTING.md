@@ -62,7 +62,7 @@ En general, no se admite ningún material que vaya en contra de nuestros [Códig
 
 Niponismo usa una variación del [versionado semántico] con el cual se denota una versión de la forma `x.y.z` donde:
 
-- `x` se incrementa cuando se cumple una [milestone](../../../milestones) o se produce un **cambio mayor** que **provoca una incompatibilidad** causando **que el usuario pierda su progreso**.
+- `x` se incrementa cuando se cumple una [milestone](../../milestones) o se produce un **cambio mayor** que **provoca una incompatibilidad** causando **que el usuario pierda su progreso**.
 - `y` se incrementa cuando se hace un **cambio menor** como agregar o borrar tarjetas **sin que esto provoque incompatibilidades** que le hagan **perder su progreso al usuario**.
 - `z` se incrementa cuando se hacen **correcciones** que **no provoquen incompatibilidades** que le hagan **perder su progreso al usuario**.
 
