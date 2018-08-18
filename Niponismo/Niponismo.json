@@ -169,11 +169,7 @@
                             "guid": "lhFf6I=W3?", 
                             "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "あっての"
+                                "s"
                             ]
                         }, 
                         {
@@ -3537,6 +3533,39 @@
                             ], 
                             "flags": 0, 
                             "guid": "l`}R#Uo;Db", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なりと", 
+                                "なりと", 
+                                "なりと", 
+                                "sea", 
+                                "Palabra interrogativa + forma gramatical.", 
+                                "Expresión usada junto a palabras interrogativas como &nbsp;何[なん], どこ o いつ para indicar que no importa \"qué\", \"dónde\" o \"cuándo\" al igual que でも. Se usa más que nada en el lenjuage respetuoso o 敬語, especialmente en el mundo de los negocios como cuando se escribe un correo electrónico para ofrecer ayuda. También se puede usar de la misma forma que など para elegir una opción de entre varias.", 
+                                "緊急事態[きんきゅうじたい]です。 誰[だれ]＿＿＿ 呼[よ]んでくれませんか。", 
+                                "¡Esto es una emergencia! ¿Pordía llamar a alguien (quienquiera que sea)?", 
+                                "何[なん]＿＿＿お 申[もう]しつけ 下[くだ]さい。", 
+                                "Por favor, no dude en contactarnos por lo que sea.", 
+                                "私達と付き合う＿＿＿帰る＿＿＿好きにしよう。", 
+                                "Ven con nosotros o vuelve a tu casa. Haz lo que quieras.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "M:E5Rr]S+$", 
                             "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Definición", 
@@ -16108,9 +16137,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "田中さん、少し＿＿＿面接頂いてもいいでしょう。", 
+                                "田中さん、少し＿＿＿面接頂いてもいいでしょうか。", 
                                 "Tanaka, ¿podría entrevistarlo por al menos un monento?", 
-                                "田中[たなか]さん、 少[すこ]し<font color=\"#0000ff\">なりとも</font> 面接[めんせつ] 頂[いただ]いてもいいでしょう。", 
+                                "田中[たなか]さん、 少[すこ]し<font color=\"#0000ff\">なりとも</font> 面接[めんせつ] 頂[いただ]いてもいいでしょうか。", 
                                 "なりとも"
                             ], 
                             "flags": 0, 
@@ -16207,6 +16236,216 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "困ったら時誰＿＿＿助けてくれないかな。", 
+                                "¿Habrá alguien al menos que me ayude cuando tenga un problema?", 
+                                "困[こま]ったら 時[とき] 誰[だれ]<font color=\"#0000ff\">なりと</font> 助[たす]けてくれないかな。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "y-;xFlNzb1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "いつか＿＿＿お申し付け下さい。", 
+                                "Contáctenos cuando sea, por favor.", 
+                                "いつか<font color=\"#0000ff\">なりと</font>お 申し付[もうしつ]け 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A}E%@Oh0%J", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この件については分からない点がございましたら、何＿＿＿お申し付けください。", 
+                                "Si hay algun punto sobre este tema que no entienda, por favor no dude en hacermelo saber cualquiera fuese éste.", 
+                                "この 件[けん]については 分[わ]からない 点[てん]がございましたら、 何[なに]<font color=\"#0000ff\">なりと</font>お 申し付[もうしつ]けください。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cp$l1Gy0c,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "出来ることがございましたら、何＿＿＿お申し付け下さい。", 
+                                "Si hay algo que pudiesemos hacer por usted, por favor háganoslo saber sea lo que sea.", 
+                                "出来[でき]ることがございましたら、 何[なに]<font color=\"#0000ff\">なりと</font>お 申し付[もうしつ]け 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "E.?dh2-Hcg", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この商品に関するご不満足がございましたら、何＿＿＿お聞かせ下さい。", 
+                                "Por favor, háganos saber si tiene alguna queja con respecto a este producto.", 
+                                "この 商品[しょうひん]に 関[かん]するご 不[ふ] 満足[まんぞく]がございましたら、 何[なに]<font color=\"#0000ff\">なりと</font>お 聞[き]かせ 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n{l([75aKr", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "商品の使い方が分からない際是非何＿＿＿ご連絡下さい。", 
+                                "Por favor no dude en contactarnos si no entiende cómo usar el producto o por cualquier otra cosa.", 
+                                "商品[しょうひん]の 使い方[つかいかた]が 分[わ]からない 際[さい] 是非[ぜひ] 何[なに]<font color=\"#0000ff\">なりと</font>ご 連絡[れんらく] 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bX])aXf,nv", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "間違いがございましたら何＿＿＿ご指摘ください。", 
+                                "Por favor no dude en señalarnos si hubiese un error o lo que fuese.", 
+                                "間違[まちが]いがございましたら 何[なに]<font color=\"#0000ff\">なりと</font>ご 指摘[してき]ください。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p0;@3C:K2{", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あなたの為にどこ＿＿＿行きます。", 
+                                "Por ti voy a donde sea.", 
+                                "あなたの 為[ため]にどこ<font color=\"#0000ff\">なりと</font> 行[い]きます。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l|{42.AUos", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この質問が誰＿＿＿答えられませんか。", 
+                                "¿Hay alguien que pueda responder esta pregunta?", 
+                                "この 質問[しつもん]が 誰[だれ]<font color=\"#0000ff\">なりと</font> 答[こた]えられませんか。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iHL!A]~]xK", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "９時、１０時、１４時いつ＿＿＿ご連絡下さい。", 
+                                "Contáctenos a las 9, 10, 14 o a la hora que sea.", 
+                                "９ 時[じ]、１０ 時[じ]、１４ 時[じ]いつ<font color=\"#0000ff\">なりと</font>ご 連絡[れんらく] 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vu84%9>u%&", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
                             ]
                         }
                     ]
@@ -16344,7 +16583,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "なりとも"
+                "なりと"
             ], 
             "tmpls": [
                 {
@@ -16547,8 +16786,7 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "なりとも"
+                "なりと"
             ], 
             "tmpls": [
                 {
