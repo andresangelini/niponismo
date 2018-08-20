@@ -169,7 +169,12 @@
                             "guid": "lhFf6I=W3?", 
                             "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "s"
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "あっての"
                             ]
                         }, 
                         {
@@ -3574,6 +3579,39 @@
                                 "N1", 
                                 "Niponismo", 
                                 "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なるべく", 
+                                "なるべく", 
+                                "なるべく", 
+                                "lo más (menos) posible", 
+                                "Forma gramatical + acción.", 
+                                "Expresión usada para indicar que una acción se debe hacer o evitar tanto como sea posible. En el lenguaje cotideano equivale a できるだけ, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical se enfonca en lograr el cometido.", 
+                                "なるべく　早[はや]く 診察[しんさつ]を 受[う]けたいのですが。", 
+                                "Me gustaría hacerme un examen médico lo más pronto posible.", 
+                                "われわれはなるべくたくさん 本[ほん]を 読[よ]むべきである。", 
+                                "Nosotros debemos leer tantos libros como sea posible.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "ewW$T2+|.G", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "なるべく"
                             ]
                         }
                     ]
@@ -16447,6 +16485,258 @@
                                 "Oración", 
                                 "なりと"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿ゆっくり話してもらえますか。", 
+                                "¿Podría hablar lo más lento posible?", 
+                                "<font color=\"#0000ff\">なるべ</font>くゆっくり 話[はな]してもらえますか。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mcC1sOV`n$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なるべく早くご返事いただければ幸いです。", 
+                                "Agradecería que me respondiera tan pronto como le sea posible.", 
+                                "<font color=\"#0000ff\">なるべく</font> 早[はや]くご 返事[へんじ]いただければ 幸[さいわ]いです。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "LLl7?w<8uZ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大至急お願い、なるべく早くお願いします。", 
+                                "Lo necesito tan pronto como sea posible.", 
+                                "大[だい] 至急[しきゅう]お 願[ねが]い、<font color=\"#0000ff\">なるべく</font> 早[はや]くお 願[ねが]いします。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C2xsO]IA1w", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>＿＿＿安いほうがいいです。</div>", 
+                                "Quiero el más barato posible.", 
+                                "<font color=\"#0000ff\">なるべく</font> 安[やす]いほうがいいです。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "e4QeduhhxV", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "コートを探してます。背が低いので、丈は短めで、＿＿＿すっきりしたデザインのものを。", 
+                                "Estoy buscando un abrigo. Uno corto porque soy bajo y con el diseño más elegante posible.", 
+                                "コートを 探[さが]してます。 背[せ]が 低[ひく]いので、 丈[たけ]は 短[みじか]めで、<font color=\"#0000ff\">なるべく</font>すっきりしたデザインのものを。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nG$Nid*0e8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿姉ちゃんにも周りにも迷惑をかけずに、事態の早期解決をなんとか頼むぞ。", 
+                                "Quiero que resuelvas esta situación rápidamente y evitando causarle problema a mi hermana y a los que nos rodean lo más que puedas.", 
+                                "<font color=\"#0000ff\">なるべく</font> 姉[ねえ]ちゃんにも 周[まわ]りにも 迷惑[めいわく]をかけずに、 事態[じたい]の 早期[そうき] 解決[かいけつ]をなんとか 頼[たの]むぞ。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "BuA-b&q/(1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "偏頭痛がおこったときに対処するだけではなく、普段の生活のなかで、偏頭痛を＿＿＿防いでいくのも大事なことです。", 
+                                "Lo importante no es eliminar la migraña cuando ocurre sino prevenirla lo más que se pueda en nuestra vida diaria.", 
+                                "偏頭痛[へんずつう]がおこったときに 対処[たいしょ]するだけではなく、 普段[ふだん]の 生活[せいかつ]のなかで、 偏頭痛[へんずつう]を<font color=\"#0000ff\">なるべく</font> 防[ふせ]いでいくのも 大事[だいじ]なことです。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FmaW?n!G9k", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "特別扱いしますが、＿＿＿短めにしてくださいね。", 
+                                "Haré una excepción esta vez, pero hágala corta.", 
+                                "特別[とくべつ] 扱[あつか]いしますが、<font color=\"#0000ff\">なるべく</font> 短[みじか]めにしてくださいね。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ph/%#-5TZ]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "助手を求めています。＿＿＿ならば経験のある人を望む。", 
+                                "Buscamos un asistente, preferiblemente alguien con experiencia.", 
+                                "助手[じょしゅ]を 求[もと]めています。<font color=\"#0000ff\">なるべく</font>ならば 経験[けいけん]のある 人[ひと]を 望[のぞ]む。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zFQP(K^gYx", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿考えまいとは思っていたのだが、自覚をしてしまうと途端に侘しいような気持ちにもなってくる。", 
+                                "Intenté no pensar en ello lo más que pude pero en cuanto tomaba conciencia de ello me sentía miserable.", 
+                                "<font color=\"#0000ff\">なるべく</font> 考[かんが]えまいとは 思[おも]っていたのだが、 自覚[じかく]をしてしまうと 途端[とたん]に 侘[わび]しいような 気持[きも]ちにもなってくる。", 
+                                "なんるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g::P7AfzVk", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>漢字を書くときは点やはらいに気をつけて、＿＿＿早くていねいに書きましょう。</div>", 
+                                "Al escribir kanji debemos hacerlo lo más rápido posible teniendo mucho cuidado con los puntos y las terminaciones.", 
+                                "漢字[かんじ]を 書[か]くときは 点[てん]やはらいに 気[き]をつけて、<font color=\"#0000ff\">なるべく</font> 早[はや]くていねいに 書[か]きましょう。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fWvj5Zqld$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿早く、全額をご送金くださるようお願いします。", 
+                                "Le solicitamos que envíe el monto total lo más pronto posible, por favor.", 
+                                "<font color=\"#0000ff\">なるべく</font> 早[はや]く、 全額[ぜんがく]をご 送金[そうきん]くださるようお 願[ねが]いします。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "x.LWqt_Y<N", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
                         }
                     ]
                 }
@@ -16581,9 +16871,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "なりと"
+                "tatoeba", 
+                "なるべく"
             ], 
             "tmpls": [
                 {
@@ -16786,7 +17076,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "なりと"
+                "Niponismo", 
+                "なるべく"
             ], 
             "tmpls": [
                 {
