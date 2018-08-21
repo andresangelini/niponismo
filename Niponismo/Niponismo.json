@@ -3591,9 +3591,9 @@
                                 "lo más (menos) posible", 
                                 "Forma gramatical + acción.", 
                                 "Expresión usada para indicar que una acción se debe hacer o evitar tanto como sea posible. En el lenguaje cotideano equivale a できるだけ, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical se enfonca en lograr el cometido.", 
-                                "なるべく　早[はや]く 診察[しんさつ]を 受[う]けたいのですが。", 
+                                "＿＿＿ 早[はや]く 診察[しんさつ]を 受[う]けたいのですが。", 
                                 "Me gustaría hacerme un examen médico lo más pronto posible.", 
-                                "われわれはなるべくたくさん 本[ほん]を 読[よ]むべきである。", 
+                                "われわれは＿＿＿ たくさん 本[ほん]を 読[よ]むべきである。", 
                                 "Nosotros debemos leer tantos libros como sea posible.", 
                                 "", 
                                 "", 
@@ -16511,7 +16511,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "なるべく早くご返事いただければ幸いです。", 
+                                "＿＿＿早くご返事いただければ幸いです。", 
                                 "Agradecería que me respondiera tan pronto como le sea posible.", 
                                 "<font color=\"#0000ff\">なるべく</font> 早[はや]くご 返事[へんじ]いただければ 幸[さいわ]いです。", 
                                 "なるべく"
@@ -16532,7 +16532,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "大至急お願い、なるべく早くお願いします。", 
+                                "大至急お願い、＿＿＿早くお願いします。", 
                                 "Lo necesito tan pronto como sea posible.", 
                                 "大[だい] 至急[しきゅう]お 願[ねが]い、<font color=\"#0000ff\">なるべく</font> 早[はや]くお 願[ねが]いします。", 
                                 "なるべく"
