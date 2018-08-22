@@ -3613,6 +3613,39 @@
                                 "tatoeba", 
                                 "なるべく"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に値する", 
+                                "に 値[あたい]する", 
+                                "にあたいする", 
+                                "merecer / valer la pena", 
+                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Esta expresión significa \"merecer\" o \"valer la pena\" y ya sea que se use junto a un sustantivo o a un verbo siempre se debe usar con la partícula に delante. Como cualquier otro verbo, si \"vale la pena\" o \"no vale la pena\" depende de si su conjugación es positiva o negativa respectivamente.", 
+                                "良書[りょうしょ]はすべて 読[よ]むに 値[あたい]する。", 
+                                "Los buenos libros siempre merecen la pena leerlos.", 
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]に 値[あたい]しない。", 
+                                "Ellos no merecen el premio que les dieron.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "vF34Gpxf>U", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
                         }
                     ]
                 }, 
@@ -16737,6 +16770,342 @@
                                 "tatoeba", 
                                 "なるべく"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "勇者のみが尊敬＿＿＿。", 
+                                "Sólo el realmente valiente es merecedor de respeto.", 
+                                "勇者[ゆうしゃ]のみが 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nTEK^iF6#Y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>野心は抱く＿＿＿が、容易に達成され得ない。</div>", 
+                                "Aunque es bueno tener ambiciones, éstas no son fáciles de conseguir.", 
+                                "野心[やしん]は 抱[いだ]くに <font color=\"#0000ff\">値[あたい]する</font>が、 容易[ようい]に 達成[たっせい]され 得[え]ない。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kO)i2n-DQu", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "費用＿＿＿だけの価値を提供する。", 
+                                "Ellos ofrecen precios que valen la pena.", 
+                                "費用[ひよう]<font color=\"#0000ff\">に 値[あたい]する</font>だけの 価値[かち]を 提供[ていきょう]する。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Px@5@$,_ys", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼女の行為は尊敬＿＿＿。</div>", 
+                                "El comportamiento de ella es digno de admiración.", 
+                                "彼女[かのじょ]の 行為[こうい]は 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J1FLM}tOab", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女の勤勉はまったく賞賛＿＿＿。", 
+                                "Su diligencia es digna de un premio.", 
+                                "彼女[かのじょ]の 勤勉[きんべん]はまったく 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kN1tSV(32?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は我々の称賛＿＿＿。", 
+                                "Él se merece nuestro elogio.", 
+                                "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d9]tT]U`l~", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はヨーロッパ最高の政治家という名＿＿＿。", 
+                                "A él bien se lo podría llamar el más grande político de Europa.", 
+                                "彼[かれ]はヨーロッパ 最高[さいこう]の 政治[せいじ] 家[か]という 名[な]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HA45@^1-2$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はその罰を受ける＿＿＿。", 
+                                "Él merece recibir ese castigo.", 
+                                "彼[かれ]はその 罰[ばち]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q0~{q|fT$<", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の理論は一考＿＿＿。</div>", 
+                                "Su teoría merece consideración.", 
+                                "彼[かれ]の 理論[りろん]は 一考[いっこう]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "gSkhnmz6Lb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の勇気は賞賛＿＿＿。", 
+                                "Su valentía es digna de elogio.", 
+                                "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KcB-zl~!+H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の発明は注目＿＿＿ものだ。", 
+                                "Su invento es digno de nuestra atención.", 
+                                "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものだ。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q{HB%?|-O%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の崇高な行為は本当に称賛＿＿＿。", 
+                                "Su noble actuar es realmente digna de elogio.", 
+                                "彼[かれ]の 崇高[すうこう]な 行為[こうい]は 本当[ほんとう]に 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v<hEZp*Tez", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の言うことは一言も聞く＿＿＿。", 
+                                "Nada de lo que él dice merece la pena escuchar.", 
+                                "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#0000ff\">に 値[あたい]しない</font>。", 
+                                "に値しない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rcgMH.+[IF", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>青田は信じる＿＿＿。</div>", 
+                                "Aota no es digno de confianza.", 
+                                "青田[あおた]は 信[しん]じる<font color=\"#0000ff\">に 値[あたい]しない</font>。", 
+                                "に値しない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FK6nuE*:ac", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "メアリーはあなたの信頼を受ける＿＿＿なかった。", 
+                                "Mary no merecía tu confianza.", 
+                                "メアリーはあなたの 信頼[しんらい]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]し</font>なかった。", 
+                                "に値し"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AD:D}sC1[V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その見本市には注目＿＿＿ものはなにもなかった。", 
+                                "No había nada que llamara la atención en la exposición.", 
+                                "その 見本市[みほんいち]には 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものはなにもなかった。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g4FJfN)x8o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
                         }
                     ]
                 }
@@ -16873,7 +17242,7 @@
                 "N1", 
                 "Oración", 
                 "tatoeba", 
-                "なるべく"
+                "に値する"
             ], 
             "tmpls": [
                 {
@@ -17076,8 +17445,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "なるべく"
+                "tatoeba", 
+                "に値する"
             ], 
             "tmpls": [
                 {
