@@ -17081,10 +17081,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "<div>青田は信じる＿＿＿。</div>", 
+                                "<div>青田は信じる＿＿＿ない。</div>", 
                                 "Aota no es digno de confianza.", 
-                                "青田[あおた]は 信[しん]じる<font color=\"#0000ff\">に 値[あたい]しない</font>。", 
-                                "に値しない"
+                                "青田[あおた]は 信[しん]じる<font color=\"#0000ff\">に 値[あたい]</font><font color=\"#0000ff\">し</font>ない。", 
+                                "に値し"
                             ], 
                             "flags": 0, 
                             "guid": "FK6nuE*:ac", 
