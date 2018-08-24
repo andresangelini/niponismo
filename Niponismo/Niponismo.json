@@ -3679,6 +3679,39 @@
                                 "Niponismo", 
                                 "に（は）当たらない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にあって（は）", 
+                                "にあって（は）", 
+                                "にあって（は）", 
+                                "en / durante / bajo", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión eqivalente a において（は）usada para contrastar un hecho o acción haciendo énfasis en las circunstancias. Puede llevar la partícula は detraś y cuando no lo hace puede agregarse una coma. A menudo es acompañada por 状況.", 
+                                "この 不況[ふきょう]＿＿＿、 節約[せつやく]するのは 大事[だいじ]です。", 
+                                "Es muy emportante economizar durante una recesión económica.", 
+                                "あやせ·ほたるさんはとても 勤勉[きんべん]な 社員[しゃいん]だが、 家[いえ]＿＿＿ 怠惰[たいだ]なものです。", 
+                                "Hotaru Ayase es una empleada muy diligente en la oficina pero en su casa en una perezosa.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "lh[@igu}_m", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にあって（は）"
+                            ]
                         }
                     ]
                 }, 
@@ -17307,6 +17340,153 @@
                                 "Oración", 
                                 "に（は）当たらない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "我が社はこの状況＿＿＿、社員を雇うのは無理だ。", 
+                                "Es imposible para nuestra empresa contratar empleados en esta situación.", 
+                                "我[わ]が 社[しゃ]はこの 状況[じょうきょう]<font color=\"#0000ff\">にあって</font>、 社員[しゃいん]を 雇[やと]うのは 無理[むり]だ。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C_8?~qL%g4", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "学校では兄はとても愛想がいいけど、家＿＿＿悪魔だ。", 
+                                "Mi hermano mayor es muy simpático en el colegio pero en casa es un demonio.", 
+                                "学校[がっこう]では 兄[あに]はとても 愛想[あいそ]がいいけど、 家[いえ]<font color=\"#0000ff\">にあっては</font> 悪魔[あくま]だ。", 
+                                "にあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "O[;S>493U`", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この悪い天気＿＿＿外に出ることが出来ません。", 
+                                "En un clima como éste no se puede salir.", 
+                                "この 悪[わる]い 天気[てんき]<font color=\"#0000ff\">にあって（は）</font> 外[そと]に 出[で]ることが 出来[でき]ません。", 
+                                "<span style=\"font-family: Arial\">にあって（は）</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bCGDi5-G@{", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "停電＿＿＿、列車は停止します。", 
+                                "Durante un apagón los trenes se detienen.", 
+                                "停電[ていでん]<font color=\"#0000ff\">にあって</font>、 列車[れっしゃ]は 停止[ていし]します。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mt+C(}l`0G", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "地震であれ火事であれ、そのような状況＿＿＿一番大切なのは落ち着くということだ。", 
+                                "Ya sea un terremoto o un incendio, lo más importante en ese tipo de situación es mantener la calma.", 
+                                "地震[じしん]であれ 火事[かじ]であれ、そのような 状況[じょうきょう]<font color=\"#0000ff\">にあって（は）</font> 一番[いちばん] 大切[たいせつ]なのは 落ち着[おちつ]くということだ。", 
+                                "<span style=\"font-family: Arial\">にあって（は）</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u44+zghLMq", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "高齢化＿＿＿、日本では社会福祉が真剣な問題となっていると思われる。", 
+                                "En un Japón con una población envejecida se cree que la seguridassocial se tornará en un problema serio.", 
+                                "高齢[こうれい] 化[か]<font color=\"#0000ff\">にあって</font>、 日本[にっぽん]では 社会[しゃかい] 福祉[ふくし]が 真剣[しんけん]な 問題[もんだい]となっていると 思[おも]われる。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "IMDL3dL29P", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "情報社会＿＿＿、何が正しいのか何が間違いのか時々分別するのは難しいです。", 
+                                "En la sociedad de la información a veces es difícil decidir qué es correcto y qué no.", 
+                                "情報[じょうほう] 社会[しゃかい]<font color=\"#0000ff\">にあって</font>、 何[なに]が 正[ただ]しいのか 何[なに]が 間違[まちが]いのか 時々[ときどき] 分別[ふんべつ]するのは 難[むずか]しいです。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hxzqW)^*az", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
                         }
                     ]
                 }
@@ -17443,7 +17623,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に（は）当たらない"
+                "にあって（は）"
             ], 
             "tmpls": [
                 {
@@ -17647,7 +17827,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "に（は）あたらない"
+                "にあって（は）"
             ], 
             "tmpls": [
                 {
