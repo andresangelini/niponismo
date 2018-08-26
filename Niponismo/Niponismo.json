@@ -17369,7 +17369,7 @@
                                 "学校では兄はとても愛想がいいけど、家＿＿＿悪魔だ。", 
                                 "Mi hermano mayor es muy simpático en el colegio pero en casa es un demonio.", 
                                 "学校[がっこう]では 兄[あに]はとても 愛想[あいそ]がいいけど、 家[いえ]<font color=\"#0000ff\">にあっては</font> 悪魔[あくま]だ。", 
-                                "にあっては"
+                                "にあって（は）"
                             ], 
                             "flags": 0, 
                             "guid": "O[;S>493U`", 
@@ -17450,9 +17450,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "高齢化＿＿＿、日本では社会福祉が真剣な問題となっていると思われる。", 
+                                "高齢化＿＿＿、日本では社会福祉が真剣な問題となっているものと思われる。", 
                                 "En un Japón con una población envejecida se cree que la seguridassocial se tornará en un problema serio.", 
-                                "高齢[こうれい] 化[か]<font color=\"#0000ff\">にあって</font>、 日本[にっぽん]では 社会[しゃかい] 福祉[ふくし]が 真剣[しんけん]な 問題[もんだい]となっていると 思[おも]われる。", 
+                                "高齢[こうれい] 化[か]<font color=\"#0000ff\">にあって</font>、 日本[にっぽん]では 社会[しゃかい] 福祉[ふくし]が 真剣[しんけん]な 問題[もんだい]となっているものと 思[おも]われる。", 
                                 "にあって"
                             ], 
                             "flags": 0, 
