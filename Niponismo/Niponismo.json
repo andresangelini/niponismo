@@ -173,6 +173,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "あっての"
                             ]
                         }, 
@@ -280,7 +281,7 @@
                                 "までだ", 
                                 "までだ", 
                                 "までだ", 
-                                "no queda otra que", 
+                                "no quedar otra que", 
                                 "Verbo en forma diccionario + forma gramatical.", 
                                 "Expresa que la única opción es la que se tiene. Es equivalente que しかない.", 
                                 "ご両親[りょうしん]が 反対[はんたい]だと 言[い]えば、あきらめる＿＿＿。", 
@@ -825,7 +826,7 @@
                                 "（だけ）では済まない/（だけ）じゃ済まない/（だけ）では済まされない/（だけ）じゃ済まされない", 
                                 "（だけ）では済まない/（だけ）じゃ済まない/（だけ）では済まされない/（だけ）じゃ済まされない", 
                                 "（だけ）では済まない/（だけ）じゃ済まない/（だけ）では済まされない/（だけ）じゃ済まされない", 
-                                "no basta con", 
+                                "no bastar con", 
                                 "<div>Sustantivo + forma gramatical (puede ser では, じゃ, だけでは o だけじゃ).</div><div>Verbo casual + forma gramatical (puede ser では, じゃ, だけでは o だけじゃ). A veces puede verse んじゃ en lugar de じゃ.</div>", 
                                 "Se usa para expresar que una acción o algo no es suficiente para resolver una determinada situación. &nbsp;済[す]まない también puede reemplazarse con &nbsp;済[す]まされない.", 
                                 "彼女[かのじょ]は 牛乳[ぎゅうにゅう]なし＿＿＿。", 
@@ -1177,7 +1178,7 @@
                                 "ほどのことはない/ほどのこともない", 
                                 "ほどのことはない/ほどのこともない", 
                                 "ほどのことはない/ほどのこともない", 
-                                "no es para tanto", 
+                                "no ser para tanto", 
                                 "Verbo en forma diccionario + forma gramatical.", 
                                 "Se usa para restarle importancia a algo.", 
                                 "警察[けいさつ]を 呼[よ]ぶ＿＿＿と 思[おも]った。", 
@@ -1639,7 +1640,7 @@
                                 "可能性がある", 
                                 "可能性[かのうせい]がある", 
                                 "かのうせいがある", 
-                                "existe la posibilidad", 
+                                "existir la posibilidad", 
                                 "<div>Verbo casual, no en pasado + forma gramatical.</div><div>Sustantivo + forma gramatical.</div>", 
                                 "", 
                                 "薬が乱用されると、人々の健康を害する＿＿＿。", 
@@ -2234,7 +2235,7 @@
                                 "までもない", 
                                 "までもない", 
                                 "までもない", 
-                                "no hace falta llegar a", 
+                                "no hacer falta llegar a", 
                                 "Verbo en forma diccionario + forma gramatical.", 
                                 "Expresión que indica que no es necesario hacer la acción indicada por el verbo.", 
                                 "その 時[とき]、 二人[ふたり]の 間[あいだ]に 師弟[してい]を 越[こ]えた 友情[ゆうじょう]のようなものが 芽生[めば]えた 事[こと]は 言[い]う＿＿＿。", 
@@ -2267,7 +2268,7 @@
                                 "まじき", 
                                 "まじき", 
                                 "まじき", 
-                                "no es propio de", 
+                                "no ser propio de", 
                                 "<div>ある + forma gramatical.</div>Verbo en forma diccionario + forma gramatical.", 
                                 "Al igual que ～べからず, significa lo mismo que ～てばいけない/～てばならない y ～のは駄目です. Pero a difrencia de éste, se usa para decir que una acción o actitud no está bien para o no es digna de un cargo, posición, rango o título (médico, profesor o cualquier otro profesional). Se usa más que nada para regañar a alguien, usualmente con enojo. Por contraposición, ～べからず se usa más que nada para indicar las cosas que no se deben hacer, como por ejemplo, ゴミを捨てるべからず, y a menudo se ve en carteles.", 
                                 "プロとしてある＿＿＿ 行為[こうい]だ。", 
@@ -3545,6 +3546,171 @@
                                 "N1", 
                                 "Niponismo", 
                                 "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なりと", 
+                                "なりと", 
+                                "なりと", 
+                                "sea", 
+                                "Palabra interrogativa + forma gramatical.", 
+                                "Expresión usada junto a palabras interrogativas como &nbsp;何[なん], どこ o いつ para indicar que no importa \"qué\", \"dónde\" o \"cuándo\" al igual que でも. Se usa más que nada en el lenjuage respetuoso o 敬語, especialmente en el mundo de los negocios como cuando se escribe un correo electrónico para ofrecer ayuda. También se puede usar de la misma forma que など para elegir una opción de entre varias.", 
+                                "緊急事態[きんきゅうじたい]です。 誰[だれ]＿＿＿ 呼[よ]んでくれませんか。", 
+                                "¡Esto es una emergencia! ¿Pordía llamar a alguien (quienquiera que sea)?", 
+                                "何[なん]＿＿＿お 申[もう]しつけ 下[くだ]さい。", 
+                                "Por favor, no dude en contactarnos por lo que sea.", 
+                                "私達と付き合う＿＿＿帰る＿＿＿好きにしよう。", 
+                                "Ven con nosotros o vuelve a tu casa. Haz lo que quieras.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "M:E5Rr]S+$", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "なるべく", 
+                                "なるべく", 
+                                "なるべく", 
+                                "lo más (menos) posible", 
+                                "Forma gramatical + acción.", 
+                                "Expresión usada para indicar que una acción se debe hacer o evitar tanto como sea posible. En el lenguaje cotideano equivale a できるだけ, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical se enfonca en lograr el cometido.", 
+                                "＿＿＿ 早[はや]く 診察[しんさつ]を 受[う]けたいのですが。", 
+                                "Me gustaría hacerme un examen médico lo más pronto posible.", 
+                                "われわれは＿＿＿ たくさん 本[ほん]を 読[よ]むべきである。", 
+                                "Nosotros debemos leer tantos libros como sea posible.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "ewW$T2+|.G", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に値する", 
+                                "に 値[あたい]する", 
+                                "にあたいする", 
+                                "merecer / valer la pena / ser digno de", 
+                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Esta expresión significa \"merecer\", \"valer la pena\" o \"ser digno de\" y se debe usar con la partícula に delante ya sea que se use junto a un sustantivo o a un verbo. Como cualquier otro verbo, si \"vale la pena\" o \"no vale la pena\" depende de si su conjugación es positiva o negativa respectivamente.", 
+                                "良書[りょうしょ]はすべて 読[よ]む＿＿＿。", 
+                                "Los buenos libros siempre merecen la pena leerlos.", 
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]＿＿＿。", 
+                                "<div>Ellos no merecen el elogio que recibieron.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "vF34Gpxf>U", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に（は）当たらない", 
+                                "に（は） 当[あ]たらない", 
+                                "に（は）あたらない", 
+                                "no dar para", 
+                                "Sustantivo + forma gramatical.<div>Verbo en forma diccionario + forma gramatical.</div>", 
+                                "<div>Expresión similar a ～ほどではない y ～ 必要[ひつよう]はない que suele usarse con un sustantivo o un verbo que demeustre sentimientos tales como &nbsp;驚[おどろ]く, &nbsp;喜[よろこ]ぶ u &nbsp;恐[おそ]れる. Se debe tener cuidado cuando se usa junto a &nbsp;失礼[しつれい] ya que en ese caso significa \"no es una falta de respeto\" (o más literlamente \"no da para tomarlo como una falta de respeto\"). Conviente entonces considerarla como una frase hecha.</div>", 
+                                "彼[かれ]はいつも 夜[よる] 遅[おそ]くまで 帰[かえ]るから、 心配[しんぱい]する＿＿＿。", 
+                                "Él siempre llegar tarde en la noche así que no da para preocuparse.", 
+                                "その 映画[えいが]の 筋[すじ]はとてもつまらないから、 見[みる]る＿＿＿。", 
+                                "La trama de esa película es aburrida por lo que no da para verla.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "p45m?;lkOv", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にあって（は）", 
+                                "にあって（は）", 
+                                "にあって（は）", 
+                                "en / durante / bajo", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión eqivalente a において（は）usada para contrastar un hecho o acción haciendo énfasis en las circunstancias. Puede llevar la partícula は detraś y cuando no lo hace puede agregarse una coma. A menudo es acompañada por 状況.", 
+                                "不況[ふきょう]＿＿＿、 節約[せつやく]するのは 大事[だいじ]です。", 
+                                "Es muy emportante economizar durante una recesión económica.", 
+                                "あやせ·ほたるさんはとても 勤勉[きんべん]な 社員[しゃいん]だが、 家[いえ]＿＿＿ 怠惰[たいだ]なものです。", 
+                                "Hotaru Ayase es una empleada muy diligente en la oficina pero en su casa en una perezosa.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "lh[@igu}_m", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にあって（は）"
                             ]
                         }
                     ]
@@ -16108,9 +16274,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "田中さん、少し＿＿＿面接頂いてもいいでしょう。", 
+                                "田中さん、少し＿＿＿面接頂いてもいいでしょうか。", 
                                 "Tanaka, ¿podría entrevistarlo por al menos un monento?", 
-                                "田中[たなか]さん、 少[すこ]し<font color=\"#0000ff\">なりとも</font> 面接[めんせつ] 頂[いただ]いてもいいでしょう。", 
+                                "田中[たなか]さん、 少[すこ]し<font color=\"#0000ff\">なりとも</font> 面接[めんせつ] 頂[いただ]いてもいいでしょうか。", 
                                 "なりとも"
                             ], 
                             "flags": 0, 
@@ -16207,6 +16373,1119 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "なりとも"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "困ったら時誰＿＿＿助けてくれないかな。", 
+                                "¿Habrá alguien al menos que me ayude cuando tenga un problema?", 
+                                "困[こま]ったら 時[とき] 誰[だれ]<font color=\"#0000ff\">なりと</font> 助[たす]けてくれないかな。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "y-;xFlNzb1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "いつか＿＿＿お申し付け下さい。", 
+                                "Contáctenos cuando sea, por favor.", 
+                                "いつか<font color=\"#0000ff\">なりと</font>お 申し付[もうしつ]け 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A}E%@Oh0%J", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この件については分からない点がございましたら、何＿＿＿お申し付けください。", 
+                                "Si hay algun punto sobre este tema que no entienda, por favor no dude en hacermelo saber cualquiera fuese éste.", 
+                                "この 件[けん]については 分[わ]からない 点[てん]がございましたら、 何[なに]<font color=\"#0000ff\">なりと</font>お 申し付[もうしつ]けください。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cp$l1Gy0c,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "出来ることがございましたら、何＿＿＿お申し付け下さい。", 
+                                "Si hay algo que pudiesemos hacer por usted, por favor háganoslo saber sea lo que sea.", 
+                                "出来[でき]ることがございましたら、 何[なに]<font color=\"#0000ff\">なりと</font>お 申し付[もうしつ]け 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "E.?dh2-Hcg", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この商品に関するご不満がございましたら、何＿＿＿お聞かせ下さい。", 
+                                "Por favor, háganos saber si tiene alguna queja con respecto a este producto.", 
+                                "この 商品[しょうひん]に 関[かん]するご 不満[ふまん]がございましたら、 何[なに]<font color=\"#0000ff\">なりと</font>お 聞[き]かせ 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n{l([75aKr", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "商品の使い方が分からない際是非何＿＿＿ご連絡下さい。", 
+                                "Por favor no dude en contactarnos si no entiende cómo usar el producto o por cualquier otra cosa.", 
+                                "商品[しょうひん]の 使い方[つかいかた]が 分[わ]からない 際[さい] 是非[ぜひ] 何[なに]<font color=\"#0000ff\">なりと</font>ご 連絡[れんらく] 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bX])aXf,nv", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "間違いがございましたら何＿＿＿ご指摘ください。", 
+                                "Por favor no dude en señalarnos si hubiese un error o lo que fuese.", 
+                                "間違[まちが]いがございましたら 何[なに]<font color=\"#0000ff\">なりと</font>ご 指摘[してき]ください。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p0;@3C:K2{", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あなたの為にどこ＿＿＿行きます。", 
+                                "Por ti voy a donde sea.", 
+                                "あなたの 為[ため]にどこ<font color=\"#0000ff\">なりと</font> 行[い]きます。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l|{42.AUos", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この質問が誰＿＿＿答えられませんか。", 
+                                "¿Hay alguien que pueda responder esta pregunta?", 
+                                "この 質問[しつもん]が 誰[だれ]<font color=\"#0000ff\">なりと</font> 答[こた]えられませんか。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iHL!A]~]xK", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "９時、１０時、１４時いつ＿＿＿ご連絡下さい。", 
+                                "Contáctenos a las 9, 10, 14 o a la hora que sea.", 
+                                "９ 時[じ]、１０ 時[じ]、１４ 時[じ]いつ<font color=\"#0000ff\">なりと</font>ご 連絡[れんらく] 下[くだ]さい。", 
+                                "なりと"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vu84%9>u%&", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "なりと"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿ゆっくり話してもらえますか。", 
+                                "¿Podría hablar lo más lento posible?", 
+                                "<font color=\"#0000ff\">なるべ</font>くゆっくり 話[はな]してもらえますか。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mcC1sOV`n$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿早くご返事いただければ幸いです。", 
+                                "Agradecería que me respondiera tan pronto como le sea posible.", 
+                                "<font color=\"#0000ff\">なるべく</font> 早[はや]くご 返事[へんじ]いただければ 幸[さいわ]いです。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "LLl7?w<8uZ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大至急お願い、＿＿＿早くお願いします。", 
+                                "Lo necesito tan pronto como sea posible.", 
+                                "大[だい] 至急[しきゅう]お 願[ねが]い、<font color=\"#0000ff\">なるべく</font> 早[はや]くお 願[ねが]いします。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C2xsO]IA1w", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>＿＿＿安いほうがいいです。</div>", 
+                                "Quiero el más barato posible.", 
+                                "<font color=\"#0000ff\">なるべく</font> 安[やす]いほうがいいです。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "e4QeduhhxV", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "コートを探してます。背が低いので、丈は短めで、＿＿＿すっきりしたデザインのものを。", 
+                                "Estoy buscando un abrigo. Uno corto porque soy bajo y con el diseño más elegante posible.", 
+                                "コートを 探[さが]してます。 背[せ]が 低[ひく]いので、 丈[たけ]は 短[みじか]めで、<font color=\"#0000ff\">なるべく</font>すっきりしたデザインのものを。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nG$Nid*0e8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿姉ちゃんにも周りにも迷惑をかけずに、事態の早期解決をなんとか頼むぞ。", 
+                                "Quiero que resuelvas esta situación rápidamente y evitando causarle problema a mi hermana y a los que nos rodean lo más que puedas.", 
+                                "<font color=\"#0000ff\">なるべく</font> 姉[ねえ]ちゃんにも 周[まわ]りにも 迷惑[めいわく]をかけずに、 事態[じたい]の 早期[そうき] 解決[かいけつ]をなんとか 頼[たの]むぞ。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "BuA-b&q/(1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "偏頭痛がおこったときに対処するだけではなく、普段の生活のなかで、偏頭痛を＿＿＿防いでいくのも大事なことです。", 
+                                "Lo importante no es eliminar la migraña cuando ocurre sino prevenirla lo más que se pueda en nuestra vida diaria.", 
+                                "偏頭痛[へんずつう]がおこったときに 対処[たいしょ]するだけではなく、 普段[ふだん]の 生活[せいかつ]のなかで、 偏頭痛[へんずつう]を<font color=\"#0000ff\">なるべく</font> 防[ふせ]いでいくのも 大事[だいじ]なことです。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FmaW?n!G9k", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "特別扱いしますが、＿＿＿短めにしてくださいね。", 
+                                "Haré una excepción esta vez, pero hágala corta.", 
+                                "特別[とくべつ] 扱[あつか]いしますが、<font color=\"#0000ff\">なるべく</font> 短[みじか]めにしてくださいね。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ph/%#-5TZ]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "助手を求めています。＿＿＿ならば経験のある人を望む。", 
+                                "Buscamos un asistente, preferiblemente alguien con experiencia.", 
+                                "助手[じょしゅ]を 求[もと]めています。<font color=\"#0000ff\">なるべく</font>ならば 経験[けいけん]のある 人[ひと]を 望[のぞ]む。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zFQP(K^gYx", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿考えまいとは思っていたのだが、自覚をしてしまうと途端に侘しいような気持ちにもなってくる。", 
+                                "Intenté no pensar en ello lo más que pude pero en cuanto tomaba conciencia de ello me sentía miserable.", 
+                                "<font color=\"#0000ff\">なるべく</font> 考[かんが]えまいとは 思[おも]っていたのだが、 自覚[じかく]をしてしまうと 途端[とたん]に 侘[わび]しいような 気持[きも]ちにもなってくる。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g::P7AfzVk", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>漢字を書くときは点やはらいに気をつけて、＿＿＿早くていねいに書きましょう。</div>", 
+                                "Al escribir kanji debemos hacerlo lo más rápido posible teniendo mucho cuidado con los puntos y las terminaciones.", 
+                                "漢字[かんじ]を 書[か]くときは 点[てん]やはらいに 気[き]をつけて、<font color=\"#0000ff\">なるべく</font> 早[はや]くていねいに 書[か]きましょう。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fWvj5Zqld$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿早く、全額をご送金くださるようお願いします。", 
+                                "Le solicitamos que envíe el monto total lo más pronto posible, por favor.", 
+                                "<font color=\"#0000ff\">なるべく</font> 早[はや]く、 全額[ぜんがく]をご 送金[そうきん]くださるようお 願[ねが]いします。", 
+                                "なるべく"
+                            ], 
+                            "flags": 0, 
+                            "guid": "x.LWqt_Y<N", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なるべく"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "勇者のみが尊敬＿＿＿。", 
+                                "Sólo el realmente valiente es merecedor de respeto.", 
+                                "勇者[ゆうしゃ]のみが 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nTEK^iF6#Y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>野心は抱く＿＿＿が、容易に達成され得ない。</div>", 
+                                "Aunque es bueno tener ambiciones, éstas no son fáciles de conseguir.", 
+                                "野心[やしん]は 抱[いだ]くに <font color=\"#0000ff\">値[あたい]する</font>が、 容易[ようい]に 達成[たっせい]され 得[え]ない。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kO)i2n-DQu", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "費用＿＿＿だけの価値を提供する。", 
+                                "Ellos ofrecen precios que valen la pena.", 
+                                "費用[ひよう]<font color=\"#0000ff\">に 値[あたい]する</font>だけの 価値[かち]を 提供[ていきょう]する。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Px@5@$,_ys", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼女の行為は尊敬＿＿＿。</div>", 
+                                "El comportamiento de ella es digno de admiración.", 
+                                "彼女[かのじょ]の 行為[こうい]は 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J1FLM}tOab", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女の勤勉はまったく賞賛＿＿＿。", 
+                                "Su diligencia es digna de elogio.", 
+                                "彼女[かのじょ]の 勤勉[きんべん]はまったく 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kN1tSV(32?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は我々の称賛＿＿＿。", 
+                                "Él se merece nuestro elogio.", 
+                                "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d9]tT]U`l~", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はヨーロッパ最高の政治家という名＿＿＿。", 
+                                "A él bien se lo podría llamar el más grande político de Europa.", 
+                                "彼[かれ]はヨーロッパ 最高[さいこう]の 政治[せいじ] 家[か]という 名[な]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HA45@^1-2$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はその罰を受ける＿＿＿。", 
+                                "Él merece recibir ese castigo.", 
+                                "彼[かれ]はその 罰[ばち]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q0~{q|fT$<", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の理論は一考＿＿＿。</div>", 
+                                "Su teoría merece consideración.", 
+                                "彼[かれ]の 理論[りろん]は 一考[いっこう]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "gSkhnmz6Lb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の勇気は賞賛＿＿＿。", 
+                                "Su valentía es digna de elogio.", 
+                                "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KcB-zl~!+H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の発明は注目＿＿＿ものだ。", 
+                                "Su invento es digno de nuestra atención.", 
+                                "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものだ。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q{HB%?|-O%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の崇高な行為は本当に称賛＿＿＿。", 
+                                "Su noble actuar es realmente digna de elogio.", 
+                                "彼[かれ]の 崇高[すうこう]な 行為[こうい]は 本当[ほんとう]に 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v<hEZp*Tez", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の言うことは一言も聞く＿＿＿。", 
+                                "Nada de lo que él dice merece la pena escuchar.", 
+                                "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#0000ff\">に 値[あたい]しない</font>。", 
+                                "に値しない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rcgMH.+[IF", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>青田は信じる＿＿＿ない。</div>", 
+                                "Aota no es digno de confianza.", 
+                                "青田[あおた]は 信[しん]じる<font color=\"#0000ff\">に 値[あたい]</font><font color=\"#0000ff\">し</font>ない。", 
+                                "に値し"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FK6nuE*:ac", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "メアリーはあなたの信頼を受ける＿＿＿なかった。", 
+                                "Mary no merecía tu confianza.", 
+                                "メアリーはあなたの 信頼[しんらい]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]し</font>なかった。", 
+                                "に値し"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AD:D}sC1[V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その見本市には注目＿＿＿ものはなにもなかった。", 
+                                "No había nada que llamara la atención en la exposición.", 
+                                "その 見本市[みほんいち]には 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものはなにもなかった。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g4FJfN)x8o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この地方では3日間で雨が降るのは驚く＿＿＿。", 
+                                "No es de sorprenderse que llueva tres días seguidos en esta región.", 
+                                "この 地方[ちほう]では 3 日間[にちかん]で 雨[あめ]が 降[ふ]るのは 驚[おどろ]く<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に（は） 当[あ]たらない</font></span>。", 
+                                "に（は）当たらない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Lwlf,/L%1A", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女に振られたからといって、泣く＿＿＿。", 
+                                "No da para llorar porque te haya dejado tu novia.", 
+                                "彼女[かのじょ]に 振[ふ]られたからといって、 泣[な]く<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に（は） 当[あ]たらない</font></span>。", 
+                                "<span style=\"font-family: Arial\">に（は）当たらない</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "o6sO@]5!ky", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そんな些細なことで怒る＿＿＿。", 
+                                "No da para enojarse por tan poca cosa.", 
+                                "そんな 些細[ささい]なことで 怒[おこ]る<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に（は） 当[あ]たらない</font></span>。", 
+                                "<span style=\"font-family: Arial\">に（は）当たらない</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dEpk,a7dJ_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その程度の過ちなら子供を責める＿＿＿。", 
+                                "No da reprochar al niño por un error tan trivial.", 
+                                "その 程度[ていど]の 過[あやま]ちなら 子供[こども]を 責[せ]める<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に（は） 当[あ]たらない</font></span>。", 
+                                "<span style=\"font-family: Arial\">に（は）当たらない</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xsR@vM?sOS", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その映画は人気だから、切符が見つからなかったことは、驚く＿＿＿。", 
+                                "Esa película es muy popular así que no es de sorprenderse que no hayas podido encontrar entradas.", 
+                                "その 映画[えいが]は 人気[にんき]だから、 切符[きっぷ]が 見[み]つからなかったことは、 驚[おどろ]く<font color=\"#0000ff\">に（は） 当[あ]たらない</font>。", 
+                                "<span style=\"font-family: Arial\">に（は）当たらない</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n]vZ^9A<EM", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本に１０年間以上で住んでいましたから、日本語で上手く話せることは褒める＿＿＿。", 
+                                "He estado viviendo en Japón por más de diez años así que no hace falta elogiarme por que hable bien.", 
+                                "日本[にっぽん]に１０ 年間[ねんかん] 以上[いじょう]で 住[す]んでいましたから、 日本語[にほんご]で 上手[うま]く 話[はな]せることは 褒[ほ]める<font color=\"#0000ff\">に（は） 当[あ]たらない</font>。", 
+                                "<span style=\"font-family: Arial\">に（は）当たらない</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "D,s:n]fuSn", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本では職業を聞くのがちょっと失礼＿＿＿でしょうか。", 
+                                "¿No es de mala educación preguntarle a alguien sobre el trabajo en Japón?", 
+                                "日本[にっぽん]では 職業[しょくぎょう]を 聞[き]くのがちょっと 失礼[しつれい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に（は） [は]当たらない</font></span>でしょうか。", 
+                                "に（は）当たらない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rIMhPekq&,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お客様、問題が無事に解決されましたので、もう心配＿＿＿。", 
+                                "El problema ha sido resuelto sin problemas por lo que no de que preocuparse.", 
+                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たりません</font>。", 
+                                "に（は）当たりません"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xd97WTNL?_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に（は）当たらない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "我が社はこの状況＿＿＿、社員を雇うのは無理だ。", 
+                                "Es imposible para nuestra empresa contratar empleados en esta situación.", 
+                                "我[わ]が 社[しゃ]はこの 状況[じょうきょう]<font color=\"#0000ff\">にあって</font>、 社員[しゃいん]を 雇[やと]うのは 無理[むり]だ。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C_8?~qL%g4", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "学校では兄はとても愛想がいいけど、家＿＿＿悪魔だ。", 
+                                "Mi hermano mayor es muy simpático en el colegio pero en casa es un demonio.", 
+                                "学校[がっこう]では 兄[あに]はとても 愛想[あいそ]がいいけど、 家[いえ]<font color=\"#0000ff\">にあっては</font> 悪魔[あくま]だ。", 
+                                "にあって（は）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "O[;S>493U`", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この悪い天気＿＿＿外に出ることが出来ません。", 
+                                "En un clima como éste no se puede salir.", 
+                                "この 悪[わる]い 天気[てんき]<font color=\"#0000ff\">にあって（は）</font> 外[そと]に 出[で]ることが 出来[でき]ません。", 
+                                "<span style=\"font-family: Arial\">にあって（は）</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bCGDi5-G@{", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "停電＿＿＿、列車は停止します。", 
+                                "Durante un apagón los trenes se detienen.", 
+                                "停電[ていでん]<font color=\"#0000ff\">にあって</font>、 列車[れっしゃ]は 停止[ていし]します。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mt+C(}l`0G", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "地震であれ火事であれ、そのような状況＿＿＿一番大切なのは落ち着くということだ。", 
+                                "Ya sea un terremoto o un incendio, lo más importante en ese tipo de situación es mantener la calma.", 
+                                "地震[じしん]であれ 火事[かじ]であれ、そのような 状況[じょうきょう]<font color=\"#0000ff\">にあって（は）</font> 一番[いちばん] 大切[たいせつ]なのは 落ち着[おちつ]くということだ。", 
+                                "<span style=\"font-family: Arial\">にあって（は）</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u44+zghLMq", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "高齢化＿＿＿、日本では社会福祉が真剣な問題となっているものと思われる。", 
+                                "En un Japón con una población envejecida se cree que la seguridassocial se tornará en un problema serio.", 
+                                "高齢[こうれい] 化[か]<font color=\"#0000ff\">にあって</font>、 日本[にっぽん]では 社会[しゃかい] 福祉[ふくし]が 真剣[しんけん]な 問題[もんだい]となっているものと 思[おも]われる。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "IMDL3dL29P", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "情報社会＿＿＿、何が正しいのか何が間違いのか時々分別するのは難しいです。", 
+                                "En la sociedad de la información a veces es difícil decidir qué es correcto y qué no.", 
+                                "情報[じょうほう] 社会[しゃかい]<font color=\"#0000ff\">にあって</font>、 何[なに]が 正[ただ]しいのか 何[なに]が 間違[まちが]いのか 時々[ときどき] 分別[ふんべつ]するのは 難[むずか]しいです。", 
+                                "にあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hxzqW)^*az", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にあって（は）"
                             ]
                         }
                     ]
@@ -16344,7 +17623,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "なりとも"
+                "にあって（は）"
             ], 
             "tmpls": [
                 {
@@ -16548,7 +17827,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "なりとも"
+                "にあって（は）"
             ], 
             "tmpls": [
                 {
