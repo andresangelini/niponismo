@@ -1,15 +1,3 @@
----
-name: Reporte de error
-about: Crea un reporte que nos ayude a mejorar
-
----
-
----
-name: Reporte de error
-about: Crea un reporte que nos ayude a mejorar
-
----
-
 **Descripción el error**
 Una explicación clara y concisa sobre el error.
 
