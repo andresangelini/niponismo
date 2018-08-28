@@ -3712,6 +3712,39 @@
                                 "Niponismo", 
                                 "にあって（は）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に引き換え", 
+                                "に 引[ひ]き 換[か]え", 
+                                "にひきかえ", 
+                                "en contraste con / mientras que", 
+                                "Sustantivo + forma gramatical.<div>Verbo o adjetivo い + の + forma gramatical.</div><div>Adjetivo な + な o だった + の + forma gramatical.</div>", 
+                                "Expresión similar a と違って, に比べると, etc. usada principalmente con sustantivos para indicar un fuerte contraste.", 
+                                "亀[かめ]＿＿＿うさぎ、はとても 早[はや]いです。", 
+                                "En contraste con la tortuga, el conejo es muy rápido.", 
+                                "彼女[かのじょ]が 勉強[べんきょう]がよく 出来[でき]るの＿＿＿、スポーツでは 全然[ぜんぜん] 駄目[だめ]です。", 
+                                "Ella es muy buena en los estudios mientras que es horrible en los deportes.", 
+                                "昨日[きのう]は 暖[あたた]かかったの＿＿＿、 今日[きょう]は 寒[さむ]いです。", 
+                                "Mientras que ayer estuvo calido, hoy está frío.", 
+                                "車が便利なの＿＿＿、電車が便利だけはなく、しかも安いです。", 
+                                "Mientras que el automóvil es conveniente, el tren no sólo lo es también, sino que además es barato.", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Es&3l[S5il", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に引き換え"
+                            ]
                         }
                     ]
                 }, 
@@ -17487,6 +17520,216 @@
                                 "Oración", 
                                 "にあって（は）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "地球＿＿＿、火星では人間が酸素のマスクなしに呼吸できない。", 
+                                "En contraste con la Tierra, en Marte los humanos no pueden respirar sin una máscara de oxígeno.", 
+                                "地球[ちきゅう]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に 引[ひ]き 換[か]え</font></span>、 火星[かせい]では 人間[にんげん]が 酸素[さんそ]のマスクなしに 呼吸[こきゅう]できない。", 
+                                "に引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w5MgbQM.|i", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "去年の天気＿＿＿、今年はポカポカ暖かいです。", 
+                                "En contraste con el clima del año pasado, este año está bastante agradable.", 
+                                "去年[きょねん]の 天気[てんき]<font color=\"#0000ff\">に 引[ひ]き 換[か]え</font>、 今年[ことし]はポカポカ 暖[あたた]かいです。", 
+                                "に引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PIYge4pj6A", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "母＿＿＿、父は静かな人です。", 
+                                "En contraste con mi madre, mi padre es una persona tranquila.", 
+                                "母[はは]に <font color=\"#0000ff\">引き換[ひきか]え</font>、 父[ちち]は 静[しず]かな 人[ひと]です。", 
+                                "に引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cB0}Ri8D}<", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "皆は彼が悪いと思った＿＿＿、私は彼にずっと信じてた。", 
+                                "Mientras todos pensaban que él estaba equivocadom, yo siempre creí en él.", 
+                                "皆[みな]は 彼[かれ]が 悪[わる]いと 思[おも]った<font color=\"#0000ff\">の 引き換[ひきか]え</font>、 私[わたし]は 彼[かれ]にずっと 信[しん]じてた。", 
+                                "のに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "k&0^e.x8ox", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼が早く走る＿＿＿、田中選手に敵わないと思う。", 
+                                "Mientras que es cierto que él corre rápido, no creo que le gane a Tanaka.", 
+                                "彼[かれ]が 早[はや]く 走[はし]る<font color=\"#0000ff\">のに 引き換[ひきか]え</font>、 田中[たなか] 選手[せんしゅ]に 敵[てき]わないと 思[おも]う。", 
+                                "のに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H0L3g[1.G8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その著書はよく知られている＿＿＿、妹の本は殆どしられていません。", 
+                                "Mientras que esa escritora es muy conocida, nadie conoce los libros de su hermana.", 
+                                "その 著書[ちょしょ]はよく 知[し]られている<font color=\"#0000ff\">のに 引き換[ひきか]え</font>、 妹[いもうと]の 本[ほん]は 殆[ほとん]どしられていません。", 
+                                "のに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KUL$vlJGi_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "長男の部屋は綺麗＿＿＿、次男のはいつも散らかってる。", 
+                                "Mientras que la habitación del mayor siempre está limpia, la de mi segundo hijo siempre está desordenada.", 
+                                "長男[ちょうなん]の 部屋[へや]は 綺麗[きれい]<font color=\"#0000ff\">なのに 引き換[ひきか]え</font>、 次男[じなん]のはいつも 散[ち]らかってる。", 
+                                "なのに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H&#F&:]q<X", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今度のパーティーは詰まらなかった＿＿＿、前のは余程楽しかった。", 
+                                "Mientras que esta útlima fiesta estuvo aburrida, la anterior estuvo divertidísima.", 
+                                "今度[こんど]のパーティーは 詰[つ]まらなかった<font color=\"#0000ff\">のに 引き換[ひきか]え</font>、 前[まえ]のは 余程[よほど] 楽[たの]しかった。", 
+                                "のに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s.2~5Q=WmR", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼が尊敬されて偉大な学科学者だった＿＿＿、その根本的な真実が分からなかった。", 
+                                "Mientras que él era un erudita grande y respetado, no sabía algo tan elemental como eso.", 
+                                "彼[かれ]が 尊敬[そんけい]されて 偉大[いだい]な 学科[がっか] 学者[がくしゃ]だった<font color=\"#0000ff\">のに 引き換[ひきか]え</font>、その 根本[こんぽん] 的[てき]な 真実[しんじつ]が 分[わ]からなかった。", 
+                                "のに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KuzBc!rj=+", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その絵の鮮やか＿＿＿、この壁の色は鈍すぎると思う。", 
+                                "En contraste con lo vívido de la pintura, el color de la pared es demasiado opaco.", 
+                                "その 絵[え]の 鮮[あざ]やか<font color=\"#0000ff\">なのに 引き換[ひきか]え</font>、この 壁[かべ]の 色[いろ]は 鈍[のろ]すぎると 思[おも]う。", 
+                                "なのに引き換え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ZC=;^pwRD", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に引き換え"
+                            ]
                         }
                     ]
                 }
@@ -17618,12 +17861,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Gramática", 
+                "Definición", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "にあって（は）"
+                "に引き換え"
             ], 
             "tmpls": [
                 {
@@ -17827,7 +18070,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "にあって（は）"
+                "に引き換え"
             ], 
             "tmpls": [
                 {
