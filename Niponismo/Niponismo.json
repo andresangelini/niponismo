@@ -3723,7 +3723,7 @@
                                 "en contraste con / mientras que", 
                                 "Sustantivo + forma gramatical.<div>Verbo, adjetivo い o な (con な) + の + forma gramatical.</div><div>Adjetivo な (sin な) o sustantivo + だった + の + forma gramatical.</div>", 
                                 "Expresión similar a と違って, に比べると, etc. usada principalmente con sustantivos para indicar un fuerte contraste.", 
-                                "亀[かめ]＿＿＿うさぎ、はとても 早[はや]いです。", 
+                                "亀[かめ]＿＿＿、うさぎはとても 早[はや]いです。", 
                                 "En contraste con la tortuga, el conejo es muy rápido.", 
                                 "彼女[かのじょ]が 勉強[べんきょう]がよく 出来[でき]るの＿＿＿、スポーツでは 全然[ぜんぜん] 駄目[だめ]です。", 
                                 "Ella es muy buena en los estudios mientras que es horrible en los deportes.", 
@@ -3744,6 +3744,39 @@
                                 "N1", 
                                 "Niponismo", 
                                 "に引き換え"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に至るまで", 
+                                "に 至[いた]るまで", 
+                                "にいたるまで", 
+                                "hasta... inclusive", 
+                                "(から) + sustantivo + forma gramatical.", 
+                                "Expresión usualmente acompañada por 〜から equivalente a 〜まで que se usa para abarcar tanto un cojunto de cosas como de tiempo. La diferencia es que esta forma indica que se abarcan muchas cosas, a menudo muy distintas y además no se puede usar para expresar distancias.", 
+                                "彼[かれ]がアニメからドラマ＿＿＿ 見[み]るのが 好[す]きです。", 
+                                "A él le gusta mirar desde animé hasta series de televisión inclusive.", 
+                                "その 会社[かいしゃ]は 東京[とうきょう]からパリ＿＿＿ 支店[してん]があるらしい。", 
+                                "Esa compañía tiene sucursales desde Tokio hasta París inclusive.", 
+                                "この 日記[にっき]には 今日[こんにち]＿＿＿の 全[すべ]ての 彼女[かのじょ]の 行動[こうどう]が 書[か]いてある。", 
+                                "En este diario está escrito todo lo que ella hizo hasta el día de hoy inclusive.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "]ggcr(_`]", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に至るまで"
                             ]
                         }
                     ]
@@ -18070,7 +18103,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "に引き換え"
+                "に至るまで"
             ], 
             "tmpls": [
                 {
