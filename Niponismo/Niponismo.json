@@ -17763,6 +17763,174 @@
                                 "Oración", 
                                 "に引き換え"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは、カルカッタからニューヨーク市＿＿＿、世界中に支部を持っている。", 
+                                "Ellos tienen sucursales en todo el mundo, desde Calcuta hasta Nueva York.", 
+                                "彼[かれ]らは、カルカッタからニューヨーク 市[し]<font color=\"#0000ff\">に 至[いた]るまで</font>、 世界中[せかいじゅう]に 支部[しぶ]を 持[も]っている。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dX5q3Bo6Y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "宣戦布告＿＿＿の時期はこのような状況であったと言える。", 
+                                "Se podría decir que esa era la situación hasta la declaración de guerra.", 
+                                "宣戦[せんせん] 布告[ふこく]<font color=\"#0000ff\">に 至[いた]るまで</font>の 時期[じき]はこのような 状況[じょうきょう]であったと 言[い]える。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HSS#=jUju(", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>昔から今＿＿＿存在する、あらゆる社会の歴史は階級闘争の歴史である。</div>", 
+                                "Desde tiempos inmemoriales hasta el día de hoy inclusive, la historia de toda sociedad ha sido la de las luchas de clase.", 
+                                "昔[むかし]から 今[いま]に <font color=\"#0000ff\">至[いた]るまで</font> 存在[そんざい]する、あらゆる 社会[しゃかい]の 歴史[れきし]は 階級[かいきゅう] 闘争[とうそう]の 歴史[れきし]である。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MQ)W;2s6Ru", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私の生徒は科学から文学＿＿＿信じられないくらい上手です。", 
+                                "Mis alumnos dominan increíblemente bien desde matemáticas hasta literatura.", 
+                                "私[わたし]の 生徒[せいと]は 科学[かがく]から 文学[ぶんがく]<font color=\"#0000ff\">に 至[いた]るまで</font> 信[しん]じられないくらい 上手[じょうず]です。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L6$QC>+2U2", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ファイルを保存しなかったので、今に至るまでのすべてしたことは失くしてしまいました。", 
+                                "No había guardado el archivo así que perdí todo lo que hice hasta ahora inclusive.", 
+                                "ファイルを 保存[ほぞん]しなかったので、 今[いま]<font color=\"#0000ff\">に 至[いた]るまで</font>のすべてしたことは 失[しつ]くしてしまいました。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s-WW-H<6}r", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その法案は大統領＿＿＿反対でした。", 
+                                "Hasta al presidente inclusive estaba en contra de esa ley.", 
+                                "その 法案[ほうあん]は 大統領[だいとうりょう]<font color=\"#0000ff\">に 至[いた]るまで</font> 反対[はんたい]でした。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r:FiAhEs|Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "うちは一人親家庭だったから、父は掃除から、子育て＿＿＿全部一人でやっていました。", 
+                                "Nuestra familia sólo tenía a nuestro padre, así que él era quien hacía todo, desde la limpieza hasta criarnos a nosotros.", 
+                                "うちは一 人[にん] 親[おや] 家庭[かてい]だったから、 父[ちち]は 掃除[そうじ]から、 子育[こそだ]て<font color=\"#0000ff\">に 至[いた]るまで</font> 全部[ぜんぶ]一 人[にん]でやっていました。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ik/yWV<z>.", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に至るまで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "自立すれば店の掃除から経営＿＿＿担当しなければならないから、簡単なことではないよ。", 
+                                "Si te independizas debes hacerte cargo desde la limpieza de la tienda hasta la administración, así no es algo fácil.", 
+                                "自立[じりつ]すれば 店[みせ]の 掃除[そうじ]から 経営[けいえい]<font color=\"#0000ff\">に 至[いた]るまで</font> 担当[たんとう]しなければならないから、 簡単[かんたん]なことではないよ。", 
+                                "に至るまで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vIg^UQ5==V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に至るまで"
+                            ]
                         }
                     ]
                 }
@@ -17894,12 +18062,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
+                "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "に引き換え"
+                "tatoeba", 
+                "に至るまで"
             ], 
             "tmpls": [
                 {
