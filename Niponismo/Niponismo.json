@@ -3755,7 +3755,7 @@
                                 "にいたるまで", 
                                 "hasta... inclusive", 
                                 "(から) + sustantivo + forma gramatical.", 
-                                "Expresión usualmente acompañada por 〜から equivalente a 〜まで que se usa para abarcar tanto un cojunto de cosas como de tiempo. La diferencia es que esta forma indica que se abarcan muchas cosas, a menudo muy distintas y además no se puede usar para expresar distancias.", 
+                                "Expresión usualmente acompañada por 〜から equivalente a 〜まで que se usa para abarcar un cojunto de cosas, tiempo, lugares, etc. Pero a diferencia de 〜まで, esta forma hace énfasis en la cantidad y además no puede ser usado para expresar distancias.", 
                                 "彼[かれ]がアニメからドラマ＿＿＿ 見[み]るのが 好[す]きです。", 
                                 "A él le gusta mirar desde animé hasta series de televisión inclusive.", 
                                 "その 会社[かいしゃ]は 東京[とうきょう]からパリ＿＿＿ 支店[してん]があるらしい。", 
@@ -13086,7 +13086,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Oración"
+                                "Oración", 
+                                "leech"
                             ]
                         }, 
                         {
@@ -17852,7 +17853,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "ファイルを保存しなかったので、今に至るまでのすべてしたことは失くしてしまいました。", 
+                                "ファイルを保存しなかったので、今＿＿＿のすべてしたことは失くしてしまいました。", 
                                 "No había guardado el archivo así que perdí todo lo que hice hasta ahora inclusive.", 
                                 "ファイルを 保存[ほぞん]しなかったので、 今[いま]<font color=\"#0000ff\">に 至[いた]るまで</font>のすべてしたことは 失[しつ]くしてしまいました。", 
                                 "に至るまで"
@@ -17894,9 +17895,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "うちは一人親家庭だったから、父は掃除から、子育て＿＿＿全部一人でやっていました。", 
+                                "うちは一人親家庭だったから、父は掃除から、子育て＿＿＿全部一人でやってくらました。", 
                                 "Nuestra familia sólo tenía a nuestro padre, así que él era quien hacía todo, desde la limpieza hasta criarnos a nosotros.", 
-                                "うちは一 人[にん] 親[おや] 家庭[かてい]だったから、 父[ちち]は 掃除[そうじ]から、 子育[こそだ]て<font color=\"#0000ff\">に 至[いた]るまで</font> 全部[ぜんぶ]一 人[にん]でやっていました。", 
+                                "うちは一 人[にん] 親[おや] 家庭[かてい]だったから、 父[ちち]は 掃除[そうじ]から、 子育[こそだ]て<font color=\"#0000ff\">に 至[いた]るまで</font> 全部[ぜんぶ]一 人[にん]でやってくれました。", 
                                 "に至るまで"
                             ], 
                             "flags": 0, 
