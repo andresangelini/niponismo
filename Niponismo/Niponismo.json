@@ -3778,6 +3778,40 @@
                                 "Niponismo", 
                                 "に至るまで"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に言わせれば/から言わせれば", 
+                                "に 言[い]わせれば/から 言[い]わせれば", 
+                                "にいわせれば/からいわせれば", 
+                                "para / si... preguntas a", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresa la opinión del sujeto representado por el sustantivo. Dicho sujeto puede ser tanto quien habla como alguien más, en cuyo caso el locutor hace una suposición sobre lo que opina dicha persona.", 
+                                "<div>私[わたし]＿＿＿ 君[きみ]は 不良品[ふりょうひん]をつかまされたのだよ。</div>", 
+                                "Si me preguntas, te diría que te vendieron un artículo defectuoso.", 
+                                "近所[きんじょ]の 人[ひと]＿＿＿ 彼[かれ]は 真面目[まじめ]で 勤勉[きんべん]な 隣人[りんじん]だった。", 
+                                "Para la gente del barrio él era un vecino serio y trabajador.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "jvjT+<n-W1", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に言わせれば/から言わせれば"
+                            ]
                         }
                     ]
                 }, 
@@ -17932,6 +17966,132 @@
                                 "Oración", 
                                 "に至るまで"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の野球の腕は確かになかなかのもんだが、私＿＿＿未だ素人に過ぎない。", 
+                                "Él ciertamente tiene habilidad para el béisbol, pero para mi no es más que un novato.", 
+                                "確[たし]かに、 彼[かれ]の 野球[やきゅう]の 腕[うで]は 確[たし]かになかなかのもんだが、 私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font> 未[いま]だ 素人[しろうと]に 過[す]ぎない。", 
+                                "に言わせれば/から言わせれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "CxaE](Zu_K", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に言わせれば/から言わせれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どちらの料理もいい香りがしますが、私＿＿＿こちらの方が美味しいです。", 
+                                "Ambos platos tienen un buen aroma, pero si me preguntas a mi, éste de aquí sabe mejor.", 
+                                "どちらの 料理[りょうり]もいい 香[かお]りがしますが、 私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font>こちらの 方[ほう]が 美味[おい]しいです。", 
+                                "に言わせれば/から言わせれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NpQ=[4p;Lc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に言わせれば/から言わせれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "先生＿＿＿きっとそのニュースは大歓迎です。", 
+                                "Para la prefosora eso seguramente sería una gran noticia.", 
+                                "先生[せんせい]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font>きっとそのニュースは 大[だい] 歓迎[かんげい]です。", 
+                                "に言わせれば/から言わせれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A<o7>w+7q.", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に言わせれば/から言わせれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私＿＿＿田中氏は明らかに最も適当な候補です。", 
+                                "Si me pregunta a mi, Tanaka es claramente el candidato mejor indicado.", 
+                                "私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば </font>田中[たなか] 氏[し]は 明[あき]らかに 最[もっと]も 適当[てきとう]な 候補[こうほ]です。", 
+                                "に言わせれば/から言わせれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N#rX9)9>Ka", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に言わせれば/から言わせれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私＿＿＿、彼女は少し変わっている。", 
+                                "Si me preguntan a mi, ella está un poco loca.", 
+                                "私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font>、 彼女[かのじょ]は 少[すこ]し 変[か]わっている。", 
+                                "に言わせれば/から言わせれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fM<fFA^kv3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に言わせれば/から言わせれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女＿＿＿その選手は未だ勝つ可能性がある。", 
+                                "Para ella ese jugador aún tiene posibilidades de ganar.", 
+                                "彼女[かのじょ]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font>その 選手[せんしゅ]は 未[いま]だ 勝[か]つ 可能[かのう] 性[せい]がある。", 
+                                "に言わせれば/から言わせれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G?>|>E~AZB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に言わせれば/から言わせれば"
+                            ]
                         }
                     ]
                 }
@@ -18066,9 +18226,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "に至るまで"
+                "に言わせれば/から言わせれば"
             ], 
             "tmpls": [
                 {
@@ -18272,7 +18432,8 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "に至るまで"
+                "tatoeba", 
+                "に言わせれば/から言わせれば"
             ], 
             "tmpls": [
                 {
