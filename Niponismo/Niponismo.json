@@ -3788,7 +3788,7 @@
                                 "にいわせれば/からいわせれば", 
                                 "para / si... preguntas a", 
                                 "Sustantivo + forma gramatical.", 
-                                "Expresa la opinión del sujeto representado por el sustantivo. Dicho sujeto puede ser tanto quien habla como alguien más, en cuyo caso el locutor hace una suposición sobre lo que opina dicha persona.", 
+                                "Expresa la opinión del sujeto representado por el sustantivo. Dicho sujeto suele ser el propio locutor pero cuando no lo es, éste afirma saber lo que el sujeto opina.", 
                                 "<div>私[わたし]＿＿＿ 君[きみ]は 不良品[ふりょうひん]をつかまされたのだよ。</div>", 
                                 "Si me preguntas, te diría que te vendieron un artículo defectuoso.", 
                                 "近所[きんじょ]の 人[ひと]＿＿＿ 彼[かれ]は 真面目[まじめ]で 勤勉[きんべん]な 隣人[りんじん]だった。", 
@@ -13936,7 +13936,7 @@
                             "fields": [
                                 "彼は少ない＿＿＿持ち合わせていた金を全部私にくれた。", 
                                 "Él me dio las pocas monedas que tenía consigo.", 
-                                "彼[かれ]は 少[すく]ない<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">ながら（も）</font></span>&nbsp;持ち合[もちあ]わせていた 金[きん]を 全部[ぜんぶ] 私[わたし]にくれた。", 
+                                "彼[かれ]は 少[すく]ない<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">ながら（も）</font></span>&nbsp;持ち合[もちあ]わせていた 金[かね]を 全部[ぜんぶ] 私[わたし]にくれた。", 
                                 "ながら（も）"
                             ], 
                             "flags": 0, 
