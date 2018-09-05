@@ -3812,6 +3812,39 @@
                                 "tatoeba", 
                                 "に言わせれば/から言わせれば"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にかかっている", 
+                                "にかかっている", 
+                                "にかかっている", 
+                                "depender de", 
+                                "Sustantivo o frase + forma gramatical.", 
+                                "Expresión que indica que algo depende del sustantivo o frase precedente y es usada a menudo junto a いかん.", 
+                                "万事[ばんじ]はその 結果[けっか]いかん＿＿＿。", 
+                                "Todo depende de ese resultado.", 
+                                "彼の命は判決いかん＿＿＿。", 
+                                "Su vida depende de la decisión del juez.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "rJDY#]2&eq", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
                         }
                     ]
                 }, 
@@ -18092,6 +18125,300 @@
                                 "Oración", 
                                 "に言わせれば/から言わせれば"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "繁栄は勤勉＿＿＿。", 
+                                "La prosperidad depende del trabajo duro.", 
+                                "繁栄[はんえい]は 勤勉[きんべん]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iZ?|SHD<S.", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の生活は彼女＿＿＿。</div>", 
+                                "Su subsistencia depende de ella.", 
+                                "彼[かれ]の 生活[せいかつ]は 彼女[かのじょ]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Cu%~N+b:2B", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>人質の運命はその交渉の結果＿＿＿。</div>", 
+                                "El destino de los rehenes depende del resultado de las negociaciones.", 
+                                "人質[ひとじち]の 運命[うんめい]はその 交渉[こうしょう]の 結果[けっか]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l&uCK%hVe/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "試合の結果は彼の働き＿＿＿。", 
+                                "El resultado del partido depende de su desempeño.", 
+                                "試合[しあい]の 結果[けっか]は 彼[かれ]の 働[はたら]き<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s8B(tIw5j-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私たちの成功は君の努力＿＿＿。", 
+                                "<div>Nuestro éxito depende de su esfuerzo.</div>", 
+                                "私[わたし]たちの 成功[せいこう]は 君[きみ]の 努力[どりょく]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jtGe:6$zi:", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "国家の繁栄は主としてその青年＿＿＿。", 
+                                "La prosperidad de una nación depende en gran parte de su juventud.", 
+                                "国家[こっか]の 繁栄[はんえい]は 主[しゅ]としてその 青年[せいねん]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L{U5{?h4c5", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>国家の繁栄は市民の手＿＿＿。</div>", 
+                                "La prosperidad de un país depende de sus ciudadanos.", 
+                                "国家[こっか]の 繁栄[はんえい]は 市民[しみん]の 手[て]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "sb:v4h3cXk", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "幸せは境遇そのものよりもむしろ自分の境遇をいかに見るか＿＿＿。", 
+                                "La felicidad no depende tanto de las circunstancias sino de cómo uno mire las cosas.", 
+                                "幸[しあわ]せは 境遇[きょうぐう]そのものよりもむしろ 自分[じぶん]の 境遇[きょうぐう]をいかに 見[み]るか<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zJf(u>7ZMC", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "君の成功は主に好機をいかにして上手に利用するか＿＿＿。", 
+                                "Tu éxito dependerá de cómo tu aproveches las oportunidades.", 
+                                "君[きみ]の 成功[せいこう]は 主[おも]に 好機[こうき]をいかにして 上手[じょうず]に 利用[りよう]するか<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mdZ`)]{e%H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "君の成功は君が一生懸命やるかどうか＿＿＿。", 
+                                "Tu éxito dependerá de si trabajas duro o no.", 
+                                "君[きみ]の 成功[せいこう]は 君[きみ]が 一生懸命[いっしょうけんめい]やるかどうか<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mXD},5%RHB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "君の成功は英検の試験に合格するかどうか＿＿＿。", 
+                                "Tu éxito dependerá de si apruebas o no el examen de STEP.", 
+                                "君[きみ]の 成功[せいこう]は 英[えい] 検[けん]の 試験[しけん]に 合格[ごうかく]するかどうか<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "frCXG+W,~?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "我々の成功は彼が手伝ってくれるかどうか＿＿＿。", 
+                                "Nuestro éxito dependerá de si él nos ayuda o no.", 
+                                "我々[われわれ]の 成功[せいこう]は 彼[かれ]が 手伝[てつだ]ってくれるかどうか<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "LuljnS}=#r", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "すべては君が試験に通るかどうか＿＿＿。", 
+                                "Todo depende de si pasas el examen.", 
+                                "すべては 君[きみ]が 試験[しけん]に 通[とお]るかどうか<font color=\"#0000ff\">にかかっている</font>。", 
+                                "にかかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KQn@}Lu4Z>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "すべては君が何をするかと言う事に＿＿＿。", 
+                                "Todo depende de lo que tu hagas.", 
+                                "すべては 君[きみ]が 何[なに]をするかと 言[い]う 事[こと]<font color=\"#0000ff\">にかかっている</font>。", 
+                                "かかっている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PtT]ADt5+9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかっている"
+                            ]
                         }
                     ]
                 }
@@ -18226,9 +18553,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "に言わせれば/から言わせれば"
+                "tatoeba", 
+                "にかかっている"
             ], 
             "tmpls": [
                 {
@@ -18431,9 +18758,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "tatoeba", 
-                "に言わせれば/から言わせれば"
+                "に掛かっている"
             ], 
             "tmpls": [
                 {
