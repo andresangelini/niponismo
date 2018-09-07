@@ -3845,6 +3845,39 @@
                                 "tatoeba", 
                                 "にかかっている"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "（する）に難くない", 
+                                "（する）に 難[かた]くない", 
+                                "（する）にかたくない", 
+                                "no ser difícil", 
+                                "Sustantivo verbal + forma gramatical.", 
+                                "Expresión de uso formal tanto oral como escrito que indica que algo no es difícil de entender, imaginar o predecir y que usualmente forma parte de una oración de estructura 〜（であろう）ことは + sustantivo verbal + forma gramatical, o &nbsp;如何[いか]に/どれほど〜かは + sustantivo verbal + forma gramatical. El sustantivo verbal puede usarse con o sin する.", 
+                                "その 選手[せんしゅ]の 悔[くや]しさは 理解[りかい]＿＿＿。", 
+                                "No es difícil entender la frustración de ese jugador.", 
+                                "最近の石油の値上がりは経済に影響を与えるであろうことは予測＿＿＿。", 
+                                "No es difícil predecir que la reciente suba en el precio del petróleo impactará a la economía.", 
+                                "両親[りょうしん]を 失[な]くした 時[とき]、 彼女[かのじょ]の 悲[かな]しみは 如何[いか]に 大変[たいへん]だったかは 想像[そうぞう]＿＿＿。", 
+                                "No es difícil de imaginar cuán grande debe haber sido su dolor al perder a ambos padres.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "jv]2Jwb7M$", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "（する）に難くない"
+                            ]
                         }
                     ]
                 }, 
@@ -18403,10 +18436,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "すべては君が何をするかと言う事に＿＿＿。", 
+                                "すべては君が何をするかと言う事＿＿＿。", 
                                 "Todo depende de lo que tu hagas.", 
                                 "すべては 君[きみ]が 何[なに]をするかと 言[い]う 事[こと]<font color=\"#0000ff\">にかかっている</font>。", 
-                                "かかっている"
+                                "にかかっている"
                             ], 
                             "flags": 0, 
                             "guid": "PtT]ADt5+9", 
@@ -18418,6 +18451,153 @@
                                 "Oración", 
                                 "tatoeba", 
                                 "にかかっている"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼がパチンコばかりで借金まみれであろうことは想像＿＿＿。", 
+                                "No es difícil imaginar que él esté tapado de deudas debido a que se la pasa en los pachinko.", 
+                                "彼[かれ]がパチンコばかりで 借金[しゃっきん]まみれであろうことは 想像[そうぞう]<font color=\"#0000ff\">（する）に難くない</font>。", 
+                                "（する）に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "y.1+0Q*WE9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はそのモデルの大ファンだから、ひとつ彼女に近付けて見たのは想像＿＿＿。", 
+                                "Él es una gran admirador de esa modelo así que no es difícil imaginar que haya tratado de acercarse a ella.", 
+                                "彼[かれ]はそのモデルの 大[だい]ファンだから、ひとつ 彼女[かのじょ]に 近付[ちかづ]けて 見[み]たのは 想像[そうぞう]<font color=\"#0000ff\">（する）に 難[かた]くない</font>。", 
+                                "（する）に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G^.a$.eR29", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "傷つけられた後、彼女は彼らと関係したくないのは共感＿＿＿。", 
+                                "No es difícil de entender que ella no quiera tener nada que ver con ellos después de que la hiriecen.", 
+                                "傷[きず]つけられた 後[のち]、 彼女[かのじょ]は 彼[かれ]らと 関係[かんけい]したくないのは 共感[きょうかん]<font color=\"#0000ff\">（する）に 難[かた]くない</font>。", 
+                                "（する）に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "OqxzJ~Q<Ju", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この不況にあって失業率が増えて行くであろうことは予測＿＿＿。", 
+                                "No es difícil predecir un incremento en el desempleo con esta recesión.", 
+                                "この 不況[ふきょう]にあって 失業[しつぎょう] 率[りつ]が 増[ふ]えて 行[い]くであろうことは 予測[よそく]<font color=\"#0000ff\">（する）に 難[かた]くない</font>。", 
+                                "（する）に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q@C}+]M6d3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の痛みは理解＿＿＿。", 
+                                "No es difícil entender su dolor.", 
+                                "彼[かれ]の 痛[いた]みは 理解[りかい]<font color=\"#0000ff\">（する）に 難[かた]くない</font>。", 
+                                "（する）に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tDcj|:8j1]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大切な人を亡くした者の苦しみは察する＿＿＿。", 
+                                "No es difícil adivinar lo qu edebe sentir alguien que perdió a un ser querido.", 
+                                "大切[たいせつ]な 人[ひと]を 亡[な]くした 者[もの]の 苦[くる]しみは 察[さっ]する<font color=\"#0000ff\">に 難[かた]くない</font>。", 
+                                "に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Awx2p8/I1r", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "たった一点で彼が不合格だったことが如何に悔しのかは想像＿＿＿。", 
+                                "No es difícil imaginarse la frustración que debe tener él por no haber aprobador por tan sólo un punto.", 
+                                "たった一 点[てん]で 彼[かれ]が 不[ふ] 合格[ごうかく]だったことが 如何[いかが]に 悔[くや]しのかは 想像[そうぞう]<font color=\"#0000ff\">（する）に 難[かた]くない</font>。", 
+                                "（する）に難くない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QLkBC<Q[OQ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "（する）に難くない"
                             ]
                         }
                     ]
@@ -18553,9 +18733,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "にかかっている"
+                "（する）に難くない"
             ], 
             "tmpls": [
                 {
@@ -18758,8 +18938,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "tatoeba", 
-                "に掛かっている"
+                "Niponismo", 
+                "（する）に難くない"
             ], 
             "tmpls": [
                 {
