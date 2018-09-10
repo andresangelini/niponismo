@@ -3878,6 +3878,39 @@
                                 "Niponismo", 
                                 "（する）に難くない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に纏る", 
+                                "に 纏[まつわ]る", 
+                                "にまつわる", 
+                                "concerniente a", 
+                                "Sustantivo + forma gramatical.", 
+                                "Es una expresión equivalente a &nbsp;関連[かんれん]する que indica una relación entre el sustantivo que lo precede y el resto.", 
+                                "その 会社[かいしゃ]に 纏[まつわ]る 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
+                                "Tenía que contarle al presidente la verdad concerniente a esa compañía.", 
+                                "この 刀[かたな]に 纏[まつわ]る 伝説[でんせつ]が 沢山[たくさん]ある。", 
+                                "Hay muchas leyendas concernientes a esta espada.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "rJ,B_EOh%m", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に纏る"
+                            ]
                         }
                     ]
                 }, 
@@ -15791,7 +15824,7 @@
                             "data": "", 
                             "fields": [
                                 "五年間＿＿＿そのプロジェクトが完成出来ません。", 
-                                "Ni aun cinco años podremos completar ese proyecto.", 
+                                "Ni aun en cinco años podremos completar ese proyecto.", 
                                 "五 年間[ねんかん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">としたところで/にしたところで/としたって/にしたって</font></span>そのプロジェクトが 完成[かんせい] 出来[でき]ません。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
@@ -18599,6 +18632,132 @@
                                 "Oración", 
                                 "（する）に難くない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "さいご·たかもり＿＿＿伝説が未だに伝わっている。", 
+                                "Aún se siguen contando leyendas concernientes a Saigo Takamori.", 
+                                "さいごたかもりに <font color=\"#0000ff\">纏[まつわ]る</font> 伝説[でんせつ]が 未[いま]だに 伝[つた]わっている。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FfAYm=dwG*", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "政府がその問題＿＿＿決断はない。", 
+                                "El gobierno aún no tiene una decisión concerniente a ese problema.", 
+                                "政府[せいふ]がその 問題[もんだい]に <font color=\"#0000ff\">纏[まつわ]る</font> 決断[けつだん]はない。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n;h4&JPM=_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どうしても、お兄さんの事件＿＿＿真相を明らかにしたいです。", 
+                                "Quiero resolver el caso concerniente a tu hermano mayor a como de lugar.", 
+                                "どうしても、お 兄[にい]さんの 事件[じけん]に <font color=\"#0000ff\">纏[まつわ]る</font> 真相[しんそう]を 明[あき]らかにしたいです。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "F+noP8rdv|", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あなたの旅行＿＿＿体験を教えてください。", 
+                                "Cuéntame todas las experiencias concernientes a tu viaje.", 
+                                "あなたの 旅行[りょこう]に <font color=\"#0000ff\">纏[まつわ]る</font>&nbsp;体験[たいけん]を 教[おし]えてください。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wMFo8sBgDK", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "自分の専門＿＿＿経験についてこの用紙に書いてください。", 
+                                "Escriba en este formulario sobre las experiencias concernientes a su especialidad.", 
+                                "自分[じぶん]の 専門[せんもん]に <font color=\"#0000ff\">纏[まつわ]る</font> 経験[けいけん]についてこの 用紙[ようし]に 書[か]いてください。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Lo7@>6.%z5", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "田中のご両親ですか。息子の未来＿＿＿話があります。", 
+                                "¿Son ustedes los padres de Tanaka? Tengo que algo para decirles concerniente al futuro de su hijo.", 
+                                "田中[たなか]のご 両親[りょうしん]ですか。 息子[むすこ]の 未来[みらい]<font color=\"#0000ff\">に 纏[まつ]る</font> 話[はなし]があります。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "La}M{#5:Z%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
                         }
                     ]
                 }
@@ -18735,7 +18894,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "（する）に難くない"
+                "に纏る"
             ], 
             "tmpls": [
                 {
@@ -18939,7 +19098,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "（する）に難くない"
+                "に纏る"
             ], 
             "tmpls": [
                 {
