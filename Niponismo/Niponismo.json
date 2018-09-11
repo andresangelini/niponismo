@@ -3888,7 +3888,7 @@
                                 "にまつわる", 
                                 "concerniente a", 
                                 "Sustantivo + forma gramatical.", 
-                                "Es una expresión equivalente a &nbsp;関連[かんれん]する que indica una relación entre el sustantivo que lo precede y el resto.", 
+                                "Es una expresión equivalente a 〜に 関連[かんれん]する que indica una relación entre el sustantivo que lo precede y el resto.", 
                                 "その 会社[かいしゃ]に 纏[まつわ]る 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
                                 "Tenía que contarle al presidente la verdad concerniente a esa compañía.", 
                                 "この 刀[かたな]に 纏[まつわ]る 伝説[でんせつ]が 沢山[たくさん]ある。", 
@@ -3910,6 +3910,39 @@
                                 "N1", 
                                 "Niponismo", 
                                 "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にも程が有る", 
+                                "にも程[ほど]が 有[あ]る", 
+                                "にもほどがある", 
+                                "tener límite", 
+                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div><div>Adjetivo い o な + forma gramatical.</div>", 
+                                "Expresión usada en forma de crítica para indicar que una situación, actitud, etc. ha cruzado un límite.", 
+                                "世間知[せけんし]らず＿＿＿。 井[い]の 中[なか]の 蛙[かわず] 大海[たいかい]を 知[し]らず、ということかね。", 
+                                "La ignorancia también tiene un límite. Eres como una rana de pozo que no conoce el ocáno.", 
+                                "ばかげた考え＿＿＿。", 
+                                "La estupidez también tiene un límite.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "h^y{zbILn]", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "にも程が有る"
                             ]
                         }
                     ]
@@ -19097,8 +19130,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "に纏る"
+                "tatoeba", 
+                "にも程が有る"
             ], 
             "tmpls": [
                 {
