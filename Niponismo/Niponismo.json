@@ -3889,9 +3889,9 @@
                                 "concerniente a", 
                                 "Sustantivo + forma gramatical.", 
                                 "Es una expresión equivalente a 〜に 関連[かんれん]する que indica una relación entre el sustantivo que lo precede y el resto.", 
-                                "その 会社[かいしゃ]に 纏[まつわ]る 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
+                                "その 会社[かいしゃ]に＿＿＿ 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
                                 "Tenía que contarle al presidente la verdad concerniente a esa compañía.", 
-                                "この 刀[かたな]に 纏[まつわ]る 伝説[でんせつ]が 沢山[たくさん]ある。", 
+                                "この 刀[かたな]に＿＿＿ 伝説[でんせつ]が 沢山[たくさん]ある。", 
                                 "Hay muchas leyendas concernientes a esta espada.", 
                                 "", 
                                 "", 
@@ -3919,7 +3919,7 @@
                                 "にも程が有る", 
                                 "にも程[ほど]が 有[あ]る", 
                                 "にもほどがある", 
-                                "tener límite", 
+                                "también tener límite / no poder ser tan", 
                                 "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div><div>Adjetivo い o な + forma gramatical.</div>", 
                                 "Expresión usada en forma de crítica para indicar que una situación, actitud, etc. ha cruzado un límite.", 
                                 "世間知[せけんし]らず＿＿＿。 井[い]の 中[なか]の 蛙[かわず] 大海[たいかい]を 知[し]らず、ということかね。", 
@@ -7861,7 +7861,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
-                                "andresangelini}", 
+                                "andresangelini", 
                                 "jgram", 
                                 "（の）いかんによらず/（の）いかんにかかわらず"
                             ]
@@ -18791,6 +18791,132 @@
                                 "Oración", 
                                 "に纏る"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "馬鹿なこと言うのは辞めて。冗談＿＿＿。", 
+                                "Deja de decir tonterías. Las bromas también tienen un límite.", 
+                                "馬鹿[ばか]なこと 言[い]うのは 辞[や]めて。 冗談[じょうだん]<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
+                                "にも程が有る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pDSjZa>2K}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にも程が有る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "泣き虫は大嫌い。情けない＿＿＿。", 
+                                "Odio la gente llorona. No se puede ser tan patético.", 
+                                "泣き虫[なきむし]は 大嫌[だいきら]い。 情[なさ]けない<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
+                                "にも程が有る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HO}esT2i)m", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にも程が有る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そんな早く諦めるなんて、無責任＿＿＿。", 
+                                "No se puede ser tan irresponsable y renunciar tan pronto.", 
+                                "そんな 早[はや]く 諦[あきら]めるなんて、 無責任[むせきにん]<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
+                                "にも程が有る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ll~/Ar<E2s", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にも程が有る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お客さんにそんなに失礼なことするなんて、図々しい＿＿＿。", 
+                                "No se puede ser tan descarado de faltarle así el respeto a un cliente.", 
+                                "お 客[きゃく]さんにそんなに 失礼[しつれい]なことするなんて、 図々[ずうずう]しい<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
+                                "にも程が有る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J;<{LU-@?,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にも程が有る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "きっと彼女が彼の言葉に感情を傷つけられた。心無い＿＿＿。", 
+                                "Seguro que ella se sintió herida por sus palabras. Él no puede ser tan inconsiderado.", 
+                                "きっと 彼女[かのじょ]が 彼[かれ]の 言葉[ことば]に 感情[かんじょう]を 傷[きず]つけられた。 心無[こころな]い<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
+                                "にも程が有る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "qn)@N5i74{", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にも程が有る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "トイレに行きたいけどやる気がないから何もしないでそのままに我慢するなんて、＿＿＿。", 
+                                "No se puede ser tan perezoso para aguantarse sin ir al baño sólo porque no te dan las fuerzas.", 
+                                "トイレに 行[い]きたいけどやる 気[き]がないから 何[なに]もしないでそのままに 我慢[がまん]するなんて、 怠け者[なまけもの]<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
+                                "怠け者にも程が有る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yB|VI.8Qel", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にも程が有る"
+                            ]
                         }
                     ]
                 }
@@ -18927,7 +19053,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に纏る"
+                "にも程が有る"
             ], 
             "tmpls": [
                 {
