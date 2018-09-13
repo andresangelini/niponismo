@@ -3919,11 +3919,11 @@
                                 "にも程が有る", 
                                 "にも程[ほど]が 有[あ]る", 
                                 "にもほどがある", 
-                                "también tener límite / no poder ser tan", 
+                                "también tener un límite / no se puede...", 
                                 "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div><div>Adjetivo い o な + forma gramatical.</div>", 
                                 "Expresión usada en forma de crítica para indicar que una situación, actitud, etc. ha cruzado un límite.", 
                                 "世間知[せけんし]らず＿＿＿。 井[い]の 中[なか]の 蛙[かわず] 大海[たいかい]を 知[し]らず、ということかね。", 
-                                "La ignorancia también tiene un límite. Eres como una rana de pozo que no conoce el ocáno.", 
+                                "No se puede ser tan ignorante. Eres como una rana de pozo que no conoce el ocáno.", 
                                 "ばかげた考え＿＿＿。", 
                                 "La estupidez también tiene un límite.", 
                                 "", 
@@ -18901,10 +18901,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "トイレに行きたいけどやる気がないから何もしないでそのままに我慢するなんて、＿＿＿。", 
+                                "トイレに行きたいけどやる気がないから何もしないでそのままに我慢するなんて、怠け者＿＿＿。", 
                                 "No se puede ser tan perezoso para aguantarse sin ir al baño sólo porque no te dan las fuerzas.", 
                                 "トイレに 行[い]きたいけどやる 気[き]がないから 何[なに]もしないでそのままに 我慢[がまん]するなんて、 怠け者[なまけもの]<font color=\"#0000ff\">にも 程[ほど]が 有[あ]る</font>。", 
-                                "怠け者にも程が有る"
+                                "にも程が有る"
                             ], 
                             "flags": 0, 
                             "guid": "yB|VI.8Qel", 
