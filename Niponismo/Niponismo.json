@@ -186,7 +186,7 @@
                                 "ばあいによっては", 
                                 "dependiendo del caso", 
                                 "Forma gramatical + frase.", 
-                                "", 
+                                "Indica que lo que sigue sólo sucede en ciertas ocasiones.", 
                                 "彼[かれ]の 立場[たちば]は 極[きわ]めて 微妙[びみょう]なので、＿＿＿ 首[くび]になるかもしれない。", 
                                 "Su situación es extremadamente delicada y, dependiendo del caso, puede terminar siendo despedido.", 
                                 "", 
@@ -4386,7 +4386,7 @@
                             "fields": [
                                 "肌を日にさらしすぎると、日焼け、＿＿＿水ぶくれになります。", 
                                 "La exposición de la piel al sol puede provocar quemaduras y hasta ampollas, dependiendo del caso.", 
-                                "肌[はだ]を 日[ひ]にさらしすぎると、 日焼[ひや]け、&nbsp;<font color=\"#0000ff\">場合[ばあい]によって</font> 水[みず]ぶくれになります。", 
+                                "肌[はだ]を 日[ひ]にさらしすぎると、 日焼[ひや]け、&nbsp;<font color=\"#0000ff\">場合[ばあい]によっては</font> 水[みず]ぶくれになります。", 
                                 "場合によっては"
                             ], 
                             "flags": 0, 
