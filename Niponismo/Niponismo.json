@@ -3944,6 +3944,39 @@
                                 "tatoeba", 
                                 "にも程が有る"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にもまして", 
+                                "にもまして", 
+                                "にもまして", 
+                                "aún más que", 
+                                "Sustantivo + forma gramatical.", 
+                                "Es un comparativo que se usa para expresar que lo que sigue supera totalmente al sustantivo. Dicho sustantivo suele ser &nbsp;以前[いぜん], &nbsp;誰[だれ], どこ, &nbsp;何[に] o algún otra palabra interrogativa.", 
+                                "桜[さくら]は 以前[いぜん]＿＿＿ 美[うつく]しいですね。", 
+                                "Los cerezos están bellos que nunca, ¿no cree?", 
+                                "土曜日[どようび]はいつ＿＿＿お 客[きゃく]さんが 多[おお]い。", 
+                                "Los sábados hay más clientes que en cualquier otro día.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "J?9Nq>fSR~", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にもまして"
+                            ]
                         }
                     ]
                 }, 
@@ -18917,6 +18950,216 @@
                                 "Oración", 
                                 "にも程が有る"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は何物＿＿＿名誉を重んじる。", 
+                                "Él valora el honor sobre cualquier otra cosa.", 
+                                "彼[かれ]は 何[なに] 物[ぶつ]<font color=\"#0000ff\">にもまして</font> 名誉[めいよ]を 重[おも]んじる。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Gsf1_A.N{u", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は以前＿＿＿勉強しようと決めたのです", 
+                                "Él decidió estudiar aún más duro que antes.", 
+                                "彼[かれ]は 以前[いぜん]<font color=\"#0000ff\">にもまして</font> 勉強[べんきょう]しようと 決[き]めたのです", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hF![OBb.y}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何もの＿＿＿私は健康になりたい。", 
+                                "Lo que más quiero es estar sano.", 
+                                "何[なに]もの<font color=\"#0000ff\">にもまして</font> 私[わたし]は 健康[けんこう]になりたい。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "BMB/a,3.y*", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "トムはいまや以前＿＿＿勤勉に働いている。", 
+                                "Tom trabaja aún más diligentemente que antes.", 
+                                "トムはいまや 以前[いぜん]<font color=\"#0000ff\">にもまして</font> 勤勉[きんべん]に 働[はたら]いている。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jrAoB8sKB/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは誰＿＿＿勝ちたいです。", 
+                                "Ellos quieren ganar más que nadie.", 
+                                "彼[かれ]らは 誰[だれ]<font color=\"#0000ff\">にもまして</font> 勝[か]ちたいです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pxV,<]@v{8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どこ＿＿＿その高級なレストランは値段が高いです。", 
+                                "Los precios en ese restaruante de lujo son más caros que en cualquier otra parte.", 
+                                "どこ<font color=\"#0000ff\">にもまして</font>その 高級[こうきゅう]なレストランは 値段[ねだん]が 高[たか]いです。", 
+                                "いもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zq``G:i{gY", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お母さんにとってあなたの幸せは何＿＿＿大切です。", 
+                                "Para tu madre tu felicidad es más importante que cualquier otra cosa.", 
+                                "お 母[かあ]さんにとってあなたの 幸[しあわ]せは 何[なに]<font color=\"#0000ff\">にもまして</font> 大切[たいせつ]です。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Px,{GaqZM4", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "誰＿＿＿あなたに信用している。", 
+                                "Creo en ti más que nadie en el mundo.", 
+                                "誰[だれ]<font color=\"#0000ff\">にもまして</font>あなたに 信用[しんよう]している。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A`y&~h)_fB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どこ＿＿＿日本に行きたいです。", 
+                                "Quiero ir a Japón más que a ningún otro lado en el mundo.", 
+                                "どこ<font color=\"#0000ff\">にもまして</font> 日本[にっぽん]に 行[い]きたいです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Cm/4k@D[JP", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何時＿＿＿世界中で旅行したいです。", 
+                                "Quiero viajar alrededor del mundo ahora más que nunca.", 
+                                "何[なん] 時[じ]<font color=\"#0000ff\">にもまして</font> 世界中[せかいじゅう]で 旅行[りょこう]したいです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w/KzovKOsu", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
                         }
                     ]
                 }
@@ -19053,7 +19296,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "にも程が有る"
+                "にもまして"
             ], 
             "tmpls": [
                 {
@@ -19256,8 +19499,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "tatoeba", 
-                "にも程が有る"
+                "Niponismo", 
+                "にもまして"
             ], 
             "tmpls": [
                 {
