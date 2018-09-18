@@ -1381,7 +1381,7 @@
                                 "Se usa para cuantificar algo, pero no se debe confundir con el interrogativo いくら.", 
                                 "彼女[かのじょ]が＿＿＿ 努力[どりょく]しようと、 彼[かれ]には 勝[か]てない。", 
                                 "No importa cuánto ella se esfuerce, no le puede ganar.", 
-                                "彼女[かのじょ]がいかに 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。", 
+                                "彼女[かのじょ]が＿＿＿ 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。", 
                                 "Es sorprendente cuán poco ella sabe sobre el mundo.", 
                                 "", 
                                 "", 
@@ -2270,7 +2270,7 @@
                                 "まじき", 
                                 "no ser propio de", 
                                 "<div>ある + forma gramatical.</div>Verbo en forma diccionario + forma gramatical.", 
-                                "Al igual que ～べからず, significa lo mismo que ～てばいけない/～てばならない y ～のは駄目です. Pero a difrencia de éste, se usa para decir que una acción o actitud no está bien para o no es digna de un cargo, posición, rango o título (médico, profesor o cualquier otro profesional). Se usa más que nada para regañar a alguien, usualmente con enojo. Por contraposición, ～べからず se usa más que nada para indicar las cosas que no se deben hacer, como por ejemplo, ゴミを捨てるべからず, y a menudo se ve en carteles.", 
+                                "Al igual que ～べからず, significa lo mismo que ～てはいけない/～てはならない y ～のは駄目です. Pero a difrencia de éste, se usa para decir que una acción o actitud no está bien para o no es digna de un cargo, posición, rango o título (médico, profesor o cualquier otro profesional). Se usa más que nada para regañar a alguien, usualmente con enojo. Por contraposición, ～べからず se usa más que nada para indicar las cosas que no se deben hacer, como por ejemplo, ゴミを捨てるべからず, y a menudo se ve en carteles.", 
                                 "プロとしてある＿＿＿ 行為[こうい]だ。", 
                                 "Esa no es una actitud propia de un profesional.", 
                                 "それはアナウンサーとしてある＿＿＿ 発言[はつげん]だった。", 
@@ -3956,7 +3956,7 @@
                                 "Sustantivo + forma gramatical.", 
                                 "Es un comparativo que se usa para expresar que lo que sigue supera totalmente al sustantivo. Dicho sustantivo suele ser &nbsp;以前[いぜん], &nbsp;誰[だれ], どこ, &nbsp;何[に] o algún otra palabra interrogativa.", 
                                 "桜[さくら]は 以前[いぜん]＿＿＿ 美[うつく]しいですね。", 
-                                "Los cerezos están bellos que nunca, ¿no cree?", 
+                                "Los cerezos están más bellos que nunca, ¿no cree?", 
                                 "土曜日[どようび]はいつ＿＿＿お 客[きゃく]さんが 多[おお]い。", 
                                 "Los sábados hay más clientes que en cualquier otro día.", 
                                 "", 
@@ -3976,6 +3976,39 @@
                                 "N1", 
                                 "Niponismo", 
                                 "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に則って", 
+                                "に 則[のっと]って", 
+                                "にのっとって", 
+                                "cumpliendo con", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión similar a ～に則して pero que se utiliza para indicar que algo se hace cumpliendo con alguna cosa, ya sea una regla, una ley, etc.", 
+                                "日本[にほん]の 神道[しんとう]の 儀式[ぎしき]＿＿＿、 挙式[きょしき]をしたいという 方[かた]がおられれば、この 教会[きょうかい]で 出来[でき]ます。", 
+                                "Si alguna persona quiere celebrar una ceremonia cumpliendo con el ritual sintoísta, sepa que en esta iglesia puede hacerlo.", 
+                                "利益[りえき] 追求[ついきゅう]に 必死[ひっし]のブローカーは、 必[かなら]ずしもルールブックにのっとっているとは 限[かぎ]らないのです。", 
+                                "Los corredores de bolsa desesperados por obtener ganancias no siempre juegan cumpliendo con las reglas.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "dO=g]ees6v", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "に則って"
                             ]
                         }
                     ]
@@ -19063,7 +19096,7 @@
                                 "どこ＿＿＿その高級なレストランは値段が高いです。", 
                                 "Los precios en ese restaruante de lujo son más caros que en cualquier otra parte.", 
                                 "どこ<font color=\"#0000ff\">にもまして</font>その 高級[こうきゅう]なレストランは 値段[ねだん]が 高[たか]いです。", 
-                                "いもまして"
+                                "にもまして"
                             ], 
                             "flags": 0, 
                             "guid": "zq``G:i{gY", 
@@ -19159,6 +19192,174 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本の法律＿＿＿そんなことをしてはいけない。", 
+                                "Eso no se puede hacer cumpliendo las leyes japonesas.", 
+                                "日本[にっぽん]の 法律[ほうりつ]<font color=\"#0000ff\">に 則[のっと]って</font>そんなことをしてはいけない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v}sVLN-xwW", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大学の規則＿＿＿振る舞わなければならない。", 
+                                "Uno debe comportarse cumpliendo con las relgas de la universidad.", 
+                                "大学[だいがく]の 規則[きそく]<font color=\"#0000ff\">に 則[のっと]って</font> 振る舞[ふるま]わなければならない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bTT[lr3fnz", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "このお祭りは古い伝統＿＿＿行っています。", 
+                                "Este festival se lleva a cabo cumpliendo con viejas tradiciones.", 
+                                "このお 祭[まつ]りは 古[ふる]い 伝統[でんとう]<font color=\"#0000ff\">に 則[のっと]って</font> 行[い]っています。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zz5<,)K/rc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "規則＿＿＿行動しなさい。", 
+                                "Actúen cumpliendo las reglas.", 
+                                "規則[きそく]<font color=\"#0000ff\">に 則[のっと]って</font> 行動[こうどう]しなさい。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G#k:e.*dqw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "国家は慣習法＿＿＿行動すべきだ。", 
+                                "Cada país debería actuar cumpliendo las leyes internacionales.", 
+                                "国家[こっか]は 慣習[かんしゅう] 法[ほう]<font color=\"#0000ff\">に 則[のっと]って</font> 行動[こうどう]すべきだ。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q/9:P6X#}k", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "先日の会議で決めたこと＿＿＿進めましょう。", 
+                                "Procedamos cumpliendo con lo que hemos decidido el otro día.", 
+                                "先日[せんじつ]の 会議[かいぎ]で 決[き]めたこと<font color=\"#0000ff\">に 則[のっと]って</font> 進[すす]めましょう。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l0v09YViW/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼が勝手に決めたルール＿＿＿働き続けない。", 
+                                "No podemos seguir trabajando cumpliendo las reglas que él decidió arbitrariamente.", 
+                                "彼[かれ]が 勝手[かって]に 決[き]めたルール<font color=\"#0000ff\">に 則[のっと]って</font> 働[はたら]き 続[つづ]けない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Gj}6kOEDj2", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "交通法案＿＿＿ドライブしなければならない。", 
+                                "Debes conducir cumpliendo las leyes de tránsito.", 
+                                "交通[こうつう] 法案[ほうあん]<font color=\"#0000ff\">に 則[のっと]って</font>ドライブしなければならない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "IcKbT5^vUl", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
                             ]
                         }
                     ]
@@ -19296,7 +19497,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "にもまして"
+                "に則って"
             ], 
             "tmpls": [
                 {
@@ -19499,8 +19700,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "にもまして"
+                "tatoeba", 
+                "に則って"
             ], 
             "tmpls": [
                 {
