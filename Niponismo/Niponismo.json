@@ -3990,7 +3990,7 @@
                                 "Expresión similar a ～に則して pero que se utiliza para indicar que algo se hace cumpliendo con alguna cosa, ya sea una regla, una ley, etc.", 
                                 "日本[にほん]の 神道[しんとう]の 儀式[ぎしき]＿＿＿、 挙式[きょしき]をしたいという 方[かた]がおられれば、この 教会[きょうかい]で 出来[でき]ます。", 
                                 "Si alguna persona quiere celebrar una ceremonia cumpliendo con el ritual sintoísta, sepa que en esta iglesia puede hacerlo.", 
-                                "利益[りえき] 追求[ついきゅう]に 必死[ひっし]のブローカーは、 必[かなら]ずしもルールブックにのっとっているとは 限[かぎ]らないのです。", 
+                                "利益[りえき] 追求[ついきゅう]に 必死[ひっし]のブローカーは、 必[かなら]ずしもルールブック＿＿＿いるとは 限[かぎ]らないのです。", 
                                 "Los corredores de bolsa desesperados por obtener ganancias no siempre juegan cumpliendo con las reglas.", 
                                 "", 
                                 "", 
@@ -11056,9 +11056,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "動物を苛めるのは、許す＿＿＿ことです。", 
-                                "Abusar de los animales es algo inaceptable.", 
-                                "動物[どうぶつ]を 苛[いじ]めるのは、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
+                                "人間として動物を苛めるのは、許す＿＿＿ことです。", 
+                                "Es inaceptable que un humano abuse de los animales.", 
+                                "人間[にんげん]として 動物[どうぶつ]を 苛[いじ]めるのは、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
                                 "まじき"
                             ], 
                             "flags": 0, 
@@ -13552,9 +13552,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "有権者を騙すなんて、許す＿＿＿ことです。", 
-                                "Mentirle a los votantes es algo inaceptable.", 
-                                "有権者[ゆうけんしゃ]を 騙[だま]すなんて、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
+                                "政治家として有権者を騙すなんて、許す＿＿＿ことです。", 
+                                "Mentirle a los votantes es algo inaceptable de un político.", 
+                                "政治家[せいじか] として 有権者[ゆうけんしゃ]を 騙[だま]すなんて、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
                                 "まじき"
                             ], 
                             "flags": 0, 
@@ -19303,9 +19303,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "先日の会議で決めたこと＿＿＿進めましょう。", 
+                                "先日の会議で決めたこと＿＿＿進みましょう。", 
                                 "Procedamos cumpliendo con lo que hemos decidido el otro día.", 
-                                "先日[せんじつ]の 会議[かいぎ]で 決[き]めたこと<font color=\"#0000ff\">に 則[のっと]って</font> 進[すす]めましょう。", 
+                                "先日[せんじつ]の 会議[かいぎ]で 決[き]めたこと<font color=\"#0000ff\">に 則[のっと]って</font> 進[すす]みましょう。", 
                                 "に則って"
                             ], 
                             "flags": 0, 
