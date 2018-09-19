@@ -4010,6 +4010,39 @@
                                 "tatoeba", 
                                 "に則って"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に先駆けて", 
+                                "に 先駆[さきが]けて", 
+                                "にさきがけて", 
+                                "anticiparse a", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión utilizada para indicar que algo o alguien se adelanta al sustantivo convirtiendose así en un precursor o pionero.", 
+                                "我[わ]が 病院[びょういん]は 世界[せかい]に＿＿＿ 心臓移植手術[しんぞういしょくしゅじゅつ]を 行[おこな]いました。", 
+                                "Nuestro hospital se anticipó al resto del mundo realizando el primer transplante de corazón.", 
+                                "双子[ふたご]の 次男[じなん]は 昨日[きのう]お 兄[にい]さん＿＿＿ 歩[ある]けるようになった。", 
+                                "El menor de los gemelos ayer se anticipó a su hermano mayor y aprendió a caminar.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "I;FQ966Jr`", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に先駆けて"
+                            ]
                         }
                     ]
                 }, 
@@ -19361,6 +19394,132 @@
                                 "Oración", 
                                 "に則って"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その会社は他社＿＿＿最初のスマートフォンを開発した。", 
+                                "Esa empresa se anticipó a las demás en el desarrollo del primer teléfono inteligente.", 
+                                "その 会社[かいしゃ]は 他社[たしゃ]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 最初[さいしょ]のスマートフォンを 開発[かいはつ]した。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s{qxM-7Et[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は他の生徒＿＿＿先生の質問を大声で答えた。", 
+                                "Él se anticipó al resto de los estudiantes contestando la pregunta del profesor en voz alta.", 
+                                "彼[かれ]は 他[た]の 生徒[せいと]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 先生[せんせい]の 質問[しつもん]を 大声[おおごえ]で 答[こた]えた。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wLU9y{rS&T", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は救急車＿＿＿被害者に応急手当をしてあげた。", 
+                                "Ella se anticipó a la ambulancia y le dió primeros auxilios a la víctima.", 
+                                "彼女[かのじょ]は 救急[きゅうきゅう] 車[しゃ]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 被害[ひがい] 者[しゃ]に 応急[おうきゅう] 手当[てあて]をしてあげた。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ObRe9v)7jO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その選手は相手＿＿＿ボールをキャッチした。", 
+                                "El jugador se anticipó a su rival deteniendo la pelota.", 
+                                "その 選手[せんしゅ]は 相手[あいて]<font color=\"#0000ff\">に 先駆[さきが]けて</font>ボールをキャッチした。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NdVR4KWw<Z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そのゲームは世界＿＿＿日本で出版されることが決まったそうだ。", 
+                                "Parece que decidieron publicar el juego en Japón anticipándose al resto del mundo.", 
+                                "そのゲームは 世界[せかい]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 日本[にっぽん]で 出版[しゅっぱん]されることが 決[き]まったそうだ。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yyL2OH/*`_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは同僚＿＿＿パーティーの準備を始めることにした。", 
+                                "Ellos decidieron anticiparse a sus compañeros y empezar con los preparativos de la fiesta.", 
+                                "彼[かれ]らは 同僚[どうりょう]<font color=\"#0000ff\">に 先駆[さきが]けて</font>パーティーの 準備[じゅんび]を 始[はじ]めることにした。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ehs|IoEM`$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
                         }
                     ]
                 }
@@ -19493,11 +19652,10 @@
             "sortf": 0, 
             "tags": [
                 "Gramática", 
-                "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に則って"
+                "に先駆けて"
             ], 
             "tmpls": [
                 {
@@ -19700,8 +19858,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "tatoeba", 
-                "に則って"
+                "Niponismo", 
+                "に先駆けて"
             ], 
             "tmpls": [
                 {
