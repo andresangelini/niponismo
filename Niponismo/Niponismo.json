@@ -13939,7 +13939,8 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "ながらに"
+                                "ながらに", 
+                                "にして"
                             ]
                         }, 
                         {
@@ -19553,6 +19554,258 @@
                                 "Oración", 
                                 "に先駆けて"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は仕事ばっかりで、４２歳＿＿＿初めて子供が出来た。", 
+                                "Ella se la pasaba trabajando y tuvo su primer hijo a los 42 años.", 
+                                "彼女[かのじょ]は 仕事[しごと]ばっかりで、４２ 歳[さい]<font color=\"#0000ff\">にして</font> 初[はじ]めて 子供[こども]が 出来[でき]た。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bZl9T5HK*v", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今＿＿＿思えば彼女が全ての言ったことは嘘かもしれないね。", 
+                                "Ahora que lo pienso, todo lo que ella dijo podría ser una mentira.", 
+                                "今[いま]<font color=\"#0000ff\">にして</font> 思[おも]えば 彼女[かのじょ]が 全[すべ]ての 言[い]ったことは 嘘[うそ]かもしれないね。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ese`FVCQYl", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は生まれ＿＿＿偉大な才能に恵まれていた。", 
+                                "Él fue bendecido con un gran talento nato.", 
+                                "彼[かれ]は 生[う]まれ<font color=\"#0000ff\">ながらにして</font> 偉大[いだい]な 才能[さいのう]に 恵[めぐ]まれていた。", 
+                                "ながらにして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QiTGrRW-`V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私は生まれ＿＿＿の天才だ。", 
+                                "Soy un genio nato.", 
+                                "私[わたし]は 生[う]まれ<font color=\"#0000ff\">ながらにして</font>の 天才[てんさい]だ。", 
+                                "ながらにして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "z^$/LaYZs/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "2008年の金融恐慌はその国の経済を一夜＿＿＿崩させた。", 
+                                "La crísis financiera de 2008 hizo derrumbarse la economía de ese país.", 
+                                "2008 年[ねん]の 金融[きんゆう] 恐慌[きょうこう]はその 国[くに]の 経済[けいざい]を 一夜[いちや]<font color=\"#0000ff\">にして</font> 崩[くず]させた。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "i9KPgB[hYh", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は有名な歌手＿＿＿優れた俳優である。", 
+                                "Ella es una cantante famosa y una excelente actriz.", 
+                                "彼女[かのじょ]は 有名[ゆうめい]な 歌手[かしゅ]<font color=\"#0000ff\">にして</font> 優[すぐ]れた 俳優[はいゆう]である。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MzAlFxN|BA", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その教授は素晴らしい著者＿＿＿偉大な講師である。", 
+                                "Ese profesor es un brillante escritor y gran conferencista.", 
+                                "その 教授[きょうじゅ]は 素晴[すば]らしい 著者[ちょしゃ]<font color=\"#0000ff\">にして</font> 偉大[いだい]な 講師[こうし]である。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PC!|pk~a)>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの車は高価＿＿＿不便利である。", 
+                                "Es auto es caro y poco conveniente.", 
+                                "あの 車[くるま]は 高価[こうか<font color=\"#0000ff\">]にして</font> 不[ふ] 便利[べんり]である。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J+X4$H8{T[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの大統領の性格は気高＿＿＿猛々しい。", 
+                                "El carácter del presidente es arrogante y agresiva.", 
+                                "あの 大統領[だいとうりょう]の 性格[せいかく]は 気[き] 高[だか]<font color=\"#0000ff\">にして</font> 猛々[たけだけ]しい。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vIJ:h`={g$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "仕事で彼女の立場は微妙＿＿＿、今にも部長が首を着るかもしれない。", 
+                                "La posición de ella en su trabajo es delicada y puede que su jefe la despida en cualquier momento.", 
+                                "仕事[しごと]で 彼女[かのじょ]の 立場[たちば]は 微妙[びみょう]<font color=\"#0000ff\">にして</font>、 今[いま]にも 部長[ぶちょう]が 首[くび]を 着[き]るかもしれない。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cI(&`?3M|]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この国の総理大臣になる為、思想堅固＿＿＿高潔清廉の人間にならなければならない。", 
+                                "Para ser presidente de esta nación se debe ser una persona de principios, pureza y nobilidad.", 
+                                "この 国[くに]の 総理[そうり] 大臣[だいじん]になる 為[ため]、 思想[しそう] 堅固[けんご]<font color=\"#0000ff\">にして</font> 高潔[こうけつ] 清廉[せいれん]の 人間[にんげん]にならなければならない。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yfahjgQ,S6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この作家の作品は全て不幸＿＿＿とても悲しい。", 
+                                "Las obras de este autor son todas sobre desgracias y tristes.", 
+                                "この 作家[さっか]の 作品[さくひん]は 全[すべ]て 不幸[ふこう]<font color=\"#0000ff\">にして</font>とても 悲[かな]しい。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N:km6T#q;h", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
                         }
                     ]
                 }
@@ -19685,10 +19938,11 @@
             "sortf": 0, 
             "tags": [
                 "Gramática", 
+                "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に先駆けて"
+                "にして"
             ], 
             "tmpls": [
                 {
