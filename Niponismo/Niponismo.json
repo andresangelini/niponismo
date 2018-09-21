@@ -4053,7 +4053,7 @@
                                 "にして", 
                                 "a / en / al / y", 
                                 "<div>Como indicador de tiempo:</div><div><br /></div><div>Cantidad + contador + forma gramatical.</div><div>Sustantivo + forma gramatical.</div><div>Verbo ます + forma gramatical.</div><div><br /></div><div>Como conjunción:</div><div><br /></div><div>Adjetivo な (sin な) + forma gramatical.</div><div>Frase nominal + forma gramatical + frase nominal.</div>", 
-                                "<div>Expresión equivalente a で que cuenta con dos usos distintos:</div><div><br /></div>- Indicar un punto o etapa en la vida en el que se toma o ocurre cierta acción inesperada, así como hablar de dos acciones o acontecimientos coexistentes cuyo uso se limita únicamente a los verbos &nbsp;居[い]る y &nbsp;生[う]まれる, en cuyo caso esta forma gramatical no puede ser reemplazada por で, al igual que cuando se usa junto a &nbsp;今[いま]. Si bien esta es una expresión de uso escrito, la frase &nbsp;今[いま]にして 思[おも]えば (\"ahora que lo pienso\") se usa también en el habla.<div>- Unir dos frases entre sustantivos o adjetivos な al igual que \"y\" en el español. En este caso sólo se puede usar una vez por oración ni tampoco se puede usar con ajdetivos い. También puede terminar en una ajdetivo な sin un sustantivo al que modificar pero es más común que sí lo tenga. No se debe confundir con los adverbios de forma adjetivo な + forma gramatical como 幸い + forma gramatical o 不幸 + forma gramatical ya que no guardan relación con esta expresión.</div>", 
+                                "<div>Expresión equivalente a で que cuenta con dos usos distintos:</div><div><br /></div>- Indicar un punto o etapa en la vida en el que se toma o ocurre cierta acción inesperada, así como hablar de dos acciones o acontecimientos coexistentes cuyo uso se limita únicamente a los verbos &nbsp;居[い]る y &nbsp;生[う]まれる, en cuyo caso esta forma gramatical no puede ser reemplazada por で, al igual que cuando se usa junto a &nbsp;今[いま]. Si bien esta es una expresión de uso escrito, la frase &nbsp;今[いま]＿＿＿ 思[おも]えば (\"ahora que lo pienso\") se usa también en el habla.<div>- Unir dos frases entre sustantivos o adjetivos な al igual que \"y\" en el español. En este caso sólo se puede usar una vez por oración y no puede ir acompañado por ajdetivos い. También puede terminar en una ajdetivo な sin un sustantivo al que modificar pero es más común que sí lo tenga. No se debe confundir con los adverbios de forma adjetivo な + forma gramatical como 幸い + forma gramatical o 不幸 + forma gramatical ya que no guardan relación con esta expresión.</div>", 
                                 "自分[じぶん]の 仕事[しごと]を 守[まも]らなければ 一夜[いちや]＿＿＿ 実業[じつぎょう]になるかもしれない。", 
                                 "Si no cuidas tu trabajo puedes quedar desempleado de la noche a la mañana.", 
                                 "彼女[かのじょ]は４０ 歳[さい]＿＿＿ 始[はじ]めて 働[はたらき]き 始[はじ]めた。", 
@@ -4061,7 +4061,7 @@
                                 "現在[げんざい]はインターネットのおかげで 家[いえ]に 居[い]ながら＿＿＿ 如何[いか]なる 欲[ほ]しいものが 買[か]うことが 出来[でき]る。", 
                                 "Hoy en día podemos comprar lo que queramos estando en casa gracias a Internet.", 
                                 "彼[かれ]が 偉大[いだい]な 研究者[けんきゅうしゃ]＿＿＿ 優[すぐ]れた 外科医[げかい]である。", 
-                                "Él es un gran investigador y excellente cirujano.", 
+                                "Él es un gran investigador y excelente cirujano.", 
                                 "", 
                                 ""
                             ], 
@@ -17458,10 +17458,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼の言うことは一言も聞く＿＿＿。", 
+                                "彼の言うことは一言も聞く＿＿＿ない。", 
                                 "Nada de lo que él dice merece la pena escuchar.", 
-                                "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#0000ff\">に 値[あたい]しない</font>。", 
-                                "に値しない"
+                                "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#0000ff\">に 値[あたい]し</font>ない。", 
+                                "に値し"
                             ], 
                             "flags": 0, 
                             "guid": "rcgMH.+[IF", 
