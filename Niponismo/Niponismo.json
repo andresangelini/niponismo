@@ -4076,6 +4076,39 @@
                                 "Niponismo", 
                                 "にして"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に即して", 
+                                "に 即[そく]して", 
+                                "にそくして", 
+                                "conforme a / conforme con", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión que indica que lo que sigue a continuación va de acuerdo con el sustantivo.", 
+                                "我社は現在の経済＿＿＿新しい企画を立てなければばらない。", 
+                                "Nuestra compañía debe crear un nuevo plan conforme a la economía actual.", 
+                                "マニュアルに指摘されたステップ＿＿＿進みましょう。", 
+                                "Procedamos conforme a los pasos indicados en el manual.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "r?L)QlyT.|", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に即して"
+                            ]
                         }
                     ]
                 }, 
@@ -19806,6 +19839,132 @@
                                 "Oración", 
                                 "にして"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の伝記は全くの事実＿＿＿書かれたものだ。", 
+                                "Su biografía va completamente de acuerdo con los hechos.", 
+                                "彼[かれ]の 伝記[でんき]は 全[まった]くの 事実[じじつ]<font color=\"#0000ff\">に 即[そく]して</font> 書[か]かれたものだ。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N`6)y*O8gW", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "客観的になる為、新聞は事実＿＿＿確かな情報を提供すべきだ。", 
+                                "Un diario debe reportar las noticias conforme a los hechos para ser objetivo.", 
+                                "客観[きゃっかん] 的[てき]になる 為[ため]、 新聞[しんぶん]は 事実[じじつ]<font color=\"#0000ff\">に 即[そく]して</font> 確[たし]かな 情報[じょうほう]を 提供[ていきょう]すべきだ。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cw@=8F-#kc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "旅行の計画は経済事情＿＿＿立たないと。", 
+                                "Tenemos que planear nuestro viaje conforme a nuestra situación económica.", 
+                                "旅行[りょこう]の 計画[けいかく]は 経済[けいざい] 事情[じじょう]<font color=\"#0000ff\">に 即[そく]して</font> 立[た]たないと。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q(XQ.K?_fK", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "現実＿＿＿物事を考えしましょうよ。", 
+                                "Pensemos las cosas conformes a la realidad.", 
+                                "現実[げんじつ]<font color=\"#0000ff\">に 即[そく]して</font> 物事[ものごと]を 考[かんが]えしましょうよ。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mSj9}PQ6ya", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "違反者は違反＿＿＿処分される。", 
+                                "Los infractores serán procesados conforme a infracción que cometieron.", 
+                                "違反[いはん] 者[しゃ]はどんな 違反[いはん]<font color=\"#0000ff\">に 即[そく]して</font> 処分[しょぶん]される。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v?UXbq2#n3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女の体の調子＿＿＿治療を受けます。", 
+                                "Ella recibirá un tratamiento conforme a su condición física.", 
+                                "彼女[かのじょ]の 体[からだ]の 調子[ちょうし]<font color=\"#0000ff\">に 即[そく]して</font> 治療[ちりょう]を 受[う]けます。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "eUlWvhZL~>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
                         }
                     ]
                 }
@@ -19940,9 +20099,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "にして"
+                "tatoeba", 
+                "に即して"
             ], 
             "tmpls": [
                 {
@@ -20146,7 +20305,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "にして"
+                "に即して"
             ], 
             "tmpls": [
                 {
