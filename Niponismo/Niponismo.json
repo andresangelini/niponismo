@@ -4155,7 +4155,7 @@
                                 "にたえない/にたえない", 
                                 "no merecer / no valer la pena / no ser digno de / no aguantar / no soportar / no tolerar / no resistir / no poder", 
                                 "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
-                                "Esta expresión es la opuesta de に耐える/に堪える por lo que se usa tanto para indicar que:<div><br /></div><div>- Una cosa o acción no merce o no vale la pena, o que algo o alguien no es digno de una acción a algo. Equivale a に 値[あたい]する y se escribe con &nbsp;耐[た].</div><div>- No se aguanta o soporta (más) algo o hacer alguna cosa porque es muy duro, difícil, aburrido, etc. Suele ir junto a palabras como &nbsp;聞[み]く, &nbsp;見[み]る, &nbsp;読[よ]む y &nbsp;傾聴[けいちょう] y se escribe con &nbsp;耐[た].</div><div>- No se puede aguantar o resistir una emoción. En este último sentido se suele usar junto a palabras como 感謝[かんしゃ], &nbsp;同情[どうじょう], &nbsp;遺憾[いかん], &nbsp;感激[かんげき], &nbsp;喜[よろこ]び, &nbsp;後悔[こうかい] y ··· 念[ねん] y se escribe con &nbsp;堪[た].</div>", 
+                                "Esta expresión se usa para indicar que:<div><br /></div><div>- Una cosa o acción no merce o no vale la pena, o que algo o alguien no es digno de una acción o de algo. Equivale a に 値[あたい]する y se escribe con &nbsp;耐[た].</div><div>- No se aguanta o soporta (más) algo o hacer alguna cosa porque es muy duro, difícil, aburrido, etc. Suele ir junto a palabras como &nbsp;聞[み]く, &nbsp;見[み]る, &nbsp;読[よ]む y &nbsp;傾聴[けいちょう] y se escribe con &nbsp;耐[た].</div><div>- No se puede aguantar o resistir una emoción. En este último sentido se suele usar junto a palabras como &nbsp;感謝[かんしゃ], &nbsp;同情[どうじょう], &nbsp;遺憾[いかん], &nbsp;感激[かんげき], &nbsp;喜[よろこ]び, &nbsp;後悔[こうかい] y ··· 念[ねん] y se escribe con &nbsp;堪[た].</div>", 
                                 "その 映画[えいが]はつまらなくて 見[み]る＿＿＿。", 
                                 "No aguanté ver esa película de lo aburrida que era.", 
                                 "戦場は 見[み]る＿＿＿ 光景[こうけい]だった。", 
@@ -4229,9 +4229,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "母は立派に悲しみに＿＿＿きた。", 
+                                "母は立派に悲しみ＿＿＿きた。", 
                                 "Mi madre ha soportado la melancolía de manera admirable.", 
-                                "母[はは]は 立派[りっぱ]に 悲[かな]しみに<font color=\"#0000ff\"> 耐[た]えて</font>きた。", 
+                                "母[はは]は 立派[りっぱ]に 悲[かな]しみ<font color=\"#0000ff\">に</font><font color=\"#0000ff\"> 耐[た]えて</font>きた。", 
                                 "に耐えて"
                             ], 
                             "flags": 0, 
@@ -4296,7 +4296,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼は多くの試練＿＿＿なければならなかった。</div>", 
-                                "El tuvo que soportar muchas pruebas.", 
+                                "Él tuvo que soportar muchas pruebas.", 
                                 "彼[かれ]は 多[おお]くの 試練[しれん]<font color=\"#0000ff\">に 耐[た]え</font>なければならなかった。", 
                                 "に耐え"
                             ], 
