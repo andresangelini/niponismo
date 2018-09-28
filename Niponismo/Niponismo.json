@@ -4109,6 +4109,649 @@
                                 "Niponismo", 
                                 "に即して"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に耐える/に堪える", 
+                                "に 耐[た]える/に 堪[た]える", 
+                                "にたえる/にたえる", 
+                                "merecer / valer la pena / ser digno de / aguantar / soportar / tolerar / resistir / poder", 
+                                "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Expresión con dos significados y usos principales:<div><br /></div><div>-&nbsp;Indicar al igual que に 値[あたい]する que una cosa o acción vale la pena o que algo o alguien es digno de o merece tal cosa. Usualmente se usa junto a palabras como &nbsp;見[み]る, &nbsp;聞[き]く, &nbsp;鑑賞[かんしょう], &nbsp;評価[ひょうか] y &nbsp;批判[ひはん].</div><div>- Indicar que una cosa o persona soporta o aguanta algo. En este caso, &nbsp;si ese algo es un factor externo se escribe con &nbsp;耐[た] y si es interno como &nbsp;感情[かんじょう], &nbsp;喜[よろこ]び y &nbsp;悲[かな]しみ, entonces escribe con &nbsp;堪[た].</div>", 
+                                "この 図書館[としょかん]には 読[よ]む＿＿＿ 本[ほん]が 多[おお]い。", 
+                                "En esta bibliotecta hay un montón de libros que valen la pena leer.", 
+                                "本当[ほんとう]に 献身的[けんしんてき]な 女子[じょし]のみがこの 仕事[しごと]＿＿＿。", 
+                                "Sólo las chicas verdaderamente dedicadas pueden soportar este trabajo.", 
+                                "彼女[かのじょ]は 夫[おっと]を 失[な]くす 悲[かな]しみ＿＿＿。", 
+                                "Ella soportó la tristeza de perder a su marido.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "N>>KVWDf~v", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に", 
+                                "にたえる", 
+                                "に堪える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に耐えない/に堪えない", 
+                                "に耐えない/に堪えない", 
+                                "にたえない/にたえない", 
+                                "no merecer / no valer la pena / no ser digno de / no aguantar / no soportar / no tolerar / no resistir / no poder", 
+                                "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Esta expresión es la opuesta de に耐える/に堪える por lo que se usa tanto para indicar que:<div><br /></div><div>- Una cosa o acción no merce o no vale la pena, o que algo o alguien no es digno de una acción a algo. Equivale a に 値[あたい]する y se escribe con &nbsp;耐[た].</div><div>- No se aguanta o soporta (más) algo o hacer alguna cosa porque es muy duro, difícil, aburrido, etc. Suele ir junto a palabras como &nbsp;聞[み]く, &nbsp;見[み]る, &nbsp;読[よ]む y &nbsp;傾聴[けいちょう] y se escribe con &nbsp;耐[た].</div><div>- No se puede aguantar o resistir una emoción. En este último sentido se suele usar junto a palabras como 感謝[かんしゃ], &nbsp;同情[どうじょう], &nbsp;遺憾[いかん], &nbsp;感激[かんげき], &nbsp;喜[よろこ]び, &nbsp;後悔[こうかい] y ··· 念[ねん] y se escribe con &nbsp;堪[た].</div>", 
+                                "その 映画[えいが]はつまらなくて 見[み]る＿＿＿。", 
+                                "No aguanté ver esa película de lo aburrida que era.", 
+                                "戦場は 見[み]る＿＿＿ 光景[こうけい]だった。", 
+                                "No pude soportar ver el campo de batalla.", 
+                                "子供[こども]が 始[はじ]めて 歩[ある]いて、 親[おや]として 喜[よろこ]び＿＿＿。", 
+                                "Como padre no me aguanto de la alegría porque mi hijo haya caminado por primera vez.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "L|$$BYc2Qw", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にたえない", 
+                                "に堪えない", 
+                                "に耐えない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "理論がそのような試練＿＿＿生き残るのは難しい。", 
+                                "Es difícil para una teoría sobrevivir a una prueba así.", 
+                                "理論[りろん]がそのような 試練[しれん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に耐えて</font></span>&nbsp;生き残[いきのこ]るのは 難[むずか]しい。", 
+                                "に耐えて"
+                            ], 
+                            "flags": 0, 
+                            "guid": ",9tl%<t^H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "本を読み、考えを話し合うことで、知恵や異なるアイデア＿＿＿ことを学ぶことができる。", 
+                                "Leyendo e intercambiando opiniones, uno adquiere sabiduría y aprende a tolerar diferentes puntos de vista.", 
+                                "本[ほん]を 読[よ]み、 考[かんが]えを 話し合[はなしあ]うことで、 知恵[ちえ]や 異[こと]なるアイデア<font color=\"#0000ff\">に 耐[た]える</font>ことを 学[まな]ぶことができる。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Iq+lyFd/1O", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "母は立派に悲しみに＿＿＿きた。", 
+                                "Mi madre ha soportado la melancolía de manera admirable.", 
+                                "母[はは]は 立派[りっぱ]に 悲[かな]しみに<font color=\"#0000ff\"> 耐[た]えて</font>きた。", 
+                                "に耐えて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "f1N51s<1]S", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼女は逞しく逆境＿＿＿。</div>", 
+                                "Ella soportó las adversidades de una manera formidable.", 
+                                "彼女[かのじょ]は 逞[たくま]しく 逆境[ぎゃっきょう]<font color=\"#0000ff\">に 耐[た]えた</font>。", 
+                                "に耐えた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lM=deGL84n", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は涙ひとつこぼさずに悲しみ＿＿＿。", 
+                                "Ella soportó la tristeza sin derramar ni una sola lágrima.", 
+                                "彼女[かのじょ]は 涙[なみだ]ひとつこぼさずに 悲[かな]しみに<font color=\"#0000ff\"> 耐[た]えた</font>。", 
+                                "に耐えた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "<)U-1h(;H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は多くの試練＿＿＿なければならなかった。</div>", 
+                                "El tuvo que soportar muchas pruebas.", 
+                                "彼[かれ]は 多[おお]くの 試練[しれん]<font color=\"#0000ff\">に 耐[た]え</font>なければならなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A)<nJF>H$,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は年寄りだが、まだその仕事＿＿＿られる。", 
+                                "Aunque es mayor, él puede soportar el trabajo.", 
+                                "彼[かれ]は 年寄[としよ]りだが、まだその 仕事[しごと]<font color=\"#0000ff\">に 耐[た]え</font>られる。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bn;WwbB1&@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その書店には読む＿＿＿本が本当にありますか。", 
+                                "¿Hay realmente un libro que valga la pena leer en esa librería?", 
+                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 本[ほん]が 本当[ほんとう]にありますか。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A;j^`h*F7]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その監督は見る＿＿＿映画が一つさえもない。", 
+                                "Ese director no tiene ni una película que valga la pena ver.", 
+                                "その 監督[かんとく]は 見[み]る<font color=\"#0000ff\">に 耐[た]える</font> 映画[えいが]が 一[ひと]つさえもない。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xbkZ7pQ-3g", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その著者は読む＿＿＿作品が多いから、図書館員に聞いてみて。", 
+                                "Es autor tiene muchas obras que valen la pena leer, así que por él pregunta al bibliotecario.", 
+                                "その 著者[ちょしゃ]は 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 作品[さくひん]が 多[おお]いから、 図書館[としょかん] 員[いん]に 聞[き]いてみて。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B4jv5Qrz6)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの画家は鑑賞＿＿＿作品があまりがないから、名前が聞いていないのは予測に難くない。", 
+                                "Ese pintor no tiene muchas obras que valgan la pena apreciar, así que no me sorprende que no lo conozcas.", 
+                                "あの 画家[がか]は 鑑賞[かんしょう]<font color=\"#0000ff\">に 耐[た]える</font> 作品[さくひん]があまりがないから、 名前[なまえ]が 聞[き]いていないのは 予測[よそく]に 難[かた]くない。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lf;:3K40}h", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この商品はお客様の評価＿＿＿ものだ。", 
+                                "Este producto es digno de la reputación que le han dado nuestros clientes.", 
+                                "この 商品[しょうひん]はお 客様[きゃくさま]の 評価[ひょうか]<font color=\"#0000ff\">に 耐[た]える</font>ものだ。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r,P^N]]GgL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "信頼＿＿＿人に絶対にこの秘密をばらさないで", 
+                                "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
+                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]える</font> 人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "M%n^qvSE//", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの有名なレストランは批判＿＿＿ものだ。", 
+                                "Ese famoso restaurante es digno de sus críticas.", 
+                                "あの 有名[ゆうめい]なレストランは 批判[ひはん]<font color=\"#0000ff\">に 耐[た]える</font>ものだ。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PVWmYe.yA`", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "夏は好きだけど、暑さ＿＿＿られない。", 
+                                "Me gusta el verano, pero no puedo soportar el calor.", 
+                                "夏[なつ] は 好[す]きだけど、 暑[あつ]さ<font color=\"#0000ff\">に 耐[た]え</font>られない。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H?v!4fr7O:", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える/に堪える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は彼女と別れていること＿＿＿られなかった。", 
+                                "No aguantaba estar separado de ella.", 
+                                "彼[かれ]は 彼女[かのじょ]と 別[わか]れていること<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AcUC^6@kiB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は自分の犬があの残忍な男に売られると考えるの＿＿＿られなかった。", 
+                                "Él no podía soportar el pensar que su perro fuera vendido a ese cruel hombre.", 
+                                "彼[かれ]は 自分[じぶん]の 犬[いぬ]があの 残忍[ざんにん]な 男[おとこ]に 売[う]られると 考[かんが]えるの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ht`[4uUm}@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はそんなに長く待たされるの＿＿＿れなかった。", 
+                                "No podía soportar que le hicieran esperar tanto.", 
+                                "彼[かれ]はそんなに 長[なが]く 待[ま]たされるの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐えら"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wnRI5Vhe(F", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はその光景を見るの＿＿＿られなかった。", 
+                                "Él no podía soportar ver esa escena.", 
+                                "彼[かれ]はその 光景[こうけい]を 見[み]るの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tm6=OBl`pN", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の活躍は批判＿＿＿ないものです。", 
+                                "Su actuación no merece siquiera ser criticada.", 
+                                "彼[かれ]の 活躍[かつやく]は 批判[ひはん]<font color=\"#0000ff\">に 耐[た]え</font>ないものです。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Hb;=3l[h.l", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "聞く＿＿＿ない意見に興味がない。", 
+                                "No me interesan las opiniones que no valen la pena.", 
+                                "聞[き]く<font color=\"#0000ff\">に 耐[た]え</font>ない 意見[いけん]に 興味[きょうみ]がない。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d8m{=eQO0@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "テレビでは見る＿＿＿ないものばっかり。", 
+                                "En la televisión sólo pasan cosas que ni valen la pena.", 
+                                "テレビでは 見[み]る<font color=\"#0000ff\">に 耐[た]え</font>ないものばっかり。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "b;(Hyr]!)W", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "鈴木さんはこの間大変お世話になりました。感謝の念＿＿＿ません。", 
+                                "Suzuki nos ha tratado muy bien el otro día. Le estamos profundamente agradecidos.", 
+                                "鈴木[すずき]さんはこの 間[かん] 大変[たいへん]お 世話[せわ]になりました。 感謝[かんしゃ]の 念[ねん]<font color=\"#0000ff\">に 堪[こた]え</font>ません。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Et(7br~Tup", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本のチームは勝って喜び＿＿＿なかった。", 
+                                "No podía contener la alegría por la victoria del equipo japonés.", 
+                                "日本[にっぽん]のチームは 勝[か]って 喜[よろこ]び<font color=\"#0000ff\">に 堪[こた]え</font>なかった。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QjZv>}=D@D", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "曾てピザを食べてみなかったことは後悔の念＿＿＿ない。", 
+                                "Me arrepiento profundamente no haber probado pizza antes.", 
+                                "曾てピザを 食[た]べてみなかったことは 後悔[こうかい]の 念[ねん]<font color=\"#0000ff\">に 堪[こた]え</font>ない。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v$+o*/Y[LV", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "田中さんはやっとここにこられて感激＿＿＿ない。", 
+                                "No puedo contener mi emoción de que Tanaka finalmente puede venir.", 
+                                "田中[たなか]さんはやっとここにこられて 感激[かんげき]<font color=\"#0000ff\">に 堪[こた]え</font>ない。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lyc,0|C_vi", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
                         }
                     ]
                 }, 
@@ -20099,9 +20742,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "に即して"
+                "にたえる", 
+                "に耐える"
             ], 
             "tmpls": [
                 {
@@ -20305,7 +20949,9 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "に即して"
+                "にたえない", 
+                "に堪えない", 
+                "に耐えない"
             ], 
             "tmpls": [
                 {
