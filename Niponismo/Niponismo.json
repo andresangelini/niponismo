@@ -186,7 +186,7 @@
                                 "ばあいによっては", 
                                 "dependiendo del caso", 
                                 "Forma gramatical + frase.", 
-                                "", 
+                                "Indica que lo que sigue sólo sucede en ciertas ocasiones.", 
                                 "彼[かれ]の 立場[たちば]は 極[きわ]めて 微妙[びみょう]なので、＿＿＿ 首[くび]になるかもしれない。", 
                                 "Su situación es extremadamente delicada y, dependiendo del caso, puede terminar siendo despedido.", 
                                 "", 
@@ -1381,7 +1381,7 @@
                                 "Se usa para cuantificar algo, pero no se debe confundir con el interrogativo いくら.", 
                                 "彼女[かのじょ]が＿＿＿ 努力[どりょく]しようと、 彼[かれ]には 勝[か]てない。", 
                                 "No importa cuánto ella se esfuerce, no le puede ganar.", 
-                                "彼女[かのじょ]がいかに 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。", 
+                                "彼女[かのじょ]が＿＿＿ 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。", 
                                 "Es sorprendente cuán poco ella sabe sobre el mundo.", 
                                 "", 
                                 "", 
@@ -2270,7 +2270,7 @@
                                 "まじき", 
                                 "no ser propio de", 
                                 "<div>ある + forma gramatical.</div>Verbo en forma diccionario + forma gramatical.", 
-                                "Al igual que ～べからず, significa lo mismo que ～てばいけない/～てばならない y ～のは駄目です. Pero a difrencia de éste, se usa para decir que una acción o actitud no está bien para o no es digna de un cargo, posición, rango o título (médico, profesor o cualquier otro profesional). Se usa más que nada para regañar a alguien, usualmente con enojo. Por contraposición, ～べからず se usa más que nada para indicar las cosas que no se deben hacer, como por ejemplo, ゴミを捨てるべからず, y a menudo se ve en carteles.", 
+                                "Al igual que ～べからず, significa lo mismo que ～てはいけない/～てはならない y ～のは駄目です. Pero a difrencia de éste, se usa para decir que una acción o actitud no está bien para o no es digna de un cargo, posición, rango o título (médico, profesor o cualquier otro profesional). Se usa más que nada para regañar a alguien, usualmente con enojo. Por contraposición, ～べからず se usa más que nada para indicar las cosas que no se deben hacer, como por ejemplo, ゴミを捨てるべからず, y a menudo se ve en carteles.", 
                                 "プロとしてある＿＿＿ 行為[こうい]だ。", 
                                 "Esa no es una actitud propia de un profesional.", 
                                 "それはアナウンサーとしてある＿＿＿ 発言[はつげん]だった。", 
@@ -3889,9 +3889,9 @@
                                 "concerniente a", 
                                 "Sustantivo + forma gramatical.", 
                                 "Es una expresión equivalente a 〜に 関連[かんれん]する que indica una relación entre el sustantivo que lo precede y el resto.", 
-                                "その 会社[かいしゃ]に＿＿＿ 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
+                                "その 会社[かいしゃ]＿＿＿ 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
                                 "Tenía que contarle al presidente la verdad concerniente a esa compañía.", 
-                                "この 刀[かたな]に＿＿＿ 伝説[でんせつ]が 沢山[たくさん]ある。", 
+                                "この 刀[かたな]＿＿＿ 伝説[でんせつ]が 沢山[たくさん]ある。", 
                                 "Hay muchas leyendas concernientes a esta espada.", 
                                 "", 
                                 "", 
@@ -3943,6 +3943,814 @@
                                 "N1", 
                                 "tatoeba", 
                                 "にも程が有る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にもまして", 
+                                "にもまして", 
+                                "にもまして", 
+                                "aún más que", 
+                                "Sustantivo + forma gramatical.", 
+                                "Es un comparativo que se usa para expresar que lo que sigue supera totalmente al sustantivo. Dicho sustantivo suele ser &nbsp;以前[いぜん], &nbsp;誰[だれ], どこ, &nbsp;何[に] o algún otra palabra interrogativa.", 
+                                "桜[さくら]は 以前[いぜん]＿＿＿ 美[うつく]しいですね。", 
+                                "Los cerezos están más bellos que nunca, ¿no cree?", 
+                                "土曜日[どようび]はいつ＿＿＿お 客[きゃく]さんが 多[おお]い。", 
+                                "Los sábados hay más clientes que en cualquier otro día.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "J?9Nq>fSR~", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に則って", 
+                                "に 則[のっと]って", 
+                                "にのっとって", 
+                                "cumpliendo con", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión similar a ～に即して pero que se utiliza para indicar que algo se hace cumpliendo con alguna cosa, ya sea una regla, una ley, etc.", 
+                                "日本[にほん]の 神道[しんとう]の 儀式[ぎしき]＿＿＿、 挙式[きょしき]をしたいという 方[かた]がおられれば、この 教会[きょうかい]で 出来[でき]ます。", 
+                                "Si alguna persona quiere celebrar una ceremonia cumpliendo con el ritual sintoísta, sepa que en esta iglesia puede hacerlo.", 
+                                "利益[りえき] 追求[ついきゅう]に 必死[ひっし]のブローカーは、 必[かなら]ずしもルールブック＿＿＿いるとは 限[かぎ]らないのです。", 
+                                "Los corredores de bolsa desesperados por obtener ganancias no siempre juegan cumpliendo con las reglas.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "dO=g]ees6v", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に先駆けて", 
+                                "に 先駆[さきが]けて", 
+                                "にさきがけて", 
+                                "anticiparse a", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión utilizada para indicar que algo o alguien se adelanta al sustantivo convirtiendose así en un precursor o pionero.", 
+                                "我[わ]が 病院[びょういん]は 世界[せかい]＿＿＿ 心臓移植手術[しんぞういしょくしゅじゅつ]を 行[おこな]いました。", 
+                                "Nuestro hospital se anticipó al resto del mundo realizando el primer transplante de corazón.", 
+                                "双子[ふたご]の 次男[じなん]は 昨日[きのう]お 兄[にい]さん＿＿＿ 歩[ある]けるようになった。", 
+                                "El menor de los gemelos ayer se anticipó a su hermano mayor y aprendió a caminar.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "I;FQ966Jr`", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にして", 
+                                "にして", 
+                                "にして", 
+                                "a / en / al / y", 
+                                "<div>Como indicador de tiempo:</div><div><br /></div><div>Cantidad + contador + forma gramatical.</div><div>Sustantivo + forma gramatical.</div><div>Verbo ます + forma gramatical.</div><div><br /></div><div>Como conjunción:</div><div><br /></div><div>Adjetivo な (sin な) + forma gramatical.</div><div>Frase nominal + forma gramatical + frase nominal.</div>", 
+                                "<div>Expresión equivalente a で que cuenta con dos usos distintos:</div><div><br /></div>- Indicar un punto o etapa en la vida en el que se toma o ocurre cierta acción inesperada, así como hablar de dos acciones o acontecimientos coexistentes cuyo uso se limita únicamente a los verbos &nbsp;居[い]る y &nbsp;生[う]まれる, en cuyo caso esta forma gramatical no puede ser reemplazada por で, al igual que cuando se usa junto a &nbsp;今[いま]. Si bien esta es una expresión de uso escrito, la frase &nbsp;今[いま]＿＿＿ 思[おも]えば (\"ahora que lo pienso\") se usa también en el habla.<div>- Unir dos frases entre sustantivos o adjetivos な al igual que \"y\" en el español. En este caso sólo se puede usar una vez por oración y no puede ir acompañado por ajdetivos い. También puede terminar en una ajdetivo な sin un sustantivo al que modificar pero es más común que sí lo tenga. No se debe confundir con los adverbios de forma adjetivo な + forma gramatical como 幸い + forma gramatical o 不幸 + forma gramatical ya que no guardan relación con esta expresión.</div>", 
+                                "自分[じぶん]の 仕事[しごと]を 守[まも]らなければ 一夜[いちや]＿＿＿ 実業[じつぎょう]になるかもしれない。", 
+                                "Si no cuidas tu trabajo puedes quedar desempleado de la noche a la mañana.", 
+                                "彼女[かのじょ]は４０ 歳[さい]＿＿＿ 始[はじ]めて 働[はたらき]き 始[はじ]めた。", 
+                                "Ella comenzó a trabajar por primera vez a los cuarenta años.", 
+                                "現在[げんざい]はインターネットのおかげで 家[いえ]に 居[い]ながら＿＿＿ 如何[いか]なる 欲[ほ]しいものが 買[か]うことが 出来[でき]る。", 
+                                "Hoy en día podemos comprar lo que queramos estando en casa gracias a Internet.", 
+                                "彼[かれ]が 偉大[いだい]な 研究者[けんきゅうしゃ]＿＿＿ 優[すぐ]れた 外科医[げかい]である。", 
+                                "Él es un gran investigador y excelente cirujano.", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "woo6O%Ze9_", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に即して", 
+                                "に 即[そく]して", 
+                                "にそくして", 
+                                "conforme a / conforme con", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión que indica que lo que sigue a continuación va de acuerdo con el sustantivo.", 
+                                "我社は現在の経済＿＿＿新しい企画を立てなければばらない。", 
+                                "Nuestra compañía debe crear un nuevo plan conforme a la economía actual.", 
+                                "マニュアルに指摘されたステップ＿＿＿進みましょう。", 
+                                "Procedamos conforme a los pasos indicados en el manual.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "r?L)QlyT.|", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に耐える/に堪える", 
+                                "に 耐[た]える/に 堪[た]える", 
+                                "にたえる/にたえる", 
+                                "merecer / valer la pena / ser digno de / aguantar / soportar / tolerar / resistir / poder", 
+                                "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Expresión con dos significados y usos principales:<div><br /></div><div>-&nbsp;Indicar al igual que に 値[あたい]する que una cosa o acción vale la pena o que algo o alguien es digno de o merece tal cosa. Usualmente se usa junto a palabras como &nbsp;見[み]る, &nbsp;聞[き]く, &nbsp;鑑賞[かんしょう], &nbsp;評価[ひょうか] y &nbsp;批判[ひはん].</div><div>- Indicar que una cosa o persona soporta o aguanta algo. En este caso, &nbsp;si ese algo es un factor externo se escribe con &nbsp;耐[た] y si es interno como &nbsp;感情[かんじょう], &nbsp;喜[よろこ]び y &nbsp;悲[かな]しみ, entonces escribe con &nbsp;堪[た].</div>", 
+                                "この 図書館[としょかん]には 読[よ]む＿＿＿ 本[ほん]が 多[おお]い。", 
+                                "En esta bibliotecta hay un montón de libros que valen la pena leer.", 
+                                "本当[ほんとう]に 献身的[けんしんてき]な 女子[じょし]のみがこの 仕事[しごと]＿＿＿。", 
+                                "Sólo las chicas verdaderamente dedicadas pueden soportar este trabajo.", 
+                                "彼女[かのじょ]は 夫[おっと]を 失[な]くす 悲[かな]しみ＿＿＿。", 
+                                "Ella soportó la tristeza de perder a su marido.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "N>>KVWDf~v", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に", 
+                                "にたえる", 
+                                "に堪える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に耐えない/に堪えない", 
+                                "に耐えない/に堪えない", 
+                                "にたえない/にたえない", 
+                                "no merecer / no valer la pena / no ser digno de / no aguantar / no soportar / no tolerar / no resistir / no poder", 
+                                "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Esta expresión se usa para indicar que:<div><br /></div><div>- Una cosa o acción no merce o no vale la pena, o que algo o alguien no es digno de una acción o de algo. Equivale a に 値[あたい]する y se escribe con &nbsp;耐[た].</div><div>- No se aguanta o soporta (más) algo o hacer alguna cosa porque es muy duro, difícil, aburrido, etc. Suele ir junto a palabras como &nbsp;聞[み]く, &nbsp;見[み]る, &nbsp;読[よ]む y &nbsp;傾聴[けいちょう] y se escribe con &nbsp;耐[た].</div><div>- No se puede aguantar o resistir una emoción. En este último sentido se suele usar junto a palabras como &nbsp;感謝[かんしゃ], &nbsp;同情[どうじょう], &nbsp;遺憾[いかん], &nbsp;感激[かんげき], &nbsp;喜[よろこ]び, &nbsp;後悔[こうかい] y ··· 念[ねん] y se escribe con &nbsp;堪[た].</div>", 
+                                "その 映画[えいが]はつまらなくて 見[み]る＿＿＿。", 
+                                "No aguanté ver esa película de lo aburrida que era.", 
+                                "戦場は 見[み]る＿＿＿ 光景[こうけい]だった。", 
+                                "No pude soportar ver el campo de batalla.", 
+                                "子供[こども]が 始[はじ]めて 歩[ある]いて、 親[おや]として 喜[よろこ]び＿＿＿。", 
+                                "Como padre no me aguanto de la alegría porque mi hijo haya caminado por primera vez.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "L|$$BYc2Qw", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にたえない", 
+                                "に堪えない", 
+                                "に耐えない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "理論がそのような試練＿＿＿生き残るのは難しい。", 
+                                "Es difícil para una teoría sobrevivir a una prueba así.", 
+                                "理論[りろん]がそのような 試練[しれん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">に耐えて</font></span>&nbsp;生き残[いきのこ]るのは 難[むずか]しい。", 
+                                "に耐えて"
+                            ], 
+                            "flags": 0, 
+                            "guid": ",9tl%<t^H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "本を読み、考えを話し合うことで、知恵や異なるアイデア＿＿＿ことを学ぶことができる。", 
+                                "Leyendo e intercambiando opiniones, uno adquiere sabiduría y aprende a tolerar diferentes puntos de vista.", 
+                                "本[ほん]を 読[よ]み、 考[かんが]えを 話し合[はなしあ]うことで、 知恵[ちえ]や 異[こと]なるアイデア<font color=\"#0000ff\">に 耐[た]える</font>ことを 学[まな]ぶことができる。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Iq+lyFd/1O", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "母は立派に悲しみ＿＿＿きた。", 
+                                "Mi madre ha soportado la melancolía de manera admirable.", 
+                                "母[はは]は 立派[りっぱ]に 悲[かな]しみ<font color=\"#0000ff\">に</font><font color=\"#0000ff\"> 耐[た]えて</font>きた。", 
+                                "に耐えて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "f1N51s<1]S", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼女は逞しく逆境＿＿＿。</div>", 
+                                "Ella soportó las adversidades de una manera formidable.", 
+                                "彼女[かのじょ]は 逞[たくま]しく 逆境[ぎゃっきょう]<font color=\"#0000ff\">に 耐[た]えた</font>。", 
+                                "に耐えた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lM=deGL84n", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は涙ひとつこぼさずに悲しみ＿＿＿。", 
+                                "Ella soportó la tristeza sin derramar ni una sola lágrima.", 
+                                "彼女[かのじょ]は 涙[なみだ]ひとつこぼさずに 悲[かな]しみに<font color=\"#0000ff\"> 耐[た]えた</font>。", 
+                                "に耐えた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "<)U-1h(;H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は多くの試練＿＿＿なければならなかった。</div>", 
+                                "Él tuvo que soportar muchas pruebas.", 
+                                "彼[かれ]は 多[おお]くの 試練[しれん]<font color=\"#0000ff\">に 耐[た]え</font>なければならなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A)<nJF>H$,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は年寄りだが、まだその仕事＿＿＿られる。", 
+                                "Aunque es mayor, él puede soportar el trabajo.", 
+                                "彼[かれ]は 年寄[としよ]りだが、まだその 仕事[しごと]<font color=\"#0000ff\">に 耐[た]え</font>られる。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bn;WwbB1&@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その書店には読む＿＿＿本が本当にありますか。", 
+                                "¿Hay realmente un libro que valga la pena leer en esa librería?", 
+                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 本[ほん]が 本当[ほんとう]にありますか。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A;j^`h*F7]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その監督は見る＿＿＿映画が一つさえもない。", 
+                                "Ese director no tiene ni una película que valga la pena ver.", 
+                                "その 監督[かんとく]は 見[み]る<font color=\"#0000ff\">に 耐[た]える</font> 映画[えいが]が 一[ひと]つさえもない。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xbkZ7pQ-3g", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その著者は読む＿＿＿作品が多いから、図書館員に聞いてみて。", 
+                                "Es autor tiene muchas obras que valen la pena leer, así que por él pregunta al bibliotecario.", 
+                                "その 著者[ちょしゃ]は 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 作品[さくひん]が 多[おお]いから、 図書館[としょかん] 員[いん]に 聞[き]いてみて。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B4jv5Qrz6)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの画家は鑑賞＿＿＿作品があまりがないから、名前が聞いていないのは予測に難くない。", 
+                                "Ese pintor no tiene muchas obras que valgan la pena apreciar, así que no me sorprende que no lo conozcas.", 
+                                "あの 画家[がか]は 鑑賞[かんしょう]<font color=\"#0000ff\">に 耐[た]える</font> 作品[さくひん]があまりがないから、 名前[なまえ]が 聞[き]いていないのは 予測[よそく]に 難[かた]くない。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lf;:3K40}h", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この商品はお客様の評価＿＿＿ものだ。", 
+                                "Este producto es digno de la reputación que le han dado nuestros clientes.", 
+                                "この 商品[しょうひん]はお 客様[きゃくさま]の 評価[ひょうか]<font color=\"#0000ff\">に 耐[た]える</font>ものだ。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r,P^N]]GgL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "信頼＿＿＿人に絶対にこの秘密をばらさないで", 
+                                "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
+                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]える</font> 人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "M%n^qvSE//", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの有名なレストランは批判＿＿＿ものだ。", 
+                                "Ese famoso restaurante es digno de sus críticas.", 
+                                "あの 有名[ゆうめい]なレストランは 批判[ひはん]<font color=\"#0000ff\">に 耐[た]える</font>ものだ。", 
+                                "に耐える"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PVWmYe.yA`", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "夏は好きだけど、暑さ＿＿＿られない。", 
+                                "Me gusta el verano, pero no puedo soportar el calor.", 
+                                "夏[なつ] は 好[す]きだけど、 暑[あつ]さ<font color=\"#0000ff\">に 耐[た]え</font>られない。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H?v!4fr7O:", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える/に堪える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は彼女と別れていること＿＿＿られなかった。", 
+                                "No aguantaba estar separado de ella.", 
+                                "彼[かれ]は 彼女[かのじょ]と 別[わか]れていること<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AcUC^6@kiB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は自分の犬があの残忍な男に売られると考えるの＿＿＿られなかった。", 
+                                "Él no podía soportar el pensar que su perro fuera vendido a ese cruel hombre.", 
+                                "彼[かれ]は 自分[じぶん]の 犬[いぬ]があの 残忍[ざんにん]な 男[おとこ]に 売[う]られると 考[かんが]えるの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ht`[4uUm}@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はそんなに長く待たされるの＿＿＿れなかった。", 
+                                "No podía soportar que le hicieran esperar tanto.", 
+                                "彼[かれ]はそんなに 長[なが]く 待[ま]たされるの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐えら"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wnRI5Vhe(F", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はその光景を見るの＿＿＿られなかった。", 
+                                "Él no podía soportar ver esa escena.", 
+                                "彼[かれ]はその 光景[こうけい]を 見[み]るの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tm6=OBl`pN", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の活躍は批判＿＿＿ないものです。", 
+                                "Su actuación no merece siquiera ser criticada.", 
+                                "彼[かれ]の 活躍[かつやく]は 批判[ひはん]<font color=\"#0000ff\">に 耐[た]え</font>ないものです。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Hb;=3l[h.l", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "聞く＿＿＿ない意見に興味がない。", 
+                                "No me interesan las opiniones que no valen la pena.", 
+                                "聞[き]く<font color=\"#0000ff\">に 耐[た]え</font>ない 意見[いけん]に 興味[きょうみ]がない。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d8m{=eQO0@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "テレビでは見る＿＿＿ないものばっかり。", 
+                                "En la televisión sólo pasan cosas que ni valen la pena.", 
+                                "テレビでは 見[み]る<font color=\"#0000ff\">に 耐[た]え</font>ないものばっかり。", 
+                                "に耐え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "b;(Hyr]!)W", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "鈴木さんはこの間大変お世話になりました。感謝の念＿＿＿ません。", 
+                                "Suzuki nos ha tratado muy bien el otro día. Le estamos profundamente agradecidos.", 
+                                "鈴木[すずき]さんはこの 間[かん] 大変[たいへん]お 世話[せわ]になりました。 感謝[かんしゃ]の 念[ねん]<font color=\"#0000ff\">に 堪[こた]え</font>ません。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Et(7br~Tup", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本のチームは勝って喜び＿＿＿なかった。", 
+                                "No podía contener la alegría por la victoria del equipo japonés.", 
+                                "日本[にっぽん]のチームは 勝[か]って 喜[よろこ]び<font color=\"#0000ff\">に 堪[こた]え</font>なかった。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QjZv>}=D@D", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "曾てピザを食べてみなかったことは後悔の念＿＿＿ない。", 
+                                "Me arrepiento profundamente no haber probado pizza antes.", 
+                                "曾てピザを 食[た]べてみなかったことは 後悔[こうかい]の 念[ねん]<font color=\"#0000ff\">に 堪[こた]え</font>ない。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v$+o*/Y[LV", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "田中さんはやっとここにこられて感激＿＿＿ない。", 
+                                "No puedo contener mi emoción de que Tanaka finalmente puede venir.", 
+                                "田中[たなか]さんはやっとここにこられて 感激[かんげき]<font color=\"#0000ff\">に 堪[こた]え</font>ない。", 
+                                "に堪え"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lyc,0|C_vi", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にたえる", 
+                                "に耐える"
                             ]
                         }
                     ]
@@ -4386,7 +5194,7 @@
                             "fields": [
                                 "肌を日にさらしすぎると、日焼け、＿＿＿水ぶくれになります。", 
                                 "La exposición de la piel al sol puede provocar quemaduras y hasta ampollas, dependiendo del caso.", 
-                                "肌[はだ]を 日[ひ]にさらしすぎると、 日焼[ひや]け、&nbsp;<font color=\"#0000ff\">場合[ばあい]によって</font> 水[みず]ぶくれになります。", 
+                                "肌[はだ]を 日[ひ]にさらしすぎると、 日焼[ひや]け、&nbsp;<font color=\"#0000ff\">場合[ばあい]によっては</font> 水[みず]ぶくれになります。", 
                                 "場合によっては"
                             ], 
                             "flags": 0, 
@@ -10990,9 +11798,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "動物を苛めるのは、許す＿＿＿ことです。", 
-                                "Abusar de los animales es algo inaceptable.", 
-                                "動物[どうぶつ]を 苛[いじ]めるのは、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
+                                "人間として動物を苛めるのは、許す＿＿＿ことです。", 
+                                "Es inaceptable que un humano abuse de los animales.", 
+                                "人間[にんげん]として 動物[どうぶつ]を 苛[いじ]めるのは、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
                                 "まじき"
                             ], 
                             "flags": 0, 
@@ -13486,9 +14294,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "有権者を騙すなんて、許す＿＿＿ことです。", 
-                                "Mentirle a los votantes es algo inaceptable.", 
-                                "有権者[ゆうけんしゃ]を 騙[だま]すなんて、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
+                                "政治家として有権者を騙すなんて、許す＿＿＿ことです。", 
+                                "Mentirle a los votantes es algo inaceptable de un político.", 
+                                "政治家[せいじか] として 有権者[ゆうけんしゃ]を 騙[だま]すなんて、 許[ゆる]す<font color=\"#0000ff\">まじき</font>ことです。", 
                                 "まじき"
                             ], 
                             "flags": 0, 
@@ -13793,10 +14601,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "ダイレクト・マーケティングは人々が家に居＿＿＿して買い物が出来る方法である。", 
+                                "ダイレクト・マーケティングは人々が家に居＿＿＿買い物が出来る方法である。", 
                                 "Las ventas directas es un método con el cual la gente puede comprar desde su casa.", 
-                                "ダイレクト・マーケティングは 人々[ひとびと]が 家[いえ]に 居[い]<font color=\"#0000ff\">ながらに</font>して 買い物[かいもの]が 出来[でき]る 方法[ほうほう]である。", 
-                                "ながらに"
+                                "ダイレクト・マーケティングは 人々[ひとびと]が 家[いえ]に 居[い]<font color=\"#0000ff\">ながらにして</font> 買い物[かいもの]が 出来[でき]る 方法[ほうほう]である。", 
+                                "ながらにして"
                             ], 
                             "flags": 0, 
                             "guid": "M}80y.+W24", 
@@ -13807,7 +14615,8 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "ながらに"
+                                "ながらに", 
+                                "にして"
                             ]
                         }, 
                         {
@@ -17326,10 +18135,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼の言うことは一言も聞く＿＿＿。", 
+                                "彼の言うことは一言も聞く＿＿＿ない。", 
                                 "Nada de lo que él dice merece la pena escuchar.", 
-                                "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#0000ff\">に 値[あたい]しない</font>。", 
-                                "に値しない"
+                                "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#0000ff\">に 値[あたい]し</font>ない。", 
+                                "に値し"
                             ], 
                             "flags": 0, 
                             "guid": "rcgMH.+[IF", 
@@ -18917,6 +19726,888 @@
                                 "Oración", 
                                 "にも程が有る"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は何物＿＿＿名誉を重んじる。", 
+                                "Él valora el honor sobre cualquier otra cosa.", 
+                                "彼[かれ]は 何[なに] 物[ぶつ]<font color=\"#0000ff\">にもまして</font> 名誉[めいよ]を 重[おも]んじる。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Gsf1_A.N{u", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は以前＿＿＿勉強しようと決めたのです", 
+                                "Él decidió estudiar aún más duro que antes.", 
+                                "彼[かれ]は 以前[いぜん]<font color=\"#0000ff\">にもまして</font> 勉強[べんきょう]しようと 決[き]めたのです", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hF![OBb.y}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何もの＿＿＿私は健康になりたい。", 
+                                "Lo que más quiero es estar sano.", 
+                                "何[なに]もの<font color=\"#0000ff\">にもまして</font> 私[わたし]は 健康[けんこう]になりたい。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "BMB/a,3.y*", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "トムはいまや以前＿＿＿勤勉に働いている。", 
+                                "Tom trabaja aún más diligentemente que antes.", 
+                                "トムはいまや 以前[いぜん]<font color=\"#0000ff\">にもまして</font> 勤勉[きんべん]に 働[はたら]いている。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jrAoB8sKB/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは誰＿＿＿勝ちたいです。", 
+                                "Ellos quieren ganar más que nadie.", 
+                                "彼[かれ]らは 誰[だれ]<font color=\"#0000ff\">にもまして</font> 勝[か]ちたいです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pxV,<]@v{8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どこ＿＿＿その高級なレストランは値段が高いです。", 
+                                "Los precios en ese restaruante de lujo son más caros que en cualquier otra parte.", 
+                                "どこ<font color=\"#0000ff\">にもまして</font>その 高級[こうきゅう]なレストランは 値段[ねだん]が 高[たか]いです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zq``G:i{gY", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お母さんにとってあなたの幸せは何＿＿＿大切です。", 
+                                "Para tu madre tu felicidad es más importante que cualquier otra cosa.", 
+                                "お 母[かあ]さんにとってあなたの 幸[しあわ]せは 何[なに]<font color=\"#0000ff\">にもまして</font> 大切[たいせつ]です。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Px,{GaqZM4", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "誰＿＿＿あなたに信用している。", 
+                                "Creo en ti más que nadie en el mundo.", 
+                                "誰[だれ]<font color=\"#0000ff\">にもまして</font>あなたに 信用[しんよう]している。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A`y&~h)_fB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どこ＿＿＿日本に行きたいです。", 
+                                "Quiero ir a Japón más que a ningún otro lado en el mundo.", 
+                                "どこ<font color=\"#0000ff\">にもまして</font> 日本[にっぽん]に 行[い]きたいです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Cm/4k@D[JP", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何時＿＿＿世界中で旅行したいです。", 
+                                "Quiero viajar alrededor del mundo ahora más que nunca.", 
+                                "何[なん] 時[じ]<font color=\"#0000ff\">にもまして</font> 世界中[せかいじゅう]で 旅行[りょこう]したいです。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w/KzovKOsu", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本の法律＿＿＿そんなことをしてはいけない。", 
+                                "Eso no se puede hacer cumpliendo las leyes japonesas.", 
+                                "日本[にっぽん]の 法律[ほうりつ]<font color=\"#0000ff\">に 則[のっと]って</font>そんなことをしてはいけない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v}sVLN-xwW", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大学の規則＿＿＿振る舞わなければならない。", 
+                                "Uno debe comportarse cumpliendo con las relgas de la universidad.", 
+                                "大学[だいがく]の 規則[きそく]<font color=\"#0000ff\">に 則[のっと]って</font> 振る舞[ふるま]わなければならない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bTT[lr3fnz", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "このお祭りは古い伝統＿＿＿行っています。", 
+                                "Este festival se lleva a cabo cumpliendo con viejas tradiciones.", 
+                                "このお 祭[まつ]りは 古[ふる]い 伝統[でんとう]<font color=\"#0000ff\">に 則[のっと]って</font> 行[い]っています。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zz5<,)K/rc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "規則＿＿＿行動しなさい。", 
+                                "Actúen cumpliendo las reglas.", 
+                                "規則[きそく]<font color=\"#0000ff\">に 則[のっと]って</font> 行動[こうどう]しなさい。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G#k:e.*dqw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "国家は慣習法＿＿＿行動すべきだ。", 
+                                "Cada país debería actuar cumpliendo las leyes internacionales.", 
+                                "国家[こっか]は 慣習[かんしゅう] 法[ほう]<font color=\"#0000ff\">に 則[のっと]って</font> 行動[こうどう]すべきだ。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q/9:P6X#}k", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "先日の会議で決めたこと＿＿＿進みましょう。", 
+                                "Procedamos cumpliendo con lo que hemos decidido el otro día.", 
+                                "先日[せんじつ]の 会議[かいぎ]で 決[き]めたこと<font color=\"#0000ff\">に 則[のっと]って</font> 進[すす]みましょう。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l0v09YViW/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼が勝手に決めたルール＿＿＿働き続けない。", 
+                                "No podemos seguir trabajando cumpliendo las reglas que él decidió arbitrariamente.", 
+                                "彼[かれ]が 勝手[かって]に 決[き]めたルール<font color=\"#0000ff\">に 則[のっと]って</font> 働[はたら]き 続[つづ]けない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Gj}6kOEDj2", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "交通法案＿＿＿ドライブしなければならない。", 
+                                "Debes conducir cumpliendo las leyes de tránsito.", 
+                                "交通[こうつう] 法案[ほうあん]<font color=\"#0000ff\">に 則[のっと]って</font>ドライブしなければならない。", 
+                                "に則って"
+                            ], 
+                            "flags": 0, 
+                            "guid": "IcKbT5^vUl", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に則って"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その会社は他社＿＿＿最初のスマートフォンを開発した。", 
+                                "Esa empresa se anticipó a las demás en el desarrollo del primer teléfono inteligente.", 
+                                "その 会社[かいしゃ]は 他社[たしゃ]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 最初[さいしょ]のスマートフォンを 開発[かいはつ]した。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s{qxM-7Et[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は他の生徒＿＿＿先生の質問を大声で答えた。", 
+                                "Él se anticipó al resto de los estudiantes contestando la pregunta del profesor en voz alta.", 
+                                "彼[かれ]は 他[た]の 生徒[せいと]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 先生[せんせい]の 質問[しつもん]を 大声[おおごえ]で 答[こた]えた。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wLU9y{rS&T", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は救急車＿＿＿被害者に応急手当をした。", 
+                                "Ella se anticipó a la ambulancia y le dió primeros auxilios a la víctima.", 
+                                "彼女[かのじょ]は 救急[きゅうきゅう] 車[しゃ]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 被害[ひがい] 者[しゃ]に 応急[おうきゅう] 手当[てあて]をした。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ObRe9v)7jO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その選手は相手＿＿＿ボールをキャッチした。", 
+                                "El jugador se anticipó a su rival deteniendo la pelota.", 
+                                "その 選手[せんしゅ]は 相手[あいて]<font color=\"#0000ff\">に 先駆[さきが]けて</font>ボールをキャッチした。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NdVR4KWw<Z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そのゲームは世界＿＿＿日本で出版されることが決まったそうだ。", 
+                                "Parece que decidieron publicar el juego en Japón anticipándose al resto del mundo.", 
+                                "そのゲームは 世界[せかい]<font color=\"#0000ff\">に 先駆[さきが]けて</font> 日本[にっぽん]で 出版[しゅっぱん]されることが 決[き]まったそうだ。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yyL2OH/*`_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは同僚＿＿＿パーティーの準備を始めることにした。", 
+                                "Ellos decidieron anticiparse a sus compañeros y empezar con los preparativos de la fiesta.", 
+                                "彼[かれ]らは 同僚[どうりょう]<font color=\"#0000ff\">に 先駆[さきが]けて</font>パーティーの 準備[じゅんび]を 始[はじ]めることにした。", 
+                                "に先駆けて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ehs|IoEM`$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に先駆けて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は仕事ばっかりで、４２歳＿＿＿初めて子供が出来た。", 
+                                "Ella se la pasaba trabajando y tuvo su primer hijo a los 42 años.", 
+                                "彼女[かのじょ]は 仕事[しごと]ばっかりで、４２ 歳[さい]<font color=\"#0000ff\">にして</font> 初[はじ]めて 子供[こども]が 出来[でき]た。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bZl9T5HK*v", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今＿＿＿思えば彼女が全ての言ったことは嘘かもしれないね。", 
+                                "Ahora que lo pienso, todo lo que ella dijo podría ser una mentira.", 
+                                "今[いま]<font color=\"#0000ff\">にして</font> 思[おも]えば 彼女[かのじょ]が 全[すべ]ての 言[い]ったことは 嘘[うそ]かもしれないね。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ese`FVCQYl", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は生まれ＿＿＿偉大な才能に恵まれていた。", 
+                                "Él fue bendecido con un gran talento nato.", 
+                                "彼[かれ]は 生[う]まれ<font color=\"#0000ff\">ながらにして</font> 偉大[いだい]な 才能[さいのう]に 恵[めぐ]まれていた。", 
+                                "ながらにして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QiTGrRW-`V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私は生まれ＿＿＿の天才だ。", 
+                                "Soy un genio nato.", 
+                                "私[わたし]は 生[う]まれ<font color=\"#0000ff\">ながらにして</font>の 天才[てんさい]だ。", 
+                                "ながらにして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "z^$/LaYZs/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "2008年の金融恐慌はその国の経済を一夜＿＿＿崩させた。", 
+                                "La crísis financiera de 2008 hizo derrumbarse la economía de ese país.", 
+                                "2008 年[ねん]の 金融[きんゆう] 恐慌[きょうこう]はその 国[くに]の 経済[けいざい]を 一夜[いちや]<font color=\"#0000ff\">にして</font> 崩[くず]させた。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "i9KPgB[hYh", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は有名な歌手＿＿＿優れた俳優である。", 
+                                "Ella es una cantante famosa y una excelente actriz.", 
+                                "彼女[かのじょ]は 有名[ゆうめい]な 歌手[かしゅ]<font color=\"#0000ff\">にして</font> 優[すぐ]れた 俳優[はいゆう]である。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MzAlFxN|BA", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その教授は素晴らしい著者＿＿＿偉大な講師である。", 
+                                "Ese profesor es un brillante escritor y gran conferencista.", 
+                                "その 教授[きょうじゅ]は 素晴[すば]らしい 著者[ちょしゃ]<font color=\"#0000ff\">にして</font> 偉大[いだい]な 講師[こうし]である。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PC!|pk~a)>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの車は高価＿＿＿不便利である。", 
+                                "Es auto es caro y poco conveniente.", 
+                                "あの 車[くるま]は 高価[こうか<font color=\"#0000ff\">]にして</font> 不[ふ] 便利[べんり]である。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J+X4$H8{T[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの大統領の性格は気高＿＿＿猛々しい。", 
+                                "El carácter del presidente es arrogante y agresiva.", 
+                                "あの 大統領[だいとうりょう]の 性格[せいかく]は 気[き] 高[だか]<font color=\"#0000ff\">にして</font> 猛々[たけだけ]しい。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vIJ:h`={g$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "仕事で彼女の立場は微妙＿＿＿、今にも部長が首を着るかもしれない。", 
+                                "La posición de ella en su trabajo es delicada y puede que su jefe la despida en cualquier momento.", 
+                                "仕事[しごと]で 彼女[かのじょ]の 立場[たちば]は 微妙[びみょう]<font color=\"#0000ff\">にして</font>、 今[いま]にも 部長[ぶちょう]が 首[くび]を 着[き]るかもしれない。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cI(&`?3M|]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この国の総理大臣になる為、思想堅固＿＿＿高潔清廉の人間にならなければならない。", 
+                                "Para ser presidente de esta nación se debe ser una persona de principios, pureza y nobilidad.", 
+                                "この 国[くに]の 総理[そうり] 大臣[だいじん]になる 為[ため]、 思想[しそう] 堅固[けんご]<font color=\"#0000ff\">にして</font> 高潔[こうけつ] 清廉[せいれん]の 人間[にんげん]にならなければならない。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yfahjgQ,S6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この作家の作品は全て不幸＿＿＿とても悲しい。", 
+                                "Las obras de este autor son todas sobre desgracias y tristes.", 
+                                "この 作家[さっか]の 作品[さくひん]は 全[すべ]て 不幸[ふこう]<font color=\"#0000ff\">にして</font>とても 悲[かな]しい。", 
+                                "にして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N:km6T#q;h", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の伝記は全くの事実＿＿＿書かれたものだ。", 
+                                "Su biografía va completamente de acuerdo con los hechos.", 
+                                "彼[かれ]の 伝記[でんき]は 全[まった]くの 事実[じじつ]<font color=\"#0000ff\">に 即[そく]して</font> 書[か]かれたものだ。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N`6)y*O8gW", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "客観的になる為、新聞は事実＿＿＿確かな情報を提供すべきだ。", 
+                                "Un diario debe reportar las noticias conforme a los hechos para ser objetivo.", 
+                                "客観[きゃっかん] 的[てき]になる 為[ため]、 新聞[しんぶん]は 事実[じじつ]<font color=\"#0000ff\">に 即[そく]して</font> 確[たし]かな 情報[じょうほう]を 提供[ていきょう]すべきだ。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cw@=8F-#kc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "旅行の計画を経済事情＿＿＿立てないと。", 
+                                "Tenemos que planear nuestro viaje conforme a nuestra situación económica.", 
+                                "旅行[りょこう]の 計画[けいかく]を 経済[けいざい] 事情[じじょう]<font color=\"#0000ff\">に 即[そく]して</font> 立[た]てないと。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q(XQ.K?_fK", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "現実＿＿＿物事を考えしましょうよ。", 
+                                "Pensemos las cosas conformes a la realidad.", 
+                                "現実[げんじつ]<font color=\"#0000ff\">に 即[そく]して</font> 物事[ものごと]を 考[かんが]えしましょうよ。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mSj9}PQ6ya", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "違反者は違反＿＿＿処分される。", 
+                                "Los infractores serán procesados conforme a infracción que cometieron.", 
+                                "違反[いはん] 者[しゃ]はどんな 違反[いはん]<font color=\"#0000ff\">に 即[そく]して</font> 処分[しょぶん]される。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v?UXbq2#n3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女の体の調子＿＿＿治療を受けます。", 
+                                "Ella recibirá un tratamiento conforme a su condición física.", 
+                                "彼女[かのじょ]の 体[からだ]の 調子[ちょうし]<font color=\"#0000ff\">に 即[そく]して</font> 治療[ちりょう]を 受[う]けます。", 
+                                "に即して"
+                            ], 
+                            "flags": 0, 
+                            "guid": "eUlWvhZL~>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に即して"
+                            ]
                         }
                     ]
                 }
@@ -19053,7 +20744,8 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "にも程が有る"
+                "にたえる", 
+                "に耐える"
             ], 
             "tmpls": [
                 {
@@ -19256,8 +20948,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "tatoeba", 
-                "にも程が有る"
+                "Niponismo", 
+                "にたえない", 
+                "に堪えない", 
+                "に耐えない"
             ], 
             "tmpls": [
                 {
