@@ -20307,8 +20307,8 @@
                             "fields": [
                                 "信頼＿＿＿人に絶対にこの秘密をばらさないで", 
                                 "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
-                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]える</font> 人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで", 
-                                "に耐える"
+                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]えない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで", 
+                                "に耐えない"
                             ], 
                             "flags": 0, 
                             "guid": "M%n^qvSE//", 
@@ -20319,8 +20319,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
-                                "に耐える"
+                                "にたえない", 
+                                "に耐えない"
                             ]
                         }, 
                         {
