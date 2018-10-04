@@ -20732,8 +20732,8 @@
                             "fields": [
                                 "世界中を旅行＿＿＿ーお金があったらいいな。", 
                                 "Oajalá pudiese tener suficiente dinero para viajar por el mundo.", 
-                                "世界中[せかいじゅう]を 旅行[りょこう]<font color=\"#0000ff\">（する）に 足[た]る/に 足[た]りる</font>お 金[かね]があったらいいな。", 
-                                "（する）に足る/に足りる"
+                                "世界中[せかいじゅう]を 旅行[りょこう]<font color=\"#0000ff\">（する）に 足[た]る/</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">（する）</font></span><font color=\"#0000ff\">に 足[た]りる</font>お 金[かね]があったらいいな。", 
+                                "（する）に足る/（する）に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "Em#0=xSJ{C", 
@@ -20774,8 +20774,8 @@
                             "fields": [
                                 "部長に報告＿＿＿問題はないでしょう。", 
                                 "No es un problema que valga la pena reportar al jefe.", 
-                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）に 足[た]る/に 足[た]りる</font> 問題[もんだい]はないでしょう。", 
-                                "（する）に足る/に足りる"
+                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）に 足[た]る/</font><span style=\"color: rgb(0, 0, 255)\">（する）</span><font color=\"#0000ff\">に 足[た]りる</font> 問題[もんだい]はないでしょう。", 
+                                "（する）に足る/（する）に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "Qd6{wZ+JOt", 
@@ -20837,8 +20837,8 @@
                             "fields": [
                                 "勉強＿＿＿時間がなくて仕様がない。", 
                                 "No puedo hacer nada si no tengo tiempo suficiente para estudiar.", 
-                                "勉強[べんきょう]（<font color=\"#0000ff\">する）に 足[た]る/に 足[た]りる</font> 時間[じかん]がなくて 仕様[しよう]がない。", 
-                                "（する）に足る/に足りる"
+                                "勉強[べんきょう]<font color=\"#0000ff\">（する）に 足[た]る/</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">（する）</font></span><font color=\"#0000ff\">に 足[た]りる</font> 時間[じかん]がなくて 仕様[しよう]がない。", 
+                                "（する）に足る/（する）に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "sacGv}!4Cl", 
