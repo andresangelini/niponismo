@@ -4178,7 +4178,40 @@
                                 "Niponismo", 
                                 "にたえない", 
                                 "に堪えない", 
-                                "に耐えない"
+                                "に耐えないビルは印刷業でいい暮らしをするに足るお金をかせいだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に足る/に足りる", 
+                                "に足[た]る/に 足[た]りる", 
+                                "にたる/にたりる", 
+                                "ser suficiente / merecer / valer la pena / ser digno de", 
+                                "Verbo diccionario + forma gramatical.<div>Sustantivo verbal con o sin する + forma gramatical.</div>", 
+                                "Expresión cuyo uso es indicar que:<div><br /></div><div>- Una cosa es suficiente para hacer algo.</div><div>- Hacer algo vale la pena, al igual que に 値[あたい]する.</div><div><br /></div><div>Puede comportarse como un adjetivo modificando así a un sustantivo.</div>", 
+                                "みつきさんは 頼[たの]む＿＿＿ 技[わざ]がある。", 
+                                "Mitsuki tiene la habilidad suficiente.", 
+                                "奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
+                                "Ese tipo no es un sujeto digno de confianza.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "MSxt]mZ-dY", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に足る/に足りる"
                             ]
                         }
                     ]
@@ -20608,6 +20641,216 @@
                                 "にたえる", 
                                 "に耐える"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大衆によって重んじられている人が必ずしもそれを受ける＿＿＿人とは言えない。", 
+                                "Aquellos que reciben el respeto de la gente no siempre se lo merecen.", 
+                                "大衆[たいしゅう]によって 重[おも]んじられている 人[ひと]が 必[かなら]ずしもそれを 受[う]ける<font color=\"#0000ff\">に 足[た]る/</font><div><font color=\"#0000ff\">に 足[た]りる</font>人[ひと]とは 言[い]えない。</div>", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H@[/r1h2`0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>ビルは印刷業でいい暮らしをする＿＿＿お金をかせいだ。</div>", 
+                                "El negocio de impresión le daba a Bill suficiente dinero para vivir bien.", 
+                                "ビルは 印刷[いんさつ] 業[ぎょう]でいい 暮[く]らしをする<font color=\"#0000ff\">に 足[た]る/に 足[た]りる</font>お 金[かね]をかせいだ。", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dIml<0,bV-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この農園は私たちの必要を満たす＿＿＿だけの野菜を産出する。", 
+                                "Esta plantación produce suficientes vegetales para abastecer nuestras necesidades.", 
+                                "この 農園[のうえん]は 私[わたし]たちの 必要[ひつよう]を 満[み]たす<font color=\"#0000ff\">に 足[た]る/に 足[た]りる</font>だけの 野菜[やさい]を 産出[さんしゅつ]する。", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "gh(|O[/A5P", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "いやしくもなす＿＿＿事なら立派にやるだけの価値がある。", 
+                                "Si vale la pena hacerlo, vale la pena hacerlo bien.", 
+                                "いやしくもなす<font color=\"#0000ff\">に 足[た]る/に 足[た]りる</font> 事[こと]なら 立派[りっぱ]にやるだけの 価値[かち]がある。", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "F*$+9C6@$u", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "世界中を旅行＿＿＿ーお金があったらいいな。", 
+                                "Oajalá pudiese tener suficiente dinero para viajar por el mundo.", 
+                                "世界中[せかいじゅう]を 旅行[りょこう]<font color=\"#0000ff\">（する）に 足[た]る/に 足[た]りる</font>お 金[かね]があったらいいな。", 
+                                "（する）に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Em#0=xSJ{C", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "僕はその仕事をする＿＿＿経験がない。", 
+                                "No tengo la experiencia suficiente para hacer ese trabajo.", 
+                                "僕[ぼく]はその 仕事[しごと]をするに<font color=\"#0000ff\"> 足[た]る/に 足[た]りる</font> 経験[けいけん]がない。", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "DS01[QL#y}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "部長に報告＿＿＿問題はないでしょう。", 
+                                "No es un problema que valga la pena reportar al jefe.", 
+                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）に 足[た]る/に 足[た]りる</font> 問題[もんだい]はないでしょう。", 
+                                "（する）に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Qd6{wZ+JOt", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "しおりさんは誇り＿＿＿選手だ。", 
+                                "Shiori es una jugadora que merece nuestro orgullo.", 
+                                "しおりさんは 誇[ほこ]り<font color=\"#0000ff\">に 足[た]る/ 足[た]りる</font> 選手[せんしゅ]だ。", 
+                                "に足る/足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "o/g`O5tK-a", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "首相は汚染事件と関係があったことに信じる＿＿＿証拠がある。", 
+                                "Hay evidencia suficiente para creer que el ministro está involucrado en el caso de corrupción.", 
+                                "首相[しゅしょう]は 汚染[おせん] 事件[じけん]と 関係[かんけい]があったことに 信[しん]じる<font color=\"#0000ff\">に 足[た]る/に 足[た]りる </font>証拠[しょうこ]がある。", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p{;=:oXd!;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足る/に足りる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "勉強＿＿＿時間がなくて仕様がない。", 
+                                "No puedo hacer nada si no tengo tiempo suficiente para estudiar.", 
+                                "勉強[べんきょう]（<font color=\"#0000ff\">する）に 足[た]る/に 足[た]りる</font> 時間[じかん]がなくて 仕様[しよう]がない。", 
+                                "（する）に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "sacGv}!4Cl", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足る/に足りる"
+                            ]
                         }
                     ]
                 }
@@ -20739,13 +20982,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Gramática", 
+                "Definición", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "にたえる", 
-                "に耐える"
+                "に足る/に足りる"
             ], 
             "tmpls": [
                 {
@@ -20949,9 +21191,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "にたえない", 
-                "に堪えない", 
-                "に耐えない"
+                "に足る/に足りる"
             ], 
             "tmpls": [
                 {
