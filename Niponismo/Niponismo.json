@@ -20968,6 +20968,48 @@
                                 "Oración", 
                                 "に足りない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "こんな情けない年金は生きる＿＿＿。", 
+                                "Esta pensión miserable no es suficiente para vivir.", 
+                                "こんな 情[なさ]けない 年金[ねんきん]は 生[い]きる<font color=\"#0000ff\">に 足[た]りない</font>。", 
+                                "に足りない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "GSQFhMm!Zx", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足りない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "きみの意見は私にとって取る＿＿＿。", 
+                                "Tu opinión no vale nada para mi.", 
+                                "きみの 意見[いけん]は 私[わたし]にとって 取[と]る<font color=\"#0000ff\">に 足[た]りない</font>。", 
+                                "に足りない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u;^Dl/SwR-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に足りない"
+                            ]
                         }
                     ]
                 }
@@ -21102,8 +21144,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
+                "tatoeba", 
                 "に足りない"
             ], 
             "tmpls": [
