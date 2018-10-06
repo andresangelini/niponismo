@@ -4193,7 +4193,7 @@
                                 "Expresión cuyo uso es indicar que:<div><br /></div><div>- Una cosa es suficiente para hacer algo.</div><div>- Hacer algo vale la pena, al igual que に 値[あたい]する.</div><div><br /></div><div>Puede comportarse como un adjetivo modificando así a un sustantivo.</div>", 
                                 "みつきさんは 頼[たの]む＿＿＿ 技[わざ]がある。", 
                                 "Mitsuki tiene la habilidad suficiente.", 
-                                "奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
+                                "あの奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
                                 "Ese tipo no es un sujeto digno de confianza.", 
                                 "", 
                                 "", 
@@ -20889,9 +20889,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "女性に誘う＿＿＿勇気がない男だ。", 
-                                "Soy un tipo que no tiene el coraje suficiente para invitar a una chica.", 
-                                "女性[じょせい]に 誘[さそ]う<font color=\"#0000ff\">に 足[た]りない</font> 勇気[ゆうき]がない 男[おとこ]だ。", 
+                                "バハマに行きたけどさ、お金が行く＿＿＿。", 
+                                "Quisiera ir a las Bahamas pero no tengo el dinero para ir.", 
+                                "バハマに 行[い]きたけどさ、お 金[かね]が 行[い]く<font color=\"#0000ff\">に 足[た]りない</font>。", 
                                 "に足りない"
                             ], 
                             "flags": 0, 
@@ -20910,7 +20910,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "もちろん、口頭試問だけで合額＿＿＿。", 
+                                "もちろん、口頭試問だけで合格＿＿＿。", 
                                 "Por supuesto, el examen oral no es suficiente para aprobar.", 
                                 "もちろん、 口頭[こうとう] 試問[しもん]だけで 合[ごう] 額[がく]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
                                 "（する）に足りない"
