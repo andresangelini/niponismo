@@ -4246,6 +4246,39 @@
                                 "Niponismo", 
                                 "に足りない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に照らして", 
+                                "に 照[て]らして", 
+                                "にてらして", 
+                                "a la luz de / en vista de", 
+                                "Sustantivo o frase sustantiva + forma gramatical.", 
+                                "Expresión que indica que lo que sigue a continuación es en base o teniendo en cuenta lo anterior.", 
+                                "最近[さいきん]の 出来事[できごと]＿＿＿ 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
+                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
+                                "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと＿＿＿ 注意[くうい]させて。", 
+                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "vj@?f0n>1>", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に照らして"
+                            ]
                         }
                     ]
                 }, 
@@ -21010,6 +21043,132 @@
                                 "tatoeba", 
                                 "に足りない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼がこの会社のためにやってきたこと＿＿＿昇進すべきだ。", 
+                                "En vista de lo que él ha hecho por esta compañía, él debería ser promovido.", 
+                                "彼[かれ]がこの 会社[かいしゃ]のためにやってきたこと<font color=\"#0000ff\">に 照[て]らして</font> 昇進[しょうしん]すべきだ。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N:j(6Ux/:o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その科学者は、最新の科学知識＿＿＿その奇妙な現象を説明した", 
+                                "Ese científico explicó esos extraños fenómenos a la luz de los últimos conocimientos científicos.", 
+                                "その 科学[かがく] 者[しゃ]は、 最新[さいしん]の 科学[かがく] 知識[ちしき]<font color=\"#0000ff\">に 照[て]らして</font>その 奇妙[きみょう]な 現象[げんしょう]を 説明[せつめい]した", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s6B7}@/p)V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この事実＿＿＿彼に罪がないことは明らかだ。", 
+                                "En vista de los hechos, está claro que él es inocente.", 
+                                "この 事実[じじつ]<font color=\"#0000ff\">に 照[て]らして</font> 彼[かれ]に 罪[つみ]がないことは 明[あき]らかだ。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oXN0LJE]Wb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "社長の素晴らしい交渉スキル＿＿＿その件は無事に解決されるはずです。", 
+                                "En vista de las exelentes habilidades de negociación del presidente de la compañía, seguro que ese asunto se resuelve sin problemas.", 
+                                "社長[しゃちょう]の 素晴[すば]らしい 交渉[こうしょう]スキル<font color=\"#0000ff\">に 照[て]らして</font>その 件[けん]は 無事[ぶじ]に 解決[かいけつ]されるはずです。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uyxMNO7R<?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "証人が言ったこと＿＿＿彼女が無罪であることは明らかにします。", 
+                                "A la luz de lo que dijo él, queda claro que ella es inocente.", 
+                                "証人[しょうにん]が 言[い]ったこと<font color=\"#0000ff\">に 照[て]らして</font> 彼女[かのじょ]が 無罪[むざい]であることは 明[あき]らかにします。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "O>_pZ{C`I^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最近の医学の進歩＿＿＿癌の決定的な医療はそんなに遠くないらしい。", 
+                                "En vista de los últimos avances en la medicina, parece que la cura definitiva del cancer no está tan lejos.", 
+                                "最近[さいきん]の 医学[いがく]の 進歩[しんぽ]<font color=\"#0000ff\">に 照[て]らして</font> 癌[がん]の 決定的[けっていてき]な 医療[いりょう]はそんなに 遠[とお]くないらしい。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KMK<b(FT)n", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
                         }
                     ]
                 }
@@ -21146,7 +21305,7 @@
                 "N1", 
                 "Oración", 
                 "tatoeba", 
-                "に足りない"
+                "に照らして"
             ], 
             "tmpls": [
                 {
@@ -21350,7 +21509,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "に足りない"
+                "に照らして"
             ], 
             "tmpls": [
                 {
