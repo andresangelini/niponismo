@@ -4292,7 +4292,7 @@
                                 "Expresión más arcaica que だけで（は）なく pero menos que のみならず que indica que algo traspasa cualquier límite. Proviene de la antigua forma negativa de とどまる que se conjuga con ず y a menudo se acompaña con la partícula に. Aunque se suele usar con sustantivos y adjetivos な, raramente se lo utiliza junto a adjetivos い.", 
                                 "彼[かれ]のお 父[とう]さんは 叱[しか]る＿＿＿、 殴[なぐ]ってしまったそうだ。", 
                                 "Su padre no sólo le resongó, parece que también le pegó.", 
-                                "この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である）＿＿＿ 全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えうるでしょう。", 
+                                "この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である）＿＿＿ 全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えるでしょう。", 
                                 "Esta recesión no se limitará a afectar al sector financiero, sino que también a toda la economía en general.", 
                                 "", 
                                 "", 
@@ -21207,8 +21207,8 @@
                             "fields": [
                                 "霊長類は尾の無いサル＿＿＿人間も含む。", 
                                 "Los primates no sólo incluyen a los simios, sino también al hombre.", 
-                                "霊長[れいちょう] 類[るい]は 尾[お]の 無[な]いサル<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にもとどまらず/のみならず</font> 人間[にんげん]も 含[ふく]む。", 
-                                "だけで（は）なく/（だけ/である）にもとどまらず/のみならず"
+                                "霊長[れいちょう] 類[るい]は 尾[お]の 無[な]いサル<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 人間[にんげん]も 含[ふく]む。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
                             ], 
                             "flags": 0, 
                             "guid": "QsNcyFdRfw", 
@@ -21230,8 +21230,8 @@
                             "fields": [
                                 "両親＿＿＿姉も私の意見に反対である。", 
                                 "No sólo mis padres sino que también mi hermana mayor estaba en contra de lo que yo opinaba.", 
-                                "両親[りょうしん]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にもとどまらず/のみならず</font> 姉[あね]も 私[わたし]の 意見[いけん]に 反対[はんたい]である。", 
-                                "だけで（は）なく/（だけ/である）にもとどまらず/のみならず"
+                                "両親[りょうしん]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 姉[あね]も 私[わたし]の 意見[いけん]に 反対[はんたい]である。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
                             ], 
                             "flags": 0, 
                             "guid": "A[e)T$e0*w", 
