@@ -4256,7 +4256,7 @@
                                 "にてらして", 
                                 "a la luz de / en vista de", 
                                 "Sustantivo o frase sustantiva + forma gramatical.", 
-                                "Expresión que indica que lo que sigue a continuación es en base o teniendo en cuenta lo anterior.", 
+                                "Expresión que se usa para explicar la razón de algo o proveer una justificación.", 
                                 "最近[さいきん]の 出来事[できごと]＿＿＿ 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
                                 "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
                                 "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと＿＿＿ 注意[ちゅうい]させて。", 
@@ -18474,7 +18474,7 @@
                             "fields": [
                                 "彼の野球の腕は確かになかなかのもんだが、私＿＿＿未だ素人に過ぎない。", 
                                 "Él ciertamente tiene habilidad para el béisbol, pero para mi no es más que un novato.", 
-                                "確[たし]かに、 彼[かれ]の 野球[やきゅう]の 腕[うで]は 確[たし]かになかなかのもんだが、 私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font> 未[いま]だ 素人[しろうと]に 過[す]ぎない。", 
+                                "確[たし]かに、 彼[かれ]の 野球[やきゅう]の 腕[うで]は 確[たし]かになかなかのもんだが、 私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font> 未[ま]だ 素人[しろうと]に 過[す]ぎない。", 
                                 "に言わせれば/から言わせれば"
                             ], 
                             "flags": 0, 
@@ -21251,10 +21251,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼女は美しいだ＿＿＿頭もよい。", 
+                                "彼女は美しい＿＿＿頭もよい。", 
                                 "Ella no sólo es hermosa sino también inteligente.", 
                                 "彼女[かのじょ]は 美[うつく]しい<font color=\"#0000ff\">だけで（は）なく/だけにとどまらず/のみならず</font> 頭[あたま]もよい。", 
-                                "けで（は）なく/だけにとどまらず/のみならず"
+                                "だけで（は）なく/だけにとどまらず/のみならず"
                             ], 
                             "flags": 0, 
                             "guid": "P^u1k7#TYj", 
@@ -21274,10 +21274,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼女は美しいだ＿＿＿＿、みんなに優しい。", 
+                                "彼女は美しい＿＿＿＿、みんなに優しい。", 
                                 "Ella no sólo es hermosa sino que también es amable con todo el mundo.", 
                                 "彼女[かのじょ]は 美[うつく]しい<font color=\"#0000ff\">だけで（は）なく/だけにとどまらず/のみならず</font>、みんなに 優[やさ]しい。", 
-                                "けで（は）なく/だけにとどまらず/のみならず"
+                                "だけで（は）なく/だけにとどまらず/のみならず"
                             ], 
                             "flags": 0, 
                             "guid": "P}oW$u:&4<", 
