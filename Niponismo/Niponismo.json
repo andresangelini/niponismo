@@ -4255,12 +4255,12 @@
                                 "に 照[て]らして", 
                                 "にてらして", 
                                 "a la luz de / en vista de", 
-                                "Sustantivo o frase sustantiva + forma gramatical.", 
-                                "Expresión que se usa para explicar la razón de algo o proveer una justificación.", 
-                                "最近[さいきん]の 出来事[できごと]＿＿＿ 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
-                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
-                                "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと＿＿＿ 注意[ちゅうい]させて。", 
-                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "{S / S + こと} + ＿＿＿", 
+                                "<div>Expresión que se usa para explicar la <b>razón</b> de algo o proveer una <b>justificación</b>.</div><div><br /></div><div>最近[さいきん]の 出来事[できごと]＿＿＿ 政府[せいふ]は 新[あたら]しい 対策[せいさく]を 実施[じっし]することにしました。</div><div><b><i>A la luz de</i></b><i> <u>los recientes acontecimientos</u> el gobierno decidió implementar nuevas medidas.</i></div><div><br /></div><div>Además de <b>sustantivos</b>, también se puede usar con <b>frases tipo sustantivo</b> (formadas con こと).</div><div><br /></div><div>課長[かちょう]が 先程[さきほど] 言[い]ったこと＿＿＿ 今年[ことし]にボーナスがないかもしれないらしい。</div><div><i><b>En vista de</b> <u>lo que dijo</u> recién el jefe de sección, parece que este año no va a haber bono.</i></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4288,12 +4288,12 @@
                                 "にとどまらず（〜も）", 
                                 "にとどまらず（〜も）", 
                                 "no limitarse a (...sino que también) / no sólo (...sino que también)", 
-                                "Verbo forma diccionario + (だけ) + forma gramatical.<div>Sustantivo + (だけ/である) + forma gramatical.</div><div>Adjetivo な (sin な) + である + forma gramatical.</div><div>Adjetivo い + だけ + forma gramatical.</div>", 
-                                "Expresión más arcaica que だけで（は）なく pero menos que のみならず que indica que algo traspasa cualquier límite. Proviene de la antigua forma negativa de とどまる que se conjuga con ず y a menudo se acompaña con la partícula に. Aunque se suele usar con sustantivos y adjetivos な, raramente se lo utiliza junto a adjetivos い.", 
-                                "彼[かれ]のお 父[とう]さんは 叱[しか]る＿＿＿、 殴[なぐ]ってしまったそうだ。", 
-                                "Su padre no sólo le resongó, parece que también le pegó.", 
-                                "この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である）＿＿＿ 全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えるでしょう。", 
-                                "Esta recesión no se limitará a afectar al sector financiero, sino que también a toda la economía en general.", 
+                                "V dicc + (だけ) + ＿＿＿<div>S + (だけ/である) + ＿＿＿</div><div>A な (sin な) + である + ＿＿＿</div><div>A い + だけ + ＿＿＿</div>", 
+                                "Expresión más arcaica que だけで（は）なく pero menos que のみならず que indica que <b>algo traspasa cualquier límite</b>. Proviene de la antigua forma negativa de とどまる que se conjuga con ず y a menudo se acompaña con la partícula に. Aunque se suele usar con sustantivos y adjetivos な, raramente se lo utiliza junto a adjetivos い.<div><br /></div><div>彼[かれ]のお 父[とう]さんは 叱[しか]る＿＿＿、 殴[なぐ]ってしまったそうだ。</div><div><i>Su padre <b>no sólo</b> <u>le resongó</u>, parece que también le pegó.</i></div><div><br /></div><div>この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である＿＿＿ 全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えるでしょう。</div><div><i>Esta recesión <b>no se limitará</b> a afectar al <u>sector financiero</u>, sino que también a toda la economía en general.</i></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -21391,7 +21391,7 @@
                             "fields": [
                                 "<div>彼は勉強＿＿＿運動も好きだ。</div>", 
                                 "A él no sólo le los estudios sino también los deportes.", 
-                                "彼[かれ]は 勉強[べんきょう]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 運動[うんどう]も 好[す]きだ。", 
+                                "彼[かれ]は 勉強[べんきょう]<font color=\"#0000ff\">だ</font><font color=\"#0000ff\">けで（は）なく/（だけ/である）にとどまらず/のみならず</font> 運動[うんどう]も 好[す]きだ。", 
                                 "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
                             ], 
                             "flags": 0, 
@@ -21545,6 +21545,48 @@
                                 "にとどまらず（〜も）", 
                                 "のみならず"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最近の出来事＿＿＿授業は中止することになりました。", 
+                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
+                                "最近[さいきん]の 出来事[できごと]<font color=\"#0000ff\">に 照[て]らして</font> 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s7^49<#HDw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "自分の人生で経験したこと＿＿＿注意させて。", 
+                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと<font color=\"#0000ff\">に 照[て]らして</font> 注意[ちゅうい]させて。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "f<uoW[pD*a", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に照らして"
+                            ]
                         }
                     ]
                 }
@@ -21679,11 +21721,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "でけで（は）なく", 
-                "にとどまらず（〜も）", 
-                "のみならず"
+                "に照らして"
             ], 
             "tmpls": [
                 {
