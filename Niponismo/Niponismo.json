@@ -21461,7 +21461,7 @@
                                 "彼女はきれい＿＿＿頭もよい。", 
                                 "Ella no sólo es preciosa sino también inteligente.", 
                                 "彼女[かのじょ]はきれい<font color=\"#0000ff\">な</font><font color=\"#0000ff\">だけで（は）なく/であるにとどまらず/であるのみならず</font> 頭[あたま]もよい。", 
-                                "なだけで（は）なく/であるにとどまらず/（である）のみならず"
+                                "なだけで（は）なく/であるにとどまらず/であるのみならず"
                             ], 
                             "flags": 0, 
                             "guid": "fk0WR>Cx[z", 
@@ -21484,7 +21484,7 @@
                                 "<div>彼女は、親切＿＿＿正直だ。</div>", 
                                 "Ella no sólo es amable sino que también honesta.", 
                                 "彼女[かのじょ]は、 親切[しんせつ]<font color=\"#0000ff\">な</font><font color=\"#0000ff\">だけで（は）なく/であるにとどまらず/であるのみならず</font> 正直[しょうじき]だ。", 
-                                "なだけで（は）なく/であるにとどまらず/（である）のみならず"
+                                "なだけで（は）なく/であるにとどまらず/であるのみならず"
                             ], 
                             "flags": 0, 
                             "guid": "g=NBXZRQ[t", 
@@ -21544,6 +21544,48 @@
                                 "でけで（は）なく", 
                                 "にとどまらず（〜も）", 
                                 "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最近の出来事＿＿＿授業は中止することになりました。", 
+                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
+                                "最近[さいきん]の 出来事[できごと]<font color=\"#0000ff\">に 照[て]らして</font> 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s7^49<#HDw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "自分の人生で経験したこと＿＿＿注意させて。", 
+                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと<font color=\"#0000ff\">に 照[て]らして</font> 注意[ちゅうい]させて。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "f<uoW[pD*a", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に照らして"
                             ]
                         }
                     ]
