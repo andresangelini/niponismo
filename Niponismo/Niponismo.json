@@ -4193,7 +4193,7 @@
                                 "Expresión cuyo uso es indicar que:<div><br /></div><div>- Una cosa es suficiente para hacer algo.</div><div>- Hacer algo vale la pena, al igual que に 値[あたい]する.</div><div><br /></div><div>Puede comportarse como un adjetivo modificando así a un sustantivo.</div>", 
                                 "みつきさんは 頼[たの]む＿＿＿ 技[わざ]がある。", 
                                 "Mitsuki tiene la habilidad suficiente.", 
-                                "奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
+                                "あの奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
                                 "Ese tipo no es un sujeto digno de confianza.", 
                                 "", 
                                 "", 
@@ -4245,6 +4245,72 @@
                                 "N1", 
                                 "Niponismo", 
                                 "に足りない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に照らして", 
+                                "に 照[て]らして", 
+                                "にてらして", 
+                                "a la luz de / en vista de", 
+                                "Sustantivo o frase sustantiva + forma gramatical.", 
+                                "Expresión que se usa para explicar la razón de algo o proveer una justificación.", 
+                                "最近[さいきん]の 出来事[できごと]＿＿＿ 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
+                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
+                                "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと＿＿＿ 注意[ちゅうい]させて。", 
+                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "vj@?f0n>1>", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "にとどまらず（〜も）", 
+                                "にとどまらず（〜も）", 
+                                "にとどまらず（〜も）", 
+                                "no limitarse a (...sino que también) / no sólo (...sino que también)", 
+                                "Verbo forma diccionario + (だけ) + forma gramatical.<div>Sustantivo + (だけ/である) + forma gramatical.</div><div>Adjetivo な (sin な) + である + forma gramatical.</div><div>Adjetivo い + だけ + forma gramatical.</div>", 
+                                "Expresión más arcaica que だけで（は）なく pero menos que のみならず que indica que algo traspasa cualquier límite. Proviene de la antigua forma negativa de とどまる que se conjuga con ず y a menudo se acompaña con la partícula に. Aunque se suele usar con sustantivos y adjetivos な, raramente se lo utiliza junto a adjetivos い.", 
+                                "彼[かれ]のお 父[とう]さんは 叱[しか]る＿＿＿、 殴[なぐ]ってしまったそうだ。", 
+                                "Su padre no sólo le resongó, parece que también le pegó.", 
+                                "この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である）＿＿＿ 全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えるでしょう。", 
+                                "Esta recesión no se limitará a afectar al sector financiero, sino que también a toda la economía en general.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "zMAZI`&vLS", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "にとどまらず（〜も）"
                             ]
                         }
                     ]
@@ -18408,7 +18474,7 @@
                             "fields": [
                                 "彼の野球の腕は確かになかなかのもんだが、私＿＿＿未だ素人に過ぎない。", 
                                 "Él ciertamente tiene habilidad para el béisbol, pero para mi no es más que un novato.", 
-                                "確[たし]かに、 彼[かれ]の 野球[やきゅう]の 腕[うで]は 確[たし]かになかなかのもんだが、 私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font> 未[いま]だ 素人[しろうと]に 過[す]ぎない。", 
+                                "確[たし]かに、 彼[かれ]の 野球[やきゅう]の 腕[うで]は 確[たし]かになかなかのもんだが、 私[わたし]<font color=\"#0000ff\">に 言[い]わせれば/から 言[い]わせれば</font> 未[ま]だ 素人[しろうと]に 過[す]ぎない。", 
                                 "に言わせれば/から言わせれば"
                             ], 
                             "flags": 0, 
@@ -20371,9 +20437,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "信頼＿＿＿人に絶対にこの秘密をばらさないで", 
+                                "信頼＿＿＿人に絶対にこの秘密をばらさないで。", 
                                 "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
-                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]えない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで", 
+                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]えない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
                                 "に耐えない"
                             ], 
                             "flags": 0, 
@@ -20730,7 +20796,6 @@
                             "guid": "gh(|O[/A5P", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
@@ -20751,7 +20816,6 @@
                             "guid": "F*$+9C6@$u", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
@@ -20889,9 +20953,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "女性に誘う＿＿＿勇気がない男だ。", 
-                                "Soy un tipo que no tiene el coraje suficiente para invitar a una chica.", 
-                                "女性[じょせい]に 誘[さそ]う<font color=\"#0000ff\">に 足[た]りない</font> 勇気[ゆうき]がない 男[おとこ]だ。", 
+                                "バハマに行きたけどさ、お金が行く＿＿＿。", 
+                                "Quisiera ir a las Bahamas pero no tengo el dinero para ir.", 
+                                "バハマに 行[い]きたけどさ、お 金[かね]が 行[い]く<font color=\"#0000ff\">に 足[た]りない</font>。", 
                                 "に足りない"
                             ], 
                             "flags": 0, 
@@ -20910,7 +20974,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "もちろん、口頭試問だけで合額＿＿＿。", 
+                                "もちろん、口頭試問だけで合格＿＿＿。", 
                                 "Por supuesto, el examen oral no es suficiente para aprobar.", 
                                 "もちろん、 口頭[こうとう] 試問[しもん]だけで 合[ごう] 額[がく]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
                                 "（する）に足りない"
@@ -21009,6 +21073,477 @@
                                 "Oración", 
                                 "tatoeba", 
                                 "に足りない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼がこの会社のためにやってきたこと＿＿＿昇進すべきだ。", 
+                                "En vista de lo que él ha hecho por esta compañía, él debería ser promovido.", 
+                                "彼[かれ]がこの 会社[かいしゃ]のためにやってきたこと<font color=\"#0000ff\">に 照[て]らして</font> 昇進[しょうしん]すべきだ。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N:j(6Ux/:o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その科学者は、最新の科学知識＿＿＿その奇妙な現象を説明した", 
+                                "Ese científico explicó esos extraños fenómenos a la luz de los últimos conocimientos científicos.", 
+                                "その 科学[かがく] 者[しゃ]は、 最新[さいしん]の 科学[かがく] 知識[ちしき]<font color=\"#0000ff\">に 照[て]らして</font>その 奇妙[きみょう]な 現象[げんしょう]を 説明[せつめい]した", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s6B7}@/p)V", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この事実＿＿＿彼に罪がないことは明らかだ。", 
+                                "En vista de los hechos, está claro que él es inocente.", 
+                                "この 事実[じじつ]<font color=\"#0000ff\">に 照[て]らして</font> 彼[かれ]に 罪[つみ]がないことは 明[あき]らかだ。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oXN0LJE]Wb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "社長の素晴らしい交渉スキル＿＿＿その件は無事に解決されるはずです。", 
+                                "En vista de las exelentes habilidades de negociación del presidente de la compañía, seguro que ese asunto se resuelve sin problemas.", 
+                                "社長[しゃちょう]の 素晴[すば]らしい 交渉[こうしょう]スキル<font color=\"#0000ff\">に 照[て]らして</font>その 件[けん]は 無事[ぶじ]に 解決[かいけつ]されるはずです。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uyxMNO7R<?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "証人が言ったこと＿＿＿彼女が無罪であることは明らかにします。", 
+                                "A la luz de lo que dijo él, queda claro que ella es inocente.", 
+                                "証人[しょうにん]が 言[い]ったこと<font color=\"#0000ff\">に 照[て]らして</font> 彼女[かのじょ]が 無罪[むざい]であることは 明[あき]らかにします。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "O>_pZ{C`I^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最近の医学の進歩＿＿＿癌の決定的な医療はそんなに遠くないらしい。", 
+                                "En vista de los últimos avances en la medicina, parece que la cura definitiva del cancer no está tan lejos.", 
+                                "最近[さいきん]の 医学[いがく]の 進歩[しんぽ]<font color=\"#0000ff\">に 照[て]らして</font> 癌[がん]の 決定的[けっていてき]な 医療[いりょう]はそんなに 遠[とお]くないらしい。", 
+                                "に照らして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KMK<b(FT)n", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に照らして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "霊長類は尾の無いサル＿＿＿人間も含む。", 
+                                "Los primates no sólo incluyen a los simios, sino también al hombre.", 
+                                "霊長[れいちょう] 類[るい]は 尾[お]の 無[な]いサル<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 人間[にんげん]も 含[ふく]む。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QsNcyFdRfw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "両親＿＿＿姉も私の意見に反対である。", 
+                                "No sólo mis padres sino que también mi hermana mayor estaba en contra de lo que yo opinaba.", 
+                                "両親[りょうしん]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 姉[あね]も 私[わたし]の 意見[いけん]に 反対[はんたい]である。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A[e)T$e0*w", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は美しい＿＿＿頭もよい。", 
+                                "Ella no sólo es hermosa sino también inteligente.", 
+                                "彼女[かのじょ]は 美[うつく]しい<font color=\"#0000ff\">だけで（は）なく/だけにとどまらず/のみならず</font> 頭[あたま]もよい。", 
+                                "だけで（は）なく/だけにとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P^u1k7#TYj", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は美しい＿＿＿＿、みんなに優しい。", 
+                                "Ella no sólo es hermosa sino que también es amable con todo el mundo.", 
+                                "彼女[かのじょ]は 美[うつく]しい<font color=\"#0000ff\">だけで（は）なく/だけにとどまらず/のみならず</font>、みんなに 優[やさ]しい。", 
+                                "だけで（は）なく/だけにとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P}oW$u:&4<", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は彼に食べ物＿＿＿金も与えた。", 
+                                "Ella no sólo le dio comida sino también dinero.", 
+                                "彼女[かのじょ]は 彼[かれ]に 食べ物[たべもの]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 金[きん]も 与[あた]えた。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u>pJJTwk7C", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は頭が良い＿＿＿勤勉でもある。", 
+                                "Ella no sólo es inteligente sino que también es muy diligente.", 
+                                "彼女[かのじょ]は 頭[あたま]が 良[よ]い<font color=\"#0000ff\">だけで（は）なく/だけにとどまらず/のみならず</font> 勤勉[きんべん]でもある。", 
+                                "だけで（は）なく/だけにとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uV$TJOL40a", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は葬儀に参加する＿＿＿、すべての段取りをつけなくてはならない。", 
+                                "Ella no sólo tiene que asistir al funeral sino que también hacer todos los arreglos.", 
+                                "彼女[かのじょ]は 葬儀[そうぎ]に 参加[さんか]する<font color=\"#0000ff\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、すべての 段取[だんど]りをつけなくてはならない。", 
+                                "だけで（は）なく/（だけ）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hQ8:s-wR^%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は来てくれた＿＿＿、援助してあげようと言ってくれた。", 
+                                "Él no sólo vino sino que también me dijo que me iba a ayudar.", 
+                                "彼[かれ]は 来[き]てくれた<font color=\"#0000ff\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、 援助[えんじょ]してあげようと 言[い]ってくれた。", 
+                                "だけで（は）なく/（だけ）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "OgZeD|~fD(", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は勉強＿＿＿運動も好きだ。</div>", 
+                                "A él no sólo le los estudios sino también los deportes.", 
+                                "彼[かれ]は 勉強[べんきょう]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 運動[うんどう]も 好[す]きだ。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Cb*F3.O>#,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は知識＿＿＿経験も豊かである。", 
+                                "Él no sólo tiene el conocimiento sino también la experiencia.", 
+                                "彼[かれ]は 知識[ちしき]<font color=\"#0000ff\">だけで（は）なく/（だけ/である）にとどまらず/のみならず</font> 経験[けいけん]も 豊[ゆた]かである。", 
+                                "だけで（は）なく/（だけ/である）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HghK*M(r2x", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は私を養う＿＿＿、助言を１つしてくれた。", 
+                                "En no sólo me apoyó sino que también me dio un consejo.", 
+                                "彼[かれ]は 私[わたし]を 養[やしな]う<font color=\"#0000ff\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、 助言[じょげん]を １[ひと]つしてくれた。", 
+                                "だけで（は）なく/（だけ）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "qe4U]&cARF", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女はきれい＿＿＿頭もよい。", 
+                                "Ella no sólo es preciosa sino también inteligente.", 
+                                "彼女[かのじょ]はきれい<font color=\"#0000ff\">な</font><font color=\"#0000ff\">だけで（は）なく/であるにとどまらず/であるのみならず</font> 頭[あたま]もよい。", 
+                                "なだけで（は）なく/であるにとどまらず/（である）のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fk0WR>Cx[z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼女は、親切＿＿＿正直だ。</div>", 
+                                "Ella no sólo es amable sino que también honesta.", 
+                                "彼女[かのじょ]は、 親切[しんせつ]<font color=\"#0000ff\">な</font><font color=\"#0000ff\">だけで（は）なく/であるにとどまらず/であるのみならず</font> 正直[しょうじき]だ。", 
+                                "なだけで（は）なく/であるにとどまらず/（である）のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g=NBXZRQ[t", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は働かない＿＿＿、仕事を探そうともしない。", 
+                                "Él no sólo no trabaja sino que tampoco busca trabajo.", 
+                                "彼[かれ]は 働[はたら]かない<font color=\"#0000ff\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、 仕事[しごと]を 探[さが]そうともしない。", 
+                                "だけで（は）なく/（だけ）にとどまらず/のみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "JEkF3=_Oo3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼女は聡明＿＿＿美しい。</div>", 
+                                "Ella no sólo es sagaz sino también hermosa.", 
+                                "彼女[かのじょ]は 聡明[そうめい]<font color=\"#0000ff\">なだけで（は）なく/であるにとどまらず/であるのみならず</font> 美[うつく]しい。", 
+                                "なだけで（は）なく/であるにとどまらず/であるのみならず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "euQQJ>f3jI", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "でけで（は）なく", 
+                                "にとどまらず（〜も）", 
+                                "のみならず"
                             ]
                         }
                     ]
@@ -21146,7 +21681,9 @@
                 "N1", 
                 "Oración", 
                 "tatoeba", 
-                "に足りない"
+                "でけで（は）なく", 
+                "にとどまらず（〜も）", 
+                "のみならず"
             ], 
             "tmpls": [
                 {
@@ -21350,7 +21887,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "に足りない"
+                "にとどまらず（〜も）"
             ], 
             "tmpls": [
                 {
