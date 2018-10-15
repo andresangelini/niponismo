@@ -4312,6 +4312,39 @@
                                 "Niponismo", 
                                 "にとどまらず（〜も）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "に（は） 及[およ]ばない/（する）に（は） 及[およ]ばない", 
+                                "に（は）およばない/（する）に（は）およばない", 
+                                "no alcanzar / no ser suficiente / no bastar / no hacer falta / no precisar / no haber de qué / no tener de qué", 
+                                "<div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div><div><br /></div><div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal sin する + forma gramatical.</div></div>", 
+                                "Expresión cuyas posibles interpretaciones son contradictorias pero que en realidad no lo son teniendo en cuenta que su significado literal es \"no llegar al nivel de\". Por un lado equivale a に足りない y se puede utilizar para expresar que そのレベル＿＿＿ y por el otro es equivalente a までもない como en 心配＿＿＿.", 
+                                "彼[]は 父親[ちちおや]には 及[およ]ばない。", 
+                                "Él no está al nivel de su padre.", 
+                                "君[きみ]は 靴[くつ]を 脱[ぬ]ぐには 及[およ]ばない。", 
+                                "No hace falta que te quites los zapatos.", 
+                                "これからゆっくり 会話[かいわ]をするに 足[た]る 時間[じかん]があるので、 心配[しんぱい]＿＿＿。", 
+                                "De aquí en más tendremos tiempo suficiente para conversar, así que no hay nada de qué preocuparse.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "q,TO?j11PZ", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
                         }
                     ]
                 }, 
@@ -21593,6 +21626,171 @@
                                 "Oración", 
                                 "に照らして"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "数学では、私は彼＿＿＿。", 
+                                "No estoy a su nivel en matemáticas.", 
+                                "数学[すうがく]では、 私[わたし]は 彼[かれ]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yEZq`P|R4i", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今年の収穫は昨年＿＿＿。", 
+                                "La cosecha de este año quedará corta con respecto a la del año pasado.", 
+                                "今年[ことし]の 収穫[しゅうかく]は 昨年[さくねん]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s[.&yY5Xo;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "外交の駆け引きでは、とても彼＿＿＿。", 
+                                "Yo no estoy a su nivel en negociaciones diplomáticas.", 
+                                "外交[がいこう]の 駆け引[かけひ]きでは、とても 彼[かれ]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P~x+0qj1|&", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どんなに立派な翻訳でも明らかに原文＿＿＿。", 
+                                "No importa qué tan buena se una traducción, jamás estará al nivel de la obra original.", 
+                                "どんなに 立派[りっぱ]な 翻訳[ほんやく]でも 明[あき]らかに 原文[げんぶん]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>ものだ。", 
+                                "に（は）及ばないものだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uy0J$7aHJe", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そんなに早くに行く＿＿＿でしょうね。", 
+                                "No hace falta ir tan temprano, ¿o sí?", 
+                                "そんなに 早[はや]くに 行[い]く<font color=\"#0000ff\">に（は） 及[およ]ばない</font>でしょうね。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pv^B}V0{VD", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この事で何も腹を立てる＿＿＿。", 
+                                "No hay nada por lo que enojarse sobre este asunto.", 
+                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C&DMv18jV%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あなたは来る＿＿＿。", 
+                                "No hace falta que vengas.", 
+                                "あなたは 来[く]る<font color=\"#0000ff\">に（は）およばない</font>。", 
+                                "に（は）およばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "exr@GZ9Cos", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あえて休暇を取りやめる＿＿＿。", 
+                                "No hace falta que canceles tus vacaciones.", 
+                                "あえて 休暇[きゅうか]を 取[と]りやめる<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G`-B@8VLC0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない/（する）に（は）及ばない"
+                            ]
                         }
                     ]
                 }
@@ -21724,14 +21922,12 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
-                "Japonés", 
                 "N1", 
-                "Oración", 
+                "Niponismo", 
                 "tatoeba", 
-                "でけで（は）なく", 
-                "にとどまらず（〜も）", 
-                "のみならず"
+                "に（は）及ばない/（する）に（は）及ばない"
             ], 
             "tmpls": [
                 {
@@ -21932,10 +22128,10 @@
             "tags": [
                 "Definición", 
                 "Gramática", 
-                "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "にとどまらず（〜も）"
+                "tatoeba", 
+                "に（は）及ばない/（する）に（は）及ばない"
             ], 
             "tmpls": [
                 {
