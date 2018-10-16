@@ -2237,7 +2237,7 @@
                                 "までもない", 
                                 "no hacer falta llegar a", 
                                 "Verbo en forma diccionario + forma gramatical.", 
-                                "Expresión que indica que no es necesario hacer la acción indicada por el verbo.", 
+                                "Expresión equivalente a に（は） 及[およ]ばない cuyo significado básicamente es &nbsp;必要[ひつよう]は 無[な]い que indica que no es necesario hacer la acción indicada por el verbo.", 
                                 "その 時[とき]、 二人[ふたり]の 間[あいだ]に 師弟[してい]を 越[こ]えた 友情[ゆうじょう]のようなものが 芽生[めば]えた 事[こと]は 言[い]う＿＿＿。", 
                                 "No hace falta decir que surgió una especie de amistad entre ellos dos, que vas más allá de la típica relación entre maestro y alumno.", 
                                 "言[い]う＿＿＿ことだが捜索は徒労に終わった。", 
@@ -3622,11 +3622,11 @@
                                 "に 値[あたい]する", 
                                 "にあたいする", 
                                 "merecer / valer la pena / ser digno de", 
-                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo (con o sin する) + forma gramatical.</div>", 
                                 "Esta expresión significa \"merecer\", \"valer la pena\" o \"ser digno de\" y se debe usar con la partícula に delante ya sea que se use junto a un sustantivo o a un verbo. Como cualquier otro verbo, si \"vale la pena\" o \"no vale la pena\" depende de si su conjugación es positiva o negativa respectivamente.", 
                                 "良書[りょうしょ]はすべて 読[よ]む＿＿＿。", 
                                 "Los buenos libros siempre merecen la pena leerlos.", 
-                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]＿＿＿。", 
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]（する）＿＿＿。", 
                                 "<div>Ellos no merecen el elogio que recibieron.</div>", 
                                 "", 
                                 "", 
@@ -4321,13 +4321,13 @@
                                 "に（は） 及[およ]ばない/（する）に（は） 及[およ]ばない", 
                                 "に（は）およばない/（する）に（は）およばない", 
                                 "no alcanzar / no ser suficiente / no bastar / no hacer falta / no precisar / no haber de qué / no tener de qué", 
-                                "<div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div><div><br /></div><div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal sin する + forma gramatical.</div></div>", 
-                                "Expresión cuyas posibles interpretaciones son contradictorias pero que en realidad no lo son teniendo en cuenta que su significado literal es \"no llegar al nivel de\". Por un lado equivale a に足りない y se puede utilizar para expresar que そのレベル＿＿＿ y por el otro es equivalente a までもない como en 心配＿＿＿.", 
-                                "彼[]は 父親[ちちおや]には 及[およ]ばない。", 
+                                "<div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div><div><br /></div><div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal (con o sin する) + forma gramatical.</div></div>", 
+                                "Expresión cuyas posibles interpretaciones son contradictorias pero que en realidad no lo son teniendo en cuenta que su significado literal es \"no llegar al nivel de\". Por un lado equivale a に足りない y se puede utilizar para expresar que そのレベル＿＿＿ y por el otro es equivalente a までもない o &nbsp;必要[ひつよう]は 無[な]い como en 心配＿＿＿.", 
+                                "彼[かれ]は 父親[ちちおや]＿＿＿。", 
                                 "Él no está al nivel de su padre.", 
-                                "君[きみ]は 靴[くつ]を 脱[ぬ]ぐには 及[およ]ばない。", 
+                                "君[きみ]は 靴[くつ]を 脱[ぬ]ぐ＿＿＿。", 
                                 "No hace falta que te quites los zapatos.", 
-                                "これからゆっくり 会話[かいわ]をするに 足[た]る 時間[じかん]があるので、 心配[しんぱい]＿＿＿。", 
+                                "これからゆっくり 会話[かいわ]をするに 足[た]る 時間[じかん]があるので、 心配[しんぱい]（する）＿＿＿。", 
                                 "De aquí en más tendremos tiempo suficiente para conversar, así que no hay nada de qué preocuparse.", 
                                 "", 
                                 "", 
@@ -11092,8 +11092,8 @@
                             "fields": [
                                 "私はフランス語が読めない、まして話せないことは言う＿＿＿。", 
                                 "No puedo leer en francés, mucho menos hablar.", 
-                                "私[わたし]は フランス語[ふらんすご]が 読[よ]めない、まして 話[はな]せないことは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>。", 
-                                "までもない"
+                                "私[わたし]は フランス語[ふらんすご]が 読[よ]めない、まして 話[はな]せないことは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "z*w=N=dT={", 
@@ -11104,6 +11104,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11152,8 +11153,8 @@
                             "fields": [
                                 "スレ立てる＿＿＿話題はこちらへ。", 
                                 "Temas que no necesitan tener su propio hilo, por favor ponerlos aquí.", 
-                                "スレ 立[た]てる<font color=\"#0000ff\">までもない</font> 話題[わだい]はこちらへ。", 
-                                "までもない"
+                                "スレ 立[た]てる<font color=\"#0000ff\">までもない/に（は）及ばない</font> 話題[わだい]はこちらへ。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "ss.gqYQ,Sr", 
@@ -11164,6 +11165,7 @@
                                 "N1", 
                                 "Oración", 
                                 "jgram", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11231,8 +11233,8 @@
                             "fields": [
                                 "疲れているならば、休みをとるべきなのは、言う＿＿＿ことだ。", 
                                 "No hace falta decir que si estás cansado, debes tomar un descanso.", 
-                                "疲[つか]れているならば、 休[やす]みをとるべきなのは、 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>ことだ。", 
-                                "までもない"
+                                "疲[つか]れているならば、 休[やす]みをとるべきなのは、 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>ことだ。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "v~3!EsU:TY", 
@@ -11243,6 +11245,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11271,8 +11274,8 @@
                             "fields": [
                                 "友情が仕事より大切なのは言う＿＿＿。", 
                                 "No hace falta decir que la amistad es más importante que el trabajo.", 
-                                "友情[ゆうじょう]が 仕事[しごと]より 大切[たいせつ]なのは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>。", 
-                                "までもない"
+                                "友情[ゆうじょう]が 仕事[しごと]より 大切[たいせつ]なのは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "y}c{cU?ISy", 
@@ -11283,6 +11286,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11311,8 +11315,8 @@
                             "fields": [
                                 "<div>彼女はドイツ語をしゃべれる。英語は言う＿＿＿。</div>", 
                                 "Ella puede hablar en alemán, sin mencionar que en inglés.", 
-                                "彼女[かのじょ]はドイツ 語[ご]をしゃべれる。 英語[えいご]は 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>。", 
-                                "までもない"
+                                "彼女[かのじょ]はドイツ 語[ご]をしゃべれる。 英語[えいご]は 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "QS,$F~Y6~F", 
@@ -11323,6 +11327,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -17478,8 +17483,8 @@
                             "fields": [
                                 "勇者のみが尊敬＿＿＿。", 
                                 "Sólo el realmente valiente es merecedor de respeto.", 
-                                "勇者[ゆうしゃ]のみが 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "勇者[ゆうしゃ]のみが 尊敬[そんけい]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "nTEK^iF6#Y", 
@@ -17541,8 +17546,8 @@
                             "fields": [
                                 "<div>彼女の行為は尊敬＿＿＿。</div>", 
                                 "El comportamiento de ella es digno de admiración.", 
-                                "彼女[かのじょ]の 行為[こうい]は 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼女[かのじょ]の 行為[こうい]は 尊敬[そんけい]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "J1FLM}tOab", 
@@ -17562,8 +17567,8 @@
                             "fields": [
                                 "彼女の勤勉はまったく賞賛＿＿＿。", 
                                 "Su diligencia es digna de elogio.", 
-                                "彼女[かのじょ]の 勤勉[きんべん]はまったく 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼女[かのじょ]の 勤勉[きんべん]はまったく 賞賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "kN1tSV(32?", 
@@ -17583,8 +17588,8 @@
                             "fields": [
                                 "彼は我々の称賛＿＿＿。", 
                                 "Él se merece nuestro elogio.", 
-                                "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "d9]tT]U`l~", 
@@ -17646,8 +17651,8 @@
                             "fields": [
                                 "<div>彼の理論は一考＿＿＿。</div>", 
                                 "Su teoría merece consideración.", 
-                                "彼[かれ]の 理論[りろん]は 一考[いっこう]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]の 理論[りろん]は 一考[いっこう]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "gSkhnmz6Lb", 
@@ -17667,8 +17672,8 @@
                             "fields": [
                                 "彼の勇気は賞賛＿＿＿。", 
                                 "Su valentía es digna de elogio.", 
-                                "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "KcB-zl~!+H", 
@@ -17688,8 +17693,8 @@
                             "fields": [
                                 "彼の発明は注目＿＿＿ものだ。", 
                                 "Su invento es digno de nuestra atención.", 
-                                "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものだ。", 
-                                "に値する"
+                                "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>ものだ。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "Q{HB%?|-O%", 
@@ -17709,8 +17714,8 @@
                             "fields": [
                                 "彼の崇高な行為は本当に称賛＿＿＿。", 
                                 "Su noble actuar es realmente digna de elogio.", 
-                                "彼[かれ]の 崇高[すうこう]な 行為[こうい]は 本当[ほんとう]に 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]の 崇高[すうこう]な 行為[こうい]は 本当[ほんとう]に 称賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "v<hEZp*Tez", 
@@ -17793,8 +17798,8 @@
                             "fields": [
                                 "その見本市には注目＿＿＿ものはなにもなかった。", 
                                 "No había nada que llamara la atención en la exposición.", 
-                                "その 見本市[みほんいち]には 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものはなにもなかった。", 
-                                "に値する"
+                                "その 見本市[みほんいち]には 注目[ちゅうもく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>ものはなにもなかった。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "g4FJfN)x8o", 
@@ -20906,8 +20911,8 @@
                             "fields": [
                                 "部長に報告＿＿＿問題じゃないでしょう。", 
                                 "No es un problema que valga la pena reportar al jefe.", 
-                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">に 値[あたい]する/に 耐[た]える/（する）に 足[た]る/（する）に 足[た]りる</font> 問題[もんだい]じゃないでしょう。", 
-                                "に値する/に耐える/（する）に足る/（する）に足りる"
+                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する/に 耐[た]える/（する）に 足[た]る/（する）に 足[た]りる</font> 問題[もんだい]じゃないでしょう。", 
+                                "（する）に値する/に耐える/（する）に足る/（する）に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "Qd6{wZ+JOt", 
@@ -21694,7 +21699,7 @@
                                 "どんなに立派な翻訳でも明らかに原文＿＿＿。", 
                                 "No importa qué tan buena se una traducción, jamás estará al nivel de la obra original.", 
                                 "どんなに 立派[りっぱ]な 翻訳[ほんやく]でも 明[あき]らかに 原文[げんぶん]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>ものだ。", 
-                                "に（は）及ばないものだ"
+                                "に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "uy0J$7aHJe", 
@@ -21714,8 +21719,8 @@
                             "fields": [
                                 "そんなに早くに行く＿＿＿でしょうね。", 
                                 "No hace falta ir tan temprano, ¿o sí?", 
-                                "そんなに 早[はや]くに 行[い]く<font color=\"#0000ff\">に（は） 及[およ]ばない</font>でしょうね。", 
-                                "に（は）及ばない"
+                                "そんなに 早[はや]くに 行[い]く<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は） 及[およ]ばない</font>でしょうね。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "pv^B}V0{VD", 
@@ -21726,7 +21731,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "までもない"
                             ]
                         }, 
                         {
@@ -21735,8 +21741,8 @@
                             "fields": [
                                 "この事で何も腹を立てる＿＿＿。", 
                                 "No hay nada por lo que enojarse sobre este asunto.", 
-                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
-                                "に（は）及ばない"
+                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "C&DMv18jV%", 
@@ -21747,7 +21753,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "までもない"
                             ]
                         }, 
                         {
@@ -21756,8 +21763,8 @@
                             "fields": [
                                 "あなたは来る＿＿＿。", 
                                 "No hace falta que vengas.", 
-                                "あなたは 来[く]る<font color=\"#0000ff\">に（は）およばない</font>。", 
-                                "に（は）およばない"
+                                "あなたは 来[く]る<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は）およばない</font>。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "exr@GZ9Cos", 
@@ -21768,7 +21775,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "までもない"
                             ]
                         }, 
                         {
@@ -21777,8 +21785,8 @@
                             "fields": [
                                 "あえて休暇を取りやめる＿＿＿。", 
                                 "No hace falta que canceles tus vacaciones.", 
-                                "あえて 休暇[きゅうか]を 取[と]りやめる<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
-                                "に（は）及ばない"
+                                "あえて 休暇[きゅうか]を 取[と]りやめる<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "までもない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "G`-B@8VLC0", 
@@ -21789,7 +21797,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "までもない"
                             ]
                         }
                     ]
