@@ -382,8 +382,8 @@
                                 "no debería pasar", 
                                 "Verbo en forma diccionario + forma gramatical + sustantivo.", 
                                 "Describe una situación como algo que no debe o no debería pasar.", 
-                                "お客様を[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行員[ぎんこういん]として 許[ゆる]す＿＿＿ 行為[こうい]である。", 
-                                "Es imperdonable que un empleado de banco ande amenazando y haciendo firmar contratos a los clientes.", 
+                                "仲間[なかま]を 裏切[うらぎ]るのは、 許[ゆる]す＿＿＿ 行為[こうい]である。", 
+                                "Traicionar a los compañeros es algo que no se puede perdonar.", 
                                 "<div>彼[かれ]は、このチームには 欠[か]く＿＿＿ 選手[せんしゅ]であると 思[おも]わないか。</div>", 
                                 "¿No creen que él es un jugador indispensable para este equipo?", 
                                 "", 
@@ -3919,7 +3919,7 @@
                                 "にも程が有る", 
                                 "にも程[ほど]が 有[あ]る", 
                                 "にもほどがある", 
-                                "también tener un límite / no se puede...", 
+                                "también tener un límite / no se puede", 
                                 "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div><div>Adjetivo い o な + forma gramatical.</div>", 
                                 "Expresión usada en forma de crítica para indicar que una situación, actitud, etc. ha cruzado un límite.", 
                                 "世間知[せけんし]らず＿＿＿。 井[い]の 中[なか]の 蛙[かわず] 大海[たいかい]を 知[し]らず、ということかね。", 
@@ -4344,6 +4344,38 @@
                                 "Niponismo", 
                                 "tatoeba", 
                                 "に（は）及ばない/（する）に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "によらず（に）/によらず", 
+                                "によらず（に）/によらず", 
+                                "によらず（に）/によらず", 
+                                "sin / sin importar / independientemente de", 
+                                "Cuando equivale a なしで:<div><br /></div><div>Sustantivo + forma gramatical.</div><div>Palabra interrogativa + forma gramatical.</div><div><br /></div><div>Cuando equivale a にかかわらず:</div><div><br /></div><div>Verbo dicc. + か + verbo dicc. + か + forma gramatical.</div><div>Sustantivo + か + sustantivo + か + forma gramatical.</div><div>Adjetivo な (sin な) + か +&nbsp;Adjetivo な (sin な) + か + forma gramatical.</div><div>Adjetivo い + か +&nbsp;adjetivo い + か + forma gramatical.</div><div><br /></div><div>Verbo dicc.&nbsp;+ か + どう/否 + か + forma gramatical.</div><div>Sustantivo + か + どう/否 + か + forma gramatical.</div><div>Adjetivo な (sin な)&nbsp;+ か + どう/否 + か + forma gramatical.</div><div>Adjetivo い&nbsp;+ か + どう/否 + か + forma gramatical.</div><div><br /></div><div>Verbo positivo + か + verbo negativo + か + forma gramatical.</div><div>Sustantivo + である + か + sutantivo + でない + か + forma gramatical.</div><div>Adjetivo な (sin な) + である + か + Adjetivo な (sin な) + でない + か　+ forma gramatical.</div><div>Adjetivo い + か + Adjetivo い negativo + か + forma gramatical.</div><div><br /></div><div>Verbo dicc. no pasado + verbo dicc. negativo no pasado + forma gramatical.</div><div>Adjetivo い no pasado + adjetivo い negativo no pasado + forma gramatical.</div><div><br /></div><div>Adjetivo な (sin な) no pasado + antónimo + forma gramatical.</div><div>Adjetivo い no pasado + antónimo + forma gramatical.</div><div><br /></div><div>Sustantivo / Adjetivo な (sin な) + であるなし + forma gramatical.</div><div>Sustantivo + のあるなし + forma gramatical.</div><div>Sustantivo + のいかん + forma gramatical.</div><div>Frase interrogativa en infinitivo + か + forma gramatical.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "t7+wE!0!Yr", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "によらず（に）/によらず"
                             ]
                         }
                     ]
@@ -5131,8 +5163,8 @@
                             "fields": [
                                 "お客様を脅迫して契約をサインさせるとは、銀行員として許す＿＿＿行為である。", 
                                 "<span style=\"font-family: 'Liberation Sans'\">Es imperdonable que un empleado de banco ande amenazando y haciendo firmar contratos a los clientes.</span>", 
-                                "お 客様[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行[ぎんこう] 員[いん]として 許[ゆる]す<span style=\"color: rgb(0, 0, 255)\">べからざる</span>&nbsp;行為[こうい]である。", 
-                                "べからざる"
+                                "お 客様[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行[ぎんこう] 員[いん]として 許[ゆる]す<font color=\"#0000ff\">まじき</font>&nbsp;行為[こうい]である。", 
+                                "まじき"
                             ], 
                             "flags": 0, 
                             "guid": "e0[yX-omLz", 
@@ -5141,8 +5173,9 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "べからざる"
+                                "まじき"
                             ]
                         }, 
                         {
@@ -17777,8 +17810,8 @@
                             "fields": [
                                 "メアリーはあなたの信頼を受ける＿＿＿なかった。", 
                                 "Mary no merecía tu confianza.", 
-                                "メアリーはあなたの 信頼[しんらい]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]し</font>なかった。", 
-                                "に値し"
+                                "メアリーはあなたの 信頼[しんらい]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]し/に 耐[た]え/に 足[た]り</font>なかった。", 
+                                "に値し/に耐え/に足り"
                             ], 
                             "flags": 0, 
                             "guid": "AD:D}sC1[V", 
@@ -17789,7 +17822,9 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に値する"
+                                "に値する", 
+                                "に耐える", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -20367,8 +20402,8 @@
                             "fields": [
                                 "その書店には読む＿＿＿本が本当にありますか。", 
                                 "¿Hay realmente un libro que valga la pena leer en esa librería?", 
-                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 本[ほん]が 本当[ほんとう]にありますか。", 
-                                "に耐える"
+                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 値[あたい]する/</font><font color=\"#0000ff\">に 耐[た]える/に 足[た]る/に 足[た]りる</font>&nbsp;本[ほん]が 本当[ほんとう]にありますか。", 
+                                "<div>に値する/に耐える/に足る/に足りる</div>"
                             ], 
                             "flags": 0, 
                             "guid": "A;j^`h*F7]", 
@@ -20380,7 +20415,10 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にたえる", 
-                                "に耐える"
+                                "に値する", 
+                                "に耐える", 
+                                "に足りる", 
+                                "に足る"
                             ]
                         }, 
                         {
@@ -20477,8 +20515,8 @@
                             "fields": [
                                 "信頼＿＿＿人に絶対にこの秘密をばらさないで。", 
                                 "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
-                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]えない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
-                                "に耐えない"
+                                "信頼[しんらい]<font color=\"#0000ff\">に 値[あたい]しない/</font><font color=\"#0000ff\">に 耐[た]えない/に 足[た]りない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
+                                "に値しない/に耐えない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "M%n^qvSE//", 
@@ -20490,7 +20528,9 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にたえない", 
-                                "に耐えない"
+                                "に値する", 
+                                "に耐えない", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -20675,8 +20715,8 @@
                             "fields": [
                                 "テレビでは見る＿＿＿ないものばっかり。", 
                                 "En la televisión sólo pasan cosas que ni valen la pena.", 
-                                "テレビでは 見[み]る<font color=\"#0000ff\">に 耐[た]え</font>ないものばっかり。", 
-                                "に耐え"
+                                "テレビでは 見[み]る<font color=\"#0000ff\">に 値[あたい]し/</font><font color=\"#0000ff\">に 耐[た]え/に 足[た]り</font>ないものばっかり。", 
+                                "に値し/に耐え/に足り"
                             ], 
                             "flags": 0, 
                             "guid": "b;(Hyr]!)W", 
@@ -20688,7 +20728,9 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にたえる", 
-                                "に耐える"
+                                "に値し", 
+                                "に耐える", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -21800,6 +21842,27 @@
                                 "に（は）及ばない/（する）に（は）及ばない", 
                                 "までもない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "職場で巫山戯るのは、許す＿＿＿行為である。", 
+                                "Jugar en el lugar de trabajo es inadmisible.", 
+                                "職場[しょくば]で 巫山戯[ふざけ]るのは、 許[ゆる]<font color=\"#0000ff\">すべからざる</font> 行為[こうい]である。", 
+                                "べからざる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J^Q-^9U)c9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "べからざる"
+                            ]
                         }
                     ]
                 }
@@ -21872,7 +21935,7 @@
     "extendNew": 0, 
     "extendRev": 50, 
     "media_files": [], 
-    "mid": "1519824005325", 
+    "mid": "1512049857666", 
     "name": "Niponismo", 
     "note_models": [
         {
@@ -21931,12 +21994,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
+                "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "tatoeba", 
-                "に（は）及ばない/（する）に（は）及ばない"
+                "Oración", 
+                "べからざる"
             ], 
             "tmpls": [
                 {
@@ -22137,10 +22200,9 @@
             "tags": [
                 "Definición", 
                 "Gramática", 
+                "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "tatoeba", 
-                "に（は）及ばない/（する）に（は）及ばない"
+                "によらず（に）/によらず"
             ], 
             "tmpls": [
                 {
