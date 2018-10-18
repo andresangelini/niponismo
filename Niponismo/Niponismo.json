@@ -4317,9 +4317,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "に（は）及ばない/（する）に（は）及ばない", 
-                                "に（は） 及[およ]ばない/（する）に（は） 及[およ]ばない", 
-                                "に（は）およばない/（する）に（は）およばない", 
+                                "に（は）及ばない", 
+                                "に（は） 及[およ]ばない", 
+                                "に（は）およばない", 
                                 "no alcanzar / no ser suficiente / no bastar / no hacer falta / no precisar / no haber de qué / no tener de qué", 
                                 "<div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div><div><br /></div><div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal (con o sin する) + forma gramatical.</div></div>", 
                                 "Expresión cuyas posibles interpretaciones son contradictorias pero que en realidad no lo son teniendo en cuenta que su significado literal es \"no llegar al nivel de\". Por un lado equivale a に足りない y se puede utilizar para expresar que そのレベル＿＿＿ y por el otro es equivalente a までもない o &nbsp;必要[ひつよう]は 無[な]い como en 心配＿＿＿.", 
@@ -4350,9 +4350,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "によらず/にかかわらず", 
-                                "によらず/にかかわらず", 
-                                "によらず/にかかわらず", 
+                                "によらず", 
+                                "によらず", 
+                                "によらず", 
                                 "sin tal cosa / sin importar / independientemente de", 
                                 "Cuando equivale a なしで:<div><br /></div><div>Sustantivo + forma gramatical.</div><div>Palabra interrogativa + forma gramatical.</div><div><br /></div><div>Cuando equivale a にかかわらず:</div><div><br /></div><div>Verbo dicc. + か + verbo dicc. + か + forma gramatical.</div><div>Sustantivo + か + sustantivo + か + forma gramatical.</div><div>Adjetivo な (sin な) + か +&nbsp;Adjetivo な (sin な) + か + forma gramatical.</div><div>Adjetivo い + か +&nbsp;adjetivo い + か + forma gramatical.</div><div><br /></div><div>Verbo dicc.&nbsp;+ か + どう/否 + か + forma gramatical.</div><div>Sustantivo + か + どう/否 + か + forma gramatical.</div><div>Adjetivo な (sin な)&nbsp;+ か + どう/否 + か + forma gramatical.</div><div>Adjetivo い&nbsp;+ か + どう/否 + か + forma gramatical.</div><div><br /></div><div>Verbo positivo + か + verbo negativo + か + forma gramatical.</div><div>Sustantivo + である + か + sutantivo + でない + か + forma gramatical.</div><div>Adjetivo な (sin な) + である + か + Adjetivo な (sin な) + でない + か　+ forma gramatical.</div><div>Adjetivo い + か + Adjetivo い negativo + か + forma gramatical.</div><div><br /></div><div>Verbo dicc. no pasado + verbo dicc. negativo no pasado + forma gramatical.</div><div>Adjetivo い no pasado + adjetivo い negativo no pasado + forma gramatical.</div><div><br /></div><div>Adjetivo な (sin な) no pasado + antónimo + forma gramatical.</div><div>Adjetivo い no pasado + antónimo + forma gramatical.</div><div><br /></div><div>Sustantivo / Adjetivo な (sin な) + であるなし + forma gramatical.</div><div>Sustantivo + のあるなし + forma gramatical.</div><div>Sustantivo + のいかん + forma gramatical.</div><div>Frase interrogativa en infinitivo + か + forma gramatical.</div>", 
                                 "Expresión cuyo significado literal indica que lo que sigue no guarda relación alguno con lo que precede pero que en la práctica tiene dos usos:<div><br /></div><div>- Señalar que una acción o acontecimiento se ejecuta sin lo que precede a esta forma, lo que lo hace equivalente a なしで y puede ir seguida de la partícula (に).</div><div>- Señalar que lo que sigue se hace sin importar lo que precede al igual que にかかわらず y に問わず &nbsp;y contrariamente a によって y により. Cuando se usa junto a palabras o frases interrogativas equivale a でも como en&nbsp;どんな 状況[じょうきょう]＿＿＿/でも o 誰がそんなことを言ったか＿＿＿. Al igual que にかかわらず puede ser precedido por いかん.</div>", 
@@ -18002,9 +18002,9 @@
                             "data": "", 
                             "fields": [
                                 "お客様、問題が無事に解決されましたので、もう心配＿＿＿。", 
-                                "El problema ha sido resuelto sin problemas por lo que no de que preocuparse.", 
-                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たりません</font>。", 
-                                "に（は）当たりません"
+                                "El problema ha sido resuelto sin problemas así que no hay de qué preocuparse.", 
+                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たりません/に（は） 及[およ]びません</font>。", 
+                                "に（は）当たりません/に（は）及びません"
                             ], 
                             "flags": 0, 
                             "guid": "xd97WTNL?_", 
@@ -18015,6 +18015,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に（は）及ばない", 
                                 "に（は）当たらない"
                             ]
                         }, 
@@ -21085,8 +21086,8 @@
                             "fields": [
                                 "その政治家は以前国を一回裏切ったから、今はもう信頼＿＿＿。", 
                                 "Ese político ha traicionado una vez al país antes, así que ahora ya no es digno de confianza.", 
-                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
-                                "（する）に足りない"
+                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 値[あたい]しない/に 耐[た]えない/</font><font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
+                                "（する）に値しない/に耐えない/（する）に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "jz>Q5hkgk{", 
@@ -21097,6 +21098,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に値する", 
+                                "に耐える", 
                                 "に足りない"
                             ]
                         }, 
@@ -21894,8 +21897,8 @@
                             "fields": [
                                 "結婚式は天候＿＿＿催されるだろう。", 
                                 "La boda se celebrará sin importar el clima.", 
-                                "結婚式[けっこんしき]は 天候[てんこう]<span style=\"color: rgb(0, 0, 255)\">（の/のいかん）によらず/（の/のいかん）にかかわらず</span>&nbsp;催[もよお]されるだろう。", 
-                                "（の/のいかん）によらず/（の/のいかん）にかかわらず"
+                                "結婚式[けっこんしき]は 天候[てんこう]<span style=\"color: rgb(0, 0, 255)\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>&nbsp;催[もよお]されるだろう。", 
+                                "（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず"
                             ], 
                             "flags": 0, 
                             "guid": "NJBVbBGpY(", 
@@ -21960,8 +21963,8 @@
                             "fields": [
                                 "彼は、晴雨＿＿＿、そちらに参ります。", 
                                 "Él estará allí, llueve o truene.", 
-                                "彼[かれ]は、 晴雨[せいう]<font color=\"#0000ff\">（の/のいかん）によらず/（の/のいかん）にかかわらず</font>、そちらに 参[まい]ります。", 
-                                "<span style=\"font-family: Arial\">（の/のいかん）によらず/（の/のいかん）にかかわらず</span>"
+                                "彼[かれ]は、 晴雨[せいう]<font color=\"#0000ff\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</font>、そちらに 参[まい]ります。", 
+                                "<span style=\"font-family: Arial\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>"
                             ], 
                             "flags": 0, 
                             "guid": "nmZV5z]%Ou", 
@@ -21982,8 +21985,8 @@
                             "fields": [
                                 "年齢＿＿＿全ての人々が許可されます。", 
                                 "Todas las personas serán admitidas sin importar su edad.", 
-                                "年齢[ねんれい]<font color=\"#0000ff\">（の/のいかん）によらず/（の/のいかん）にかかわらず</font> 全[すべ]ての 人々[ひとびと]が 許可[きょか]されます。", 
-                                "<span style=\"font-family: Arial\">（の/のいかん）によらず/（の/のいかん）にかかわらず</span>"
+                                "年齢[ねんれい]<font color=\"#0000ff\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</font> 全[すべ]ての 人々[ひとびと]が 許可[きょか]されます。", 
+                                "<span style=\"font-family: Arial\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>"
                             ], 
                             "flags": 0, 
                             "guid": "kY}PbEb$5q", 
