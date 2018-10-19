@@ -4320,15 +4320,15 @@
                                 "に（は）及ばない", 
                                 "に（は） 及[およ]ばない", 
                                 "に（は）およばない", 
-                                "no alcanzar / no ser suficiente / no bastar / no hacer falta / no precisar / no haber de qué / no tener de qué", 
-                                "<div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div><div><br /></div><div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal (con o sin する) + forma gramatical.</div></div>", 
-                                "Expresión cuyas posibles interpretaciones son contradictorias pero que en realidad no lo son teniendo en cuenta que su significado literal es \"no llegar al nivel de\". Por un lado equivale a に足りない y se puede utilizar para expresar que そのレベル＿＿＿ y por el otro es equivalente a までもない o &nbsp;必要[ひつよう]は 無[な]い como en 心配＿＿＿.", 
-                                "彼[かれ]は 父親[ちちおや]＿＿＿。", 
-                                "Él no está al nivel de su padre.", 
+                                "no hacer falta / no precisar / no haber de qué / no tener de qué / no estar al nivel de / no compararse con", 
+                                "<div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal (con o sin する) + forma gramatical.</div></div><div><br /></div><div><div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div></div>", 
+                                "<div>Expresión con dos posibles usos:</div><div><br /></div><div>- Mostrar consideración o preocupación por el otro indicando que no hace falta hacer algo como en 心配＿＿＿. Equivalento a までもない y&nbsp;必要[ひつよう]はない.</div><div>- Señalar que el sujeto no está al nivel o no se compara con algo o alguien.</div>", 
                                 "君[きみ]は 靴[くつ]を 脱[ぬ]ぐ＿＿＿。", 
                                 "No hace falta que te quites los zapatos.", 
                                 "これからゆっくり 会話[かいわ]をするに 足[た]る 時間[じかん]があるので、 心配[しんぱい]（する）＿＿＿。", 
                                 "De aquí en más tendremos tiempo suficiente para conversar, así que no hay nada de qué preocuparse.", 
+                                "彼[かれ]は 父親[ちちおや]＿＿＿。", 
+                                "Él no está al nivel de su padre.", 
                                 "", 
                                 "", 
                                 "", 
@@ -4343,7 +4343,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない"
                             ]
                         }, 
                         {
@@ -11127,8 +11127,8 @@
                             "fields": [
                                 "私はフランス語が読めない、まして話せないことは言う＿＿＿。", 
                                 "No puedo leer en francés, mucho menos hablar.", 
-                                "私[わたし]は フランス語[ふらんすご]が 読[よ]めない、まして 話[はな]せないことは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>。", 
-                                "までもない/に（は）及ばない"
+                                "私[わたし]は フランス語[ふらんすご]が 読[よ]めない、まして 話[はな]せないことは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>。", 
+                                "までもない"
                             ], 
                             "flags": 0, 
                             "guid": "z*w=N=dT={", 
@@ -11139,7 +11139,6 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11188,8 +11187,8 @@
                             "fields": [
                                 "スレ立てる＿＿＿話題はこちらへ。", 
                                 "Temas que no necesitan tener su propio hilo, por favor ponerlos aquí.", 
-                                "スレ 立[た]てる<font color=\"#0000ff\">までもない/に（は）及ばない</font> 話題[わだい]はこちらへ。", 
-                                "までもない/に（は）及ばない"
+                                "スレ 立[た]てる<font color=\"#0000ff\">までもない</font>&nbsp;話題[わだい]はこちらへ。", 
+                                "までもない"
                             ], 
                             "flags": 0, 
                             "guid": "ss.gqYQ,Sr", 
@@ -11200,7 +11199,6 @@
                                 "N1", 
                                 "Oración", 
                                 "jgram", 
-                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11268,8 +11266,8 @@
                             "fields": [
                                 "疲れているならば、休みをとるべきなのは、言う＿＿＿ことだ。", 
                                 "No hace falta decir que si estás cansado, debes tomar un descanso.", 
-                                "疲[つか]れているならば、 休[やす]みをとるべきなのは、 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>ことだ。", 
-                                "までもない/に（は）及ばない"
+                                "疲[つか]れているならば、 休[やす]みをとるべきなのは、 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>ことだ。", 
+                                "までもない"
                             ], 
                             "flags": 0, 
                             "guid": "v~3!EsU:TY", 
@@ -11280,7 +11278,6 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11309,8 +11306,8 @@
                             "fields": [
                                 "友情が仕事より大切なのは言う＿＿＿。", 
                                 "No hace falta decir que la amistad es más importante que el trabajo.", 
-                                "友情[ゆうじょう]が 仕事[しごと]より 大切[たいせつ]なのは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>。", 
-                                "までもない/に（は）及ばない"
+                                "友情[ゆうじょう]が 仕事[しごと]より 大切[たいせつ]なのは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>。", 
+                                "までもない"
                             ], 
                             "flags": 0, 
                             "guid": "y}c{cU?ISy", 
@@ -11321,7 +11318,6 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -11350,8 +11346,8 @@
                             "fields": [
                                 "<div>彼女はドイツ語をしゃべれる。英語は言う＿＿＿。</div>", 
                                 "Ella puede hablar en alemán, sin mencionar que en inglés.", 
-                                "彼女[かのじょ]はドイツ 語[ご]をしゃべれる。 英語[えいご]は 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない/に（は）及ばない</font></span>。", 
-                                "までもない/に（は）及ばない"
+                                "彼女[かのじょ]はドイツ 語[ご]をしゃべれる。 英語[えいご]は 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">までもない</font></span>。", 
+                                "までもない"
                             ], 
                             "flags": 0, 
                             "guid": "QS,$F~Y6~F", 
@@ -11362,7 +11358,6 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -21696,7 +21691,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない"
                             ]
                         }, 
                         {
@@ -21716,7 +21711,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない"
                             ]
                         }, 
                         {
@@ -21736,7 +21731,7 @@
                                 "Gramática", 
                                 "N1", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない"
                             ]
                         }, 
                         {
@@ -21757,7 +21752,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない"
+                                "に（は）及ばない"
                             ]
                         }, 
                         {
@@ -21778,7 +21773,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -21800,7 +21795,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -21822,7 +21817,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
@@ -21844,7 +21839,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "tatoeba", 
-                                "に（は）及ばない/（する）に（は）及ばない", 
+                                "に（は）及ばない", 
                                 "までもない"
                             ]
                         }, 
