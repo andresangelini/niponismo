@@ -382,8 +382,8 @@
                                 "no debería pasar", 
                                 "Verbo en forma diccionario + forma gramatical + sustantivo.", 
                                 "Describe una situación como algo que no debe o no debería pasar.", 
-                                "お客様を[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行員[ぎんこういん]として 許[ゆる]す＿＿＿ 行為[こうい]である。", 
-                                "Es imperdonable que un empleado de banco ande amenazando y haciendo firmar contratos a los clientes.", 
+                                "仲間[なかま]を 裏切[うらぎ]るのは、 許[ゆる]す＿＿＿ 行為[こうい]である。", 
+                                "Traicionar a los compañeros es algo que no se puede perdonar.", 
                                 "<div>彼[かれ]は、このチームには 欠[か]く＿＿＿ 選手[せんしゅ]であると 思[おも]わないか。</div>", 
                                 "¿No creen que él es un jugador indispensable para este equipo?", 
                                 "", 
@@ -2237,7 +2237,7 @@
                                 "までもない", 
                                 "no hacer falta llegar a", 
                                 "Verbo en forma diccionario + forma gramatical.", 
-                                "Expresión que indica que no es necesario hacer la acción indicada por el verbo.", 
+                                "Expresión equivalente a に（は） 及[およ]ばない cuyo significado básicamente es &nbsp;必要[ひつよう]は 無[な]い que indica que no es necesario hacer la acción indicada por el verbo.", 
                                 "その 時[とき]、 二人[ふたり]の 間[あいだ]に 師弟[してい]を 越[こ]えた 友情[ゆうじょう]のようなものが 芽生[めば]えた 事[こと]は 言[い]う＿＿＿。", 
                                 "No hace falta decir que surgió una especie de amistad entre ellos dos, que vas más allá de la típica relación entre maestro y alumno.", 
                                 "言[い]う＿＿＿ことだが捜索は徒労に終わった。", 
@@ -3622,11 +3622,11 @@
                                 "に 値[あたい]する", 
                                 "にあたいする", 
                                 "merecer / valer la pena / ser digno de", 
-                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
+                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo (con o sin する) + forma gramatical.</div>", 
                                 "Esta expresión significa \"merecer\", \"valer la pena\" o \"ser digno de\" y se debe usar con la partícula に delante ya sea que se use junto a un sustantivo o a un verbo. Como cualquier otro verbo, si \"vale la pena\" o \"no vale la pena\" depende de si su conjugación es positiva o negativa respectivamente.", 
                                 "良書[りょうしょ]はすべて 読[よ]む＿＿＿。", 
                                 "Los buenos libros siempre merecen la pena leerlos.", 
-                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]＿＿＿。", 
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]（する）＿＿＿。", 
                                 "<div>Ellos no merecen el elogio que recibieron.</div>", 
                                 "", 
                                 "", 
@@ -3919,7 +3919,7 @@
                                 "にも程が有る", 
                                 "にも程[ほど]が 有[あ]る", 
                                 "にもほどがある", 
-                                "también tener un límite / no se puede...", 
+                                "también tener un límite / no se puede", 
                                 "Verbo en forma diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div><div>Adjetivo い o な + forma gramatical.</div>", 
                                 "Expresión usada en forma de crítica para indicar que una situación, actitud, etc. ha cruzado un límite.", 
                                 "世間知[せけんし]らず＿＿＿。 井[い]の 中[なか]の 蛙[かわず] 大海[たいかい]を 知[し]らず、ということかね。", 
@@ -4311,6 +4311,73 @@
                                 "N1", 
                                 "Niponismo", 
                                 "にとどまらず（〜も）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "に（は）及ばない", 
+                                "に（は） 及[およ]ばない", 
+                                "に（は）およばない", 
+                                "no hacer falta / no precisar / no haber de qué / no tener de qué / no estar al nivel de / no compararse con", 
+                                "<div>Cuando tiene connotación de 心配＿＿＿:</div><div><br /></div><div>Verbo en forma diccionario + forma gramatical.<div>Sustantivo verbal (con o sin する) + forma gramatical.</div></div><div><br /></div><div><div>Cuando tiene connotación de&nbsp;レベル＿＿＿:</div><div><br /></div><div>Sustantivo + forma gramatical.</div></div>", 
+                                "<div>Expresión con dos posibles usos:</div><div><br /></div><div>- Mostrar consideración o preocupación por el otro indicando que no hace falta hacer algo como en 心配＿＿＿. Equivalento a までもない y&nbsp;必要[ひつよう]はない.</div><div>- Señalar que el sujeto no está al nivel o no se compara con algo o alguien.</div>", 
+                                "君[きみ]は 靴[くつ]を 脱[ぬ]ぐ＿＿＿。", 
+                                "No hace falta que te quites los zapatos.", 
+                                "これからゆっくり 会話[かいわ]をするに 足[た]る 時間[じかん]があるので、 心配[しんぱい]（する）＿＿＿。", 
+                                "De aquí en más tendremos tiempo suficiente para conversar, así que no hay nada de qué preocuparse.", 
+                                "彼[かれ]は 父親[ちちおや]＿＿＿。", 
+                                "Él no está al nivel de su padre.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "q,TO?j11PZ", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "によらず", 
+                                "によらず", 
+                                "によらず", 
+                                "sin tal cosa / sin importar / independientemente de", 
+                                "Cuando equivale a なしで:<div><br /></div><div>Sustantivo + forma gramatical.</div><div>Palabra interrogativa + forma gramatical.</div><div><br /></div><div>Cuando equivale a にかかわらず:</div><div><br /></div><div>Verbo dicc. + か + verbo dicc. + か + forma gramatical.</div><div>Sustantivo + か + sustantivo + か + forma gramatical.</div><div>Adjetivo な (sin な) + か +&nbsp;Adjetivo な (sin な) + か + forma gramatical.</div><div>Adjetivo い + か +&nbsp;adjetivo い + か + forma gramatical.</div><div><br /></div><div>Verbo dicc.&nbsp;+ か + どう/否 + か + forma gramatical.</div><div>Sustantivo + か + どう/否 + か + forma gramatical.</div><div>Adjetivo な (sin な)&nbsp;+ か + どう/否 + か + forma gramatical.</div><div>Adjetivo い&nbsp;+ か + どう/否 + か + forma gramatical.</div><div><br /></div><div>Verbo positivo + か + verbo negativo + か + forma gramatical.</div><div>Sustantivo + である + か + sutantivo + でない + か + forma gramatical.</div><div>Adjetivo な (sin な) + である + か + Adjetivo な (sin な) + でない + か　+ forma gramatical.</div><div>Adjetivo い + か + Adjetivo い negativo + か + forma gramatical.</div><div><br /></div><div>Verbo dicc. no pasado + verbo dicc. negativo no pasado + forma gramatical.</div><div>Adjetivo い no pasado + adjetivo い negativo no pasado + forma gramatical.</div><div><br /></div><div>Adjetivo な (sin な) no pasado + antónimo + forma gramatical.</div><div>Adjetivo い no pasado + antónimo + forma gramatical.</div><div><br /></div><div>Sustantivo / Adjetivo な (sin な) + であるなし + forma gramatical.</div><div>Sustantivo + のあるなし + forma gramatical.</div><div>Sustantivo + のいかん + forma gramatical.</div><div>Frase interrogativa en infinitivo + か + forma gramatical.</div>", 
+                                "Expresión cuyo significado literal indica que lo que sigue no guarda relación alguno con lo que precede pero que en la práctica tiene dos usos:<div><br /></div><div>- Señalar que una acción o acontecimiento se ejecuta sin lo que precede a esta forma, lo que lo hace equivalente a なしで y puede ir seguida de la partícula (に).</div><div>- Señalar que lo que sigue se hace sin importar lo que precede al igual que にかかわらず y に問わず &nbsp;y contrariamente a によって y により. Cuando se usa junto a palabras o frases interrogativas equivale a でも como en&nbsp;どんな 状況[じょうきょう]＿＿＿/でも o 誰がそんなことを言ったか＿＿＿. Al igual que にかかわらず puede ser precedido por いかん.</div>", 
+                                "<div>造[つく]られたもので、この 方[あた]＿＿＿できたものは一つもない。</div>", 
+                                "Nada de lo que se ha creado se ha hecho sin él.", 
+                                "彼女[かんじょ]は 見[み]かけ＿＿＿ 頑張[がんば]りやだ。", 
+                                "Ella es muy tenaz por más que no lo luzca.", 
+                                "誰[だれ]＿＿＿ 誰[だれ]かを 直[す]ぐに 派遣[はけｎ]してください。", 
+                                "Despache a alguien sin importar quién sea inmediatamente, por favor.", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "t7+wE!0!Yr", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "によらず/にかかわらず"
                             ]
                         }
                     ]
@@ -5098,8 +5165,8 @@
                             "fields": [
                                 "お客様を脅迫して契約をサインさせるとは、銀行員として許す＿＿＿行為である。", 
                                 "<span style=\"font-family: 'Liberation Sans'\">Es imperdonable que un empleado de banco ande amenazando y haciendo firmar contratos a los clientes.</span>", 
-                                "お 客様[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行[ぎんこう] 員[いん]として 許[ゆる]す<span style=\"color: rgb(0, 0, 255)\">べからざる</span>&nbsp;行為[こうい]である。", 
-                                "べからざる"
+                                "お 客様[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行[ぎんこう] 員[いん]として 許[ゆる]す<font color=\"#0000ff\">まじき</font>&nbsp;行為[こうい]である。", 
+                                "まじき"
                             ], 
                             "flags": 0, 
                             "guid": "e0[yX-omLz", 
@@ -5108,8 +5175,9 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "べからざる"
+                                "まじき"
                             ]
                         }, 
                         {
@@ -11119,7 +11187,7 @@
                             "fields": [
                                 "スレ立てる＿＿＿話題はこちらへ。", 
                                 "Temas que no necesitan tener su propio hilo, por favor ponerlos aquí.", 
-                                "スレ 立[た]てる<font color=\"#0000ff\">までもない</font> 話題[わだい]はこちらへ。", 
+                                "スレ 立[た]てる<font color=\"#0000ff\">までもない</font>&nbsp;話題[わだい]はこちらへ。", 
                                 "までもない"
                             ], 
                             "flags": 0, 
@@ -17445,8 +17513,8 @@
                             "fields": [
                                 "勇者のみが尊敬＿＿＿。", 
                                 "Sólo el realmente valiente es merecedor de respeto.", 
-                                "勇者[ゆうしゃ]のみが 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "勇者[ゆうしゃ]のみが 尊敬[そんけい]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "nTEK^iF6#Y", 
@@ -17508,8 +17576,8 @@
                             "fields": [
                                 "<div>彼女の行為は尊敬＿＿＿。</div>", 
                                 "El comportamiento de ella es digno de admiración.", 
-                                "彼女[かのじょ]の 行為[こうい]は 尊敬[そんけい]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼女[かのじょ]の 行為[こうい]は 尊敬[そんけい]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "J1FLM}tOab", 
@@ -17529,8 +17597,8 @@
                             "fields": [
                                 "彼女の勤勉はまったく賞賛＿＿＿。", 
                                 "Su diligencia es digna de elogio.", 
-                                "彼女[かのじょ]の 勤勉[きんべん]はまったく 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼女[かのじょ]の 勤勉[きんべん]はまったく 賞賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "kN1tSV(32?", 
@@ -17550,8 +17618,8 @@
                             "fields": [
                                 "彼は我々の称賛＿＿＿。", 
                                 "Él se merece nuestro elogio.", 
-                                "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "d9]tT]U`l~", 
@@ -17613,8 +17681,8 @@
                             "fields": [
                                 "<div>彼の理論は一考＿＿＿。</div>", 
                                 "Su teoría merece consideración.", 
-                                "彼[かれ]の 理論[りろん]は 一考[いっこう]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]の 理論[りろん]は 一考[いっこう]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "gSkhnmz6Lb", 
@@ -17634,8 +17702,8 @@
                             "fields": [
                                 "彼の勇気は賞賛＿＿＿。", 
                                 "Su valentía es digna de elogio.", 
-                                "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "KcB-zl~!+H", 
@@ -17655,8 +17723,8 @@
                             "fields": [
                                 "彼の発明は注目＿＿＿ものだ。", 
                                 "Su invento es digno de nuestra atención.", 
-                                "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものだ。", 
-                                "に値する"
+                                "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>ものだ。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "Q{HB%?|-O%", 
@@ -17676,8 +17744,8 @@
                             "fields": [
                                 "彼の崇高な行為は本当に称賛＿＿＿。", 
                                 "Su noble actuar es realmente digna de elogio.", 
-                                "彼[かれ]の 崇高[すうこう]な 行為[こうい]は 本当[ほんとう]に 称賛[しょうさん]<font color=\"#0000ff\">に 値[あたい]する</font>。", 
-                                "に値する"
+                                "彼[かれ]の 崇高[すうこう]な 行為[こうい]は 本当[ほんとう]に 称賛[しょうさん]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "v<hEZp*Tez", 
@@ -17739,8 +17807,8 @@
                             "fields": [
                                 "メアリーはあなたの信頼を受ける＿＿＿なかった。", 
                                 "Mary no merecía tu confianza.", 
-                                "メアリーはあなたの 信頼[しんらい]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]し</font>なかった。", 
-                                "に値し"
+                                "メアリーはあなたの 信頼[しんらい]を 受[う]ける<font color=\"#0000ff\">に 値[あたい]し/に 耐[た]え/に 足[た]り</font>なかった。", 
+                                "に値し/に耐え/に足り"
                             ], 
                             "flags": 0, 
                             "guid": "AD:D}sC1[V", 
@@ -17751,7 +17819,9 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に値する"
+                                "に値する", 
+                                "に耐える", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -17760,8 +17830,8 @@
                             "fields": [
                                 "その見本市には注目＿＿＿ものはなにもなかった。", 
                                 "No había nada que llamara la atención en la exposición.", 
-                                "その 見本市[みほんいち]には 注目[ちゅうもく]<font color=\"#0000ff\">に 値[あたい]する</font>ものはなにもなかった。", 
-                                "に値する"
+                                "その 見本市[みほんいち]には 注目[ちゅうもく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>ものはなにもなかった。", 
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "g4FJfN)x8o", 
@@ -17927,9 +17997,9 @@
                             "data": "", 
                             "fields": [
                                 "お客様、問題が無事に解決されましたので、もう心配＿＿＿。", 
-                                "El problema ha sido resuelto sin problemas por lo que no de que preocuparse.", 
-                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たりません</font>。", 
-                                "に（は）当たりません"
+                                "El problema ha sido resuelto sin problemas así que no hay de qué preocuparse.", 
+                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たりません/に（は） 及[およ]びません</font>。", 
+                                "に（は）当たりません/に（は）及びません"
                             ], 
                             "flags": 0, 
                             "guid": "xd97WTNL?_", 
@@ -17940,6 +18010,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に（は）及ばない", 
                                 "に（は）当たらない"
                             ]
                         }, 
@@ -20329,8 +20400,8 @@
                             "fields": [
                                 "その書店には読む＿＿＿本が本当にありますか。", 
                                 "¿Hay realmente un libro que valga la pena leer en esa librería?", 
-                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 本[ほん]が 本当[ほんとう]にありますか。", 
-                                "に耐える"
+                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 値[あたい]する/</font><font color=\"#0000ff\">に 耐[た]える/に 足[た]る/に 足[た]りる</font>&nbsp;本[ほん]が 本当[ほんとう]にありますか。", 
+                                "<div>に値する/に耐える/に足る/に足りる</div>"
                             ], 
                             "flags": 0, 
                             "guid": "A;j^`h*F7]", 
@@ -20342,7 +20413,10 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にたえる", 
-                                "に耐える"
+                                "に値する", 
+                                "に耐える", 
+                                "に足りる", 
+                                "に足る"
                             ]
                         }, 
                         {
@@ -20439,8 +20513,8 @@
                             "fields": [
                                 "信頼＿＿＿人に絶対にこの秘密をばらさないで。", 
                                 "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
-                                "信頼[しんらい]<font color=\"#0000ff\">に 耐[た]えない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
-                                "に耐えない"
+                                "信頼[しんらい]<font color=\"#0000ff\">に 値[あたい]しない/</font><font color=\"#0000ff\">に 耐[た]えない/に 足[た]りない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
+                                "に値しない/に耐えない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "M%n^qvSE//", 
@@ -20452,7 +20526,9 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にたえない", 
-                                "に耐えない"
+                                "に値する", 
+                                "に耐えない", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -20637,8 +20713,8 @@
                             "fields": [
                                 "テレビでは見る＿＿＿ないものばっかり。", 
                                 "En la televisión sólo pasan cosas que ni valen la pena.", 
-                                "テレビでは 見[み]る<font color=\"#0000ff\">に 耐[た]え</font>ないものばっかり。", 
-                                "に耐え"
+                                "テレビでは 見[み]る<font color=\"#0000ff\">に 値[あたい]し/</font><font color=\"#0000ff\">に 耐[た]え/に 足[た]り</font>ないものばっかり。", 
+                                "に値し/に耐え/に足り"
                             ], 
                             "flags": 0, 
                             "guid": "b;(Hyr]!)W", 
@@ -20650,7 +20726,9 @@
                                 "Niponismo", 
                                 "Oración", 
                                 "にたえる", 
-                                "に耐える"
+                                "に値し", 
+                                "に耐える", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -20747,8 +20825,8 @@
                             "fields": [
                                 "大衆によって重んじられている人が必ずしもそれを受ける＿＿＿人とは言えない。", 
                                 "Aquellos que reciben el respeto de la gente no siempre se lo merecen.", 
-                                "大衆[たいしゅう]によって 重[おも]んじられている 人[ひと]が 必[かなら]ずしもそれを 受[う]ける<font color=\"#0000ff\">に 足[た]る/</font><div><font color=\"#0000ff\">に 足[た]りる</font>人[ひと]とは 言[い]えない。</div>", 
-                                "に足る/に足りる"
+                                "大衆[たいしゅう]によって 重[おも]んじられている 人[ひと]が 必[かなら]ずしもそれを 受[う]ける<font color=\"#0000ff\">に 値[あたい]する/に 耐[た]えるに 足[た]る/に 足[た]りる</font> 人[ひと]とは 言[い]えない。", 
+                                "に値する/に耐える/に足る/に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "H@[/r1h2`0", 
@@ -20759,6 +20837,8 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
+                                "に値する", 
+                                "に耐える", 
                                 "に足る/に足りる"
                             ]
                         }, 
@@ -20871,8 +20951,8 @@
                             "fields": [
                                 "部長に報告＿＿＿問題じゃないでしょう。", 
                                 "No es un problema que valga la pena reportar al jefe.", 
-                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）に 足[た]る/</font><span style=\"color: rgb(0, 0, 255)\">（する）</span><font color=\"#0000ff\">に 足[た]りる</font> 問題[もんだい]じゃないでしょう。", 
-                                "（する）に足る/（する）に足りる"
+                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する/に 耐[た]える/（する）に 足[た]る/（する）に 足[た]りる</font> 問題[もんだい]じゃないでしょう。", 
+                                "（する）に値する/に耐える/（する）に足る/（する）に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "Qd6{wZ+JOt", 
@@ -20883,6 +20963,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に値する", 
+                                "に耐える", 
                                 "に足る/に足りる"
                             ]
                         }, 
@@ -20892,8 +20974,8 @@
                             "fields": [
                                 "しおりさんは誇り＿＿＿選手だ。", 
                                 "Shiori es una jugadora que merece nuestro orgullo.", 
-                                "しおりさんは 誇[ほこ]り<font color=\"#0000ff\">に 足[た]る/ に足[た]りる</font> 選手[せんしゅ]だ。", 
-                                "に足る/に足りる"
+                                "しおりさんは 誇[ほこ]り<font color=\"#0000ff\">に 値[あたい]する/に 耐[た]える/に 足[た]る/に 足[た]りる</font> 選手[せんしゅ]だ。", 
+                                "に値する/に耐える/に足る/に足りる"
                             ], 
                             "flags": 0, 
                             "guid": "o/g`O5tK-a", 
@@ -20904,6 +20986,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に値する", 
+                                "に耐える", 
                                 "に足る/に足りる"
                             ]
                         }, 
@@ -20997,8 +21081,8 @@
                             "fields": [
                                 "その政治家は以前国を一回裏切ったから、今はもう信頼＿＿＿。", 
                                 "Ese político ha traicionado una vez al país antes, así que ahora ya no es digno de confianza.", 
-                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
-                                "（する）に足りない"
+                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 値[あたい]しない/に 耐[た]えない/</font><font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
+                                "（する）に値しない/に耐えない/（する）に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "jz>Q5hkgk{", 
@@ -21009,6 +21093,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に値する", 
+                                "に耐える", 
                                 "に足りない"
                             ]
                         }, 
@@ -21587,6 +21673,548 @@
                                 "Oración", 
                                 "に照らして"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "数学では、私は彼＿＿＿。", 
+                                "No estoy a su nivel en matemáticas.", 
+                                "数学[すうがく]では、 私[わたし]は 彼[かれ]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yEZq`P|R4i", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今年の収穫は昨年＿＿＿。", 
+                                "La cosecha de este año quedará corta con respecto a la del año pasado.", 
+                                "今年[ことし]の 収穫[しゅうかく]は 昨年[さくねん]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s[.&yY5Xo;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "外交の駆け引きでは、とても彼＿＿＿。", 
+                                "Yo no estoy a su nivel en negociaciones diplomáticas.", 
+                                "外交[がいこう]の 駆け引[かけひ]きでは、とても 彼[かれ]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P~x+0qj1|&", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "tatoeba", 
+                                "に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どんなに立派な翻訳でも明らかに原文＿＿＿。", 
+                                "No importa qué tan buena se una traducción, jamás estará al nivel de la obra original.", 
+                                "どんなに 立派[りっぱ]な 翻訳[ほんやく]でも 明[あき]らかに 原文[げんぶん]<font color=\"#0000ff\">に（は） 及[およ]ばない</font>ものだ。", 
+                                "に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uy0J$7aHJe", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そんなに早くに行く＿＿＿でしょうね。", 
+                                "No hace falta ir tan temprano, ¿o sí?", 
+                                "そんなに 早[はや]くに 行[い]く<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は） 及[およ]ばない</font>でしょうね。", 
+                                "までもない/に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pv^B}V0{VD", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない", 
+                                "までもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この事で何も腹を立てる＿＿＿。", 
+                                "No hay nada por lo que enojarse sobre este asunto.", 
+                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "までもない/に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C&DMv18jV%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない", 
+                                "までもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あなたは来る＿＿＿。", 
+                                "No hace falta que vengas.", 
+                                "あなたは 来[く]る<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は）およばない</font>。", 
+                                "までもない/に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "exr@GZ9Cos", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない", 
+                                "までもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あえて休暇を取りやめる＿＿＿。", 
+                                "No hace falta que canceles tus vacaciones.", 
+                                "あえて 休暇[きゅうか]を 取[と]りやめる<font color=\"#0000ff\">までもない/</font><font color=\"#0000ff\">に（は） 及[およ]ばない</font>。", 
+                                "までもない/に（は）及ばない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G`-B@8VLC0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "に（は）及ばない", 
+                                "までもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "職場で巫山戯るのは、許す＿＿＿行為である。", 
+                                "Jugar en el lugar de trabajo es inadmisible.", 
+                                "職場[しょくば]で 巫山戯[ふざけ]るのは、 許[ゆる]<font color=\"#0000ff\">すべからざる</font> 行為[こうい]である。", 
+                                "べからざる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J^Q-^9U)c9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "べからざる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "人前で話すようなことは何＿＿＿彼はいつも敬遠する。", 
+                                "Él tiende a evitar cualquier cosa que implique hablar en público.", 
+                                "人前[ひとまえ]で 話[はな]すようなことは 何[なに]<font color=\"#0000ff\">によらず/にかかわらず</font>&nbsp;彼[かれ]はいつも 敬遠[けいえん]する。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L](cq7gA3!", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "結婚式は天候＿＿＿催されるだろう。", 
+                                "La boda se celebrará sin importar el clima.", 
+                                "結婚式[けっこんしき]は 天候[てんこう]<span style=\"color: rgb(0, 0, 255)\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>&nbsp;催[もよお]されるだろう。", 
+                                "（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NJBVbBGpY(", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>人間は、自分でそれを意識しているといないと＿＿＿、幸福を追求し続けています。</div>", 
+                                "Los humanos están continuamente buscando la felicidad independientemente de si son conscientes de ello o no.", 
+                                "人間[にんげん]は、 自分[じぶん]でそれを 意識[いしき]しているといないと<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>、 幸福[こうふく]を 追求[ついきゅう]し 続[つづ]けています。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tJ4M(d:JXv", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "疲れているいない＿＿＿、彼は作業を続けた。", 
+                                "Seguía trabajando, independientemente de que estuviera cansado o no.", 
+                                "疲[つか]れているいない<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>、 彼[かれ]は 作業[さぎょう]を 続[つづ]けた。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cztY3,SVd6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は、晴雨＿＿＿、そちらに参ります。", 
+                                "Él estará allí, llueve o truene.", 
+                                "彼[かれ]は、 晴雨[せいう]<font color=\"#0000ff\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</font>、そちらに 参[まい]ります。", 
+                                "<span style=\"font-family: Arial\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nmZV5z]%Ou", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "年齢＿＿＿全ての人々が許可されます。", 
+                                "Todas las personas serán admitidas sin importar su edad.", 
+                                "年齢[ねんれい]<font color=\"#0000ff\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</font> 全[すべ]ての 人々[ひとびと]が 許可[きょか]されます。", 
+                                "<span style=\"font-family: Arial\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kY}PbEb$5q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私は疲れている、それ＿＿＿、宿題を終えなければならない。", 
+                                "Independientemente de que esté cansado, tengo que terminar mis deberes.", 
+                                "私[わたし]は 疲[つか]れている、それ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>、 宿題[しゅくだい]を 終[お]えなければならない。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "k7pfdiR>>o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "好むと好まざる＿＿＿、君は義務を果たさねばならない。", 
+                                "Debes hacer tus deberes, te guste o no.", 
+                                "好[この]むと 好[この]まざる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>、 君[きみ]は 義務[ぎむ]を 果[は]たさねばならない。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L{_{*kDeU6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "好むと好まざると＿＿＿、英語は学ばなければなりません。", 
+                                "<div>Debes aprender inglés, te guste o no.</div>", 
+                                "好[この]むと 好[この]まざると<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>、 英語[えいご]は 学[まな]ばなければなりません。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hIjS4DCu74", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "好むと好まざると＿＿＿、コンピューターが、われわれの生活の中で重要な役割を果たしていることは確かである。", 
+                                "Independientemente de si nos guste o no, las computadoras ciertamente juegan un rol fundamental en nuestras vidas.", 
+                                "好[この]むと 好[この]まざると<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>、コンピューターが、われわれの 生活[せいかつ]の 中[なか]で 重要[じゅうよう]な 役割[やくわり]を 果[は]たしていることは 確[たし]かである。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FY<=#X[rxp", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "金持ち＿＿＿彼女は幸せでない。", 
+                                "Independientemente de que sea rica, ella no es feliz.", 
+                                "金持[かねも]ち<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">によらず/にかかわらず</font></span>&nbsp;彼女[かのじょ]は 幸[しあわ]せでない。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ki8nNALuuk", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "いずれにせよ、君は好むと好まない＿＿＿早く出発する必要がある。", 
+                                "De cualquier forma, tendrás que partir temprano, te guste o no.", 
+                                "いずれにせよ、 君[きみ]は 好[この]むと 好[この]まない<font color=\"#0000ff\">によらず/にかかわらず</font> 早[はや]く 出発[しゅっぱつ]する 必要[ひつよう]がある。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "I*a!._S5gP", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "会社に入ると、自分が望むと望まざると＿＿＿、会社のために働かなくてはいけない。", 
+                                "Una vez que entres en una compañía, tienes que trabajar para la compañía, quieras o no.", 
+                                "会社[かいしゃ]に 入[はい]ると、 自分[じぶん]が 望[のぞ]むと 望[のぞ]まざると<font color=\"#0000ff\">によらず/にかかわらず</font>、 会社[かいしゃ]のために 働[はたら]かなくてはいけない。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J-{q6G+_:%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "英語＿＿＿日本語＿＿＿、やる気がないなら上手に絶対ならない。", 
+                                "Independientemente de si es inglés o japonés, si no le pones ganas jamás serás proficiente.", 
+                                "英語[えいご]<font color=\"#0000ff\">によらず/にかかわらず</font> 日本語[にほんご]<font color=\"#0000ff\">によらず/にかかわらず</font>、やる 気[き]がないなら 上手[じょうず]に 絶対[ぜったい]ならない。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Pdg4-~;wQU", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "誰から＿＿＿我々が支援が必死に必要である。", 
+                                "Necesitamos apoyo desesperadamente sin importar de quién sea.", 
+                                "誰[だれ]から<font color=\"#0000ff\">によらず/にかかわらず</font> 我々[われわれ]が 支援[しえん]が 必死[ひっし]に 必要[ひつよう]である。", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lfGm};d&?o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どんな仕事＿＿＿、私はやります", 
+                                "Haré cualquier trabajo sin importa lo que sea.", 
+                                "どんな 仕事[しごと]<font color=\"#0000ff\">によらず/にかかわらず</font>、 私[わたし]はやります", 
+                                "によらず/にかかわらず"
+                            ], 
+                            "flags": 0, 
+                            "guid": "sMpf1nHE3)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にかかわらず", 
+                                "によらず"
+                            ]
                         }
                     ]
                 }
@@ -21612,33 +22240,29 @@
             "dyn": false, 
             "lapse": {
                 "delays": [
-                    5, 
-                    75, 
-                    360
+                    10
                 ], 
                 "leechAction": 1, 
                 "leechFails": 8, 
                 "minInt": 1, 
-                "mult": 0.15
+                "mult": 0.0
             }, 
             "maxTaken": 60, 
-            "name": "jonkenpon", 
+            "name": "Default", 
             "new": {
                 "bury": true, 
                 "delays": [
                     1, 
-                    10, 
-                    60, 
-                    360
+                    10
                 ], 
-                "initialFactor": 1800, 
+                "initialFactor": 2500, 
                 "ints": [
                     1, 
                     4, 
                     7
                 ], 
                 "order": 1, 
-                "perDay": 10, 
+                "perDay": 25, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -21659,7 +22283,7 @@
     "extendNew": 0, 
     "extendRev": 50, 
     "media_files": [], 
-    "mid": "1519824005325", 
+    "mid": "1512049857666", 
     "name": "Niponismo", 
     "note_models": [
         {
@@ -21721,11 +22345,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "でけで（は）なく", 
-                "にとどまらず（〜も）", 
-                "のみならず"
+                "にかかわらず", 
+                "によらず"
             ], 
             "tmpls": [
                 {
@@ -21928,8 +22551,7 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "にとどまらず（〜も）"
+                "によらず（に）/によらず"
             ], 
             "tmpls": [
                 {
