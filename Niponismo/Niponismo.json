@@ -22314,6 +22314,111 @@
                                 "Niponismo", 
                                 "んがため"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は真実を隠さ＿＿＿恋人を殺そうとするかもしれない。", 
+                                "Quizas ella intente matar a su pareja para ocultar la verdad.", 
+                                "彼女[かのじょ]は 真実[しんじつ]を 隠[かく]さ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んがため（に）</font></span>&nbsp;恋人[こいびと]を 殺[ころ]そうとするかもしれない。", 
+                                "んがため（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mH/O%T<1U^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "政府は災害を防が＿＿＿対策を取り込んでいます。", 
+                                "El gobierno está introduciendo medidas de prevención de desastres.", 
+                                "政府[せいふ]は 災害[さいがい]を 防[ふせ]が<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んための</font></span>&nbsp;対策[たいさく]を 取り込[とりこ]んでいます。", 
+                                "んための"
+                            ], 
+                            "flags": 0, 
+                            "guid": "teDOF2]%zo", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "これは我々のチームが勝た＿＿＿計画だ。", 
+                                "Este es un plan para que gane nuestro equipo.", 
+                                "これは 我々[われわれ]のチームが 勝[か]た<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んための</font></span>&nbsp;計画[けいかく]だ。", 
+                                "んための"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zDgXVP/NK!", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そのかばんのなかには交渉を成功＿＿＿需要な資料だった。", 
+                                "Dentro de ese maletín había documentos importantísimos para el éxito de las negociaciones.", 
+                                "そのかばんのなかには 交渉[こうしょう]を 成功[せいこう]<font color=\"#0000ff\">せ<span style=\"font-family: 'Liberation Sans'\">んための</span></font>&nbsp;需要[じゅよう]な 資料[しりょう]だった。", 
+                                "<span style=\"font-family: Arial\">せ</span>んための"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xob6Sx,DQW", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "昇進＿＿＿これまで必死に頑張って来ましたけど、結局だめになったんだ。", 
+                                "Hasta ahora he estado trabajando como loco para que me ascendieran pero al final no sirvió para nada.", 
+                                "昇進[しょうしん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んがため（に）</font></span>これまで 必死[ひっし]に 頑張[がんば]って 来[き]ましたけど、 結局[けっきょく]だめになったんだ。", 
+                                "んがため（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "qq!~lNREgG", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
                         }
                     ]
                 }
@@ -22441,11 +22546,11 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
+                "Oración", 
                 "んがため"
             ], 
             "tmpls": [
