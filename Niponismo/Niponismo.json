@@ -4379,6 +4379,39 @@
                                 "tatoeba", 
                                 "によらず/にかかわらず"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "んがため（に）/んがための", 
+                                "んがため（に）/んがための", 
+                                "んがため（に）/んがための", 
+                                "para / con el fin de / con el propósito de", 
+                                "Verbo ない (sin ない) + forma gramatical （に） + acción.<div>Verbo ない (sin ない) + forma gramatical （の） + sustantivo.<br /><div>Sustantivo せん + forma gramatical&nbsp;（に） + acción.</div></div><div>Sustantivo せん + forma gramatical&nbsp;（の） + sustantivo.</div>", 
+                                "Expresión que indica la razón por la que algo se hace y que suele reflejar una fuerte intención. Los sustantivos verbales se conjugan a la forma せん, la cual no tiene relación alguna a la forma negativa sino que es una antigua conjugación para expresar intención al igual que するように.", 
+                                "医者[いしゃ]にならん＿＿＿ 彼女[かのじょ]が 必死[ひっし]に 勉強[べんきょう]した。", 
+                                "Ella estudió muchísimo para convertirse en doctora.", 
+                                "彼[かれ]がその 事件[じけん]の 真相[しんそう]を 明[あき]らかにせん＿＿＿ 何年[なんねん]も 調査[ちょうさ]し 続[つづ]けてきた。", 
+                                "El siguió investigando ese caso durante muchos años para descubrir la verdad.", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "MUtQ@u?)g`", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "んがため"
+                            ]
                         }
                     ]
                 }, 
@@ -22218,6 +22251,69 @@
                                 "にかかわらず", 
                                 "によらず"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "山下さんはビジスネで成功＿＿＿手段を選ばなかった。", 
+                                "Yamashita hizo lo que fuera para tener éxito en los negocios.", 
+                                "山下[やました]さんはビジスネで 成功[せいこう]<font color=\"#0000ff\">せんがため（に）</font> 手段[しゅだん]を 選[えら]ばなかった。", 
+                                "せんがため（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H-yU(glkQ_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "俺は食べ＿＿＿生きる人間です。", 
+                                "Yo soy alguien que vive para comer.", 
+                                "俺[おれ]は 食[た]<font color=\"#0000ff\">べんがため（に）</font> 生[い]きる 人間[にんげん]です。", 
+                                "んがため（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fB/ZVHIdk$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "んがため"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "N1の試験に合格＿＿＿徹夜までしていました。", 
+                                "Incluso me he pasado noches estudiando para aprobar el examen de N1.", 
+                                "N 1の 試験[しけん]に 合格[ごうかく]<font color=\"#0000ff\">せんがため（に）</font> 徹夜[てつや]までしていました。", 
+                                "せんがため（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v$`+>]*}~M", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "んがため"
+                            ]
                         }
                     ]
                 }
@@ -22345,13 +22441,12 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "Oración", 
-                "にかかわらず", 
-                "によらず"
+                "んがため"
             ], 
             "tmpls": [
                 {
@@ -22554,7 +22649,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "によらず（に）/によらず"
+                "Niponismo", 
+                "んがため"
             ], 
             "tmpls": [
                 {
