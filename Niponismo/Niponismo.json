@@ -4412,6 +4412,39 @@
                                 "Niponismo", 
                                 "んがため"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>の至り</div>", 
+                                "の 至[いた]り", 
+                                "のいたり", 
+                                "muy / sumamente / extremadamente", 
+                                "Sustantivo + forma gramatical.", 
+                                "Expresión extremadamente formal que refleja los sentimientos del locutor y que puede indicar:<div><br /></div><div>- Una profunda emoción. Generalmente usada junto a &nbsp;感激[かんげき], &nbsp;感謝[かんしゃ], &nbsp;光栄[こうえい], etc.</div><div>- Un profundo sentido de arrepentimiento y a menudo usado en conferencias de prensa para solicitar disculpas públicas. Generalmente &nbsp;慚愧[ざんき] o sustantivo similares.</div><div>- Culpar de algo a la inmadurez de la juventud con la frase &nbsp;若気[わかげ]＿＿＿.</div>", 
+                                "先生[せんせい]にお 目[め]にかかるなんて、 本当[ほうんとう]に 光栄[こうえい]＿＿＿です。", 
+                                "Conocer al profesor es realmente un honor para mi.", 
+                                "我社[わがしゃ]の 見逃[みなご]しのこととて、 皆様[みんなさま]に 大変[たいへん]ご 迷惑[めいわく]をお 掛[か]けしました。 申[もう]し 訳[わけ]ございません。 慚愧[ざんき]＿＿＿でございます。お 詫[わ]び 致[い]します。", 
+                                "Debido a la falta de atención, nuestra empresa le ha ocasionado muchos problemas a todos. Estamos sumamente avergonzados y les ofrecemos nuestras más sinceras disculpas.", 
+                                "若気[わかげ]＿＿＿で 私[わたし]は 勉強[べんきょう]を 全[まった]くしなかった。", 
+                                "Debido a la inmadurez de la juventud, yo no estudiaba absolutamente nada.&nbsp;", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "NaFQ$XM`?Q", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "の至り"
+                            ]
                         }
                     ]
                 }, 
@@ -22419,6 +22452,48 @@
                                 "Oración", 
                                 "んがため"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "田中先生にこんな場所でお目にかかれて、実に光栄＿＿＿です。", 
+                                "Es sumamente un honor para mi reunirme con el Sr. Tanaka en un lugar como este.", 
+                                "田中[たなか] 先生[せんせい]にこんな 場所[ばしょ]でお 目[め]にかかれて、 実[じつ]に 光栄[こうえい]<font color=\"#0000ff\">の至り</font>です。", 
+                                "の至り"
+                            ], 
+                            "flags": 0, 
+                            "guid": "LG]uF*Pjku", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の至り"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "皆様からこの賞をいただいて、光栄＿＿＿です。", 
+                                "Recibir este premio de parte de todos ustedes es sumamente un honor para mi.", 
+                                "皆様[みなさま]からこの 賞[しょう]をいただいて、 光栄[こうえい]<font color=\"#0000ff\">の至り</font>です。", 
+                                "の至り"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PxX7g7;ou6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の至り"
+                            ]
                         }
                     ]
                 }
@@ -22546,12 +22621,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Gramática", 
+                "Definición", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "んがため"
+                "の至り"
             ], 
             "tmpls": [
                 {
@@ -22755,7 +22830,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "んがため"
+                "の至り"
             ], 
             "tmpls": [
                 {
