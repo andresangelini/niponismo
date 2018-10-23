@@ -22342,8 +22342,8 @@
                             "fields": [
                                 "政府は災害を防が＿＿＿対策を取り込んでいます。", 
                                 "El gobierno está introduciendo medidas de prevención de desastres.", 
-                                "政府[せいふ]は 災害[さいがい]を 防[ふせ]が<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んための</font></span>&nbsp;対策[たいさく]を 取り込[とりこ]んでいます。", 
-                                "んための"
+                                "政府[せいふ]は 災害[さいがい]を 防[ふせ]が<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んがための</font></span>&nbsp;対策[たいさく]を 取り込[とりこ]んでいます。", 
+                                "んがための"
                             ], 
                             "flags": 0, 
                             "guid": "teDOF2]%zo", 
@@ -22363,8 +22363,8 @@
                             "fields": [
                                 "これは我々のチームが勝た＿＿＿計画だ。", 
                                 "Este es un plan para que gane nuestro equipo.", 
-                                "これは 我々[われわれ]のチームが 勝[か]た<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んための</font></span>&nbsp;計画[けいかく]だ。", 
-                                "んための"
+                                "これは 我々[われわれ]のチームが 勝[か]た<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んがための</font></span>&nbsp;計画[けいかく]だ。", 
+                                "んがための"
                             ], 
                             "flags": 0, 
                             "guid": "zDgXVP/NK!", 
@@ -22384,8 +22384,8 @@
                             "fields": [
                                 "そのかばんのなかには交渉を成功＿＿＿需要な資料だった。", 
                                 "Dentro de ese maletín había documentos importantísimos para el éxito de las negociaciones.", 
-                                "そのかばんのなかには 交渉[こうしょう]を 成功[せいこう]<font color=\"#0000ff\">せ<span style=\"font-family: 'Liberation Sans'\">んための</span></font>&nbsp;需要[じゅよう]な 資料[しりょう]だった。", 
-                                "<span style=\"font-family: Arial\">せ</span>んための"
+                                "そのかばんのなかには 交渉[こうしょう]を 成功[せいこう]<font color=\"#0000ff\">せ<span style=\"font-family: 'Liberation Sans'\">んがための</span></font>&nbsp;需要[じゅよう]な 資料[しりょう]だった。", 
+                                "<span style=\"font-family: Arial\">せ</span>んがための"
                             ], 
                             "flags": 0, 
                             "guid": "xob6Sx,DQW", 
@@ -22403,10 +22403,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "昇進＿＿＿これまで必死に頑張って来ましたけど、結局だめになったんだ。", 
+                                "昇進＿＿＿これまで必死に頑張って来たけど、結局だめになったんだ。", 
                                 "Hasta ahora he estado trabajando como loco para que me ascendieran pero al final no sirvió para nada.", 
-                                "昇進[しょうしん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んがため（に）</font></span>これまで 必死[ひっし]に 頑張[がんば]って 来[き]ましたけど、 結局[けっきょく]だめになったんだ。", 
-                                "んがため（に）"
+                                "昇進[しょうしん]<font color=\"#0000ff\">せ</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#0000ff\">んがため（に）</font></span>これまで 必死[ひっし]に 頑張[がんば]って 来[き]ましたけど、 結局[けっきょく]だめになったんだ。", 
+                                "せんがため（に）"
                             ], 
                             "flags": 0, 
                             "guid": "qq!~lNREgG", 
