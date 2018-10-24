@@ -22459,7 +22459,7 @@
                             "fields": [
                                 "田中先生にこんな場所でお目にかかれて、実に光栄＿＿＿です。", 
                                 "Es sumamente un honor para mi reunirme con el Sr. Tanaka en un lugar como este.", 
-                                "田中[たなか] 先生[せんせい]にこんな 場所[ばしょ]でお 目[め]にかかれて、 実[じつ]に 光栄[こうえい]<font color=\"#0000ff\">の至り</font>です。", 
+                                "田中[たなか] 先生[せんせい]にこんな 場所[ばしょ]でお 目[め]にかかれて、 実[じつ]に 光栄[こうえい]<font color=\"#0000ff\">の 至[いた]り</font>です。", 
                                 "の至り"
                             ], 
                             "flags": 0, 
@@ -22480,11 +22480,95 @@
                             "fields": [
                                 "皆様からこの賞をいただいて、光栄＿＿＿です。", 
                                 "Recibir este premio de parte de todos ustedes es sumamente un honor para mi.", 
-                                "皆様[みなさま]からこの 賞[しょう]をいただいて、 光栄[こうえい]<font color=\"#0000ff\">の至り</font>です。", 
+                                "皆様[みなさま]からこの 賞[しょう]をいただいて、 光栄[こうえい]<font color=\"#0000ff\">の 至[いた]り</font>です。", 
                                 "の至り"
                             ], 
                             "flags": 0, 
                             "guid": "PxX7g7;ou6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の至り"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この会社との長い間の付き合い、感謝＿＿＿です。", 
+                                "Estoy sumamente agradecido por la larga relación que he tenido con esta compañía", 
+                                "この 会社[かいしゃ]との 長[なが]い 間[ま]の 付き合[つきあ]い、 感謝[かんしゃ]<font color=\"#0000ff\">の 至[いた]り</font>です。", 
+                                "の至り"
+                            ], 
+                            "flags": 0, 
+                            "guid": "t9*rp1)Nq2", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の至り"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "オリンピックチームに当選して、感激＿＿＿です。", 
+                                "Estoy sumamente emocionado por haber sido seleccionada para el equipo olímpico.", 
+                                "オリンピックチームに 当選[とうせん]して、 感激[かんげき]<font color=\"#0000ff\">の 至[いた]り</font>です。", 
+                                "の至り"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C8btR<N9GQ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の至り"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "確かに彼らが悪いことをしたけど、それはただ若気＿＿＿です。許してくれ。", 
+                                "Ellos ciertamento hicieron algo malo pero eso tan sólo se debe a la inmadurez de la juventud. Perdónalos, por favor.", 
+                                "確[たし]かに 彼[かれ]らが 悪[わる]いことをしたけど、それはただ 若気[わかげ]<font color=\"#0000ff\">の 至[いた]り</font>です。 許[ゆる]してくれ。", 
+                                "の至り"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Mp;lX+>C4@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の至り"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大学の頃、私達は遊ぶばっかりなんですよね。やっぱり、若気＿＿＿だね。", 
+                                "En la universidad nos la pasabamos divirtiendo. La verdad es que eramos bastante inmaduros.", 
+                                "大学[だいがく]の 頃[ころ]、 私[わたし] 達[たち]は 遊[あそ]ぶばっかりなんですよね。やっぱり、 若気[わかげ]<font color=\"#0000ff\">の 至[いた]り</font>だね。", 
+                                "の至り"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pu=ZYYv5^-", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Definición", 
