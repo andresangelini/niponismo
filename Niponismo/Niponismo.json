@@ -3623,10 +3623,10 @@
                                 "にあたいする", 
                                 "merecer / valer la pena / ser digno de", 
                                 "Verbo en forma diccionario + forma gramatical.<div>Sustantivo (con o sin する) + forma gramatical.</div>", 
-                                "Esta expresión significa \"merecer\", \"valer la pena\" o \"ser digno de\" y se debe usar con la partícula に delante ya sea que se use junto a un sustantivo o a un verbo. Como cualquier otro verbo, si \"vale la pena\" o \"no vale la pena\" depende de si su conjugación es positiva o negativa respectivamente.", 
+                                "Expresión que indica que algo vale la pena.<div><br /></div><div>彼[かれ]の 勇敢[ゆうかん]な 行動[こうどう]は 称賛[しょうだん]＿＿＿。</div><div><i>Su valiente accionar es digno de elogio</i>.</div><div><br /></div><div>その 歌手[かしゅ]の 最後[さいご]のCDは 聞[き]くに＿＿＿。</div><div><i>Vale la pena escuchar el último CD de esa cantante.</i></div><div><br /></div><div>Refleja desinterés por algo cuando se usa en forma negativa.&nbsp;</div><div><br /></div><div>最近[さいきん]の 番組[ばんぐみ]は 見[み]る＿＿＿ない。</div><div><i>No vale la pena mirar ningún programa últimamente</i>.</div><div><br /></div><div>O que sencillamente algo no vale la pena.</div><div><br /></div><div>紅葉なら、わざわざ京都まで行って見る＿＿＿ない。</div><div><i>Si es por mirar las hojas de otoño, no vale la pena intentar ir hasta Kioto</i>.</div><div><br /></div><div>A diferencia de に 耐[た]えない/に 耐[た]えない que indica que algo no se puede aguantar o tolerar.</div><div><br /></div><div>最近[さいきん]の 番組[ばんぐみ]は 見[み]る＿＿＿ない。</div><div><i>No puedo soportar ver ningún programa últimamente</i>.</div><div><br /></div><div>Es más común que に 耐[た]える/に 堪[た]える o に 足[た]る/に 足[た]りる a excepción de &nbsp;信頼[しんらい], &nbsp;信[しん]じる, &nbsp;信用[しんよう] y &nbsp;取[と]る.</div>", 
                                 "良書[りょうしょ]はすべて 読[よ]む＿＿＿。", 
                                 "Los buenos libros siempre merecen la pena leerlos.", 
-                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]（する）＿＿＿。", 
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]＿＿＿。", 
                                 "<div>Ellos no merecen el elogio que recibieron.</div>", 
                                 "", 
                                 "", 
@@ -17600,8 +17600,8 @@
                             "fields": [
                                 "<div>野心は抱く＿＿＿が、容易に達成され得ない。</div>", 
                                 "Aunque es bueno tener ambiciones, éstas no son fáciles de conseguir.", 
-                                "野心[やしん]は 抱[いだ]くに <font color=\"#0000ff\">値[あたい]する/に 耐[た]える/に 足[た]る/に 足[た]りる</font>が、 容易[ようい]に 達成[たっせい]され 得[え]ない。", 
-                                "に値する/に耐える/に足る/に足りる"
+                                "野心[やしん]は 抱[いだ]くに <font color=\"#0000ff\">値[あたい]する</font>が、 容易[ようい]に 達成[たっせい]され 得[え]ない。", 
+                                "に値する/に耐える"
                             ], 
                             "flags": 0, 
                             "guid": "kO)i2n-DQu", 
@@ -17612,10 +17612,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に値する", 
-                                "に耐える", 
-                                "に足りる", 
-                                "に足る"
+                                "に値する"
                             ]
                         }, 
                         {
@@ -20469,8 +20466,8 @@
                             "fields": [
                                 "その書店には読む＿＿＿本が本当にありますか。", 
                                 "¿Hay realmente un libro que valga la pena leer en esa librería?", 
-                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 値[あたい]する/</font><font color=\"#0000ff\">に 耐[た]える/に 足[た]る/に 足[た]りる</font>&nbsp;本[ほん]が 本当[ほんとう]にありますか。", 
-                                "<div>に値する/に耐える/に足る/に足りる</div>"
+                                "その 書店[しょてん]には 読[よ]む<font color=\"#0000ff\">に 値[あたい]する</font>&nbsp;本[ほん]が 本当[ほんとう]にありますか。", 
+                                "<div>に値する</div>"
                             ], 
                             "flags": 0, 
                             "guid": "A;j^`h*F7]", 
@@ -20481,11 +20478,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
-                                "に値する", 
-                                "に耐える", 
-                                "に足りる", 
-                                "に足る"
+                                "に値する"
                             ]
                         }, 
                         {
@@ -20894,8 +20887,8 @@
                             "fields": [
                                 "大衆によって重んじられている人が必ずしもそれを受ける＿＿＿人とは言えない。", 
                                 "Aquellos que reciben el respeto de la gente no siempre se lo merecen.", 
-                                "大衆[たいしゅう]によって 重[おも]んじられている 人[ひと]が 必[かなら]ずしもそれを 受[う]ける<font color=\"#0000ff\">に 値[あたい]する/に 耐[た]えるに 足[た]る/に 足[た]りる</font> 人[ひと]とは 言[い]えない。", 
-                                "に値する/に耐える/に足る/に足りる"
+                                "大衆[たいしゅう]によって 重[おも]んじられている 人[ひと]が 必[かなら]ずしもそれを 受[う]ける<font color=\"#0000ff\">に 値[あたい]する</font>人[ひと]とは 言[い]えない。", 
+                                "に値する"
                             ], 
                             "flags": 0, 
                             "guid": "H@[/r1h2`0", 
@@ -20906,9 +20899,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に値する", 
-                                "に耐える", 
-                                "に足る/に足りる"
+                                "に値する"
                             ]
                         }, 
                         {
@@ -21020,8 +21011,8 @@
                             "fields": [
                                 "部長に報告＿＿＿問題じゃないでしょう。", 
                                 "No es un problema que valga la pena reportar al jefe.", 
-                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する/に 耐[た]える/（する）に 足[た]る/（する）に 足[た]りる</font> 問題[もんだい]じゃないでしょう。", 
-                                "（する）に値する/に耐える/（する）に足る/（する）に足りる"
+                                "部長[ぶちょう]に 報告[ほうこく]<font color=\"#0000ff\">（する）</font><font color=\"#0000ff\">に 値[あたい]する</font>&nbsp;問題[もんだい]じゃないでしょう。", 
+                                "（する）に値する/に耐える"
                             ], 
                             "flags": 0, 
                             "guid": "Qd6{wZ+JOt", 
@@ -21032,9 +21023,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "に値する", 
-                                "に耐える", 
-                                "に足る/に足りる"
+                                "に値する"
                             ]
                         }, 
                         {
@@ -21043,8 +21032,8 @@
                             "fields": [
                                 "しおりさんは誇り＿＿＿選手だ。", 
                                 "Shiori es una jugadora que merece nuestro orgullo.", 
-                                "しおりさんは 誇[ほこ]り<font color=\"#0000ff\">に 値[あたい]する/に 耐[た]える/に 足[た]る/に 足[た]りる</font> 選手[せんしゅ]だ。", 
-                                "に値する/に耐える/に足る/に足りる"
+                                "しおりさんは 誇[ほこ]り<font color=\"#0000ff\">に 値[あたい]する</font>&nbsp;選手[せんしゅ]だ。", 
+                                "に値する"
                             ], 
                             "flags": 0, 
                             "guid": "o/g`O5tK-a", 
@@ -21055,9 +21044,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "に値する", 
-                                "に耐える", 
-                                "に足る/に足りる"
+                                "に値する"
                             ]
                         }, 
                         {
