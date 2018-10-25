@@ -18067,8 +18067,8 @@
                             "fields": [
                                 "お客様、問題が無事に解決されましたので、もう心配＿＿＿。", 
                                 "El problema ha sido resuelto sin problemas así que no hay de qué preocuparse.", 
-                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たりません/に（は） 及[およ]びません</font>。", 
-                                "に（は）当たりません/に（は）及びません"
+                                "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#0000ff\">に（は） 当[あ]たらない/に（は） 及[およ]ばない</font>。", 
+                                "に（は）当たらない/に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "xd97WTNL?_", 
@@ -20536,9 +20536,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "あの画家は鑑賞＿＿＿作品があまりがないから、名前が聞いていないのは予測に難くない。", 
-                                "Ese pintor no tiene muchas obras que valgan la pena apreciar, así que no me sorprende que no lo conozcas.", 
-                                "あの 画家[がか]は 鑑賞[かんしょう]<font color=\"#0000ff\">に 耐[た]える</font> 作品[さくひん]があまりがないから、 名前[なまえ]が 聞[き]いていないのは 予測[よそく]に 難[かた]くない。", 
+                                "これはね、最先端の水＿＿＿スマートフォンだから、心配には及ばないよ。", 
+                                "Esto es lo último en teléfonos inteligentes resistentes al agua así que no hay de qué preocuparse.", 
+                                "これはね、 最先端[さいせんたん]の 水[みず]に<font color=\"#0000ff\"> 耐[た]える</font>スマートフォンだから、 心配[しんぱい]には 及[およ]ばないよ。", 
                                 "に耐える"
                             ], 
                             "flags": 0, 
@@ -20692,7 +20692,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼はそんなに長く待たされるの＿＿＿れなかった。", 
+                                "彼はそんなに長く待たされるの＿＿＿られなかった。", 
                                 "No podía soportar que le hicieran esperar tanto.", 
                                 "彼[かれ]はそんなに 長[なが]く 待[ま]たされるの<font color=\"#0000ff\">に 耐[た]え</font>られなかった。", 
                                 "に耐え"
