@@ -4119,13 +4119,13 @@
                                 "にたえる/にたえる", 
                                 "merecer / valer la pena / ser digno de / aguantar / soportar / tolerar / resistir / poder", 
                                 "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
-                                "Expresión con dos significados y usos principales:<div><br /></div><div>-&nbsp;Indicar al igual que に 値[あたい]する que una cosa o acción vale la pena o que algo o alguien es digno de o merece tal cosa. Usualmente se usa junto a palabras como &nbsp;見[み]る, &nbsp;聞[き]く, &nbsp;鑑賞[かんしょう], &nbsp;評価[ひょうか] y &nbsp;批判[ひはん].</div><div>- Indicar que una cosa o persona soporta o aguanta algo. En este caso, &nbsp;si ese algo es un factor externo se escribe con &nbsp;耐[た] y si es interno como &nbsp;感情[かんじょう], &nbsp;喜[よろこ]び y &nbsp;悲[かな]しみ, entonces escribe con &nbsp;堪[た].</div>", 
-                                "この 図書館[としょかん]には 読[よ]む＿＿＿ 本[ほん]が 多[おお]い。", 
-                                "En esta bibliotecta hay un montón de libros que valen la pena leer.", 
-                                "本当[ほんとう]に 献身的[けんしんてき]な 女子[じょし]のみがこの 仕事[しごと]＿＿＿。", 
-                                "Sólo las chicas verdaderamente dedicadas pueden soportar este trabajo.", 
-                                "彼女[かのじょ]は 夫[おっと]を 失[な]くす 悲[かな]しみ＿＿＿。", 
-                                "Ella soportó la tristeza de perder a su marido.", 
+                                "Expresión que se usa para indicar que algo:<div><br /></div><div>- Merece, vale la pena o es digno lo suficiente.</div><div><br /></div><div>昨日[きのう]の 展覧会[てんらんかい]には 鑑賞[かんしょう]（する）＿＿＿ 作品[さくひん]が 少[すく]なかった。</div><div><i>La exibición tenía pocas obras que se dejaran (puedían) apreciar (que no eran muy buenas pero tampoco malas)</i>.</div><div><br /></div><div>この 図書館[としょかん]には 読[よ]む＿＿＿本[ほん]が 多[おお]い。</div><div><i>En esta biblioteca hay un montón de libros que se dejan (pueden) leer (no son muy buenos pero tampoco son malos)</i>.</div><div><br /></div><div>Debido a que esta connotación indica que el valor es mínimo, usualmente se usa に 値[あたい]する para expresar que algo vale realmente la pena.</div><div><br /></div><div>その 作家[さっか]の 作品[さくひん]は 読[よ]むに 値[あたい]するです。</div><div><i>Sus obras valen la pena leer (están bastante buenas)</i>.<br /><div><br /></div><div>今度[こんど]はオリンピックの 発会式[はっかいしき]は 見[み]るに 値[あたい]した。</div><div><br /></div><div><i>La ceremonia de apertura de las últimas olimpíadas valieron la pena mirarlas (estuvieron bastante buenas)</i>.</div><div><br /></div><div>- Soporta o aguanta algo. En este caso, &nbsp;si ese algo es un factor externo se escribe con &nbsp;耐[た] y si es interno como &nbsp;感情[かんじょう], &nbsp;喜[よろこ]び y &nbsp;悲[かな]しみ, entonces escribe con &nbsp;堪[た].</div></div><div><br /></div><div>本当[ほんとう]に 献身的[けんしんてき]な 女子[じょし]のみがこの 仕事[しごと]＿＿＿。</div><div><i>Sólo las chicas verdaderamente dedicadas pueden soportar este trabajo</i>.</div><div><br /></div><div>彼女[かのじょ]は 夫[おっと]を 失[な]くす 悲[かな]しみ＿＿＿。</div><div><i>Ella soportó la tristeza de perder a su marido</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4143,7 +4143,8 @@
                                 "tatoeba", 
                                 "に", 
                                 "にたえる", 
-                                "に堪える"
+                                "に堪える", 
+                                "に耐える"
                             ]
                         }, 
                         {
@@ -4190,13 +4191,13 @@
                                 "にたる/にたりる", 
                                 "ser suficiente / merecer / valer la pena / ser digno de", 
                                 "Verbo diccionario + forma gramatical.<div>Sustantivo verbal con o sin する + forma gramatical.</div>", 
-                                "Expresión cuyo uso es indicar que algo:<div><br /></div><div>- Es &nbsp;o no es suficiente.</div><div><br /></div><div>皆＿＿＿食料はある。</div><div><i>Hay raciones suficientes para todos</i>.</div><div><br /></div><div>ドイツを旅行（する）＿＿＿貯金がない。</div><div><i>No tengo ahorros suficientes para viajar a Alemania</i>.</div><div><br /></div><div>時間[じかん]が 詳細[しょうさい]を 説明[せつめい]する＿＿＿。</div><div><i>No tengo el tiempo suficiente para explicarte los detalles</i>.</div><div><br /></div><div>- Es o no es de confianza junto a &nbsp;信頼[しんらい], &nbsp;信[しん]じる o &nbsp;信用[しにょう].</div><div><br /></div><div>あの 嘘[うそ]つきは 信頼[しんらい]（する）＿＿＿。</div><div><i>Ese mentiroso no es de confiar</i>.</div><div><br /></div><div>彼女[かんじょ]の 話[はなし]は 信[しん]じる＿＿＿。</div><div><i>Lo que ella dice no es creíble</i>.</div><div><br /></div><div>申[もう]し 訳[わけ]ございません。 信用[しにょう]（する）＿＿＿ 人[ひと]と 働[はたら]くことが 出来[でき]ません。</div><div><i>Sepan disculparme, pero yo no puedo trabajar con personas que no sean dignas de mi confianza</i>.</div><div><br /></div><div>しかし、これは 信頼[しんらい]（する）＿＿＿データーでしょうか。</div><div><i>Aún así, ¿es realmente confiable esta información?</i></div><div><br /></div><div>- No vale la pena tomar en cuenta junto a &nbsp;取[と]る. No existe el positivo.</div><div><br /></div><div>取[と]る＿＿＿ 噂[うそ]を 耳[みみ]にするな！</div><div><i>No hagas caso a rumores inútiles</i>.</div><div><br /></div><div>- No es de temer cuandos se usa jutno a &nbsp;恐[おそ]れる. Tampoco existe el positivo.</div><div><br /></div><div>二人[ふたり]で 行[い]くなら 恐[おそ]れる＿＿＿。</div><div><i>No tienes de qué temer si van los dos juntos</i>.</div><div><br /></div><div>La versión más larga de esta forma gramatical es la más usada actualmente mientras que la corta, aunque igual de válida, es la forma antigua. De hecho, su negativo también se usaba en la forma ず y ぬ.</div><div><br /></div><div>Cuando su significado es \"mercer\", \"valer la pena\" o \"ser digno de\" y no está junto a ninguna de las palabras mencionadas anteriormente, entonces es más común usar に 値[あたい]する en su lugar.</div>", 
+                                "Expresión cuyo uso es indicar que algo:<div><br /></div><div>- Es es suficiente.</div><div><br /></div><div>皆＿＿＿食料はある。</div><div><i>Hay raciones suficientes para todos</i>.</div><div><br /></div><div>ドイツを旅行（する）＿＿＿貯金がない。</div><div><i>No tengo ahorros suficientes para viajar a Alemania</i>.</div><div><br /></div><div>- Es digno de confianza cuando se usa junto a &nbsp;信頼[しんらい], &nbsp;信[しん]じる o &nbsp;信用[しにょう].</div><div><i><br /></i></div><div>彼は信頼（する）＿＿＿友人です。</div><div><i>Él es un amigo de confianza</i>.</div><div><br /></div><div><div>しかし、これは 信用[しんよう]（する）＿＿＿データーでしょうか。</div><div><i>Aún así, ¿es realmente confiable esta información?</i></div></div><div><br /></div><div>Si bien las dos versiones son válidas, la más larga es la más usada actualmente.</div><div><br /></div><div>Cuando su significado es \"mercer\", \"valer la pena\" o \"ser digno de\" y no está junto a ninguna de las palabras mencionadas anteriormente, entonces es más común usar に 値[あたい]する en su lugar.</div><div><br /></div><div>それは 一読[いちどく]（する）に 値[あたい]する 本[ほん]です。</div><div><i>Ese es un libro que merece una leída</i>.</div>", 
                                 "みつきさんは 頼[たの]む＿＿＿ 技[わざ]がある。", 
                                 "Mitsuki tiene la habilidad suficiente.", 
                                 "あの奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
                                 "Ese tipo no es un sujeto digno de confianza.", 
-                                "あの奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
-                                "Ese tipo no es un sujeto digno de confianza.", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4218,12 +4219,12 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "に足りない", 
-                                "に 足[た]りない", 
-                                "にたりない", 
+                                "に足らない/に足りない", 
+                                "に足[た]らない/に 足[た]りない", 
+                                "にたらない/にたりない", 
                                 "no ser suficiente / no merecer / no valer la pena / no ser digno de / no haber de qué / no tener de qué", 
                                 "Verbo diccionario + forma gramatical.<div>Sustantivo verba con o sin する + forma gramatical.</div>", 
-                                "Expresión utilizada para indicar que algo no es suficiente, digno o necesario para realizar determinada acción. Frases como &nbsp;恐[と]れる＿＿＿, que usa esta última connotación también se pueden expresar como &nbsp;恐[おそ]るる＿＿＿ず. Una frase muy común que refleja el sentido de \"no merecer\" &nbsp;o \"no valer la pena\" es &nbsp;取[と]る＿＿＿ 噂[うわさ] (\"un rumor inútil\") en donde se muestra como esta forma puede actuar como un adjetvio al igual que su contraparte positiva.", 
+                                "Expresión que se usa para indicar que algo:<div><br /></div><div>- No es suficiente.</div><div><br /></div><div>今[いま]まで 貯[た]まってきたお 金[かね]がドイツを 旅行[りょこう]（する）＿＿＿。</div><div><i>El dinero que he venido ahorrando hasta ahora no es suficiente para viajar a Alemania</i>.</div><div><br /></div><div><div>時間[じかん]が 詳細[しょうさい]を 説明[せつめい]する＿＿＿。</div><div><i>No hay tiempo suficiente para explicarte los detalles</i>.</div></div><div><br /></div><div>- No es digno de confianza.</div><div><br /></div><div><div>あの 嘘[うそ]つきは 信頼[しんらい]（する）＿＿＿。</div><div><i>Ese mentiroso no es de confiar</i>.</div><div><br /></div><div>彼女[かんじょ]の 話[はなし]は 信[しん]じる＿＿＿。</div><div><i>Lo que ella dice no es creíble</i>.</div><div><br /></div><div>申[もう]し 訳[わけ]ございません。 信用[しにょう]（する）＿＿＿ 人[ひと]と 働[はたら]くことが 出来[でき]ません。</div><div><i>Sepan disculparme, pero yo no puedo trabajar con personas que no sean dignas de mi confianza</i>.</div></div><div><br /></div><div><div>- No vale la pena tomar en cuenta junto a &nbsp;取[と]る. No existe el positivo.</div><div><br /></div><div>取[と]る＿＿＿ 噂[うそ]を 耳[みみ]にするな！</div><div><i>No hagas caso a rumores inútiles</i>.</div><div><br /></div><div>- No es de temer cuandos se usa jutno a &nbsp;恐[おそ]れる. Tampoco existe el positivo.</div><div><br /></div><div>二人[ふたり]で 行[い]くなら 恐[おそ]れる＿＿＿。</div><div><i>No tienes de qué temer si van los dos juntos</i>.</div></div><div><br /></div><div><div>Si bien las dos versiones son válidas, la más larga es la más usada actualmente.</div><div><br /></div><div>Cuando su significado es \"no mercer\", \"no valer la pena\" o \"no ser digno de\" y no está junto a ninguna de las palabras mencionadas anteriormente, entonces es más común usar に 値[あたい]する en su lugar.</div><div><br /></div><div>その 映画[えいが]は 見[み]るに 値[あたい]しない。</div></div><div><i>Esa película no vale la pena mirarla</i>.</div><div><br /></div><div>その 映画[えいが]は 見[み]るに 耐[た]えない。</div><div><i>No aguanto mirar esa película</i>.</div>", 
                                 "そんなくだらない 言[い]い 訳[わけ]はどうして 遅刻[ちこく]したのかを 全[まった]く 説明[せつめい]（する）＿＿＿。", 
                                 "Una razon tan estúpida como esa no es suficiente para explicar por qué llegaste tarde.", 
                                 "彼女[かんじょ]はもう 信頼[しんらい]（する）＿＿＿。", 
@@ -4244,6 +4245,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -20486,7 +20488,7 @@
                             "data": "", 
                             "fields": [
                                 "その監督は見る＿＿＿映画が一つさえもない。", 
-                                "Ese director no tiene ni una película que valga la pena ver.", 
+                                "Ese director no tiene ni una película que se pueda ver.", 
                                 "その 監督[かんとく]は 見[み]る<font color=\"#0000ff\">に 耐[た]える</font> 映画[えいが]が 一[ひと]つさえもない。", 
                                 "に耐える"
                             ], 
@@ -20507,9 +20509,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "その著者は読む＿＿＿作品が多いから、図書館員に聞いてみて。", 
-                                "Es autor tiene muchas obras que valen la pena leer, así que por él pregunta al bibliotecario.", 
-                                "その 著者[ちょしゃ]は 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 作品[さくひん]が 多[おお]いから、 図書館[としょかん] 員[いん]に 聞[き]いてみて。", 
+                                "凄く詰まらないから、少なくとも読む＿＿＿本があったら、貸して。", 
+                                "Estoy increíblemente aburrido así que por lo menos tienes un libros que se deje leer, préstamelo.", 
+                                "凄[すご]く 詰[つ]まらないから、 少[すく]なくとも 読[よ]む<font color=\"#0000ff\">に 耐[た]える</font> 本[ほん]があったら、 貸[か]して。", 
                                 "に耐える"
                             ], 
                             "flags": 0, 
@@ -20521,7 +20523,6 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
                                 "に耐える"
                             ]
                         }, 
@@ -20575,8 +20576,8 @@
                             "fields": [
                                 "信頼＿＿＿人に絶対にこの秘密をばらさないで。", 
                                 "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
-                                "信頼[しんらい]<font color=\"#0000ff\">に 値[あたい]しない/</font><font color=\"#0000ff\">に 耐[た]えない/に 足[た]りない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
-                                "に値しない/に耐えない/に足りない"
+                                "信頼[しんらい]<span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/に 足[た]りない</span>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
+                                "に足らない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "M%n^qvSE//", 
@@ -20587,9 +20588,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえない", 
-                                "に値する", 
-                                "に耐えない", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -21095,8 +21094,8 @@
                             "fields": [
                                 "バハマに行きたけどさ、お金が行く＿＿＿。", 
                                 "Quisiera ir a las Bahamas pero no tengo el dinero para ir.", 
-                                "バハマに 行[い]きたけどさ、お 金[かね]が 行[い]く<font color=\"#0000ff\">に 足[た]りない</font>。", 
-                                "に足りない"
+                                "バハマに 行[い]きたけどさ、お 金[かね]が 行[い]く<span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/に 足[た]りない</span>。", 
+                                "に足らない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "fFIZTb$br6", 
@@ -21107,6 +21106,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -21116,8 +21116,8 @@
                             "fields": [
                                 "もちろん、口頭試問だけで合格＿＿＿。", 
                                 "Por supuesto, el examen oral no es suficiente para aprobar.", 
-                                "もちろん、 口頭[こうとう] 試問[しもん]だけで 合[ごう] 額[がく]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
-                                "（する）に足りない"
+                                "もちろん、 口頭[こうとう] 試問[しもん]だけで 合[ごう] 額[がく]<font color=\"#0000ff\">（する）</font><span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/（する）に 足[た]りない</span>。", 
+                                "（する）に足らない/（する）に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "HNZBE=ml@X", 
@@ -21128,6 +21128,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -21137,8 +21138,8 @@
                             "fields": [
                                 "その政治家は以前国を一回裏切ったから、今はもう信頼＿＿＿。", 
                                 "Ese político ha traicionado una vez al país antes, así que ahora ya no es digno de confianza.", 
-                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
-                                "（する）に足りない"
+                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）</font><span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/（する）に 足[た]りない</span>。", 
+                                "（する）に足らない/（する）に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "jz>Q5hkgk{", 
@@ -21149,6 +21150,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -21158,8 +21160,8 @@
                             "fields": [
                                 "医者によると僕の病気は大したものじゃないから、恐れる＿＿＿。", 
                                 "Según el médico mi enfermedad no es la gran cosa, así que no hay de qué temer.", 
-                                "医者[いしゃ]によると 僕[ぼく]の 病気[びょうき]は 大[たい]したものじゃないから、 恐[おそ]れる<font color=\"#0000ff\">に 足[た]りない</font>。", 
-                                "に足りない"
+                                "医者[いしゃ]によると 僕[ぼく]の 病気[びょうき]は 大[たい]したものじゃないから、 恐[おそ]れる<font color=\"#0000ff\">に 足[た]らない/に 足[た]りない</font>。", 
+                                "に足らない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "tXx_}LSf3I", 
@@ -21170,6 +21172,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -21179,8 +21182,8 @@
                             "fields": [
                                 "こんな情けない年金は生きる＿＿＿。", 
                                 "Esta pensión miserable no es suficiente para vivir.", 
-                                "こんな 情[なさ]けない 年金[ねんきん]は 生[い]きる<font color=\"#0000ff\">に 足[た]りない</font>。", 
-                                "に足りない"
+                                "こんな 情[なさ]けない 年金[ねんきん]は 生[い]きる<span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/に 足[た]りない</span>。", 
+                                "に足らない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "GSQFhMm!Zx", 
@@ -21191,6 +21194,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -21200,8 +21204,8 @@
                             "fields": [
                                 "きみの意見は私にとって取る＿＿＿。", 
                                 "Tu opinión no vale nada para mi.", 
-                                "きみの 意見[いけん]は 私[わたし]にとって 取[と]る<font color=\"#0000ff\">に 足[た]りない</font>。", 
-                                "に足りない"
+                                "きみの 意見[いけん]は 私[わたし]にとって 取[と]る<span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/に 足[た]りない</span>。", 
+                                "に足らない/に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "u;^Dl/SwR-", 
@@ -21212,6 +21216,7 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
+                                "に足らない", 
                                 "に足りない"
                             ]
                         }, 
@@ -22559,6 +22564,116 @@
                                 "Oración", 
                                 "の至り"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "こちらは長年の付き合いがあり信頼＿＿＿取引先です。", 
+                                "Este es socio de negocios de muchos años digno de mi confianza.", 
+                                "こちらは 長年[ながねん]の 付き合[つきあ]いがあり 信頼[しんらい]<font color=\"#0000ff\">（する）に 足[た]る/（する）に 足[た]りる</font> 取引[とりひき] 先[さき]です。", 
+                                "（する）に足る/（する）に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B9a]g}Y%lC", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足りる", 
+                                "に足る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "このソフトのデータは信用＿＿＿。", 
+                                "Los datos de este programa son confiables.", 
+                                "このソフトのデータは 信用[しんよう]<font color=\"#0000ff\">（する）に 足[た]る/（する）に 足[た]りる</font>。", 
+                                "（する）に足る/（する）に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zL&-3O&1=F", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足りる", 
+                                "に足る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女が言っているのは信じる＿＿＿かどうか、まだ断定出来ません。", 
+                                "No podemos determinar aún si lo que ella dice es suficientemente confiable o no.", 
+                                "彼女[かのじょ]が 言[い]っているのは 信[しん]じる<font color=\"#0000ff\">に 足[た]る/に 足[た]りる</font>かどうか、まだ 断定[だんてい] 出来[でき]ません。", 
+                                "に足る/に足りる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "CPC7#]lT^C", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足りる", 
+                                "に足る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "政治家の言葉は信用＿＿＿。", 
+                                "La palabra de un político no es digna de confianza.", 
+                                "政治[せいじ] 家[か]の 言葉[ことば]は 信用[しんよう]<font color=\"#0000ff\">（する）に 足[た]らない/（する）に 足[た]りない</font>。", 
+                                "（する）に足らない/（する）に足りない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d,jAi%Gp<;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足らない", 
+                                "に足りない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "信じる＿＿＿人と友達になれない。", 
+                                "No puedo ser amigo de alguien a quien no le creo.", 
+                                "信[しん]じる<font color=\"#0000ff\">に 足[た]らない/に 足[た]りない</font> 人[ひと]と 友達[ともだち]になれない。", 
+                                "に足らない/に足りない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "EAUBBE6qn6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に足らない", 
+                                "に足りない"
+                            ]
                         }
                     ]
                 }
@@ -22691,7 +22806,8 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "の至り"
+                "に足らない", 
+                "に足りない"
             ], 
             "tmpls": [
                 {
