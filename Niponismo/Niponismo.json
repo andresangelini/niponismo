@@ -4190,13 +4190,13 @@
                                 "にたる/にたりる", 
                                 "ser suficiente / merecer / valer la pena / ser digno de", 
                                 "Verbo diccionario + forma gramatical.<div>Sustantivo verbal con o sin する + forma gramatical.</div>", 
-                                "Expresión cuyo uso es indicar que:<div><br /></div><div>- Una cosa es suficiente para hacer algo.</div><div>- Hacer algo vale la pena, al igual que に 値[あたい]する.</div><div><br /></div><div>Puede comportarse como un adjetivo modificando así a un sustantivo.</div>", 
+                                "Expresión cuyo uso es indicar que algo:<div><br /></div><div>- Es &nbsp;o no es suficiente.</div><div><br /></div><div>皆＿＿＿食料はある。</div><div><i>Hay raciones suficientes para todos</i>.</div><div><br /></div><div>ドイツを旅行（する）＿＿＿貯金がない。</div><div><i>No tengo ahorros suficientes para viajar a Alemania</i>.</div><div><br /></div><div>時間[じかん]が 詳細[しょうさい]を 説明[せつめい]する＿＿＿。</div><div><i>No tengo el tiempo suficiente para explicarte los detalles</i>.</div><div><br /></div><div>- Es o no es de confianza junto a &nbsp;信頼[しんらい], &nbsp;信[しん]じる o &nbsp;信用[しにょう].</div><div><br /></div><div>あの 嘘[うそ]つきは 信頼[しんらい]（する）＿＿＿。</div><div><i>Ese mentiroso no es de confiar</i>.</div><div><br /></div><div>彼女[かんじょ]の 話[はなし]は 信[しん]じる＿＿＿。</div><div><i>Lo que ella dice no es creíble</i>.</div><div><br /></div><div>申[もう]し 訳[わけ]ございません。 信用[しにょう]（する）＿＿＿ 人[ひと]と 働[はたら]くことが 出来[でき]ません。</div><div><i>Sepan disculparme, pero yo no puedo trabajar con personas que no sean dignas de mi confianza</i>.</div><div><br /></div><div>しかし、これは 信頼[しんらい]（する）＿＿＿データーでしょうか。</div><div><i>Aún así, ¿es realmente confiable esta información?</i></div><div><br /></div><div>- No vale la pena tomar en cuenta junto a &nbsp;取[と]る. No existe el positivo.</div><div><br /></div><div>取[と]る＿＿＿ 噂[うそ]を 耳[みみ]にするな！</div><div><i>No hagas caso a rumores inútiles</i>.</div><div><br /></div><div>- No es de temer cuandos se usa jutno a &nbsp;恐[おそ]れる. Tampoco existe el positivo.</div><div><br /></div><div>二人[ふたり]で 行[い]くなら 恐[おそ]れる＿＿＿。</div><div><i>No tienes de qué temer si van los dos juntos</i>.</div><div><br /></div><div>La versión más larga de esta forma gramatical es la más usada actualmente mientras que la corta, aunque igual de válida, es la forma antigua. De hecho, su negativo también se usaba en la forma ず y ぬ.</div><div><br /></div><div>Cuando su significado es \"mercer\", \"valer la pena\" o \"ser digno de\" y no está junto a ninguna de las palabras mencionadas anteriormente, entonces es más común usar に 値[あたい]する en su lugar.</div>", 
                                 "みつきさんは 頼[たの]む＿＿＿ 技[わざ]がある。", 
                                 "Mitsuki tiene la habilidad suficiente.", 
                                 "あの奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
                                 "Ese tipo no es un sujeto digno de confianza.", 
-                                "", 
-                                "", 
+                                "あの奴[やつ]は 信頼[しんらい]する＿＿＿ 人物[じんぶつ]ではない。", 
+                                "Ese tipo no es un sujeto digno de confianza.", 
                                 "", 
                                 "", 
                                 "", 
@@ -4223,7 +4223,7 @@
                                 "にたりない", 
                                 "no ser suficiente / no merecer / no valer la pena / no ser digno de / no haber de qué / no tener de qué", 
                                 "Verbo diccionario + forma gramatical.<div>Sustantivo verba con o sin する + forma gramatical.</div>", 
-                                "Expresión utilizada para indicar que algo no es suficiente, digno o necesario para realizar determinada acción. Frases como &nbsp;恐[と]れる＿＿＿, que usa esta última connotación también se pueden expresar como 恐[おそ]るる＿＿＿ず. Una frase muy común que refleja el sentido de \"no merecer\" &nbsp;o \"no valer la pena\" es &nbsp;取[と]る＿＿＿ 噂[うわさ] (\"un rumor inútil\") en donde se muestra como esta forma puede actuar como un adjetvio al igual que su contraparte positiva.", 
+                                "Expresión utilizada para indicar que algo no es suficiente, digno o necesario para realizar determinada acción. Frases como &nbsp;恐[と]れる＿＿＿, que usa esta última connotación también se pueden expresar como &nbsp;恐[おそ]るる＿＿＿ず. Una frase muy común que refleja el sentido de \"no merecer\" &nbsp;o \"no valer la pena\" es &nbsp;取[と]る＿＿＿ 噂[うわさ] (\"un rumor inútil\") en donde se muestra como esta forma puede actuar como un adjetvio al igual que su contraparte positiva.", 
                                 "そんなくだらない 言[い]い 訳[わけ]はどうして 遅刻[ちこく]したのかを 全[まった]く 説明[せつめい]（する）＿＿＿。", 
                                 "Una razon tan estúpida como esa no es suficiente para explicar por qué llegaste tarde.", 
                                 "彼女[かんじょ]はもう 信頼[しんらい]（する）＿＿＿。", 
@@ -4417,7 +4417,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "<div>の至り</div>", 
+                                "の至り", 
                                 "の 至[いた]り", 
                                 "のいたり", 
                                 "muy / sumamente / extremadamente", 
@@ -21137,8 +21137,8 @@
                             "fields": [
                                 "その政治家は以前国を一回裏切ったから、今はもう信頼＿＿＿。", 
                                 "Ese político ha traicionado una vez al país antes, así que ahora ya no es digno de confianza.", 
-                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 値[あたい]しない/に 耐[た]えない/</font><font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
-                                "（する）に値しない/に耐えない/（する）に足りない"
+                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#0000ff\">（する）に 足[た]りない</font>。", 
+                                "（する）に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "jz>Q5hkgk{", 
@@ -21149,8 +21149,6 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "に値する", 
-                                "に耐える", 
                                 "に足りない"
                             ]
                         }, 
@@ -21818,7 +21816,7 @@
                                 "そんなに早くに行く＿＿＿でしょうね。", 
                                 "No hace falta ir tan temprano, ¿o sí?", 
                                 "そんなに 早[はや]くに 行[い]く<font color=\"#0000ff\">に（は） 及[およ]ばない</font>でしょうね。", 
-                                "までもない/に（は）及ばない"
+                                "に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "pv^B}V0{VD", 
@@ -21838,8 +21836,8 @@
                             "fields": [
                                 "この事で何も腹を立てる＿＿＿。", 
                                 "No hay nada por lo que enojarse sobre este asunto.", 
-                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#0000ff\">及[およ]ばない</font>。", 
-                                "までもない/に（は）及ばない"
+                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#0000ff\">に</font><font color=\"#0000ff\">及[およ]ばない</font>。", 
+                                "に（は）及ばない"
                             ], 
                             "flags": 0, 
                             "guid": "C&DMv18jV%", 
@@ -22916,7 +22914,7 @@
                     "did": null, 
                     "name": "Tarjeta 1", 
                     "ord": 1, 
-                    "qfmt": "<p class='keyword'>{{furigana:Japonés}}</p>\n{{Audio japonés}}\n<br>\n<br>\n<p class='keyword'>{{type:Español}}</div>\n<br>"
+                    "qfmt": "<p class='keyword'>{{Japonés}}</p>\n{{Audio japonés}}\n<br>\n<br>\n<p class='keyword'>{{type:Español}}</div>\n<br>"
                 }
             ], 
             "type": 0, 
