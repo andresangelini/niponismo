@@ -22453,7 +22453,7 @@
                             "guid": "LG]uF*Pjku", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -22474,7 +22474,7 @@
                             "guid": "PxX7g7;ou6", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -22495,7 +22495,7 @@
                             "guid": "t9*rp1)Nq2", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -22509,18 +22509,18 @@
                             "fields": [
                                 "オリンピックチームに当選して、感激＿＿＿です。", 
                                 "Estoy sumamente emocionado por haber sido seleccionada para el equipo olímpico.", 
-                                "オリンピックチームに 当選[とうせん]して、 感激[かんげき]<font color=\"#0000ff\">の 至[いた]り</font>です。", 
-                                "の至り"
+                                "オリンピックチームに 当選[とうせん]して、 感激[かんげき]<font color=\"#0000ff\">の 至[いた]り/の極み</font>です。", 
+                                "の至り/の極み"
                             ], 
                             "flags": 0, 
                             "guid": "C8btR<N9GQ", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "の極み", 
                                 "の至り"
                             ]
                         }, 
@@ -22537,7 +22537,7 @@
                             "guid": "Mp;lX+>C4@", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -22550,7 +22550,7 @@
                             "data": "", 
                             "fields": [
                                 "大学の頃、私達は遊ぶばっかりなんですよね。やっぱり、若気＿＿＿だね。", 
-                                "En la universidad nos la pasabamos divirtiendo. La verdad es que eramos bastante inmaduros.", 
+                                "En la universidad nos la pasabamos divirtiendo. La verdad es que eramos muy inmaduros.", 
                                 "大学[だいがく]の 頃[ころ]、 私[わたし] 達[たち]は 遊[あそ]ぶばっかりなんですよね。やっぱり、 若気[わかげ]<font color=\"#0000ff\">の 至[いた]り</font>だね。", 
                                 "の至り"
                             ], 
@@ -22558,7 +22558,7 @@
                             "guid": "pu=ZYYv5^-", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -22783,6 +22783,154 @@
                                 "Oración", 
                                 "に（は）及ばない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "プロジェクトを無事に完成するまで皆は必死に働き、疲労＿＿＿でした。", 
+                                "Todo trabajamos muchísimo hasta completar el proyecto sin problemas y estabamos sumamente cansados.", 
+                                "プロジェクトを 無事[ぶじ]に 完成[かんせい]するまで 皆[みな]は 必死[ひっし]に 働[はたら]き、 疲労[ひろう]<font color=\"#0000ff\">の 極[きわ]み</font>でした。", 
+                                "の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "sk_Y9xq]he", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この試合では苦労であり、疲労＿＿＿でしたが、皆さまのご支援のおかげでそれを乗り越え勝ちを取ることが出来ました。", 
+                                "Este partido me costó muchísimo y estaba sumamente agotado pero finalmente pude obtener la victoria gracias al apoyo de todos.", 
+                                "この 試合[しあい]では 苦労[くろう]であり、 疲労[ひろう]<font color=\"#0000ff\">の 極[きわ]み</font>でしたが、 皆[みな]さまのご 支援[しえん]のおかげでそれを 乗り越[のりこ]え 勝[が]ちを 取[と]ることが 出来[でき]ました。", 
+                                "の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AQY(3/xx;H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "皆さまに大変の迷惑をお掛けしまして、痛恨＿＿＿です。", 
+                                "Estoy sumamente arrepentido por los problemas que le he causado a todos.", 
+                                "皆[みな]さまに 大変[たいへん]の 迷惑[めいわく]をお 掛[か]けしまして、 痛恨[つうこん]<font color=\"#0000ff\">の 極[きわ]み</font>です。", 
+                                "の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H)~;MA_x`+", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "自分が犯した事故で沢山の人が亡くなり、痛恨＿＿＿でございます。", 
+                                "Han fallecido muchas personas por el accidente que ocasioné y estoy sumamente arrepentido.", 
+                                "自分[じぶん]が 犯[おか]した 事故[じこ]で 沢山[たくさん]の 人[ひと]が 亡[な]くなり、 痛恨[つうこん]<font color=\"#0000ff\">の 極[きわ]み</font>でございます。", 
+                                "の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hgD@i|ep-c", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は毎晩贅沢＿＿＿を尽くした最高級のレストランで外食します。", 
+                                "El cena todas las noches en restaurantes de primera clase y muy lujosos.", 
+                                "彼[かれ]は 毎晩[まいばん] 贅沢[ぜいたく]<font color=\"#0000ff\">の 極[きわ]み</font>を 尽[つ]くした 最[さい] 高級[こうきゅう]のレストランで 外食[がいしょく]します。", 
+                                "の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "CdFfq_kKf@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "一度だけ贅沢＿＿＿を尽くした最高級のホテルで泊まりたいです。", 
+                                "Me gustaría hospedarme al menos una vez en un hotel extremadamente lujoso de primera categoría.", 
+                                "一 度[ど]だけ 贅沢[ぜいたく]<font color=\"#0000ff\">の 極[きわ]み</font>を 尽[つ]くした 最[さい] 高級[こうきゅう]のホテルで 泊[と]まりたいです。", 
+                                "の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tXP^8pHP9t", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "芸能人と握手するなんて、感激＿＿＿だ。", 
+                                "Es muy emocionante darse de la mano con una celebridad.", 
+                                "芸能人[げいのうじん]と 握手[あくしゅ]するなんて、 感激[かんげき]の 至[いた]り/の 極[きわ]みだ。", 
+                                "の至り/の極み"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yG01*mlmto", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "の極み", 
+                                "の至り"
+                            ]
                         }
                     ]
                 }
@@ -22915,7 +23063,8 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に（は）及ばない"
+                "の極み", 
+                "の至り"
             ], 
             "tmpls": [
                 {
