@@ -4449,6 +4449,39 @@
                                 "の極み", 
                                 "の至り"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "のみか", 
+                                "のみか", 
+                                "のみか", 
+                                "no sólo (...sino que también)", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo", 
+                                "Expresión formal que se utiliza para <font color=\"#ff0000\">agregar</font> algo más a lo mencionado.<div><br /></div><div>その 事故[じこ]で 家族[かぞく]＿＿＿ 親友[しんゆう]も 失[うしな]った。</div><div><i><font color=\"#ff0000\">No sólo</font> perdí a mi familia en ese accidente, <font color=\"#ff0000\">sino que también</font> a mi mejor amigo</i>.</div><div><br /></div><div>Es sinónimo de だけで（は）なく, （だけ/である）にとどまらず y のみならず pero <font color=\"#ff0000\">sólo se puede usar</font> con <font color=\"#ff0000\">sustantivos</font>.</div><div><br /></div><div>そのお客さんは文句を言う<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0);\">❌/だけで（は）なく/（だけ）にとどまらず/のみならず</span>一つの店員に殴ったそうだ。</div><div><i>El cliente <font color=\"#ff0000\">no sólo</font> se quejó, <font color=\"#ff0000\">sino que también</font> le pegó a uno de los empleados de la tienda</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "r{b|qlCoT}", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "のみか"
+                            ]
                         }
                     ]
                 }, 
@@ -22932,6 +22965,63 @@
                                 "の極み", 
                                 "の至り"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "のみか", 
+                                "のみか", 
+                                "のみか", 
+                                "no sólo (...sino que también)", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo", 
+                                "Expresión formal que se utiliza para <font color=\"#ff0000\">agregar</font> algo más a lo mencionado.<div><br /></div><div>その 事故[じこ]で 家族[かぞく]＿＿＿ 親友[しんゆう]も 失[うしな]った。</div><div><i><font color=\"#ff0000\">No sólo</font> perdí a mi familia en ese accidente, <font color=\"#ff0000\">sino que también</font> a mi mejor amigo</i>.</div><div><br /></div><div>Es sinónimo de だけで（は）なく, （だけ/である）にとどまらず y のみならず pero <font color=\"#ff0000\">sólo se puede usar</font> con <font color=\"#ff0000\">sustantivos</font>.</div><div><br /></div><div>そのお客さんは文句を言う<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0);\">❌/だけで（は）なく/（だけ）にとどまらず/のみならず</span>一つの店員に殴ったそうだ。</div><div><i>El cliente <font color=\"#ff0000\">no sólo</font> se quejó, <font color=\"#ff0000\">sino que también</font> le pegó a uno de los empleados de la tienda</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "r{b|qlCoT}", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "のみか"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<!--anki-->その訴訟の結果は社長の名＿＿＿、会社のも汚された。", 
+                                "A consecuencia de ese litigio, <font color=\"#ff0000\">no sólo</font> ensució la reputación del presidente, <font color=\"#ff0000\">sino que también</font> el de la compañía.", 
+                                "その 訴訟[そしょう]の 結果[けっか]は 社長[しゃちょう]の 名[な]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font>、 会社[かいしゃ]のも 汚[よご]された。", 
+                                "<span style=\"color: rgb(255, 0, 0)\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</span>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N.[/h;F4.z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "だけで（は）なく", 
+                                "にとどまらず", 
+                                "のみか", 
+                                "のみならず"
+                            ]
                         }
                     ]
                 }
@@ -23064,8 +23154,10 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "の極み", 
-                "の至り"
+                "だけで（は）なく", 
+                "にとどまらず", 
+                "のみか", 
+                "のみならず"
             ], 
             "tmpls": [
                 {
@@ -23269,7 +23361,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "の至り"
+                "のみか"
             ], 
             "tmpls": [
                 {
