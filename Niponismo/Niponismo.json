@@ -987,12 +987,12 @@
                                 "が 最後[さいご]/たら 最後[さいご]", 
                                 "がさいご/たらさいご", 
                                 "una vez que", 
-                                "<div>Verbo た + forma gramatical.</div><div>Verbo たら + forma gramatical (sin が).</div>", 
-                                "Se usa para decir que una vez que sucede algo, otra cosa sucede como consecuencia. Muy a menudo se usa pare expresar que una vez que alguien comienza a hacer algo, no para. Suele usarse junto a いったん～たらそのまま, o いったん～たら必[かなら]ず.", 
-                                "僕[ぼく]はそのゲームにはまっちゃった。いつも 始[はじ]めた＿＿＿ 次[つぎ]の 朝[あさ]まで 止[と]められない。", 
-                                "Me enganché con ese video juego. Cada vez que empiezo, no puedo parar hasta la mañana siguiente.", 
-                                "祖父[そふ]は、いったん 寝[ね]たら＿＿＿、 誰[だれ]も 起[お]こせない。", 
-                                "Una vez que mi abuelo se duerme, nadie lo puede despertar.", 
+                                "<div>Verbo た + <font color=\"#ff0000\">＿＿＿ (con が)</font></div><div>Verbo たら + <font color=\"#ff0000\">＿＿＿ (sin が)</font></div>", 
+                                "Se usa para decir que una vez que sucede algo, otra cosa negativa sucede como consecuencia.<div><br /></div><div>Muy a menudo se usa pare expresar que una vez que alguien comienza a hacer algo, no para.</div><div><br /></div><div>僕[ぼく]はそのゲームにはまっちゃった。いつも 始[はじ]めた<font color=\"#ff0000\">＿＿＿</font> 次[つぎ]の 朝[あさ]まで 止[と]められない。</div><div><i>Me enganché con ese video juego. <font color=\"#ff0000\">Una vez que</font> empiezo, no puedo parar hasta la mañana siguiente</i>.</div><div><br /></div><div>祖父[そふ]は、いったん 寝[ね]たら<font color=\"#ff0000\">＿＿＿</font>、 誰[だれ]も 起[お]こせない。</div><div><i><font color=\"#ff0000\">Una vez que</font> mi abuelo se duerme, nadie lo puede despertar</i>.</div><div><br /></div><div>Suele usarse junto a いったん～たらそのまま, o いったん～たら必[かなら]ず.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1279,14 +1279,14 @@
                                 "如何[いか]なる", 
                                 "いかなる", 
                                 "cualquiera que sea", 
-                                "Forma gramatical + sustantivo.", 
-                                "Forma más formal de どんな～. Dependiendo de con qué se lo combine puede cambiar ligeramente de significado. Si es acompañado por も, usualmente se lo traduce como \"ninguno\" y si en cambio, lo acompaña でも se entiende como \"cualquiera que sea\", por lo que en ese caso es similar a であれ, にせよ y にしろ.", 
-                                "彼女[かのじょ]は 正[ただ]しいものと 正[ただ]しくないものとの、＿＿＿ 相違[そうい]も 見逃[みのが]さなかった。", 
-                                "Ella no dejaba pasar por alto nada, por más mínima que fuera la diferencia entre lo correcto e incorrecto.", 
-                                "彼[かれ]は 提案[あんてい]に 対[たい]する＿＿＿ 反論[はんろん]もただ 排除[はいじょ]した。", 
-                                "Él rechazaba cualquier objeción que le pusieran a la propuesta.", 
-                                "彼[かれ]は＿＿＿ 困難[こんなん]に 出会[であ]っても、 気[き]を 落[お]とすようなことはない。", 
-                                "Cualquiera sea la dificultad con la que él se encuentre, no se desanima.", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + sustantivo.", 
+                                "Forma más formal de どんな～. Dependiendo de con qué se lo combine puede cambiar ligeramente de significado. Si es acompañado por も, usualmente se lo traduce como \"ninguno\" y si en cambio, lo acompaña でも se entiende como \"cualquiera que sea\", por lo que en ese caso es similar a であれ, にせよ y にしろ.<div><br /></div><div>彼女[かのじょ]は 正[ただ]しいものと 正[ただ]しくないものとの、<font color=\"#ff0000\">＿＿＿</font> 相違[そうい]も 見逃[みのが]さなかった。</div><div><i>Ella no dejaba pasar por alto nada, <font color=\"#ff0000\">por más</font> mínima que fuera la diferencia entre lo correcto e incorrecto</i>.</div><div><br /></div><div>彼[かれ]は 提案[あんてい]に 対[たい]する<font color=\"#ff0000\">＿＿＿</font> 反論[はんろん]もただ 排除[はいじょ]した。</div><div><i>Él rechazaba <font color=\"#ff0000\">cualquier</font> objeción que le pusieran a la propuesta</i>.</div><div><br /></div><div>彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 困難[こんなん]に 出会[であ]っても、 気[き]を 落[お]とすようなことはない。</div><div><i><font color=\"#ff0000\">Cualquiera sea</font> la dificultad con la que él se encuentre, no se desanima</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2896,12 +2896,12 @@
                                 "ないではおかない/ずにはおかない", 
                                 "ないではおかない/ずにはおかない", 
                                 "no dejar sin", 
-                                "Forma gramatical con verbo negativo ない o ず (する pasa a ser しない o せず).", 
-                                "<div>Se intepreta mejor como \"definitivamente\" o \"seguramente\", pero su significado literal es \"no dejar sin que le pase algo a\" ya que おかない es el negativo del verbo 置く, cuyo uno de sus significado es \"dejar\". Puede ser reemplazado por 必ず, 間違いなく o 絶対に conjugando el verbo en positivo. Por ejemplo, la oración インターネットの普及は（必ず/間違いなく/絶対に）大きな社会の変革を促す。Por último, si bien esta forma es similar a ずにはおられない, ずにはおれない y ずにはいれない (y sus variantes con ないで（は）), el causante debe ser el sujeto de la oración y este no tiene por qué ser humano.</div>", 
-                                "インターネットの 普及[ふきゅう]は 大[おお]きな 社会[しゃかい]の 変革[へんかく]を 促[うなが]さ＿＿＿。", 
-                                "La expansión de internet inevitablemente fomentará grandes cambios en la sociedad.", 
-                                "このドラマは 観客[かんきゃく]に 感動[かんどう]を 与[あた]え＿＿＿。", 
-                                "Este drama definitivamente emocionará a sus televidentes.", 
+                                "<div>Verbo <font color=\"#ff0000\">ない</font><font color=\"#ff0000\">＿＿＿</font></div><div>Verbo <font color=\"#ff0000\">ず</font><font color=\"#ff0000\">＿＿＿</font></div><div>Sustantivo verbal <font color=\"#ff0000\">しない</font><font color=\"#ff0000\">＿＿＿</font></div><div>Sustantivo verbal <font color=\"#ff0000\">せず</font><font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "<div>Se intepreta mejor como \"<font color=\"#ff0000\">definitivamente</font>\" o \"<font color=\"#ff0000\">seguramente</font>\", pero su significado literal es \"no dejar sin que le pase algo a\" ya que おかない es el negativo del verbo 置く, cuyo uno de sus significado es \"<font color=\"#ff0000\">dejar</font>\".</div><div><br /></div><div>インターネットの 普及[ふきゅう]は 大[おお]きな 社会[しゃかい]の 変革[へんかく]を 促[うなが]さ<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>La expansión de internet <font color=\"#ff0000\">inevitablemente</font> fomentará grandes cambios en la sociedad</i>.</div><div><br /></div><div>Puede ser reemplazado por 必ず, 間違いなく o 絶対に conjugando el verbo en positivo.</div><div><br /></div><div>インターネットの 普及[ふきゅう]は<font color=\"#ff0000\">必[かなら]ず/ 間違[まちが]いなく/ 絶対[ぜったい]に</font> 大[おお]きな 社会[しゃかい]の 変革[へんかく]を 促[うなが]す。</div><div><i>La popularización de internet <font color=\"#ff0000\">seguramente / sin lugar a dudas / definitivamente</font> provocará grandes cambios en la sociedad</i>.</div><div><br /></div><div>Por último, si bien esta forma es similar a ずにはおられない, ずにはおれない y ずにはいれない (y sus variantes con ないで（は）), el causante debe ser el sujeto de la oración y este no tiene por qué ser humano.</div><div><br /></div><div>このドラマは 観客[かんきゃく]に 感動[かんどう]を 与[あた]え<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Este drama <font color=\"#ff0000\">definitivamente</font> emocionará a sus televidentes</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4115,12 +4115,12 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "に耐える/に堪える", 
+                                "に堪える/に堪える", 
                                 "に 耐[た]える/に 堪[た]える", 
                                 "にたえる/にたえる", 
-                                "merecer / valer la pena / ser digno de / aguantar / soportar / tolerar / resistir / poder", 
-                                "Verbo diccionario + forma gramatical.<div>Sustantivo + forma gramatical.</div>", 
-                                "Expresión que se usa para indicar que algo:<div><br /></div><div>- Merece, vale la pena o es digno lo suficiente.</div><div><br /></div><div>昨日[きのう]の 展覧会[てんらんかい]には 鑑賞[かんしょう]（する）＿＿＿ 作品[さくひん]が 少[すく]なかった。</div><div><i>La exibición tenía pocas obras que se dejaran (puedían) apreciar (que no eran muy buenas pero tampoco malas)</i>.</div><div><br /></div><div>この 図書館[としょかん]には 読[よ]む＿＿＿本[ほん]が 多[おお]い。</div><div><i>En esta biblioteca hay un montón de libros que se dejan (pueden) leer (no son muy buenos pero tampoco son malos)</i>.</div><div><br /></div><div>Debido a que esta connotación indica que el valor es mínimo, usualmente se usa に 値[あたい]する para expresar que algo vale realmente la pena.</div><div><br /></div><div>その 作家[さっか]の 作品[さくひん]は 読[よ]むに 値[あたい]するです。</div><div><i>Sus obras valen la pena leer (están bastante buenas)</i>.<br /><div><br /></div><div>今度[こんど]はオリンピックの 発会式[はっかいしき]は 見[み]るに 値[あたい]した。</div><div><br /></div><div><i>La ceremonia de apertura de las últimas olimpíadas valieron la pena mirarlas (estuvieron bastante buenas)</i>.</div><div><br /></div><div>- Soporta o aguanta algo. En este caso, &nbsp;si ese algo es un factor externo se escribe con &nbsp;耐[た] y si es interno como &nbsp;感情[かんじょう], &nbsp;喜[よろこ]び y &nbsp;悲[かな]しみ, entonces escribe con &nbsp;堪[た].</div></div><div><br /></div><div>本当[ほんとう]に 献身的[けんしんてき]な 女子[じょし]のみがこの 仕事[しごと]＿＿＿。</div><div><i>Sólo las chicas verdaderamente dedicadas pueden soportar este trabajo</i>.</div><div><br /></div><div>彼女[かのじょ]は 夫[おっと]を 失[な]くす 悲[かな]しみ＿＿＿。</div><div><i>Ella soportó la tristeza de perder a su marido</i>.</div>", 
+                                "aguantar / soportar / tolerar / resistir / dejarse / poderse", 
+                                "Verbo diccionario + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que se usa para indicar que algo:<div><br /></div><div>- <font color=\"#ff0000\">Merece</font>, <font color=\"#ff0000\">vale la pena</font> o <font color=\"#ff0000\">es digno lo suficiente</font>.</div><div><br /></div><div>昨日[きのう]の 展覧会[てんらんかい]には 鑑賞[かんしょう]（する）<font color=\"#ff0000\">＿＿＿</font> 作品[さくひん]が 少[すく]なかった。</div><div><i>La exibición tenía pocas obras <font color=\"#ff0000\">que se dejaran</font> (<font color=\"#ff0000\">pudieran</font>) apreciar (que no eran muy buenas pero tampoco malas)</i>.</div><div><br /></div><div>この 図書館[としょかん]には 読[よ]む<font color=\"#ff0000\">＿＿＿</font>本[ほん]が 多[おお]い。</div><div><i>En esta biblioteca hay un montón de libros <font color=\"#ff0000\">que se dejan</font> (<font color=\"#ff0000\">pueden</font>) leer (no son muy buenos pero tampoco son malos)</i>.</div><div><br /></div><div>Debido a que esta connotación indica que el valor es mínimo, usualmente se usa に 値[あたい]する para expresar que algo <font color=\"#ff0000\">vale realmente la pena</font>.</div><div><br /></div><div>その 作家[さっか]の 作品[さくひん]は 読[よ]む<font color=\"#ff0000\">に 値[あたい]する</font>です。</div><div><i>Sus obras <font color=\"#ff0000\">valen la pena</font> leer (están bastante buenas)</i>.<br /><div><br /></div><div>今度[こんど]はオリンピックの 発会式[はっかいしき]は 見[み]る<font color=\"#ff0000\">に 値[あたい]した</font>。</div><div><br /></div><div><i>La ceremonia de apertura de las últimas olimpíadas <font color=\"#ff0000\">valieron la pena</font> mirarlas (estuvieron bastante buenas)</i>.</div><div><br /></div><div>- <font color=\"#ff0000\">Soporta</font> o <font color=\"#ff0000\">aguanta algo</font>. En este caso, &nbsp;si ese algo es un factor externo se escribe con &nbsp;耐[た] y si es interno como &nbsp;感情[かんじょう], &nbsp;喜[よろこ]び y &nbsp;悲[かな]しみ, entonces escribe con &nbsp;堪[た].</div></div><div><br /></div><div>本当[ほんとう]に 献身的[けんしんてき]な 女子[じょし]のみがこの 仕事[しごと]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Sólo las chicas verdaderamente dedicadas pueden <font color=\"#ff0000\">soportar</font> este trabajo</i>.</div><div><br /></div><div>彼女[かのじょ]は 夫[おっと]を 失[な]くす 悲[かな]しみ<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Ella <font color=\"#ff0000\">soportó</font> la tristeza de perder a su marido</i>.</div><div><br /></div><div>この 機械[きかい]は 高温[こうおん]に<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Este aparato <font color=\"#ff0000\">resiste</font> altas temperaturas</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4291,12 +4291,12 @@
                                 "にとどまらず（〜も）", 
                                 "にとどまらず（〜も）", 
                                 "no limitarse a (...sino que también) / no sólo (...sino que también)", 
-                                "Verbo forma diccionario + (だけ) + forma gramatical.<div>Sustantivo + (だけ/である) + forma gramatical.</div><div>Adjetivo な (sin な) + である + forma gramatical.</div><div>Adjetivo い + だけ + forma gramatical.</div>", 
-                                "Expresión más arcaica que だけで（は）なく pero menos que のみならず que indica que algo traspasa cualquier límite. Proviene de la antigua forma negativa de とどまる que se conjuga con ず y a menudo se acompaña con la partícula に. Aunque se suele usar con sustantivos y adjetivos な, raramente se lo utiliza junto a adjetivos い.", 
-                                "彼[かれ]のお 父[とう]さんは 叱[しか]る＿＿＿、 殴[なぐ]ってしまったそうだ。", 
-                                "Su padre no sólo le resongó, parece que también le pegó.", 
-                                "この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である）＿＿＿ 全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えるでしょう。", 
-                                "Esta recesión no se limitará a afectar al sector financiero, sino que también a toda la economía en general.", 
+                                "Verbo forma diccionario + (だけ) + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo + (だけ/である) + <font color=\"#ff0000\">＿＿＿</font></div><div>Adjetivo な (sin な) + である + <font color=\"#ff0000\">＿＿＿</font></div><div>Adjetivo い + だけ + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión más arcaica que だけで（は）なく pero menos que のみならず que indica que algo traspasa cualquier límite. Proviene de la antigua forma negativa de とどまる que se conjuga con ず y a menudo se acompaña con la partícula に. Aunque se suele usar con sustantivos y adjetivos な, raramente se lo utiliza junto a adjetivos い.<div><br /></div><div>彼[かれ]のお 父[とう]さんは 叱[しか]る<font color=\"#ff0000\">＿＿＿</font>、 殴[なぐ]ってしまったそうだ。</div><div><i>Su padre <font color=\"#ff0000\">no sólo</font> le resongó, <font color=\"#ff0000\">sino que también</font> parece que le pegó</i>.</div><div><br /></div><div>この 不況[ふきょう]は 金融機関[きんゆうきかん]（だけ/である）<font color=\"#ff0000\">＿＿＿</font>&nbsp;全般[ぜんぱん]の 経済[けいざい]にも 影響[えいきょう]を 与[あた]えるでしょう。</div><div><i>Esta recesión <font color=\"#ff0000\">no se limitará a</font> afectar al sector financiero, <font color=\"#ff0000\">sino que también</font> a toda la economía en general</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -12349,7 +12349,7 @@
                             "data": "", 
                             "fields": [
                                 "進化という科学的真理が反対しようもないほど確証される＿＿＿、真実的に論駁できない。", 
-                                "La teoría científica de la evolución de las especies está muy bien establecida, por lo que es realmente imposible refutarla.", 
+                                "La teoría científica de la evolución de las especies está muy bien establecida, <font color=\"#ff0000\">por lo que</font> es realmente imposible refutarla.", 
                                 "進化[しんか]という 科学[かがく] 的[てき] 真理[しんり]が 反対[はんたい]しようもないほど 確証[かくしょう]される<font color=\"#ff0000\">もので</font>、 真実[しんじつ] 的[てき]に 論駁[ろんばく]できない。", 
                                 "もので"
                             ], 
@@ -14151,7 +14151,7 @@
                             "data": "", 
                             "fields": [
                                 "両親の意向＿＿＿、子供自身が有名校にあこがれている。", 
-                                "No es sólo la intención de los padres. El niño también anhela ser famoso en la escuela.", 
+                                "<font color=\"#ff0000\">No</font> es <font color=\"#ff0000\">sólo</font> la intención de los padres. El niño <font color=\"#ff0000\">también</font> anhela ser famoso en la escuela.", 
                                 "両親[りょうしん]の 意向[いこう]<font color=\"#ff0000\">もさることながら</font>、 子供[こども] 自身[じしん]が 有名[ゆうめい] 校[こう]にあこがれている。", 
                                 "もさることながら"
                             ], 
@@ -14565,7 +14565,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は少ない＿＿＿持っていた全ての硬貨をそのものもらいに与えました。", 
-                                "Ella le dio al mendigo las pocas monedas que tenía.", 
+                                "Ella tenía pocas y <font color=\"#ff0000\">aun así</font> le dio todas sus monedas.", 
                                 "彼女[かのじょ]は 少[すく]ない<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ながら（も）</font></span>&nbsp;持[も]っていた 全[すべ]ての 硬貨[こうか]をそのものもらいに 与[あた]えました。", 
                                 "ながら（も）"
                             ], 
@@ -15090,7 +15090,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は両親の意志に反対し＿＿＿、彼と交際し続けた。", 
-                                "Ella siguió saliendo con él incluso llegandose a oponer a la voluntad de sus padres.", 
+                                "Ella siguió saliendo con él <font color=\"#ff0000\">incluso llegandose</font> a oponer a la voluntad de sus padres.", 
                                 "彼女[かのじょ]は 両親[りょうしん]に 反対[はんたい]し<font color=\"#ff0000\">てまで（も）</font>、 彼[かれ]と 交際[こうさい]し 続[つづ]けた。", 
                                 "てまで（も）"
                             ], 
@@ -16481,7 +16481,7 @@
                             "data": "", 
                             "fields": [
                                 "大雨の為運動会は明日まで延期になり、サッカーの試合＿＿＿明後日の３時に行います。", 
-                                "La competición deportiva será postergada para mañana debido al torrencial. En cuanto al partido de fútbol, éste se llevará a cabo pasado mañana a las tres de la tarde.", 
+                                "La competición deportiva será postergada para mañana debido al torrencial. <font color=\"#ff0000\">En cuanto al</font> partido de fútbol, éste se llevará a cabo pasado mañana a las tres de la tarde.", 
                                 "大雨[おおあめ]の 為[ため] 運動会[うんどうかい]は 明日[あした]まで 延期[えんき]になり、サッカーの 試合[しあい]<font color=\"#ff0000\">に 至[いた]っては</font> 明後日[みょうごにち]の３ 時[じ]に 行[おこな]います。", 
                                 "に至っては"
                             ], 
@@ -17342,7 +17342,7 @@
                             "data": "", 
                             "fields": [
                                 "９時、１０時、１４時いつ＿＿＿ご連絡下さい。", 
-                                "Contáctenos a las 9, 10, 14 o a la hora que sea.", 
+                                "Contáctenos a las 9, 10, 14 o a la hora que <font color=\"#ff0000\">sea</font>.", 
                                 "９ 時[じ]、１０ 時[じ]、１４ 時[じ]いつ<font color=\"#ff0000\">なりと</font>ご 連絡[れんらく] 下[くだ]さい。", 
                                 "なりと"
                             ], 
@@ -17489,7 +17489,7 @@
                             "data": "", 
                             "fields": [
                                 "偏頭痛がおこったときに対処するだけではなく、普段の生活のなかで、偏頭痛を＿＿＿防いでいくのも大事なことです。", 
-                                "Lo importante no es eliminar la migraña cuando ocurre sino prevenirla lo más que se pueda en nuestra vida diaria.", 
+                                "Lo importante no es eliminar la migraña cuando ocurre sino prevenirla <font color=\"#ff0000\">lo más que se pueda</font> en nuestra vida diaria.", 
                                 "偏頭痛[へんずつう]がおこったときに 対処[たいしょ]するだけではなく、 普段[ふだん]の 生活[せいかつ]のなかで、 偏頭痛[へんずつう]を<font color=\"#ff0000\">なるべく</font> 防[ふせ]いでいくのも 大事[だいじ]なことです。", 
                                 "なるべく"
                             ], 
@@ -17888,9 +17888,9 @@
                             "data": "", 
                             "fields": [
                                 "<div>青田は信じる＿＿＿ない。</div>", 
-                                "Aota no es digno de confianza.", 
-                                "青田[あおた]は 信[しん]じる<font color=\"#ff0000\">に 値[あたい]</font><font color=\"#ff0000\">し</font>ない。", 
-                                "に値し"
+                                "Aota <font color=\"#ff0000\">no es digno de</font> confianza.", 
+                                "青田[あおた]は 信[しん]じる<font color=\"#ff0000\">に 足[た]ら/に 足[た]り</font>ない。", 
+                                "に足ら/に足り"
                             ], 
                             "flags": 0, 
                             "guid": "FK6nuE*:ac", 
@@ -17901,7 +17901,8 @@
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
-                                "に値する"
+                                "に足らない", 
+                                "に足りない"
                             ]
                         }, 
                         {
@@ -20348,7 +20349,7 @@
                             "data": "", 
                             "fields": [
                                 "理論がそのような試練＿＿＿生き残るのは難しい。", 
-                                "Es difícil para una teoría sobrevivir a una prueba así.", 
+                                "Es difícil para una teoría <font color=\"#ff0000\">sobrevivir</font> a una prueba así.", 
                                 "理論[りろん]がそのような 試練[しれん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に耐えて</font></span>&nbsp;生き残[いきのこ]るのは 難[むずか]しい。", 
                                 "に耐えて"
                             ], 
@@ -20370,7 +20371,7 @@
                             "data": "", 
                             "fields": [
                                 "本を読み、考えを話し合うことで、知恵や異なるアイデア＿＿＿ことを学ぶことができる。", 
-                                "Leyendo e intercambiando opiniones, uno adquiere sabiduría y aprende a tolerar diferentes puntos de vista.", 
+                                "Leyendo e intercambiando opiniones, uno adquiere sabiduría y aprende a <font color=\"#ff0000\">tolerar</font> diferentes puntos de vista.", 
                                 "本[ほん]を 読[よ]み、 考[かんが]えを 話し合[はなしあ]うことで、 知恵[ちえ]や 異[こと]なるアイデア<font color=\"#ff0000\">に 耐[た]える</font>ことを 学[まな]ぶことができる。", 
                                 "に耐える"
                             ], 
@@ -20392,7 +20393,7 @@
                             "data": "", 
                             "fields": [
                                 "母は立派に悲しみ＿＿＿きた。", 
-                                "Mi madre ha soportado la melancolía de manera admirable.", 
+                                "Mi madre ha <font color=\"#ff0000\">soportado</font> la melancolía de manera admirable.", 
                                 "母[はは]は 立派[りっぱ]に 悲[かな]しみ<font color=\"#ff0000\">に</font><font color=\"#ff0000\"> 耐[た]えて</font>きた。", 
                                 "に耐えて"
                             ], 
@@ -20414,7 +20415,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼女は逞しく逆境＿＿＿。</div>", 
-                                "Ella soportó las adversidades de una manera formidable.", 
+                                "Ella <font color=\"#ff0000\">soportó</font> las adversidades de una manera formidable.", 
                                 "彼女[かのじょ]は 逞[たくま]しく 逆境[ぎゃっきょう]<font color=\"#ff0000\">に 耐[た]えた</font>。", 
                                 "に耐えた"
                             ], 
@@ -20566,7 +20567,7 @@
                             "data": "", 
                             "fields": [
                                 "これはね、最先端の水＿＿＿スマートフォンだから、心配には当たらない。", 
-                                "Esto es lo último en teléfonos inteligentes resistentes al agua así que no hay de qué preocuparse.", 
+                                "Esto es lo último en teléfonos inteligentes <font color=\"#ff0000\">resistentes</font> al agua así que no hay de qué preocuparse.", 
                                 "これはね、 最先端[さいせんたん]の 水[みず]<font color=\"#ff0000\">に 耐[た]える</font>スマートフォンだから、 心配[しんぱい]には 当[あ]たらない。", 
                                 "に耐える"
                             ], 
@@ -20587,9 +20588,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "この商品はお客様の評価＿＿＿ものだ。", 
-                                "Este producto es digno de la reputación que le han dado nuestros clientes.", 
-                                "この 商品[しょうひん]はお 客様[きゃくさま]の 評価[ひょうか]<font color=\"#ff0000\">に 耐[た]える</font>ものだ。", 
+                                "これは２０年の使用＿＿＿よく出来たTシャツです", 
+                                "Esta es una remera bien hecha que <font color=\"#ff0000\">aguantará</font> veinte años de uso.", 
+                                "これは２０ 年[ねん]の 使用[しよう]<font color=\"#ff0000\">に 耐[た]える</font>よく 出来[でき]た Tシャツ[てぃーしゃつ]です", 
                                 "に耐える"
                             ], 
                             "flags": 0, 
@@ -20631,9 +20632,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "あの有名なレストランは批判＿＿＿ものだ。", 
-                                "Ese famoso restaurante es digno de sus críticas.", 
-                                "あの 有名[ゆうめい]なレストランは 批判[ひはん]<font color=\"#ff0000\">に 耐[た]える</font>ものだ。", 
+                                "この服は頻繁の洗濯＿＿＿。", 
+                                "Esta prenda <font color=\"#ff0000\">resiste</font> el lavado frecuente.", 
+                                "この 服[ふく]は 頻繁[ひんぱん]の 洗濯[せんたく]<font color=\"#ff0000\">に 耐[た]える</font>。", 
                                 "に耐える"
                             ], 
                             "flags": 0, 
@@ -20654,7 +20655,7 @@
                             "data": "", 
                             "fields": [
                                 "夏は好きだけど、暑さ＿＿＿られない。", 
-                                "Me gusta el verano, pero no puedo soportar el calor.", 
+                                "Me gusta el verano, pero <font color=\"#ff0000\">no puedo soportar</font> el calor.", 
                                 "夏[なつ] は 好[す]きだけど、 暑[あつ]さ<font color=\"#ff0000\">に 耐[た]え</font>られない。", 
                                 "に耐え"
                             ], 
@@ -20698,7 +20699,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は自分の犬があの残忍な男に売られると考えるの＿＿＿られなかった。", 
-                                "Él no podía soportar el pensar que su perro fuera vendido a ese cruel hombre.", 
+                                "Él no podía <font color=\"#ff0000\">soportar</font> el pensar que su perro fuera vendido a ese cruel hombre.", 
                                 "彼[かれ]は 自分[じぶん]の 犬[いぬ]があの 残忍[ざんにん]な 男[おとこ]に 売[う]られると 考[かんが]えるの<font color=\"#ff0000\">に 耐[た]え</font>られなかった。", 
                                 "に耐え"
                             ], 
@@ -20720,7 +20721,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はそんなに長く待たされるの＿＿＿られなかった。", 
-                                "No podía soportar que le hicieran esperar tanto.", 
+                                "No podía <font color=\"#ff0000\">soportar</font> que le hicieran esperar tanto.", 
                                 "彼[かれ]はそんなに 長[なが]く 待[ま]たされるの<font color=\"#ff0000\">に 耐[た]え</font>られなかった。", 
                                 "に耐え"
                             ], 
@@ -20742,7 +20743,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はその光景を見るの＿＿＿られなかった。", 
-                                "Él no podía soportar ver esa escena.", 
+                                "Él no podía <font color=\"#ff0000\">soportar</font> ver esa escena.", 
                                 "彼[かれ]はその 光景[こうけい]を 見[み]るの<font color=\"#ff0000\">に 耐[た]え</font>られなかった。", 
                                 "に耐え"
                             ], 
@@ -20763,10 +20764,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼の活躍は批判＿＿＿ないものです。", 
-                                "Su actuación <font color=\"#ff0000\">no merece</font> siquiera ser criticada.", 
-                                "彼[かれ]の 活躍[かつやく]は 批判[ひはん]<font color=\"#ff0000\">に 耐[た]え</font>ないものです。", 
-                                "に耐え"
+                                "その痛み＿＿＿さまざまな方法がある。", 
+                                "Hay varias formas de <font color=\"#ff0000\">soportar</font> ese dolor.", 
+                                "その 痛[いた]み<font color=\"#ff0000\">に 耐[た]える</font>さまざまな 方法[ほうほう]がある。", 
+                                "に耐える"
                             ], 
                             "flags": 0, 
                             "guid": "Hb;=3l[h.l", 
@@ -20785,10 +20786,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "聞く＿＿＿ない意見に興味がない。", 
-                                "No me interesan las opiniones que <font color=\"#ff0000\">no valen la pena</font>.", 
-                                "聞[き]く<font color=\"#ff0000\">に 耐[た]え</font>ない 意見[いけん]に 興味[きょうみ]がない。", 
-                                "に耐え"
+                                "その政治家の非常識な意見を聞く＿＿＿から、テレビを消してくれ。", 
+                                "Por favor apagá la televisión porque <font color=\"#ff0000\">no soporto</font> escuchar las opiniones aberrantes de ese político.", 
+                                "その 政治[せいじ] 家[か]の 意見[いけん]を 聞[き]く<font color=\"#ff0000\">に 耐[た]えない</font>から、テレビを 消[け]してくれ。", 
+                                "に耐えない"
                             ], 
                             "flags": 0, 
                             "guid": "d8m{=eQO0@", 
@@ -20808,9 +20809,9 @@
                             "data": "", 
                             "fields": [
                                 "テレビでは見る＿＿＿ないものばっかり。", 
-                                "En la televisión sólo pasan cosas que ni valen la pena.", 
-                                "テレビでは 見[み]る<font color=\"#ff0000\">に 値[あたい]し/</font><font color=\"#ff0000\">に 耐[た]え/に 足[た]り</font>ないものばっかり。", 
-                                "に値し/に耐え/に足り"
+                                "En la televisión sólo pasan cosas que <font color=\"#ff0000\">no valen la pena / apenas se pueden mirar</font>.", 
+                                "テレビでは 見[み]る<font color=\"#ff0000\">に 値[あたい]し/</font><font color=\"#ff0000\">に 耐[た]え</font>ないものばっかり。", 
+                                "に値し/に耐え"
                             ], 
                             "flags": 0, 
                             "guid": "b;(Hyr]!)W", 
@@ -20832,7 +20833,7 @@
                             "data": "", 
                             "fields": [
                                 "鈴木さんはこの間大変お世話になりました。感謝の念＿＿＿ません。", 
-                                "Suzuki nos ha tratado muy bien el otro día. Le estamos profundamente agradecidos.", 
+                                "Suzuki nos ha tratado muy bien el otro día. Le estamos <font color=\"#ff0000\">profundamente agradecidos</font>.", 
                                 "鈴木[すずき]さんはこの 間[かん] 大変[たいへん]お 世話[せわ]になりました。 感謝[かんしゃ]の 念[ねん]<font color=\"#ff0000\">に 堪[こた]え</font>ません。", 
                                 "に堪え"
                             ], 
@@ -20845,8 +20846,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
-                                "に耐える"
+                                "にたえない", 
+                                "に耐えない"
                             ]
                         }, 
                         {
@@ -20854,8 +20855,8 @@
                             "data": "", 
                             "fields": [
                                 "日本のチームは勝って喜び＿＿＿なかった。", 
-                                "No podía contener la alegría por la victoria del equipo japonés.", 
-                                "日本[にっぽん]のチームは 勝[か]って 喜[よろこ]び<font color=\"#ff0000\">に 堪[こた]え</font>なかった。", 
+                                "<font color=\"#ff0000\">No podía contener</font> la alegría por la victoria del equipo japonés.", 
+                                "日本[にっぽん]のチームは 勝[か]って 喜[よろこ]び<font color=\"#ff0000\">に 堪[た]え</font>なかった。", 
                                 "に堪え"
                             ], 
                             "flags": 0, 
@@ -20867,18 +20868,18 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
-                                "に耐える"
+                                "にたえない", 
+                                "に耐えない"
                             ]
                         }, 
                         {
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "曾てピザを食べてみなかったことは後悔の念＿＿＿ない。", 
-                                "Me arrepiento profundamente no haber probado pizza antes.", 
-                                "曾てピザを 食[た]べてみなかったことは 後悔[こうかい]の 念[ねん]<font color=\"#ff0000\">に 堪[こた]え</font>ない。", 
-                                "に堪え"
+                                "曾てピザを食べてみなかったことは後悔の念＿＿＿。", 
+                                "<font color=\"#ff0000\">Me arrepiento profundamente</font> no haber probado pizza antes.", 
+                                "曾てピザを 食[た]べてみなかったことは 後悔[こうかい]の 念[ねん]<font color=\"#ff0000\">に 堪[た]え</font><font color=\"#ff0000\">ない</font>。", 
+                                "に堪えない"
                             ], 
                             "flags": 0, 
                             "guid": "v$+o*/Y[LV", 
@@ -20889,8 +20890,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
-                                "に耐える"
+                                "にたえない", 
+                                "に堪えない"
                             ]
                         }, 
                         {
@@ -20898,9 +20899,9 @@
                             "data": "", 
                             "fields": [
                                 "田中さんはやっとここにこられて感激＿＿＿ない。", 
-                                "No puedo contener mi emoción de que Tanaka finalmente puede venir.", 
-                                "田中[たなか]さんはやっとここにこられて 感激[かんげき]<font color=\"#ff0000\">に 堪[こた]え</font>ない。", 
-                                "に堪え"
+                                "<font color=\"#ff0000\">No puedo contener</font> mi emoción de que Tanaka finalmente puede venir.", 
+                                "田中[たなか]さんはやっとここにこられて 感激[かんげき]<font color=\"#ff0000\">に 堪[こた]え</font><font color=\"#ff0000\">ない</font>。", 
+                                "に堪えない"
                             ], 
                             "flags": 0, 
                             "guid": "lyc,0|C_vi", 
@@ -20911,8 +20912,8 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "にたえる", 
-                                "に耐える"
+                                "にたえない", 
+                                "に耐えない"
                             ]
                         }, 
                         {
