@@ -3755,14 +3755,14 @@
                                 "に 至[いた]るまで", 
                                 "にいたるまで", 
                                 "hasta... inclusive", 
-                                "(から) + sustantivo + forma gramatical.", 
-                                "Expresión usualmente acompañada por 〜から equivalente a 〜まで que se usa para abarcar un cojunto de cosas, tiempo, lugares, etc. Pero a diferencia de 〜まで, esta forma hace énfasis en la cantidad y además no puede ser usado para expresar distancias.", 
-                                "彼[かれ]がアニメからドラマ＿＿＿ 見[み]るのが 好[す]きです。", 
-                                "A él le gusta mirar desde animé hasta series de televisión inclusive.", 
-                                "その 会社[かいしゃ]は 東京[とうきょう]からパリ＿＿＿ 支店[してん]があるらしい。", 
-                                "Esa compañía tiene sucursales desde Tokio hasta París inclusive.", 
-                                "この 日記[にっき]には 今日[こんにち]＿＿＿の 全[すべ]ての 彼女[かのじょ]の 行動[こうどう]が 書[か]いてある。", 
-                                "En este diario está escrito todo lo que ella hizo hasta el día de hoy inclusive.", 
+                                "(から) + sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión usualmente acompañada por 〜から equivalente a 〜まで que se usa para abarcar un cojunto de cosas, tiempo, lugares, etc.<div><br /></div><div>彼[かれ]がアニメからドラマ<font color=\"#ff0000\">＿＿＿</font>&nbsp;見[み]るのが 好[す]きです。</div><div><i>A él le gusta mirar desde animé <font color=\"#ff0000\">hasta</font> series de televisión <font color=\"#ff0000\">inclusive</font></i>.</div><div><br /></div><div>Pero a diferencia de 〜まで, esta forma hace énfasis en la cantidad y además no puede ser usado para expresar distancias.</div><div><br /></div><div>その 会社[かいしゃ]は 東京[とうきょう]からパリ<font color=\"#ff0000\">＿＿＿</font>&nbsp;支店[してん]があるらしい。</div><div><i>Esa compañía tiene sucursales desde Tokio <font color=\"#ff0000\">hasta</font> París <font color=\"#ff0000\">inclusive</font></i>.</div><div><br /></div><div>この 日記[にっき]には 今日[こんにち]<font color=\"#ff0000\">＿＿＿</font>の 全[すべ]ての 彼女[かのじょ]の 行動[こうどう]が 書[か]いてある。</div><div><i>En este diario está escrito todo lo que ella hizo <font color=\"#ff0000\">hasta</font> el día de hoy <font color=\"#ff0000\">inclusive</font></i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4086,12 +4086,12 @@
                                 "に 即[そく]して", 
                                 "にそくして", 
                                 "conforme a / conforme con", 
-                                "Sustantivo + forma gramatical.", 
-                                "Expresión que indica que lo que sigue a continuación va de acuerdo con el sustantivo.", 
-                                "我社は現在の経済＿＿＿新しい企画を立てなければばらない。", 
-                                "Nuestra compañía debe crear un nuevo plan conforme a la economía actual.", 
-                                "マニュアルに指摘されたステップ＿＿＿進みましょう。", 
-                                "Procedamos conforme a los pasos indicados en el manual.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión que indica que lo que sigue a continuación va <font color=\"#ff0000\">de acuerdo con</font> el sustantivo.<div><br /></div><div>我社は現在の経済<font color=\"#ff0000\">＿＿＿</font>新しい企画を立てなければばらない。</div><div><i>Nuestra compañía debe crear un nuevo plan <font color=\"#ff0000\">conforme a</font> la economía actual</i>.</div><div><br /></div><div>マニュアルに指摘されたステップ<font color=\"#ff0000\">＿＿＿</font>進みましょう。</div><div><i>Procedamos <font color=\"#ff0000\">conforme a</font> los pasos indicados en el manual</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -5668,7 +5668,7 @@
                             "data": "", 
                             "fields": [
                                 "私が住んでいる町は田舎＿＿＿閑静な場所です。", 
-                                "La ciudad en donde vivo es muy tranquila y parecida a un pueblo del interior.", 
+                                "La ciudad en donde vivo es muy tranquila y <font color=\"#ff0000\">parecida a</font> un pueblo del interior.", 
                                 "私[わたし]が 住[す]んでいる 町[まち]は 田舎[いなか]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">びた</font></span>&nbsp;閑静[かんせい]な 場所[ばしょ]です。", 
                                 "びた"
                             ], 
@@ -6987,7 +6987,7 @@
                             "data": "", 
                             "fields": [
                                 "その朝彼がキッチンに入って来る＿＿＿、彼女は彼と些細なことで口論を始めた。&nbsp;", 
-                                "Esa mañana, tan pronto él entró a la cocina, ella comenzó a discutirle por cosas triviales.", 
+                                "Esa mañana, <font color=\"#ff0000\">tan pronto como</font> él entró a la cocina, ella comenzó a discutirle por cosas triviales.", 
                                 "その 朝[あさ] 彼[かれ]がキッチンに 入[はい]って 来[く]る<font color=\"#ff0000\">が早いか</font>、 彼女[かのじょ]は 彼[かれ]と 些細[ささい]なことで 口論[こうろん]を 始[はじ]めた。", 
                                 "が早いか"
                             ], 
@@ -8410,7 +8410,7 @@
                             "data": "", 
                             "fields": [
                                 "肌の色＿＿＿、彼は万人の言論の自由を擁護した。&nbsp;", 
-                                "Él abogó por la libertad de expresión de todos independientemente de su color de piel.", 
+                                "Él abogó por la libertad de expresión de todos <font color=\"#ff0000\">independientemente de</font> su color de piel.", 
                                 "肌[はだ]の 色[いろ]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（の）いかんによらず/（の）いかんにかかわらず</font></span>、 彼[かれ]は 万[まん] 人[にん]の 言論[げんろん]の 自由[じゆう]を 擁護[ようご]した。", 
                                 "（の）いかんによらず/（の）いかんにかかわらず"
                             ], 
@@ -13780,7 +13780,7 @@
                             "data": "", 
                             "fields": [
                                 "東京人は万人走っている＿＿＿。", 
-                                "La gente de Tokio siempre parecen estar corriendo.", 
+                                "La gente de Tokio siempre <font color=\"#ff0000\">parecen</font> estar corriendo.", 
                                 "東京[とうきょう] 人[じん]は 万[まん] 人[にん] 走[はし]っている<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が如し/かの如し</font>。</span>", 
                                 "が如し/かの如し"
                             ], 
@@ -14069,7 +14069,7 @@
                             "fields": [
                                 "彼は危険＿＿＿勇気を示した。", 
                                 "Él mostró su valor ante el peligro.", 
-                                "彼[かれ]は 危険[きけん]<span style=\"color: rgb(0, 0, 255)\">を 顧[かえり]みず/も 顧[かえり]みず</span>&nbsp;勇気[ゆうき]を 示[しめ]した。", 
+                                "彼[かれ]は 危険[きけん]<font color=\"#ff0000\">を 顧[かえり]みず/も 顧[かえり]みず</font>&nbsp;勇気[ゆうき]を 示[しめ]した。", 
                                 "を顧みず/も顧みず"
                             ], 
                             "flags": 0, 
@@ -14460,7 +14460,7 @@
                             "data": "", 
                             "fields": [
                                 "その少年は生まれ＿＿＿動物たちと交流できる不思議な迫を身につけていた。", 
-                                "Ese chico posee una extraña habilidad desde que nació para comunicarse con los animales.", 
+                                "Ese chico posee una extraña habilidad <font color=\"#ff0000\">desde que</font> nació para comunicarse con los animales.", 
                                 "その 少年[しょうねん]は 生[う]まれ<font color=\"#ff0000\">ながらに</font> 動物[どうぶつ]たちと 交流[こうりゅう]できる 不思議[ふしぎ]な 迫[さこ]を 身[み]につけていた。", 
                                 "ながらに"
                             ], 
@@ -15575,7 +15575,7 @@
                             "data": "", 
                             "fields": [
                                 "民主主義＿＿＿達成できない。", 
-                                "Sin democracia, eso no se puede alcanzar.", 
+                                "<font color=\"#ff0000\">Sin</font> democracia, eso no se puede alcanzar.", 
                                 "民主[みんしゅ] 主義[しゅぎ]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なくして（は）/なしに（は）/なしでは</font></span>&nbsp;達成[たっせい]できない。", 
                                 "なくして（は）/なしに（は）/なしでは"
                             ], 
@@ -15998,8 +15998,8 @@
                             "data": "", 
                             "fields": [
                                 "専門家＿＿＿、素人ではこの化学品を作ることができない。", 
-                                "No sé un experto, pero un principiante no puede elaborar este químico.", 
-                                "専門[せんもん] 家[か]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ならいざ&nbsp;</font></span><span style=\"color: rgb(0, 0, 255);\">知[し]らず</span><span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">/はいざ&nbsp;</font></span><span style=\"color: rgb(0, 0, 255);\">知[し]らず</span>、 素人[しろうと]ではこの 化学[かがく] 品[ひん]を 作[つく]ることができない。", 
+                                "<font color=\"#ff0000\">No sé</font> un experto, <font color=\"#ff0000\">pero</font> un principiante no puede elaborar este químico.", 
+                                "専門[せんもん] 家[か]<font color=\"#ff0000\">ならいざ&nbsp;知[し]らず/はいざ&nbsp;知[し]らず</font>、 素人[しろうと]ではこの 化学[かがく] 品[ひん]を 作[つく]ることができない。", 
                                 "ならいざ知らず/はいざ知らず"
                             ], 
                             "flags": 0, 
@@ -17996,7 +17996,7 @@
                             "data": "", 
                             "fields": [
                                 "そんな些細なことで怒る＿＿＿。", 
-                                "No da para enojarse por tan poca cosa.", 
+                                "<font color=\"#ff0000\">No da para</font> enojarse por tan poca cosa.", 
                                 "そんな 些細[ささい]なことで 怒[おこ]る<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） 当[あ]たらない</font></span>。", 
                                 "<span style=\"font-family: Arial\">に（は）当たらない</span>"
                             ], 
@@ -18354,7 +18354,7 @@
                             "data": "", 
                             "fields": [
                                 "彼が早く走る＿＿＿、田中選手に敵わないと思う。", 
-                                "Mientras que es cierto que él corre rápido, no creo que le gane a Tanaka.", 
+                                "<font color=\"#ff0000\">Mientras que</font> es cierto que él corre rápido, no creo que le gane a Tanaka.", 
                                 "彼[かれ]が 早[はや]く 走[はし]る<font color=\"#ff0000\">のに 引き換[ひきか]え</font>、 田中[たなか] 選手[せんしゅ]に 敵[てき]わないと 思[おも]う。", 
                                 "のに引き換え"
                             ], 
@@ -18585,7 +18585,7 @@
                             "data": "", 
                             "fields": [
                                 "その法案は大統領＿＿＿反対でした。", 
-                                "Hasta al presidente inclusive estaba en contra de esa ley.", 
+                                "<font color=\"#ff0000\">Hasta</font> al presidente <font color=\"#ff0000\">inclusive</font> estaba en contra de esa ley.", 
                                 "その 法案[ほうあん]は 大統領[だいとうりょう]<font color=\"#ff0000\">に 至[いた]るまで</font> 反対[はんたい]でした。", 
                                 "に至るまで"
                             ], 
@@ -19152,7 +19152,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の痛みは理解＿＿＿。", 
-                                "No es difícil entender su dolor.", 
+                                "<font color=\"#ff0000\">No es difícil</font> entender su dolor.", 
                                 "彼[かれ]の 痛[いた]みは 理解[りかい]<font color=\"#ff0000\">（する）に 難[かた]くない</font>。", 
                                 "（する）に難くない"
                             ], 
@@ -21481,7 +21481,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は彼に食べ物＿＿＿金も与えた。", 
-                                "Ella no sólo le dio comida sino también dinero.", 
+                                "Ella <font color=\"#ff0000\">no sólo</font> le dio comida <font color=\"#ff0000\">sino también</font> dinero.", 
                                 "彼女[かのじょ]は 彼[かれ]に 食べ物[たべもの]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font> 金[きん]も 与[あた]えた。", 
                                 "だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか"
                             ], 
