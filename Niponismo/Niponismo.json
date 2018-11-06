@@ -3292,12 +3292,12 @@
                                 "いざ 知[し]らず", 
                                 "いざしらず", 
                                 "no sé..., pero", 
-                                "<div>Sustantivo + なら/であれば/は + forma gramatical.</div><div>Verbo + なら/ば + forma gramatical.</div>", 
-                                "Se usa para expresar que uno no sabe en cuanto a A, pero sí en cuanto a B.", 
-                                "彼[かれ]なら＿＿＿、 私[わたし]ではその 試験[しけん]には 合格[ごうかく]できっこない。", 
-                                "No sé él, pero yo jamás podría pasar ese examen.", 
-                                "昔[むかし]なら＿＿＿、 今[いま]はＦＡＸも、メールもある。", 
-                                "No sé en el pasado, pero ahora tenemos fax y correos electrónicos.", 
+                                "<div>Sustantivo + なら/であれば/は + <font color=\"#ff0000\">＿＿＿</font></div><div>Verbo + なら/ば + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Se usa para expresar que uno no sabe en cuanto a A, pero sí en cuanto a B.<div><br /></div><div>彼[かれ]なら<font color=\"#ff0000\">＿＿＿</font>、 私[わたし]ではその 試験[しけん]には 合格[ごうかく]できっこない。</div><div><i><font color=\"#ff0000\">No sé</font> él, <font color=\"#ff0000\">pero</font> yo jamás podría pasar ese examen</i>.</div><div><br /></div><div>昔[むかし]なら<font color=\"#ff0000\">＿＿＿</font>、 今[いま]はＦＡＸも、メールもある。</div><div><i><font color=\"#ff0000\">No sé</font> en el pasado, <font color=\"#ff0000\">pero</font> ahora tenemos fax y correos electrónicos</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -8968,8 +8968,8 @@
                             "data": "", 
                             "fields": [
                                 "ディール市内およびその周辺には約２万７千人が住んでいますが、町の中心部は小さく、そこは＿＿＿小さな町の感じです。", 
-                                "Cerca de 27.000 personas viven dentro y en los alrededores de Deal, pero su centro es pequeño y ciertamente se siente como un pueblo del interior.", 
-                                "ディール 市内[しない]およびその 周辺[しゅうへん]には 約[やく]２ 万[まん]７ 千[せん] 人[にん]が 住[す]んでいますが、 町[まち]の 中心[ちゅうしん] 部[ぶ]は 小[ちい]さく、そこは&nbsp;<span style=\"color: rgb(0, 0, 255)\">如何[いか]にも</span>&nbsp;小[ちい]さな 町[まち]の 感[かん]じです。", 
+                                "Cerca de 27.000 personas viven dentro y en los alrededores de Deal, pero su centro es pequeño y <font color=\"#ff0000\">ciertamente</font> se siente como un pueblo del interior.", 
+                                "ディール 市内[しない]およびその 周辺[しゅうへん]には 約[やく]２ 万[まん]７ 千[せん] 人[にん]が 住[す]んでいますが、 町[まち]の 中心[ちゅうしん] 部[ぶ]は 小[ちい]さく、そこは&nbsp;<font color=\"#ff0000\">如何[いか]にも</font>&nbsp;小[ちい]さな 町[まち]の 感[かん]じです。", 
                                 "如何にも"
                             ], 
                             "flags": 0, 
@@ -9574,7 +9574,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はもっと一生懸命働かないと職を失う＿＿＿。", 
-                                "Él está en peligro de perder su puesto a menos de que trabaje más.", 
+                                "<div><font color=\"#ff0000\">Existe la posibilidad</font> de que él pierda el trabajo si no trabaja más duro.</div>", 
                                 "彼[かれ]はもっと 一生懸命[いっしょうけんめい] 働[はたら]かないと 職[しょく]を 失[うしな]う <font color=\"#ff0000\">可能[かのう] 性[せい]がある</font>。", 
                                 "可能性がある"
                             ], 
@@ -9971,7 +9971,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は＿＿＿本当に美しかったに違いない。", 
-                                "Ella seguramente debe haber sido hermosa antes.", 
+                                "Ella seguramente debe haber sido hermosa <font color=\"#ff0000\">antes</font>.", 
                                 "彼女[かのじょ]は&nbsp;<font color=\"#ff0000\">曾[かつ]て</font>&nbsp;本当[ほんとう]に 美[うつく]しかったに 違[ちが]いない。", 
                                 "曾て"
                             ], 
@@ -17543,7 +17543,7 @@
                             "data": "", 
                             "fields": [
                                 "特別扱いしますが、＿＿＿短めにしてくださいね。", 
-                                "Haré una excepción esta vez, pero hágala corta.", 
+                                "Haré una excepción esta vez, pero sea <font color=\"#ff0000\">lo más</font> breve <font color=\"#ff0000\">posible</font>.", 
                                 "特別[とくべつ] 扱[あつか]いしますが、<font color=\"#ff0000\">なるべく</font> 短[みじか]めにしてくださいね。", 
                                 "なるべく"
                             ], 
@@ -19227,7 +19227,7 @@
                             "data": "", 
                             "fields": [
                                 "たった一点で彼が不合格だったことが如何に悔しのかは想像＿＿＿。", 
-                                "No es difícil imaginarse la frustración que debe tener él por no haber aprobador por tan sólo un punto.", 
+                                "<font color=\"#ff0000\">No es difícil</font> imaginarse la frustración que debe tener él por no haber aprobador por tan sólo un punto.", 
                                 "たった一 点[てん]で 彼[かれ]が 不[ふ] 合格[ごうかく]だったことが 如何[いかが]に 悔[くや]しのかは 想像[そうぞう]<font color=\"#ff0000\">（する）に 難[かた]くない</font>。", 
                                 "（する）に難くない"
                             ], 
@@ -22412,7 +22412,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は真実を隠さ＿＿＿恋人を殺そうとするかもしれない。", 
-                                "Quizas ella intente matar a su pareja para ocultar la verdad.", 
+                                "Quizas ella intente matar a su pareja <font color=\"#ff0000\">para</font> ocultar la verdad.", 
                                 "彼女[かのじょ]は 真実[しんじつ]を 隠[かく]さ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">んがため（に）</font></span>&nbsp;恋人[こいびと]を 殺[ころ]そうとするかもしれない。", 
                                 "んがため（に）"
                             ], 
@@ -22433,7 +22433,7 @@
                             "data": "", 
                             "fields": [
                                 "政府は災害を防が＿＿＿対策を取り込んでいます。", 
-                                "El gobierno está introduciendo medidas de prevención de desastres.", 
+                                "El gobierno está introduciendo medidas <font color=\"#ff0000\">para</font> la prevención de desastres.", 
                                 "政府[せいふ]は 災害[さいがい]を 防[ふせ]が<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">んがための</font></span>&nbsp;対策[たいさく]を 取り込[とりこ]んでいます。", 
                                 "んがための"
                             ], 
@@ -22454,7 +22454,7 @@
                             "data": "", 
                             "fields": [
                                 "これは我々のチームが勝た＿＿＿計画だ。", 
-                                "Este es un plan para que gane nuestro equipo.", 
+                                "Este es un plan <font color=\"#ff0000\">para</font> que gane nuestro equipo.", 
                                 "これは 我々[われわれ]のチームが 勝[か]た<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">んがための</font></span>&nbsp;計画[けいかく]だ。", 
                                 "んがための"
                             ], 
@@ -22475,7 +22475,7 @@
                             "data": "", 
                             "fields": [
                                 "そのかばんのなかには交渉を成功＿＿＿需要な資料だった。", 
-                                "Dentro de ese maletín había documentos importantísimos para el éxito de las negociaciones.", 
+                                "Dentro de ese maletín había documentos importantísimos <font color=\"#ff0000\">para</font> el éxito de las negociaciones.", 
                                 "そのかばんのなかには 交渉[こうしょう]を 成功[せいこう]<font color=\"#ff0000\">せ<span style=\"font-family: 'Liberation Sans'\">んがための</span></font>&nbsp;需要[じゅよう]な 資料[しりょう]だった。", 
                                 "<span style=\"font-family: Arial\">せ</span>んがための"
                             ], 
