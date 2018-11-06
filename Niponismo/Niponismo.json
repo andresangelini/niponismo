@@ -4482,6 +4482,39 @@
                                 "Niponismo", 
                                 "のみか"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "のなんの（って）", 
+                                "のなんの（って）", 
+                                "のなんの（って）", 
+                                "tan / tanto", 
+                                "Verbo casual + <font color=\"#ff0000\">＿＿＿</font><div>Adjetivo + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión <font color=\"#ff0000\">informal</font> usado entre familia y amigos para indicar que algo es <font color=\"#ff0000\">demasiado</font> y que lo deja a uno sin palabras.<div><br /></div><div>ここのカレーは 辛[から]い<font color=\"#ff0000\">＿＿＿</font>、 全部[ぜんぶ] を 食[た]べるのは 無理[むり]だ。</div><div><i>Este curry es <font color=\"#ff0000\">tan</font> picante que comerlo todo es imposible</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "A41tVANrd`", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "のなんの（って）"
+                            ]
                         }
                     ]
                 }, 
@@ -20963,7 +20996,7 @@
                             "data": "", 
                             "fields": [
                                 "この農園は私たちの必要を満たす＿＿＿だけの野菜を産出する。", 
-                                "Esta plantación produce suficientes vegetales para abastecer nuestras necesidades.", 
+                                "Esta plantación produce <font color=\"#ff0000\">suficientes</font> vegetales para abastecer nuestras necesidades.", 
                                 "この 農園[のうえん]は 私[わたし]たちの 必要[ひつよう]を 満[み]たす<font color=\"#ff0000\">に 足[た]る/に 足[た]りる</font>だけの 野菜[やさい]を 産出[さんしゅつ]する。", 
                                 "に足る/に足りる"
                             ], 
@@ -22316,7 +22349,7 @@
                             "data": "", 
                             "fields": [
                                 "山下さんはビジスネで成功＿＿＿手段を選ばなかった。", 
-                                "Yamashita hizo lo que fuera para tener éxito en los negocios.", 
+                                "Yamashita hizo lo que fuera <font color=\"#ff0000\">para</font> tener éxito en los negocios.", 
                                 "山下[やました]さんはビジスネで 成功[せいこう]<font color=\"#ff0000\">せんがため（に）</font> 手段[しゅだん]を 選[えら]ばなかった。", 
                                 "せんがため（に）"
                             ], 
@@ -22337,7 +22370,7 @@
                             "data": "", 
                             "fields": [
                                 "俺は食べ＿＿＿生きる人間です。", 
-                                "Yo soy alguien que vive para comer.", 
+                                "Yo soy alguien que vive <font color=\"#ff0000\">para</font> comer.", 
                                 "俺[おれ]は 食[た]<font color=\"#ff0000\">べんがため（に）</font> 生[い]きる 人間[にんげん]です。", 
                                 "んがため（に）"
                             ], 
@@ -22358,7 +22391,7 @@
                             "data": "", 
                             "fields": [
                                 "N1の試験に合格＿＿＿徹夜までしていました。", 
-                                "Incluso me he pasado noches estudiando para aprobar el examen de N1.", 
+                                "Incluso me he pasado noches estudiando <font color=\"#ff0000\">para</font> aprobar el examen de N1.", 
                                 "N 1の 試験[しけん]に 合格[ごうかく]<font color=\"#ff0000\">せんがため（に）</font> 徹夜[てつや]までしていました。", 
                                 "せんがため（に）"
                             ], 
@@ -23426,7 +23459,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "のみか"
+                "のなんの（って）"
             ], 
             "tmpls": [
                 {
