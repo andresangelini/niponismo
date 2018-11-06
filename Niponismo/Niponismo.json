@@ -4492,7 +4492,7 @@
                                 "のなんの（って）", 
                                 "tan / tanto", 
                                 "Verbo casual + <font color=\"#ff0000\">＿＿＿</font><div>Adjetivo + <font color=\"#ff0000\">＿＿＿</font></div>", 
-                                "Expresión <font color=\"#ff0000\">informal</font> usado entre familia y amigos para indicar que algo es <font color=\"#ff0000\">demasiado</font> y que lo deja a uno sin palabras.<div><br /></div><div>ここのカレーは 辛[から]い<font color=\"#ff0000\">＿＿＿</font>、 全部[ぜんぶ] を 食[た]べるのは 無理[むり]だ。</div><div><i>Este curry es <font color=\"#ff0000\">tan</font> picante que comerlo todo es imposible</i>.</div>", 
+                                "Expresión <font color=\"#ff0000\">informal</font> usado entre familia y amigos para indicar que algo es <font color=\"#ff0000\">demasiado</font> y que genera tanta <font color=\"#ff0000\">sorpresa</font> que deja al locutor sin palabras.<div><br /></div><div>ここのカレーは 辛[から]い<font color=\"#ff0000\">＿＿＿</font>、 全部[ぜんぶ] を 食[た]べるのは 無理[むり]だ。</div><div><i>Este curry es <font color=\"#ff0000\">tan</font> picante que comerlo todo es imposible</i>.</div><div><br /></div><div>Es sinónimo de <font color=\"#ff0000\">とても〜だ</font>.</div><div><br /></div><div>このカレーは<font color=\"#ff0000\">とても</font> 辛[から]くて、全部[ぜんぶ] を 食[た]べるのは 無理[むり]だ。</div><div><i>Este curry es&nbsp;<font color=\"#ff0000\">muy</font>&nbsp;picante y comerlo todo es imposible</i>.</div><div><br /></div><div>鈴木[すずき]さんは 綺麗[きれい]な＿＿＿、 丸[まる]でモデルのようだったよ。</div><div><i>Suzuki es <font color=\"#ff0000\">tan</font> hermosa que es como si fuese una modelo</i>.</div><div><br /></div><div>鈴木[すずき]さんは<font color=\"#ff0000\">とても&nbsp;</font>綺麗[きれい]で、丸[まる]でモデルのようだったよ。</div><div><i>Suzuki es&nbsp;<font color=\"#ff0000\">muy</font>&nbsp;hermosa. Es como si fuese una modelo</i>.</div><div><br /></div><div>Y de <font color=\"#ff0000\">すごく〜</font>.</div><div><br /></div><div>彼[かれ]は 喋[しゃべ]る<font color=\"#ff0000\">＿＿＿</font>。絶[た]えずに10 分[っぷん] 以上[いじょう]で 喋[しゃべ]っていたよ。</div><div><i>Él habla <font color=\"#ff0000\">tanto</font>. Estuvo hablando más de diez minutos sin parar</i>.</div><div><br /></div><div>彼[かれ]は&nbsp;<font color=\"#ff0000\">凄[すご]く&nbsp;</font>喋[しゃべ]る。 絶[た]えずに10 分[っぷん] 以上[いじょう]で 喋[しゃべ]っていたよ。</div><div><i>Él habla <font color=\"#ff0000\">mucho</font>. Estuvo hablando más de diez minutos sin parar</i>.</div><div><br /></div><div>あのレストランで 食[た]べて 見[み]たかったけど、 高[たか]い<font color=\"#ff0000\">＿＿＿&nbsp;</font>出来[でき]なかったんだ。</div><div><i>Quería probar comer en ese restaurante pero es <font color=\"#ff0000\">tan</font> caro que no pude</i>.</div><div><br /></div><div>あのレストランで 食[た]べて 見[み]たかったけど、<font color=\"#ff0000\">とても</font> 高[たか]くて<font color=\"#ff0000\">&nbsp;</font>出来[でき]なかったんだ。</div><div><i>Quería probar comer en ese restaurante pero es&nbsp;<font color=\"#ff0000\">muy</font>&nbsp;caro y no pude</i>.</div><div><br /></div><div>Esta forma es en ralidad una abreviación de <font color=\"#ff0000\">〜の〜な.い〜のって</font>.</div><div><br /></div><div>ここのカレーは 辛[から]い<font color=\"#ff0000\">の</font>辛く<font color=\"#ff0000\">ないのって</font>、 全部[ぜんぶ] を 食[た]べるのは 無理[むり]だ。</div><div><i>Este curry es&nbsp;<font color=\"#ff0000\">tan</font>&nbsp;picante que comerlo todo es imposible</i>.</div><div><br /></div><div><div>彼[かれ]は 喋[しゃべ]る<font color=\"#ff0000\">の</font>喋ら<font color=\"#ff0000\">ないのって</font>。絶[た]えずに10 分[っぷん] 以上[いじょう]で 喋[しゃべ]っていたよ。</div><div><i>Él habla&nbsp;<font color=\"#ff0000\">tanto</font>. Estuvo hablando más de diez minutos sin parar</i>.</div></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -23123,6 +23123,27 @@
                                 "Oración", 
                                 "んばかり/ぬばかり"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの先生は詰まらない＿＿＿、授業中で生徒たちは眠くなるのは珍しくない。", 
+                                "Ese profesor es <font color=\"#ff0000\">tan</font> aburrido que no es extraño que los estudiantes se duerman en clase.", 
+                                "あの 先生[せんせい]は 詰[つ]まらない<font color=\"#ff0000\">のなんの（って）</font>、 授業[じゅぎょう] 中[ちゅう]で 生徒[せいと]たちは 眠[ねむ]くなるのは 珍[めずら]しくない。", 
+                                "のなんの（って）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dIA?%&ujgK", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "のなんの（って）"
+                            ]
                         }
                     ]
                 }
@@ -23250,12 +23271,12 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "Oración", 
-                "んばかり/ぬばかり"
+                "のなんの（って）"
             ], 
             "tmpls": [
                 {
