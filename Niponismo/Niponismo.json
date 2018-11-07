@@ -23228,6 +23228,111 @@
                                 "Oración", 
                                 "に引き換え"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その試験の問題は難しい＿＿＿、何も答えられなかったんだ。", 
+                                "Los ejercicios de ese examen eran <font color=\"#ff0000\">tan</font> difíciles que no pude responder ninguno.", 
+                                "その 試験[しけん]の 問題[もんだい]は 難[むずか]しい<font color=\"#ff0000\">のなんの（って）</font>、 何[なに]も 答[こた]えられなかったんだ。", 
+                                "のなんの（って）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L+edxs[Gcc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "のなんの（って）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その靴は高い＿＿＿、買おうにも買えなかった。", 
+                                "Esos zapatos eran <font color=\"#ff0000\">tan</font> caros que no hubiera podido comprarlos aunque intentara.", 
+                                "その 靴[くつ]は 高[たか]い<font color=\"#ff0000\">のなんの（って）</font>、 買[か]おうにも 買[か]えなかった。", 
+                                "のなんの（って）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l1d0-*,P2O", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "のなんの（って）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お姉さんの料理はいつも塩辛い＿＿＿、食べられない。", 
+                                "", 
+                                "お 姉[ねえ]さんの 料理[りょうり]はいつも 塩辛[しおから]い<font color=\"#ff0000\">のなんの（って）</font>、 食[た]べられない。", 
+                                "のなんの（って）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L{f;nEM^a", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "のなんの（って）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "昨夜は外は煩い＿＿＿、全然眠れなかった。", 
+                                "Ayer había <font color=\"#ff0000\">tanto</font> ruido afuera que no pude dormir nada.", 
+                                "昨夜[さくや]は 外[そと]は 煩[うるさ]い<font color=\"#ff0000\">のなんの（って）</font>、 全然[ぜんぜん] 眠[ねむ]れなかった。", 
+                                "のなんの（って）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "BHO:H/&m0D", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "のなんの（って）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はいつも文句を言う＿＿＿、もう堪らない。", 
+                                "Él siempre se está quejando <font color=\"#ff0000\">tanto</font> que ya no lo soporto más.", 
+                                "彼[かれ]はいつも 文句[もんく]を 言[い]う<font color=\"#ff0000\">のなんの（って）</font>、もう 堪[たま]らない。", 
+                                "のなんの（って）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "O{fGR4}Bd[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "のなんの（って）"
+                            ]
                         }
                     ]
                 }
@@ -23360,7 +23465,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に引き換え"
+                "のなんの（って）"
             ], 
             "tmpls": [
                 {
