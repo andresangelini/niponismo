@@ -4515,6 +4515,39 @@
                                 "Niponismo", 
                                 "のなんの（って）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "を踏まえて", 
+                                "を 踏[ふ]まえて", 
+                                "をふまえて", 
+                                "en base a / basándose en", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión que indica la razón o fundamento por la que se llega a una decisión de carácter subjetivo. La razón suele ser la <font color=\"#ff0000\">reflexión</font> del propio individuo, una <font color=\"#ff0000\">experiencia</font>, una <font color=\"#ff0000\">situación</font> o el <font color=\"#ff0000\">resultado</font> de alguna cosa.&nbsp;<div><br /></div><div>その 会社[かいしゃ]で 長[なが]い 間[あいだ]の 勤務[きんむ]<font color=\"#ff0000\">＿＿＿</font>、 彼[かれ]は 如何[いか]に 苦[くる]しい 経験[けいけん]したのかが 良[よ]く分[わ]かる。</div><div><i><font color=\"#ff0000\">En base a</font> mis largos años de trabajo en esa empresa, entiendo perfectamente cuánto él debe haber sufrido</i>.</div><div><br /></div><div>アンケート 結果[けっか]<font color=\"#ff0000\">＿＿＿</font>、 新[あたら]しい 対策[たいさく]を 提案[ていあん]したいと 思[おも]います。</div><div><i>Quisiera proponer un nuevo plan <font color=\"#ff0000\">basándome</font> en el resultado de la encuesta</i>.</div><div><br /></div><div>Lo importante es que la <font color=\"#ff0000\">conclusión a la que se llega es siempre a título personal</font>. Es por esta razón que esta expresión <font color=\"#ff0000\">no puede reemplazar a</font> <font color=\"#ff0000\">〜に準して</font>, <font color=\"#ff0000\">〜に照らして</font>, <font color=\"#ff0000\">〜に即して</font> o <font color=\"#ff0000\">〜に則って</font>. Todas ellas se usan para llegar a <font color=\"#ff0000\">conclusiones objetivas</font>.<div><br /></div><div><div>マニュアルに指摘されたステップ<font color=\"#ff0000\">＿＿＿❌/に即して</font>進みましょう。</div><div><i>Procedamos&nbsp;<font color=\"#ff0000\">conforme a</font>&nbsp;los pasos indicados en el manual</i>.</div></div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ivo%ia{,AP", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "を踏まえて"
+                            ]
                         }
                     ]
                 }, 
@@ -23710,7 +23743,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "のなんの（って）"
+                "を踏まえて"
             ], 
             "tmpls": [
                 {
