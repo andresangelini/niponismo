@@ -23539,7 +23539,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "に言わせれば/から言わせれば"
+                "を踏まえて"
             ], 
             "tmpls": [
                 {
@@ -23769,5 +23769,132 @@
             "vers": []
         }
     ], 
-    "notes": []
+    "notes": [
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "先学期の成績＿＿＿、今学期は勉強し方を変えることにした。", 
+                "<font color=\"#ff0000\">En base a</font> mis calificaciones en el período pasado he decidido cambiar mi método de estudio.", 
+                "先学[せんがく] 期[き]の 成績[せいせき]<font color=\"#ff0000\">を 踏[ふ]まえて</font>、 今[こん] 学期[がっき]は 勉強[べんきょう]し 方[かた]を 変[か]えることにした。", 
+                "を踏まえて"
+            ], 
+            "flags": 0, 
+            "guid": "Jt;O8hiSOp", 
+            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+            "tags": [
+                "Gramática", 
+                "Japonés", 
+                "N1", 
+                "Niponismo", 
+                "Oración", 
+                "を踏まえて"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "人生の中でこれまで経験したこと＿＿＿、相手は悪いひとなら直ぐに分かる。", 
+                "<font color=\"#ff0000\">En base a</font> todo lo que he vivido hasta ahora, me doy cuenta enseguida cuando alguien es mala persona.", 
+                "人生[じんせい]の 中[なか]でこれまで 経験[けいけん]したこと<font color=\"#ff0000\">を 踏[ふ]まえて</font>、 相手[あいて]は 悪[わる]いひとなら 直[す]ぐに 分[わ]かる。", 
+                "を踏まえて"
+            ], 
+            "flags": 0, 
+            "guid": "je,i<Io4sD", 
+            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+            "tags": [
+                "Gramática", 
+                "Japonés", 
+                "N1", 
+                "Niponismo", 
+                "Oración", 
+                "を踏まえて"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "確かにその二人は理想な夫婦だと見えるけど、自分で近所の人から調べたこと＿＿＿彼らは何かを隠そうとしていると思う。", 
+                "Ciertamente ellos parecen un matrimonio ideal, pero <font color=\"#ff0000\">en base a</font> lo que yo mismo he podido averiguar hablando con los vecinos, creo que están tratando de ocultar algo.", 
+                "確[たし]かにその二 人[にん]は 理想[りそう]な 夫婦[ふうふ]だと 見[み]えるけど、 自分[じぶん]で 近所[きんじょ]の 人[ひと]から 調[しら]べたこと<font color=\"#ff0000\">を 踏[ふ]まえて</font> 彼[かれ]らは 何[なに]かを 隠[かく]そうとしていると 思[おも]う。", 
+                "を踏まえて"
+            ], 
+            "flags": 0, 
+            "guid": "QP5yV&eEBt", 
+            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+            "tags": [
+                "Gramática", 
+                "Japonés", 
+                "N1", 
+                "Niponismo", 
+                "Oración", 
+                "を踏まえて"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "その国に行って自分で経験したこと＿＿＿、人生の本当の意味に反省した。", 
+                "<font color=\"#ff0000\">En base a</font> haber ido a ese país y lo que experimenté en carne propia me he puesto a reflexionar sobre el verdadero significado de la vida.", 
+                "その 国[くに]に 行[い]って 自分[じぶん]で 経験[けいけん]したこと<font color=\"#ff0000\">を 踏[ふ]まえて</font>、 人生[じんせい]の 本当[ほんとう]の 意味[いみ]に 反省[はんせい]した。", 
+                "を踏まえて"
+            ], 
+            "flags": 0, 
+            "guid": "r6ahapMUZA", 
+            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+            "tags": [
+                "Gramática", 
+                "Japonés", 
+                "N1", 
+                "Niponismo", 
+                "Oración", 
+                "を踏まえて"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "事実＿＿＿、あの日が起こったことについて自分の意見を教えて下さい。", 
+                "Cuentenos su opinión sobre lo que pasó aquel día <font color=\"#ff0000\">en base a</font> los hechos.", 
+                "事実[じじつ]<font color=\"#ff0000\">を 踏[ふ]まえて</font>、あの 日[ひ]が 起[お]こったことについて 自分[じぶん]の 意見[いけん]を 教[おし]えて 下[くだ]さい。", 
+                "を踏まえて"
+            ], 
+            "flags": 0, 
+            "guid": "d[0idYq,z<", 
+            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+            "tags": [
+                "Gramática", 
+                "Japonés", 
+                "N1", 
+                "Niponismo", 
+                "Oración", 
+                "を踏まえて"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "自分で集めた情報＿＿＿、レポートに纏めます。", 
+                "Haré un informe <font color=\"#ff0000\">basándome en</font> la información que yo mismo recopilé.", 
+                "自分[じぶん]で 集[あつ]めた 情報[じょうほう]<font color=\"#ff0000\">を 踏[ふ]まえて</font>、レポートに 纏[まと]めます。", 
+                "を踏まえて"
+            ], 
+            "flags": 0, 
+            "guid": "G4`Yh>_*0!", 
+            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+            "tags": [
+                "Gramática", 
+                "Japonés", 
+                "N1", 
+                "Niponismo", 
+                "Oración", 
+                "を踏まえて"
+            ]
+        }
+    ]
 }
