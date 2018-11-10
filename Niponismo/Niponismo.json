@@ -2962,12 +2962,12 @@
                                 "ないまでも", 
                                 "ないまでも", 
                                 "aunque no", 
-                                "Verbo negativo sin ない + forma gramatical.<div>Sustantivo で + forma gramatical.</div>", 
-                                "Se usa para expresar que si bien una determinada cosa o acción no es lo que se espera, cumple con el cometido. A menudo se la usa junto con la forma negativa de 言える para expresar que \"si bien no se puede decir tal cosa, sí tal otra\" o \"es tal cosa, por no decir tal otra\".", 
-                                "彼女[かのじょ]は 太[ふと]っているとはいえ＿＿＿ 大柄[おおがら]な 人[ひと]だ。", 
-                                "Ella es corpulenta, por no decir gorda.", 
-                                "われわれは 過[す]ぎし 日[ひ]の 事[こと]を、 必[かなら]ずしも 愛情[あいじょう]とは 言[い]えないまでも 少[すく]なくとも 一種[いっしゅ]の 憧[あこが]れを 持[も]ってふりかえるのである。", 
-                                "Nosotros siempre recordamos aquellos tiempos con algo de anhelo, sino es que con cariño.", 
+                                "Verbo negativo sin ない + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo で + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Se usa para expresar que si bien una determinada cosa o acción no es lo que se espera, cumple con el cometido.&nbsp;A menudo se la usa junto con la forma negativa de <font color=\"#ff0000\">言える</font> para expresar que \"<font color=\"#ff0000\">si bien no se puede decir tal cosa, sí tal otra</font>\" o \"<font color=\"#ff0000\">es tal cosa, por no decir tal otra</font>\".<div><br /></div><div><div>彼女[かのじょ]は 太[ふと]っているとはいえ<font color=\"#ff0000\">＿＿＿</font>&nbsp;大柄[おおがら]な 人[ひと]だ。</div><div><i>Ella es corpulenta,&nbsp;<font color=\"#ff0000\">por no</font>&nbsp;decir gorda</i>.</div><div><br /></div><div>われわれは 過[す]ぎし 日[ひ]の 事[こと]を、 必[かなら]ずしも 愛情[あいじょう]とは<font color=\"#ff0000\">＿＿＿</font> 少[すく]なくとも 一種[いっしゅ]の 憧[あこが]れを 持[も]ってふりかえるのである。</div></div><div><i>Nosotros siempre recordamos aquellos tiempos con algo de anhelo, <font color=\"#ff0000\">sino es que</font> con cariño</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4258,12 +4258,12 @@
                                 "に 照[て]らして", 
                                 "にてらして", 
                                 "a la luz de / en vista de", 
-                                "Sustantivo o frase sustantiva + forma gramatical.", 
-                                "Expresión que se usa para explicar la razón de algo o proveer una justificación.", 
-                                "最近[さいきん]の 出来事[できごと]＿＿＿ 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
-                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
-                                "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと＿＿＿ 注意[ちゅうい]させて。", 
-                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "Sustantivo o frase sustantiva + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<div>Expresión que se usa para explicar la <font color=\"#ff0000\">razón</font> de algo o proveer una <font color=\"#ff0000\">justificación</font>.</div><div><br /></div><div>最近の出来事<font color=\"#ff0000\">＿＿＿</font>政府は新しい対策を実施することにしました。</div><div><i><font color=\"#ff0000\">A la luz de</font> los recientes acontecimientos el gobierno decidió implementar nuevas medidas</i>.</div><div><br /></div><div>Además de <font color=\"#ff0000\">sustantivos</font>, también se puede usar con <font color=\"#ff0000\">frases tipo sustantivo</font> (formadas con <font color=\"#ff0000\">こと</font>).</div><div><br /></div><div>課長が先程言ったこと<font color=\"#ff0000\">＿＿＿</font>今年にボーナスがないかもしれないらしい。</div><div><i><font color=\"#ff0000\">En vista de</font> lo que dijo recién el jefe de sección, parece que este año no va a haber bono</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -5150,7 +5150,7 @@
                             "data": "", 
                             "fields": [
                                 "両親が反対だと言えば、あきらめる＿＿＿。", 
-                                "<span style=\"font-family: 'Liberation Sans'\">Si tus padres dicen que no, tendrás que renunciar a esa idea.</span>", 
+                                "<span style=\"font-family: 'Liberation Sans'\">Si tus padres dicen que no, <font color=\"#ff0000\">no te quedará otra que</font> renunciar a esa idea.</span>", 
                                 "両親[りょうしん]が 反対[はんたい]だと 言[い]えば、あきらめる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">までだ</font></span>。", 
                                 "までだ"
                             ], 
@@ -10923,7 +10923,7 @@
                             "data": "", 
                             "fields": [
                                 "意外な用事の＿＿＿、なんのおもてなしもできなかった。", 
-                                "No pude recibirlos bien debido a un imprevisto.", 
+                                "No pude recibirlos bien <font color=\"#ff0000\">debido a</font> un imprevisto.", 
                                 "意外[いがい]な 用事[ようじ]の<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">こととて</font></span>、なんのおもてなしもできなかった。", 
                                 "こととて"
                             ], 
@@ -15051,7 +15051,7 @@
                             "data": "", 
                             "fields": [
                                 "わずか６ヶ月後に最初の仕事を止めるとしたら、愚かとは言わ＿＿＿賢いとは言えない。", 
-                                "Si tiene que dejar el primer empleo tras apenas seis meses de entrar a trabajar, no voy a decir que es estúpido, pero tampoco me parece inteligente.", 
+                                "Si tiene que dejar el primer empleo tras apenas seis meses de entrar a trabajar, <font color=\"#ff0000\">no voy a</font> decir que es estúpido, <font color=\"#ff0000\">pero</font> tampoco me parece inteligente.", 
                                 "わずか６ ヶ月[かげつ] 後[ご]に 最初[さいしょ]の 仕事[しごと]を 止[と]めるとしたら、 愚[おろ]かとは 言[い]わ<font color=\"#ff0000\">ないまでも</font> 賢[かしこ]いとは 言[い]えない。", 
                                 "ないまでも"
                             ], 
@@ -16169,7 +16169,7 @@
                             "data": "", 
                             "fields": [
                                 "論文を一目を見る＿＿＿、教授は無言で出ていた。", 
-                                "Fue apenas echarle una mirada a mi tésis y el profesor se fue sin decir nada.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> echarle una mirada a mi tésis y el profesor se fue sin decir nada.", 
                                 "論文[ろんぶん]を 一目[いちもく]を 見[み]る<font color=\"#ff0000\">なり</font>、 教授[きょうじゅ]は 無言[むごん]で 出[で]ていた。", 
                                 "なり"
                             ], 
@@ -18039,7 +18039,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女に振られたからといって、泣く＿＿＿。", 
-                                "No da para llorar porque te haya dejado tu novia.", 
+                                "<font color=\"#ff0000\">No da para</font> llorar porque te haya dejado tu novia.", 
                                 "彼女[かのじょ]に 振[ふ]られたからといって、 泣[な]く<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） 当[あ]たらない</font></span>。", 
                                 "<span style=\"font-family: Arial\">に（は）当たらない</span>"
                             ], 
@@ -18102,7 +18102,7 @@
                             "data": "", 
                             "fields": [
                                 "その映画は人気だから、切符が見つからなかったことは、驚く＿＿＿。", 
-                                "Esa película es muy popular así que no es de sorprenderse que no hayas podido encontrar entradas.", 
+                                "Esa película es muy popular así que <font color=\"#ff0000\">no es de</font> sorprenderse que no hayas podido encontrar entradas.", 
                                 "その 映画[えいが]は 人気[にんき]だから、 切符[きっぷ]が 見[み]つからなかったことは、 驚[おどろ]く<font color=\"#ff0000\">に（は） 当[あ]たらない</font>。", 
                                 "<span style=\"font-family: Arial\">に（は）当たらない</span>"
                             ], 
@@ -18144,7 +18144,7 @@
                             "data": "", 
                             "fields": [
                                 "日本では職業を聞くのがちょっと失礼＿＿＿でしょうか。", 
-                                "¿No es de mala educación preguntarle a alguien sobre el trabajo en Japón?", 
+                                "¿<font color=\"#ff0000\">No es de</font> mala educación preguntarle a alguien sobre el trabajo en Japón?", 
                                 "日本[にっぽん]では 職業[しょくぎょう]を 聞[き]くのがちょっと 失礼[しつれい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） [は]当たらない</font></span>でしょうか。", 
                                 "に（は）当たらない"
                             ], 
@@ -20675,9 +20675,9 @@
                             "data": "", 
                             "fields": [
                                 "信頼＿＿＿人に絶対にこの秘密をばらさないで。", 
-                                "Jamás expongas este secreto a nadie que no sea digno de confianza.", 
-                                "信頼[しんらい]<span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/に 足[た]りない</span>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
-                                "に足らない/に足りない"
+                                "Jamás expongas este secreto a nadie que <font color=\"#ff0000\">no sea digno de</font> confianza.", 
+                                "信頼[しんらい]<font color=\"#ff0000\">（する）に&nbsp;足[た]らない/（する）に 足[た]りない</font>&nbsp;人[ひと]に 絶対[ぜったい]にこの 秘密[ひみつ]をばらさないで。", 
+                                "（する）に足らない/（する）に足りない"
                             ], 
                             "flags": 0, 
                             "guid": "M%n^qvSE//", 
@@ -21281,8 +21281,8 @@
                             "data": "", 
                             "fields": [
                                 "こんな情けない年金は生きる＿＿＿。", 
-                                "Esta pensión miserable no es suficiente para vivir.", 
-                                "こんな 情[なさ]けない 年金[ねんきん]は 生[い]きる<span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/に 足[た]りない</span>。", 
+                                "Esta pensión miserable <font color=\"#ff0000\">no es suficiente</font> para vivir.", 
+                                "こんな 情[なさ]けない 年金[ねんきん]は 生[い]きる<font color=\"#ff0000\">に&nbsp;足[た]らない/に 足[た]りない</font>。", 
                                 "に足らない/に足りない"
                             ], 
                             "flags": 0, 
@@ -21821,7 +21821,7 @@
                             "data": "", 
                             "fields": [
                                 "自分の人生で経験したこと＿＿＿注意させて。", 
-                                "Déjame advertirte en vista de lo que yo mismo he experimentado en mi vida.", 
+                                "Déjame advertirte <font color=\"#ff0000\">en vista de</font> lo que yo mismo he experimentado en mi vida.", 
                                 "自分[じぶん]の 人生[じんせい]で 経験[けいけん]したこと<font color=\"#ff0000\">に 照[て]らして</font> 注意[ちゅうい]させて。", 
                                 "に照らして"
                             ], 
@@ -23602,7 +23602,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "（する）に難くない"
+                "に照らして"
             ], 
             "tmpls": [
                 {
