@@ -731,12 +731,12 @@
                                 "でなくて 何[なん]だろう", 
                                 "でなくてなんだろう", 
                                 "¿si no es eso, entonces qué es?", 
-                                "Sustantivo + forma gramatical.", 
-                                "Esta es una pregunta retórica que busca indicar que algo \"debe ser\" o \"es definitivamente\" tal cosa, por lo a menudo se traduce de esa forma.", 
-                                "君[きみ]の 彼女[かのじょ]への 止[と]められない気持[きも]ちは、 愛[あい]＿＿＿。", 
-                                "Si ese sentimiento imparable que tienes por ella no es amor, ¿entonces qué es? / Ese sentimiento imparable que tienes por ella es definitivamente amor.", 
-                                "政治家[せいじか]として 企業[きぎょう]のお 金[かね]を 受[う]け 取[と]るのは、 汚職[おしょく]＿＿＿。", 
-                                "Si como político recibir dinero de una corporación no es corrupción, ¿entónces qué es? / Recibir dinero de una corporación como político es definitivamente corrupción.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Esta es una pregunta retórica que busca indicar que algo \"<font color=\"#ff0000\">debe ser</font>\" o \"<font color=\"#ff0000\">es definitivamente</font>\" tal cosa, por lo a menudo se traduce de esa forma.<div><br /></div><div>君[きみ]の 彼女[かのじょ]への 止[と]められない気持[きも]ちは、 愛[あい]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Si</font> ese sentimiento imparable que tienes por ella <font color=\"#ff0000\">no es</font> amor, <font color=\"#ff0000\">¿entonces qué es?</font> / Ese sentimiento imparable que tienes por ella <font color=\"#ff0000\">es definitivamente</font> amor</i>.</div><div><br /></div><div>政治家[せいじか]として 企業[きぎょう]のお 金[かね]を 受[う]け 取[と]るのは、 汚職[おしょく]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Si</font> como político recibir dinero de una corporación <font color=\"#ff0000\">no es corrupción</font>, <font color=\"#ff0000\">¿entónces qué es?</font> / Recibir dinero de una corporación como político <font color=\"#ff0000\">es definitivamente</font> corrupción</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2171,13 +2171,13 @@
                                 "くらいなら/ぐらいなら", 
                                 "くらいなら/ぐらいなら", 
                                 "くらいなら/ぐらいなら", 
-                                "si llegase a", 
-                                "Verbo en forma diccionario + forma gramatical.", 
-                                "Se usa para expresar una fuerte oposición o rechazo en la forma de, por ejemplo, \"si llegase a tener que hacer tal cosa, preferiría tirarme de un quinto piso\". Es común verlo acompañado de 方が増しだ/方が増しです.", 
-                                "宝くじを買う＿＿＿、その金を燃やしてしまった方がましだ。", 
-                                "Para gastar tu dinero en billetes de lotería, mejor quémalo.", 
-                                "彼女に金を貸す＿＿＿海に捨てるほうがましだ。", 
-                                "Es mejor tirar tu dinero al mar antes que dárselo a ella.", 
+                                "antes que / en vez de / para", 
+                                "Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Se usa para expresar una fuerte <font color=\"#ff0000\">oposición</font> o <font color=\"#ff0000\">rechazo</font>&nbsp;a una idea planteando una preferencia extrema por sobre la misma. Es común verlo acompañado de <font color=\"#ff0000\">方が増しだ/方が増しです</font>.<div><br /></div><div>宝くじを買う<font color=\"#ff0000\">＿＿＿</font>、その金を燃やしてしまった方がましだ。</div><div><i><font color=\"#ff0000\">Para</font> gastar tu dinero en billetes de lotería, mejor quémalo</i>.</div><div><br /></div><div>彼女に金を貸す<font color=\"#ff0000\">＿＿＿</font>海に捨てるほうがましだ。</div><div><i>Es mejor tirar tu dinero al mar <font color=\"#ff0000\">antes que</font> dárselo a ella</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4609,7 +4609,7 @@
                             "data": "", 
                             "fields": [
                                 "首になるのがこわいから、雇用主に＿＿＿逆らおうとする人はだれもいない。", 
-                                "Nadie se atreve a oponerse a su empleador por miedo a ser despedido.", 
+                                "Nadie se <font color=\"#ff0000\">atreve</font> a oponerse a su empleador por miedo a ser despedido.", 
                                 "首[くび]になるのがこわいから、 雇用[こよう] 主[ぬし]に&nbsp;<font color=\"#ff0000\">敢[あ]えて</font> 逆[さか]らおうとする 人[ひと]はだれもいない。", 
                                 "敢えて"
                             ], 
@@ -7493,7 +7493,7 @@
                             "data": "", 
                             "fields": [
                                 "このごろ町＿＿＿の活動は行われています。", 
-                                "Estos días se están llevando a cabo actividades a lo largo de toda la ciudad.", 
+                                "Estos días se están llevando a cabo actividades <font color=\"#ff0000\">a lo largo de</font> toda la ciudad.", 
                                 "このごろ 町[まち]<font color=\"#ff0000\">ぐるみ</font>の 活動[かつどう]は 行[おこな]われています。", 
                                 "ぐるみ"
                             ], 
@@ -9106,7 +9106,7 @@
                             "data": "", 
                             "fields": [
                                 "私は＿＿＿高く上げたバトンをうまくキャッチできない。", 
-                                "Aún me cuesta agarrar el bastón al tirarlo a lo alto.", 
+                                "<font color=\"#ff0000\">Aún</font> me cuesta agarrar el bastón al tirarlo a lo alto.", 
                                 "私[わたし]は&nbsp;<font color=\"#ff0000\">未[いま]だに</font> 高[たか]く 上[あ]げたバトンをうまくキャッチできない。", 
                                 "未だに"
                             ], 
@@ -11070,7 +11070,7 @@
                             "data": "", 
                             "fields": [
                                 "中途半端にやる＿＿＿、やらない方がましだ。", 
-                                "Para hacer las cosas por la mitad, mejor no las hagas.", 
+                                "<font color=\"#ff0000\">Para</font> hacer las cosas por la mitad, mejor no las hagas.", 
                                 "中途半端[ちゅうとはんぱ]にやる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">くらいなら/ぐらいなら</font></span>、やらない 方[ほう]がましだ。", 
                                 "くらいなら/ぐらいなら"
                             ], 
@@ -11090,7 +11090,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の言いなりになる＿＿＿、独りで暮らした方がましだ。", 
-                                "Preferiría vivir solo antes que tener que andar haciendo lo que él me dice.", 
+                                "Preferiría vivir solo <font color=\"#ff0000\">antes que</font> tener que andar haciendo lo que él me dice.", 
                                 "彼[かれ]の 言[い]いなりになる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">くらいなら/ぐらいなら</font></span>、 独[ひと]りで 暮[く]らした 方[ほう]がましだ。", 
                                 "くらいなら/ぐらいなら"
                             ], 
@@ -11110,7 +11110,7 @@
                             "data": "", 
                             "fields": [
                                 "小羊を盗んで絞首刑になる＿＿＿親羊を盗んで絞首刑になるほうがましだ。", 
-                                "Para ser colgado por un cordero, mejor serlo por una oveja.", 
+                                "<font color=\"#ff0000\">Para</font> ser colgado por un cordero, mejor serlo por una oveja.", 
                                 "小[しょう] 羊[ひつじ]を 盗[ぬす]んで 絞首刑[こうしゅけい]になる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">くらいなら/ぐらいなら</font></span>&nbsp;親[しん] 羊[ひつじ]を 盗[ぬす]んで 絞首刑[こうしゅけい]になるほうがましだ。", 
                                 "くらいなら/ぐらいなら"
                             ], 
@@ -11130,7 +11130,7 @@
                             "data": "", 
                             "fields": [
                                 "天井を眺めている＿＿＿、小説でも読んだほうがよい。", 
-                                "Podrías estar leyendo una novela en vez de estar mirando el techo.", 
+                                "Podrías estar leyendo una novela <font color=\"#ff0000\">en vez de</font> estar mirando el techo.", 
                                 "天井[てんじょう]を 眺[なが]めている<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">くらいなら/ぐらいなら</font></span>、 小説[しょうせつ]でも 読[よ]んだほうがよい。", 
                                 "くらいなら/ぐらいなら"
                             ], 
@@ -11150,7 +11150,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼は毎朝早く起きる＿＿＿死んだほうがましだ。</div>", 
-                                "Él preferiría morir antes que levantarse temprano todas las mañanas.", 
+                                "Él preferiría morir <font color=\"#ff0000\">antes que</font> levantarse temprano todas las mañanas.", 
                                 "彼[かれ]は 毎朝[まいあさ] 早[はや]く 起[お]きる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">くらいなら/ぐらいなら</font></span>&nbsp;死[し]んだほうがましだ。", 
                                 "くらいなら/ぐらいなら"
                             ], 
@@ -11869,7 +11869,7 @@
                             "data": "", 
                             "fields": [
                                 "これは私の欲しいものと＿＿＿反対だ。", 
-                                "Esto es completamente diferente a lo que quiero.", 
+                                "Esto es <font color=\"#ff0000\">completamente</font> diferente a lo que quiero.", 
                                 "これは 私[わたし]の 欲[ほ]しいものと&nbsp;<font color=\"#ff0000\">丸[まる]っきり</font> 反対[はんたい]だ。", 
                                 "丸っきり"
                             ], 
@@ -15114,7 +15114,7 @@
                             "data": "", 
                             "fields": [
                                 "彼が犯人だと断定でき＿＿＿、いろいろと怪しいところがある。", 
-                                "Aunque no podamos determinar con certeza que él sea el culpable, sí tiene aspectos sospechosos.", 
+                                "<font color=\"#ff0000\">Aunque no</font> podamos determinar con certeza que él sea el culpable, sí tiene aspectos sospechosos.", 
                                 "彼[かれ]が 犯人[はんにん]だと 断定[だんてい]でき<font color=\"#ff0000\">ないまでも</font>、いろいろと 怪[あや]しいところがある。", 
                                 "ないまでも"
                             ], 
@@ -16463,7 +16463,7 @@
                             "data": "", 
                             "fields": [
                                 "五年間＿＿＿そのプロジェクトが完成出来ません。", 
-                                "Ni aun en cinco años podremos completar ese proyecto.", 
+                                "Ni <font color=\"#ff0000\">aun</font> en cinco años podremos completar ese proyecto.", 
                                 "五 年間[ねんかん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>そのプロジェクトが 完成[かんせい] 出来[でき]ません。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
@@ -17933,7 +17933,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の言うことは一言も聞く＿＿＿ない。", 
-                                "Nada de lo que él dice merece la pena escuchar.", 
+                                "Nada de lo que él dice <font color=\"#ff0000\">merece la pena</font> escuchar.", 
                                 "彼[かれ]の 言[い]うことは 一言[ひとこと]も 聞[き]く<font color=\"#ff0000\">に 値[あたい]し</font>ない。", 
                                 "に値し"
                             ], 
@@ -19363,7 +19363,7 @@
                             "data": "", 
                             "fields": [
                                 "自分の専門＿＿＿経験についてこの用紙に書いてください。", 
-                                "Escriba en este formulario sobre las experiencias concernientes a su especialidad.", 
+                                "Escriba en este formulario sobre las experiencias <font color=\"#ff0000\">concernientes a</font> su especialidad.", 
                                 "自分[じぶん]の 専門[せんもん]に <font color=\"#ff0000\">纏[まつわ]る</font> 経験[けいけん]についてこの 用紙[ようし]に 書[か]いてください。", 
                                 "に纏る"
                             ], 
@@ -19783,7 +19783,7 @@
                             "data": "", 
                             "fields": [
                                 "このお祭りは古い伝統＿＿＿行っています。", 
-                                "Este festival se lleva a cabo cumpliendo con viejas tradiciones.", 
+                                "Este festival se lleva a cabo <font color=\"#ff0000\">cumpliendo con</font> viejas tradiciones.", 
                                 "このお 祭[まつ]りは 古[ふる]い 伝統[でんとう]<font color=\"#ff0000\">に 則[のっと]って</font> 行[い]っています。", 
                                 "に則って"
                             ], 
@@ -20224,7 +20224,7 @@
                             "data": "", 
                             "fields": [
                                 "仕事で彼女の立場は微妙＿＿＿、今にも部長が首を着るかもしれない。", 
-                                "La posición de ella en su trabajo es delicada y puede que su jefe la despida en cualquier momento.", 
+                                "La posición de ella en su trabajo es delicada <font color=\"#ff0000\">y</font> puede que su jefe la despida en cualquier momento.", 
                                 "仕事[しごと]で 彼女[かのじょ]の 立場[たちば]は 微妙[びみょう]<font color=\"#ff0000\">にして</font>、 今[いま]にも 部長[ぶちょう]が 首[くび]を 着[き]るかもしれない。", 
                                 "にして"
                             ], 
@@ -21215,8 +21215,8 @@
                             "data": "", 
                             "fields": [
                                 "もちろん、口頭試問だけで合格＿＿＿。", 
-                                "Por supuesto, el examen oral no es suficiente para aprobar.", 
-                                "もちろん、 口頭[こうとう] 試問[しもん]だけで 合[ごう] 額[がく]<font color=\"#ff0000\">（する）</font><span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/（する）に 足[た]りない</span>。", 
+                                "Por supuesto, el examen oral <font color=\"#ff0000\">no es suficiente</font> para aprobar.", 
+                                "もちろん、 口頭[こうとう] 試問[しもん]だけで 合[ごう] 額[がく]<font color=\"#ff0000\">（する）に&nbsp;足[た]らない/（する）に 足[た]りない</font>。", 
                                 "（する）に足らない/（する）に足りない"
                             ], 
                             "flags": 0, 
@@ -21237,8 +21237,8 @@
                             "data": "", 
                             "fields": [
                                 "その政治家は以前国を一回裏切ったから、今はもう信頼＿＿＿。", 
-                                "Ese político ha traicionado una vez al país antes, así que ahora ya no es digno de confianza.", 
-                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#ff0000\">（する）</font><span style=\"color: rgb(0, 0, 255)\">に&nbsp;</span><span style=\"color: rgb(0, 0, 255);\">足[た]らない</span><span style=\"color: rgb(0, 0, 255)\">/（する）に 足[た]りない</span>。", 
+                                "Ese político ha traicionado una vez al país antes, así que ahora ya <font color=\"#ff0000\">no es digno de</font> confianza.", 
+                                "その 政治[せいじ] 家[か]は 以前[いぜん] 国[こく]を一 回[かい] 裏切[うらぎ]ったから、 今[いま]はもう 信頼[しんらい]<font color=\"#ff0000\">（する）に&nbsp;足[た]らない/（する）に 足[た]りない</font>。", 
                                 "（する）に足らない/（する）に足りない"
                             ], 
                             "flags": 0, 
@@ -21388,7 +21388,7 @@
                             "data": "", 
                             "fields": [
                                 "社長の素晴らしい交渉スキル＿＿＿その件は無事に解決されるはずです。", 
-                                "En vista de las exelentes habilidades de negociación del presidente de la compañía, seguro que ese asunto se resuelve sin problemas.", 
+                                "<font color=\"#ff0000\">En vista de</font> las exelentes habilidades de negociación del presidente de la compañía, seguro que ese asunto se resuelve sin problemas.", 
                                 "社長[しゃちょう]の 素晴[すば]らしい 交渉[こうしょう]スキル<font color=\"#ff0000\">に 照[て]らして</font>その 件[けん]は 無事[ぶじ]に 解決[かいけつ]されるはずです。", 
                                 "に照らして"
                             ], 
@@ -21592,7 +21592,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は葬儀に参加する＿＿＿、すべての段取りをつけなくてはならない。", 
-                                "Ella no sólo tiene que asistir al funeral sino que también hacer todos los arreglos.", 
+                                "Ella <font color=\"#ff0000\">no sólo</font> tiene que asistir al funeral <font color=\"#ff0000\">sino que también</font> hacer todos los arreglos.", 
                                 "彼女[かのじょ]は 葬儀[そうぎ]に 参加[さんか]する<font color=\"#ff0000\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、すべての 段取[だんど]りをつけなくてはならない。", 
                                 "だけで（は）なく/（だけ）にとどまらず/のみならず"
                             ], 
@@ -21638,7 +21638,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼は勉強＿＿＿運動も好きだ。</div>", 
-                                "A él no sólo le los estudios sino también los deportes.", 
+                                "A él <font color=\"#ff0000\">no sólo</font> le los estudios <font color=\"#ff0000\">sino también</font> los deportes.", 
                                 "彼[かれ]は 勉強[べんきょう]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font> 運動[うんどう]も 好[す]きだ。", 
                                 "だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか"
                             ], 
