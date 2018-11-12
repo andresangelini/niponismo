@@ -4548,6 +4548,39 @@
                                 "Niponismo", 
                                 "を踏まえて"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "を経て", 
+                                "を 経[へ]て", 
+                                "をへて", 
+                                "pasar (por / a través de)", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión que indica el <font color=\"#ff0000\">paso por</font> o a <font color=\"#ff0000\">través de</font> un <font color=\"#ff0000\">tiempo</font>, <font color=\"#ff0000\">lugar</font>, <font color=\"#ff0000\">proceso</font> o <font color=\"#ff0000\">experiencia</font>.<div><br /></div><div>１５ 年[ねん]の 時[とき]<font color=\"#ff0000\">＿＿＿</font>、そのバンドのメンバがも 一度[いちど] 集[あつ]まって 伝説[でんせつ]のコンサートを行うことにした。</div><div><i>Tras (<font color=\"#ff0000\">pasar</font>) quince años, los miembros de esa banda decidieron reunirse nuevamente y dar un concierto legendario</i>.</div><div><br /></div><div>難民[なんみん]は 地中海[ちちゅうかい]<font color=\"#ff0000\">＿＿＿</font>、 見窄[みす]らしい 船[ぶね]でエウロパに 到着[とうちゃく]しています。</div><div><i>Los refujiados llegan a Europa <font color=\"#ff0000\">pasando por</font> el Mediterraneo en botes en pésimas condiciones</i>.</div><div><br /></div><div>長[なが]い 手続[てつづ]き<font color=\"#ff0000\">＿＿＿</font>、やっと 旅券[りょけん]が 発行[はっこう]された。</div><div><i>Tras <font color=\"#ff0000\">pasar por</font> un largo proceso, finalmente expidieron mi pasaporte</i>.</div><div><br /></div><div>戦争[せんそう]＿＿＿、 彼[かれ]は 自分[じぶん]らくなかった。</div><div><i>Tras <font color=\"#ff0000\">pasar por</font> la guerra, él ya no era el mismo</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "W4s;F&{ar", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "を経て"
+                            ]
                         }
                     ]
                 }, 
@@ -23554,6 +23587,69 @@
                                 "Oración", 
                                 "にあって（は）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私達は４年の交際期間＿＿＿結婚した。", 
+                                "Nosotros no casamos tras <font color=\"#ff0000\">pasar</font> cuatro años saliendo.", 
+                                "私[わたし] 達[たち]は４ 年[ねん]の 交際[こうさい] 期間[きかん]<font color=\"#ff0000\">を 経[へ]て</font> 結婚[けっこん]した。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d@$.s]mzI}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を経て"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "幾多の紆余曲折＿＿＿条約は締結されるに至った。", 
+                                "El acuerdo se cerró tras <font color=\"#ff0000\">pasar</font> muchas idas y venidas.", 
+                                "幾多[いくた]の 紆余曲折[うよきょくせつ]<font color=\"#ff0000\">を 経[へ]て</font> 条約[じょうやく]は 締結[ていけつ]されるに 至[いた]った。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jG6yEL&5g>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を経て"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの問題も、紆余曲折＿＿＿解決した。", 
+                                "Ese problema también fue resuelto tras <font color=\"#ff0000\">pasar</font> muchas idas y vueltas.", 
+                                "あの 問題[もんだい]も、 紆余曲折[うよきょくせつ]<font color=\"#ff0000\">を 経[へ]て</font> 解決[かいけつ]した。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v^ShUz]lE,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を経て"
+                            ]
                         }
                     ]
                 }
@@ -23684,9 +23780,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "にあって（は）"
+                "tatoeba", 
+                "を経て"
             ], 
             "tmpls": [
                 {
@@ -23890,7 +23986,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "を踏まえて"
+                "を経て"
             ], 
             "tmpls": [
                 {
