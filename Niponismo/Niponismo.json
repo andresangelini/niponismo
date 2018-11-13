@@ -23734,6 +23734,90 @@
                                 "Oración", 
                                 "ならでは/ならではの"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "複雑な手続き＿＿＿兄は営業許可書を貰えました。", 
+                                "Mi hermano recibió el permiso para abrir el negocio tras <font color=\"#ff0000\">pasar por</font> un complicado proceso.", 
+                                "複雑[ふくざつ]な 手続[てつづ]き<font color=\"#ff0000\">を 経[へ]て</font> 兄[あに]は 営業[えいぎょう] 許可[きょか] 書[しょ]を 貰[もら]えました。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oeJRL(4!go", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を経て"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "３０年の時＿＿＿、高校時代の友人と再会した。", 
+                                "Tras <font color=\"#ff0000\">pasar</font> treintas años, volví a reunierme con mis viejos amigos del bachillerato.", 
+                                "３０ 年[ねん]の 時[とき]<font color=\"#ff0000\">を 経[へ]て</font>、 高校[こうこう] 時代[じだい]の 友人[ゆうじん]と 再会[さいかい]した。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "m::aJ6]{*:", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を経て"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その境＿＿＿、大勢の兵士たちは我々を待っていたんだ。", 
+                                "Un montón de soldados nos estaban esperando al <font color=\"#ff0000\">pasar por</font> la frontera.", 
+                                "その 境[さかい]<font color=\"#ff0000\">を 経[へ]て</font>、 大勢[たいせい]の 兵士[へいし]たちは 我々[われわれ]を 待[ま]っていたんだ。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "l<HXtSP^tu", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を経て"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "戦争の恐ろしさ＿＿＿、前の自分に戻ることが出来ない。", 
+                                "Al <font color=\"#ff0000\">pasar por</font> los horrores de la guerra no se puede volver a ser el mismo de antes.", 
+                                "戦争[せんそう]の 恐[おそ]ろしさ<font color=\"#ff0000\">を 経[へ]て</font>、 前[まえ]の 自分[じぶん]に 戻[もど]ることが 出来[でき]ない。", 
+                                "を経て"
+                            ], 
+                            "flags": 0, 
+                            "guid": "E`@Nj:,O6`", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を経て"
+                            ]
                         }
                     ]
                 }
@@ -23866,7 +23950,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "ならでは/ならではの"
+                "を経て"
             ], 
             "tmpls": [
                 {
