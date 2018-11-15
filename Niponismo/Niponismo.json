@@ -1510,12 +1510,12 @@
                                 "じみた", 
                                 "じみた", 
                                 "que parece de", 
-                                "Sustantivo + forma gramatical + sustantivo.", 
-                                "Equivalente a ～のような. Se usa para expresar parecidos y puede traducirse como \"parecido(a) a\",&nbsp;\"como\",&nbsp;etc.", 
-                                "父[ちち]は 時[とき]には 子供[こども]＿＿＿ことをいったりします。", 
-                                "A veces mi padre dice cosas que parecen de un niño.", 
-                                "子供[こども]＿＿＿まねはよしなさい。", 
-                                "No hagas niñerías.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo", 
+                                "Equivalente a <font color=\"#ff0000\">～のような</font>. Se usa para expresar parecidos y puede traducirse como \"<font color=\"#ff0000\">parecido(a) a</font>\",&nbsp;\"<font color=\"#ff0000\">como</font>\",&nbsp;etc.<div><br /></div><div>父[ちち]は 時[とき]には 子供[こども]<font color=\"#ff0000\">＿＿＿</font>ことをいったりします。</div><div><i>A veces mi padre dice cosas <font color=\"#ff0000\">que parecen de</font> un niño</i>.</div><div><br /></div><div>子供[こども]<font color=\"#ff0000\">＿＿＿</font>まねはよしなさい。</div><div><i>No hagas niñerías (cosas <font color=\"#ff0000\">que parecen de</font> niño)</i>.&nbsp;</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1577,10 +1577,10 @@
                                 "かいもなく", 
                                 "かいもなく", 
                                 "a pesar de que", 
-                                "<div>Verbo た + forma gramatical.</div><div>Sustantivo + の + forma gramatical.</div>", 
-                                "Al igual que la partícula が expresa que el hecho o acción descrita no cambió el resultado. Por lo tanto, sólo se usa con tiempo pasado.", 
-                                "必死[ひっし]の勉強[べんきょう]の＿＿＿、試験は不合格[ふごうかく]でした。", 
-                                "A pesar de que estudié como loco, reprobé el examen.", 
+                                "<div>Verbo た + <font color=\"#ff0000\">＿＿＿</font></div><div>Sustantivo + の + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Al igual que la partícula <font color=\"#ff0000\">が</font> expresa que <font color=\"#ff0000\">el hecho o acción descrita no cambió el resultado</font>. Por lo tanto, <font color=\"#ff0000\">sólo se usa con tiempo pasado</font>.<div><br /></div><div>必死[ひっし]の勉強[べんきょう]の<font color=\"#ff0000\">＿＿＿</font>、試験は不合格[ふごうかく]でした。</div><div><i><font color=\"#ff0000\">A pesar de que</font> estudié como loco, reprobé el examen</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2600,10 +2600,10 @@
                                 "ものと 思[おも]われる", 
                                 "ものとおもわれる", 
                                 "creer que", 
-                                "Frase + forma gramatical.", 
-                                "Expresa una suposición ya sea de quien habla o de un tercero, por lo que puede interpretarse tanto como \"creer que\", así como \"creerse que\".", 
-                                "彼[かれ]らその 悲惨[ひさん]な 事故[じこ]で 死[し]んだ＿＿＿。", 
-                                "Se creía que ellos habían muerto en ese trágico accidente.", 
+                                "Frase + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<font color=\"#ff0000\">Expresa una suposición</font> ya sea de quien habla o de un tercero, por lo que puede interpretarse tanto como \"<font color=\"#ff0000\">creer que</font>\", así como \"<font color=\"#ff0000\">creerse que</font>\".<div><br /></div><div>彼[かれ]らその 悲惨[ひさん]な 事故[じこ]で 死[し]んだ<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se creía que</font> ellos habían muerto en ese trágico accidente</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -8067,7 +8067,7 @@
                             "data": "", 
                             "fields": [
                                 "昨夜警察をよぶより＿＿＿仕方がなかった。", 
-                                "Anoche no nos quedó otra opción más que llamar a la policía.", 
+                                "Anoche <font color=\"#ff0000\">no</font> nos <font color=\"#ff0000\">quedó otra</font> opción más <font color=\"#ff0000\">que</font> llamar a la policía.", 
                                 "昨夜[さくや] 警察[けいさつ]をよぶより<font color=\"#ff0000\">ほかに</font> 仕方[しかた]がなかった。", 
                                 "ほかに"
                             ], 
@@ -9764,7 +9764,7 @@
                             "data": "", 
                             "fields": [
                                 "今年のマラソンには１５００人＿＿＿人が参加した。", 
-                                "Este años participaron hasta unas mil quinientas personas en la maratón.", 
+                                "Este años participaron <font color=\"#ff0000\">hasta unas</font> mil quinientas personas en la maratón.", 
                                 "今年[ことし]のマラソンには１５００ 人[にん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">からの</font></span>&nbsp;人[ひと]が 参加[さんか]した。", 
                                 "からの"
                             ], 
@@ -12595,7 +12595,7 @@
                             "data": "", 
                             "fields": [
                                 "本当のことを言＿＿＿いい＿＿＿、彼は嘘をついて信用を失ってしまった。", 
-                                "Si hubiera dicho la verdad, le hubieran creído. Pero él mintió y perdió toda confianza.", 
+                                "<font color=\"#ff0000\">Si hubiera</font> dicho la verdad, <font color=\"#ff0000\">le hubieran</font> creído. Pero él mintió y perdió toda confianza.", 
                                 "本当[ほんとう]のことを 言[い]<font color=\"#ff0000\">えば/ったら</font>いい<font color=\"#ff0000\">ものを</font>、 彼[かれ]は 嘘[うそ]をついて 信用[しんよう]を 失[うしな]ってしまった。", 
                                 "えば～ものを/ったら～ものを"
                             ], 
@@ -19879,7 +19879,7 @@
                             "data": "", 
                             "fields": [
                                 "先日の会議で決めたこと＿＿＿進みましょう。", 
-                                "Procedamos cumpliendo con lo que hemos decidido el otro día.", 
+                                "Procedamos <font color=\"#ff0000\">cumpliendo con</font> lo que hemos decidido el otro día.", 
                                 "先日[せんじつ]の 会議[かいぎ]で 決[き]めたこと<font color=\"#ff0000\">に 則[のっと]って</font> 進[すす]みましょう。", 
                                 "に則って"
                             ], 
@@ -20600,7 +20600,7 @@
                             "data": "", 
                             "fields": [
                                 "その書店には読む＿＿＿本が本当にありますか。", 
-                                "¿Hay realmente un libro que valga la pena leer en esa librería?", 
+                                "¿Hay realmente un libro que <font color=\"#ff0000\">valga la pena</font> leer en esa librería?", 
                                 "その 書店[しょてん]には 読[よ]む<font color=\"#ff0000\">に 値[あたい]する</font>&nbsp;本[ほん]が 本当[ほんとう]にありますか。", 
                                 "<div>に値する</div>"
                             ], 
@@ -21018,7 +21018,7 @@
                             "data": "", 
                             "fields": [
                                 "大衆によって重んじられている人が必ずしもそれを受ける＿＿＿人とは言えない。", 
-                                "Aquellos que reciben el respeto de la gente no siempre se lo merecen.", 
+                                "Aquellos que reciben el respeto de la gente no siempre <font color=\"#ff0000\">se lo merecen</font>.", 
                                 "大衆[たいしゅう]によって 重[おも]んじられている 人[ひと]が 必[かなら]ずしもそれを 受[う]ける<font color=\"#ff0000\">に 値[あたい]する</font>人[ひと]とは 言[い]えない。", 
                                 "に値する"
                             ], 
@@ -21378,9 +21378,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "その科学者は、最新の科学知識＿＿＿その奇妙な現象を説明した", 
-                                "Ese científico explicó esos extraños fenómenos a la luz de los últimos conocimientos científicos.", 
-                                "その 科学[かがく] 者[しゃ]は、 最新[さいしん]の 科学[かがく] 知識[ちしき]<font color=\"#ff0000\">に 照[て]らして</font>その 奇妙[きみょう]な 現象[げんしょう]を 説明[せつめい]した", 
+                                "その科学者は、最新の科学知識＿＿＿その奇妙な現象を説明した。", 
+                                "Ese científico explicó esos extraños fenómenos <font color=\"#ff0000\">a la luz de</font> los últimos conocimientos científicos.", 
+                                "その 科学[かがく] 者[しゃ]は、 最新[さいしん]の 科学[かがく] 知識[ちしき]<font color=\"#ff0000\">に 照[て]らして</font>その 奇妙[きみょう]な 現象[げんしょう]を 説明[せつめい]した。", 
                                 "に照らして"
                             ], 
                             "flags": 0, 
