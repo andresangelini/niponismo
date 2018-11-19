@@ -56,12 +56,12 @@
                                 "飽[あ]く 迄[まで]も", 
                                 "あくまでも", 
                                 "lo más", 
-                                "Forma gramatical + sustantivo o verbo.", 
-                                "Se refiere a \"lo máximo\" que algo puede ser cuando se usa delante de un adjetivo o \"lo más que se pueda\" cuando se usa delante de una acción.", 
-                                "空[そら]は＿＿＿ 青[あお]い。", 
-                                "El cielo es de lo más azul.", 
-                                "彼[かれ]は＿＿＿ 沈黙[ちんもく]を 守[まも]ろうとした。", 
-                                "El trató de mantenerse callado lo más que pudo.", 
+                                "Forma gramatical + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Se refiere a \"<font color=\"#ff0000\">lo máximo</font>\" que algo puede ser cuando se usa <font color=\"#ff0000\">delante de un adjetivo</font> o \"<font color=\"#ff0000\">lo más que se pueda</font>\" cuando se usa <font color=\"#ff0000\">delante de una acción</font>.<div><br /></div><div>空[そら]は<font color=\"#ff0000\">＿＿＿</font> 青[あお]い。</div><div><i>El cielo es de <font color=\"#ff0000\">lo más</font> azul</i>.</div><div><br /></div><div>彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 沈黙[ちんもく]を 守[まも]ろうとした。</div><div><i>El trató de mantenerse callado <font color=\"#ff0000\">lo más</font> que pudo</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -539,12 +539,12 @@
                                 "ぶり", 
                                 "ぶり", 
                                 "forma de", 
-                                "<div>Sustantivo + forma gramatical.</div><div>Verbo sin ます + forma gramatical (hablado puede sonar con \"p\" también).</div>", 
-                                "Es equivalente al sufijo かた de, por ejemplo, 話[はな]し 方[かた] ya que también se usa para referirse a la forma de hacer algo.", 
-                                "上司[じょうし]は 僕[ぼく]の 仕事[しごと]＿＿＿がいい 加減[がけん]だと 決[き]め 付[つ]けた。", 
-                                "Mi jefe simplemente decidió que mi trabajo era malo.", 
-                                "皆は戸惑ったような顔で社長の笑いっ＿＿＿を見ていた。", 
-                                "Todo el mundo se quedó mirando con cara de extrañado la forma de reír del presidente de la compañía.", 
+                                "<div>Sustantivo + <font color=\"#ff0000\">＿＿＿</font></div><div>Verbo sin ます + <font color=\"#ff0000\">＿＿＿</font> (hablado puede sonar con \"p\" también).</div>", 
+                                "Es equivalente al sufijo <font color=\"#ff0000\">かた</font> de, por ejemplo, <font color=\"#ff0000\">話[はな]し 方[かた]</font> ya que también se usa para referirse a la forma de hacer algo.<div><br /></div><div>上司[じょうし]は 僕[ぼく]の 仕事[しごと]<font color=\"#ff0000\">＿＿＿</font>がいい 加減[がけん]だと 決[き]め 付[つ]けた。</div><div><i>Mi jefe simplemente decidió que mi <font color=\"#ff0000\">forma de</font> trabajar era mala</i>.</div><div><br /></div><div>皆[みんな]は 戸惑[とまど]ったような 顔[かお]で 社長[しゃこう]の 笑[わら]いっ<font color=\"#ff0000\">＿＿＿</font>を 見[み]ていた。</div><div><i>Todo el mundo se quedó mirando con cara de extrañado la <font color=\"#ff0000\">forma de</font> reír del presidente de la compañía</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1312,10 +1312,10 @@
                                 "（の）いかんで（は）/（の）いかんによって（は）", 
                                 "（の）いかんで（は）/（の）いかんによって（は）", 
                                 "dependiendo de", 
-                                "Sustantivo + (の) + forma gramatical + (は).<div>Sustantivo + (の) + forma gramatical terminada en だ (al final de la oración).</div>", 
-                                "<div>Tanto la partícula の detrás del sustantivo como la partícula は detrás del punto gramatical son opcionales. Además, esta forma tiene dos variantes: ～で y ～によって. Ambas quieren decir lo mismo. Por último, este punto gramatical puede terminar una oración. En ese caso, sí o sí debe terminar en ～だ en lugar de ～で o ～によって.</div>", 
-                                "試験[しけん]の 結果[けっか]＿＿＿、 卒業[そつぎょう]できないこともある&nbsp;", 
-                                "Es posible que no te puedas graduar dependiendo de los resultados del examen.", 
+                                "Sustantivo + (の) + <font color=\"#ff0000\">＿＿＿</font> + (は)<div>Sustantivo + (の) + <font color=\"#ff0000\">＿＿＿だ</font> (al final de la oración)</div>", 
+                                "<div>Expresión que <font color=\"#ff0000\">establece la dependencia</font> del lo que siguie a continuación a lo que antecede. Tanto la partícula <font color=\"#ff0000\">の</font> detrás del sustantivo como la partícula <font color=\"#ff0000\">は</font> detrás del punto gramatical son opcionales. Además, esta forma tiene dos variantes: <font color=\"#ff0000\">～で</font> y <font color=\"#ff0000\">～によって</font>. Ambas quieren decir lo mismo. Por último, este punto gramatical <font color=\"#ff0000\">puede terminar una oración</font>. En ese caso, sí o sí debe terminar en <font color=\"#ff0000\">～だ</font> en lugar de <font color=\"#ff0000\">～で</font> o <font color=\"#ff0000\">～によって</font>.</div><div><br /></div><div>試験[しけん]の 結果[けっか]<font color=\"#ff0000\">＿＿＿</font>、 卒業[そつぎょう]できないこともある 。</div><div><i>Es posible que no te puedas graduar <font color=\"#ff0000\">dependiendo de</font> los resultados del examen</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -3490,16 +3490,16 @@
                                 "なりに/なりの", 
                                 "なりに/なりの", 
                                 "forma o estilo propio", 
-                                "Sustantivo, adjetivo な o い + forma gramatical con に + acción.<div>Sustantivo, adjetivo な o い + forma gramatical con の + sustantivo.</div>", 
-                                "Esta forma se usa para expresar la manera propia de hacer las cosas y a menudo se la usa junto a なら en frases de tipo condicional. Cuando le sigue un sustantivo se usa con la partícula の y cuando le sigue un acción se debe usar la partícula に como si fuese un adverbio. En ciertos casos también se puede interpretar como \"acorde a\".", 
-                                "<div>初心者[しょしんしゃ]＿＿＿によくやった。</div>", 
-                                "Él lo hizo bien para un principiante.", 
-                                "彼[かれ]らには 彼[かれ]ら＿＿＿の 悩[なや]みがある。", 
-                                "Ellos tienen sus propios problemas.", 
-                                "葬式[そうしき]に 出席[しゅっせき]するなら、それ＿＿＿ 服装[ふくそう]をしなければならない。", 
-                                "Si debes asistir a un funeral, tienes que vestir acorde.", 
-                                "やるならやる＿＿＿に。", 
-                                "Si lo vas a hacer, hazlo a tu manera.", 
+                                "Sustantivo, adjetivo な o い + <font color=\"#ff0000\">＿＿＿に</font> + acción<div>Sustantivo, adjetivo な o い + <font color=\"#ff0000\">＿＿＿の</font> + sustantivo</div>", 
+                                "<div>Esta expresión indica que el sujeto tiene una <font color=\"#ff0000\">forma o estilo propio de hacer las cosas</font>. Puede usarse tanto para referirse a un <font color=\"#ff0000\">sustantivo</font>:</div><div><br /></div><div>私は自分<font color=\"#ff0000\">＿＿＿の</font>やり方があるの。</div><div><i>Yo tengo una <font color=\"#ff0000\">manera propia de</font> hacer las cosas</i>.</div><div><br /></div><div>Como a una <font color=\"#ff0000\">acción</font>:</div><div><br /></div><div>この問題をあなた<font color=\"#ff0000\">＿＿＿に</font>解いてください。</div><div><i>Resuelve este problema <font color=\"#ff0000\">a tu manera</font></i>.</div><div><br /></div><div>Es común usarlo junto a <font color=\"#ff0000\">なら</font> en una <font color=\"#ff0000\">frase condicional</font>:</div><div><br /></div><div>やるならやる<font color=\"#ff0000\">＿＿＿に</font>。</div><div><i>Si lo vas a hacer, hazlo <font color=\"#ff0000\">a tu manera</font></i>.</div><div><br /></div><div>Por último, también puede tener la connotación de \"<font color=\"#ff0000\">acorde a</font>\":</div><div><br /></div><div>貧しいなら貧しい<font color=\"#ff0000\">＿＿＿に</font>生きるべきだ。</div><div><i>Si es es pobre, se debe vivir <font color=\"#ff0000\">como tal</font></i>.</div><div><br /></div><div>葬式に出席するなら、それ<font color=\"#ff0000\">＿＿＿の</font>服装が必要です。</div><div><i>Si vas a asistir a un funeral necesitarás vestimenta <font color=\"#ff0000\">acorde</font></i>.</div><div><br /></div><div>Esta forma es más fácil de usar de lo que parece. Sólo debemos prestar atención de si estamos hablando de una <font color=\"#ff0000\">cosa o de una acción</font> para saber si usar <font color=\"#ff0000\">に</font> o <font color=\"#ff0000\">の</font>.</div>", 
+                                "<div><br /></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 ""
                             ], 
@@ -3888,12 +3888,12 @@
                                 "に 纏[まつわ]る", 
                                 "にまつわる", 
                                 "concerniente a", 
-                                "Sustantivo + forma gramatical.", 
-                                "Es una expresión equivalente a 〜に 関連[かんれん]する que indica una relación entre el sustantivo que lo precede y el resto.", 
-                                "その 会社[かいしゃ]＿＿＿ 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
-                                "Tenía que contarle al presidente la verdad concerniente a esa compañía.", 
-                                "この 刀[かたな]＿＿＿ 伝説[でんせつ]が 沢山[たくさん]ある。", 
-                                "Hay muchas leyendas concernientes a esta espada.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<div>Esta expresión equivale a <font color=\"#ff0000\">〜関連する</font> ya que también <font color=\"#ff0000\">establece una relación</font> entre el sustantivo precedente y lo que sigue a continuación.</div><div><br /></div><div>ご 両親[りょうしん]の 事件[じけん]<font color=\"#ff0000\">＿＿＿&nbsp;</font>真相[しんそう]をどうしても 伝[つた]えたかったです。</div><div><i>Quería contarte de todas formas la verdad <font color=\"#ff0000\">concerniente al</font> caso de tus padres</i>.</div><div><br /></div><div>この 地方[ちほう]ではその 森[もり]<font color=\"#ff0000\">＿＿＿&nbsp;</font>伝説[でんせつ]は 未[ま]だに 沢山[たくさん] 伝[つた]わっている。</div><div><i>En esta región aún se cuentan muchas leyendas <font color=\"#ff0000\">concernientes a</font> ese bosque</i>.</div><div><br /></div><div>政府[せいふ]はその 汚染[おせん] 事件[じけん]<font color=\"#ff0000\">＿＿＿&nbsp;</font>声明[せいめい]は 未[まだ]だありません。</div><div><i>El gobierno no ha hecho aún una declaración <font color=\"#ff0000\">concerniente al</font> caso de corrupción</i>.</div><div><br /></div><div>Esta forma gramatical es bastante sencilla aunque <font color=\"#ff0000\">su uso parece ser más bien formal</font>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -3954,11 +3954,11 @@
                                 "にもまして", 
                                 "にもまして", 
                                 "aún más que", 
-                                "Sustantivo + forma gramatical.", 
-                                "Es un comparativo que se usa para expresar que lo que sigue supera totalmente al sustantivo. Dicho sustantivo suele ser &nbsp;以前[いぜん], &nbsp;誰[だれ], どこ, &nbsp;何[に] o algún otra palabra interrogativa.", 
-                                "桜[さくら]は 以前[いぜん]＿＿＿ 美[うつく]しいですね。", 
-                                "Los cerezos están más bellos que nunca, ¿no cree?", 
-                                "土曜日[どようび]はいつ＿＿＿お 客[きゃく]さんが 多[おお]い。", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<div>Esta forma es un <font color=\"#ff0000\">comparativo</font> que indica que algo es o se hace <font color=\"#ff0000\">aún más que</font> lo que indica el sustantivo.</div><div><br /></div><div>私[わたし]は 彼[かれ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>勤勉[べんきょう]に 働[はたら]いている。</div><div><i>Yo trabajo <font color=\"#ff0000\">aún más</font> diligentemente <font color=\"#ff0000\">que</font> él</i>.&nbsp;</div><div><br /></div><div>El sustantivo suele ser <font color=\"#ff0000\">以前</font> o una palabra interrogativa como <font color=\"#ff0000\">何</font>、<font color=\"#ff0000\">誰</font>、<font color=\"#ff0000\">何時</font>、<font color=\"#ff0000\">どこ</font>, etc.</div><div><br /></div><div>あなたを 誰[だれ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>愛[あい]している。</div><div><i>Te amo <font color=\"#ff0000\">más que</font> a nadie</i>.</div><div><br /></div><div>何[なに]<font color=\"#ff0000\">＿＿＿</font>その 車[くるま]が 欲[ほ]しいです。</div><div><i>Quiere ese auto <font color=\"#ff0000\">más que</font> ninguna otra cosa</i>.</div><div><br /></div><div>彼[かれ]は 彼女[かのじょ]に 合[あ]ってから 以前[いぜん]<font color=\"#ff0000\">＿＿＿&nbsp;</font>明[あか]るいです。</div><div><i>Él está mucho <font color=\"#ff0000\">más</font> alegre (<font color=\"#ff0000\">que</font> antes) desde que la conoció</i>.</div><div><br /></div><div>どこ<font color=\"#ff0000\">＿＿＿&nbsp;</font>日本[にほん]に 行[い]きたいです。</div><div><i>Quiero ir a Japón <font color=\"#ff0000\">más que</font> a ningún otro lugar</i>.</div><div><br /></div><div>この 商店街[しょうてんがい]は 何時[なんじ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>金曜日[きんようび]と 土曜日[どようび]が 賑[にぎ]わっている。</div><div><i>Esta avenida de compras se vuelve <font color=\"#ff0000\">más</font> animada los viernes y sábados <font color=\"#ff0000\">más que</font> ningún otro día</i>.</div><div><br /></div><div>私[わたし]はそのことが 誰[だれ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>分[わ]かっている。</div><div><i>Yo sé eso <font color=\"#ff0000\">más que</font> nadie</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
                                 "Los sábados hay más clientes que en cualquier otro día.", 
                                 "", 
                                 "", 
@@ -14242,8 +14242,8 @@
                             "data": "", 
                             "fields": [
                                 "困難＿＿＿前進すべし。", 
-                                "Deberías hacer las cosas a tu manera a pesar de las dificultades.", 
-                                "困難[こんなん]<span style=\"color: rgb(0, 0, 255)\">を 顧[かえり]みず/も 顧[かえり]みず</span>&nbsp;前進[ぜんしん]すべし。", 
+                                "Deberías hacer las cosas a tu manera <font color=\"#ff0000\">a pesar de</font> las dificultades.", 
+                                "困難[こんなん]<font color=\"#ff0000\">を 顧[かえり]みず/も 顧[かえり]みず</font>&nbsp;前進[ぜんしん]すべし。", 
                                 "を顧みず/も顧みず"
                             ], 
                             "flags": 0, 
@@ -24061,6 +24061,134 @@
                                 "tatoeba", 
                                 "に則って"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "桜は以前＿＿＿美しいですね。", 
+                                "<i>Los cerezos están <font color=\"#ff0000\">más</font> bellos <font color=\"#ff0000\">que</font> nunca, ¿no cree?</i>", 
+                                "桜[さくら]は 以前[いぜん]<font color=\"#ff0000\">にもまして</font> 美[うつく]しいですね。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r2lY5afJ!A", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "土曜日はいつ＿＿＿お客さんが多い。", 
+                                "<i>Los sábados hay <font color=\"#ff0000\">más</font> clientes <font color=\"#ff0000\">que</font> en cualquier otro día</i>.", 
+                                "土曜日[どようび]はいつ<font color=\"#ff0000\">にもまして</font>お 客[きゃく]さんが 多[おお]い。", 
+                                "にもまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "m1|(>H<]Ev", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "にもまして"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その会社＿＿＿真実を社長に伝えなくてはならなかった。", 
+                                "Tenía que contarle al presidente la verdad <font color=\"#ff0000\">concerniente a</font> esa compañía.", 
+                                "その 会社[かいしゃ]<font color=\"#ff0000\">に 纏[まとい]る</font> 真実[しんじつ]を 社長[しゃちょう]に 伝[つた]えなくてはならなかった。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "i@K4P?MmtG", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この刀＿＿＿伝説が沢山ある。", 
+                                "Hay muchas leyendas <font color=\"#ff0000\">concernientes a</font> esta espada.", 
+                                "この 刀[かたな]<font color=\"#ff0000\">に 纏[まとい]る</font> 伝説[でんせつ]が 沢山[たくさん]ある。", 
+                                "に纏る"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yBNMe)cJ.B", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "に纏る"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "初心者＿＿＿よくやった。", 
+                                "Él lo hizo bien <font color=\"#ff0000\">para un</font> principiante.", 
+                                "初心者[しょしんしゃ]<font color=\"#ff0000\">なりに</font>よくやった。", 
+                                "なりに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "pKh;.|]m<Y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なりに/なりの"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らには彼ら＿＿＿悩みがある。", 
+                                "Ellos tienen <font color=\"#ff0000\">sus propios</font> problemas.", 
+                                "彼[かれ]らには 彼[かれ]ら<font color=\"#ff0000\">なりの</font> 悩[なや]みがある。", 
+                                "なりの"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u]w[$OA#73", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "なりに/なりの"
+                            ]
                         }
                     ]
                 }
@@ -24191,9 +24319,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
                 "tatoeba", 
-                "に則って"
+                "なりに/なりの"
             ], 
             "tmpls": [
                 {
