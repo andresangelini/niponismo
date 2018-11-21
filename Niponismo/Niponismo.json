@@ -4614,6 +4614,40 @@
                                 "Niponismo", 
                                 "をいいことに"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "を限りに/の限りに/限りで", 
+                                "を 限[かぎ]りに/の&nbsp;限[かぎ]りに/&nbsp;限[かぎ]りで", 
+                                "をかぎりに/のかぎりに/かぎりで", 
+                                "a partir de / hasta donde", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión con dos significados y usos diferentes:<div><br /></div><div>- Sinónima de <font color=\"#ff0000\">〜を最後に</font>, indica que <font color=\"#ff0000\">es la última vez que se hace algo</font>. Suele usarse junto a <font color=\"#ff0000\">今回</font>, <font color=\"#ff0000\">今日</font>, <font color=\"#ff0000\">今月</font>, <font color=\"#ff0000\">今年</font>, etc.</div><div><br /></div><div>今日[きょう]<font color=\"#ff0000\">＿＿＿</font> タバコを 辞[や]めます。</div><div><i><font color=\"#ff0000\">A partir de</font> hoy voy a dejar de fumar</i>.</div><div><br /></div><div>&nbsp;- Indica que se hace algo <font color=\"#ff0000\">hasta donde</font> las capacidades lo permitan.</div><div><br /></div><div>彼らは声＿＿＿万歳を叫んだ。</div><div><i>Ellos gritaron \"banzai\" <font color=\"#ff0000\">hasta donde</font> la voz les permitió</i>.</div><div><br /></div><div>Esta forma gramatical suele usarse con la partícula <font color=\"#ff0000\">を</font> pero también admite el uso de <font color=\"#ff0000\">の</font>. La partícula <font color=\"#ff0000\">に</font> puede ser reemplazada por <font color=\"#ff0000\">で</font> cuando se usa en el sentido de \"<font color=\"#ff0000\">a partir de</font>\", en cuyo caso no se usa la <font color=\"#ff0000\">を</font> ni la <font color=\"#ff0000\">の</font>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "rihE0AFfc7", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
                         }
                     ]
                 }, 
@@ -24168,6 +24202,28 @@
                                 "tatoeba", 
                                 "なりに/なりの"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "同じ頃、事務員・有村夏恵は、今月＿＿＿退職する旨を五鬼上に申し入れた。", 
+                                "Al mismo tiempo, el oficinista Natsue Arimura le hizo saber a Gokijo de su intención de jubilarse a partir de este mes.", 
+                                "同[おな]じ 頃[ころ]、 事務[じむ] 員[いん]・ 有村[ありむら] 夏[なつ] 恵[めぐみ]は、 今月[こんげつ]<font color=\"#ff0000\">を 限[かぎ]りに/限[かぎ]りで</font> 退職[たいしょく]する 旨[むね]を五 鬼[おに] 上[じょう]に 申し入[もうしい]れた。", 
+                                "を限りに/限りで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ow3/&%+sj7", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
                         }
                     ]
                 }
@@ -24295,13 +24351,13 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "Oración", 
                 "tatoeba", 
-                "なりに/なりの"
+                "を限りに/の限りに/限りで"
             ], 
             "tmpls": [
                 {
@@ -24505,7 +24561,8 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "をいいことに"
+                "tatoeba", 
+                "を限りに/の限りに/限りで"
             ], 
             "tmpls": [
                 {
