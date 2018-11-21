@@ -24208,12 +24208,122 @@
                             "data": "", 
                             "fields": [
                                 "同じ頃、事務員・有村夏恵は、今月＿＿＿退職する旨を五鬼上に申し入れた。", 
-                                "Al mismo tiempo, el oficinista Natsue Arimura le hizo saber a Gokijo de su intención de jubilarse a partir de este mes.", 
+                                "Al mismo tiempo, el oficinista Natsue Arimura le hizo saber a Gokijo de su intención de jubilarse <font color=\"#ff0000\">a partir de</font> este mes.", 
                                 "同[おな]じ 頃[ころ]、 事務[じむ] 員[いん]・ 有村[ありむら] 夏[なつ] 恵[めぐみ]は、 今月[こんげつ]<font color=\"#ff0000\">を 限[かぎ]りに/限[かぎ]りで</font> 退職[たいしょく]する 旨[むね]を五 鬼[おに] 上[じょう]に 申し入[もうしい]れた。", 
                                 "を限りに/限りで"
                             ], 
                             "flags": 0, 
                             "guid": "Ow3/&%+sj7", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "いよいよ今週＿＿＿、しばらくのお休みです。", 
+                                "Al fin tengo vacaciones <font color=\"#ff0000\">a partir de</font> esta semana.", 
+                                "いよいよ 今週[こんしゅう]<font color=\"#ff0000\">を 限[かぎ]りに/ 限[かぎ]りで</font>、しばらくのお 休[やす]みです。", 
+                                "を限りに/限りで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n_hjWR6.k#", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "考えたんだけど、やっぱりこういうのはよくないから、今日＿＿＿別れよう。", 
+                                "Lo estuve pensando y esto no está bien, así que mejor vamos a separarnos <font color=\"#ff0000\">a partir de</font> hoy.", 
+                                "考[かんが]えたんだけど、やっぱりこういうのはよくないから、 今日[きょう]<font color=\"#ff0000\">を 限[かぎ]りに/ 限[かぎ]りで</font> 別[わか]れよう。", 
+                                "を限りに/限りで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "D~G|jc!3#6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は声＿＿＿叫んだ。", 
+                                "Ella gritó <font color=\"#ff0000\">hasta donde</font> le dio la voz.", 
+                                "彼女[かのじょ]は 声[こえ]<font color=\"#ff0000\">を 限[かぎ]りに/の 限[かぎ]りに</font>&nbsp;叫[さけ]んだ。", 
+                                "を限りに/の限りに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PVHoLc>?w>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは声＿＿＿罵りあった。", 
+                                "Ellos se insultaban a los gritos.", 
+                                "彼[かれ]らは 声[こえ]<font color=\"#ff0000\">を 限[かぎ]りに/の 限[かぎ]りに</font> 罵[ののし]りあった。", 
+                                "を限りに/の限りに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q2GF0~52r-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を限りに/の限りに/限りで"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "来月＿＿＿当店は閉店されます。", 
+                                "Esta tienda cerrará <font color=\"#ff0000\">a partir del</font> mes que viene.", 
+                                "来月[らいげつ]<font color=\"#ff0000\">を 限[かぎ]りに/ 限[かぎ]りで</font> 当店[とうてん]は 閉店[へいてん]されます。", 
+                                "を限りに/限りで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P0U%$3D~xS", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
@@ -24351,11 +24461,11 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
+                "Oración", 
                 "tatoeba", 
                 "を限りに/の限りに/限りで"
             ], 
