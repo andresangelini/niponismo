@@ -475,10 +475,10 @@
                                 "びる", 
                                 "びる", 
                                 "de aspecto o comportamiento", 
-                                "<div>Sustantivo o adjetivo い sin la い + forma gramatical en forma る o て.</div><div>Sustantivo o adjetivo い sin la い + forma gramatical en pasado た + sustantivo.</div><div><br /></div><div>Excepción: わるい se transforma en わら + forma gramatical con terminación れる.</div>", 
-                                "Se usa para expresar que algo tiene el aspecto de o se comporta como otra cosa.", 
-                                "その部屋[へや]で 古[ふる]＿＿＿ 錆[さび]だらけの 鍵[かぎ]を見つけました。", 
-                                "<div>Encontré una llave vieja y oxidada en esa habitación.</div>", 
+                                "<div>Sustantivo o adjetivo い sin la い + <font color=\"#ff0000\">＿＿＿</font> en forma る o て</div><div>Sustantivo o adjetivo い sin la い + <font color=\"#ff0000\">＿＿＿</font> en pasado た + sustantivo</div><div><br /></div><div>Excepción: わるい se transforma en わら + <font color=\"#ff0000\">＿＿＿</font> con terminación れる.</div>", 
+                                "Se usa para expresar que algo <font color=\"#ff0000\">tiene el aspecto de o se comporta como</font> otra cosa.<div><br /></div><div>その部屋[へや]で 古[ふる]<font color=\"#ff0000\">＿＿＿</font> 錆[さび]だらけの 鍵[かぎ]を見つけました。</div><div><i>Encontré una llave vieja y oxidada en esa habitación</i>.</div>", 
+                                "", 
+                                "<div><br /></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4115,7 +4115,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "に堪える/に堪える", 
+                                "に耐える/に堪える", 
                                 "に 耐[た]える/に 堪[た]える", 
                                 "にたえる/にたえる", 
                                 "aguantar / soportar / tolerar / resistir / dejarse / poderse", 
@@ -7519,8 +7519,8 @@
                             "data": "", 
                             "fields": [
                                 "あの社長は世の中の全てが自分の物＿＿＿ふるまっている。", 
-                                "El presidente de esa compañía se comporta como si el fuese el dueño del mundo.", 
-                                "あの 社長[しゃちょう]は 世の中[よのなか]の 全[すべ]てが 自分[じぶん]の 物[もの]<font color=\"#ff0000\">（か）の&nbsp;</font><span style=\"color: rgb(0, 0, 255);font-family: 'Liberation Sans'\">如[ごと]く/であるかの 如[ごと]く</span>ふるまっている。", 
+                                "El presidente de esa compañía se comporta <font color=\"#ff0000\">como si</font> el fuese el dueño del mundo.", 
+                                "あの 社長[しゃちょう]は 世の中[よのなか]の 全[すべ]てが 自分[じぶん]の 物[もの]<font color=\"#ff0000\">（か）の&nbsp;如[ごと]く/であるかの 如[ごと]く</font>ふるまっている。", 
                                 "（か）の如く/であるかの如く"
                             ], 
                             "flags": 0, 
@@ -7743,7 +7743,7 @@
                             "data": "", 
                             "fields": [
                                 "失業者は常にどん底におちる＿＿＿。", 
-                                "Los desempleados siempre terminan cayendo al fondo del barril.", 
+                                "Los desempleados siempre <font color=\"#ff0000\">terminan</font> cayendo al fondo del barril.", 
                                 "失業[しつぎょう] 者[しゃ]は 常[つね]にどん 底[ぞこ]におちる<font color=\"#ff0000\">羽目[はめ]になります</font>。", 
                                 "羽目になります"
                             ], 
@@ -11382,7 +11382,7 @@
                             "data": "", 
                             "fields": [
                                 "電話ですむことですから、わざわざ行く＿＿＿。", 
-                                "Este asunto se puede tratar por teléfono, por lo que no hay necesidad de ir hasta ahí.", 
+                                "Este asunto se puede tratar por teléfono, por lo que <font color=\"#ff0000\">no hay necesidad de</font> ir hasta ahí.", 
                                 "電話[でんわ]ですむことですから、わざわざ 行[い]く<font color=\"#ff0000\">までもありません</font>。", 
                                 "までもありません"
                             ], 
@@ -11421,7 +11421,7 @@
                             "data": "", 
                             "fields": [
                                 "スレ立てる＿＿＿話題はこちらへ。", 
-                                "Temas que no necesitan tener su propio hilo, por favor ponerlos aquí.", 
+                                "Temas que <font color=\"#ff0000\">no necesitan</font> tener su propio hilo, por favor ponerlos aquí.", 
                                 "スレ 立[た]てる<font color=\"#ff0000\">までもない</font>&nbsp;話題[わだい]はこちらへ。", 
                                 "までもない"
                             ], 
@@ -14466,8 +14466,8 @@
                             "fields": [
                                 "ダイレクト・マーケティングは人々が家に居＿＿＿買い物が出来る方法である。", 
                                 "Las ventas directas es un método con el cual la gente puede comprar desde su casa.", 
-                                "ダイレクト・マーケティングは 人々[ひとびと]が 家[いえ]に 居[い]<font color=\"#ff0000\">ながらにして</font> 買い物[かいもの]が 出来[でき]る 方法[ほうほう]である。", 
-                                "ながらにして"
+                                "ダイレクト・マーケティングは 人々[ひとびと]が 家[いえ]に 居[い]<font color=\"#ff0000\">ながら（にして）</font> 買い物[かいもの]が 出来[でき]る 方法[ほうほう]である。", 
+                                "ながら（にして）"
                             ], 
                             "flags": 0, 
                             "guid": "M}80y.+W24", 
@@ -14488,32 +14488,11 @@
                             "fields": [
                                 "すべての人は生まれ＿＿＿平等である。", 
                                 "Todos las personas somos iguales.", 
-                                "すべての 人[ひと]は 生[う]まれ<font color=\"#ff0000\">ながらに</font> 平等[びょうどう]である。", 
-                                "ながらに"
+                                "すべての 人[ひと]は 生[う]まれ<font color=\"#ff0000\">ながらに（して）</font> 平等[びょうどう]である。", 
+                                "ながらに（して）"
                             ], 
                             "flags": 0, 
                             "guid": "B{06BHzhld", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "jgram", 
-                                "ながらに"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "彼は生まれ＿＿＿して偉大な才能に恵まれていた。", 
-                                "Él fue bendecido con un gran talento desde que nació.", 
-                                "彼[かれ]は 生[う]まれ<font color=\"#ff0000\">ながらに</font>して 偉大[いだい]な 才能[さいのう]に 恵[めぐ]まれていた。", 
-                                "ながらに"
-                            ], 
-                            "flags": 0, 
-                            "guid": "Bkw5Vsy]_m", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
@@ -14572,8 +14551,8 @@
                             "fields": [
                                 "インターネットの活用すれば、居＿＿＿して世界中の情報が手に入る。", 
                                 "Puedes obtener toda la información del mundo desde tu casa usando internet.", 
-                                "インターネットの 活用[かつよう]すれば、 居[い]<font color=\"#ff0000\">ながらに</font>して 世界中[せかいじゅう]の 情報[じょうほう]が 手[て]に 入[はい]る。", 
-                                "ながらに"
+                                "インターネットの 活用[かつよう]すれば、 居[い]<font color=\"#ff0000\">ながら（にして）</font>&nbsp;世界中[せかいじゅう]の 情報[じょうほう]が 手[て]に 入[はい]る。", 
+                                "ながら（にして）"
                             ], 
                             "flags": 0, 
                             "guid": "kuN8j`K8X!", 
@@ -14593,8 +14572,8 @@
                             "fields": [
                                 "その少年は生まれ＿＿＿動物たちと交流できる不思議な迫を身につけていた。", 
                                 "Ese chico posee una extraña habilidad <font color=\"#ff0000\">desde que</font> nació para comunicarse con los animales.", 
-                                "その 少年[しょうねん]は 生[う]まれ<font color=\"#ff0000\">ながらに</font> 動物[どうぶつ]たちと 交流[こうりゅう]できる 不思議[ふしぎ]な 迫[さこ]を 身[み]につけていた。", 
-                                "ながらに"
+                                "その 少年[しょうねん]は 生[う]まれ<font color=\"#ff0000\">ながらに（して）</font> 動物[どうぶつ]たちと 交流[こうりゅう]できる 不思議[ふしぎ]な 迫[さこ]を 身[み]につけていた。", 
+                                "ながらに（して）"
                             ], 
                             "flags": 0, 
                             "guid": "lQM42<4zg8", 
@@ -14654,10 +14633,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "人間には、生まれ＿＿＿して貧富の差がある。それは現実だ。", 
+                                "人間には、生まれ＿＿＿貧富の差がある。それは現実だ。", 
                                 "Los humanos nacen diferenciándose entre ricos y pobres. Ésa es la realidad.", 
-                                "人間[にんげん]には、 生[う]まれ<font color=\"#ff0000\">ながらに</font>して 貧富[ひんぷ]の 差[さ]がある。それは 現実[げんじつ]だ。", 
-                                "ながらに"
+                                "人間[にんげん]には、 生[う]まれ<font color=\"#ff0000\">ながらに（して）</font> 貧富[ひんぷ]の 差[さ]がある。それは 現実[げんじつ]だ。", 
+                                "ながらに（して）"
                             ], 
                             "flags": 0, 
                             "guid": "dmx]Qcry2(", 
@@ -16508,7 +16487,7 @@
                             "data": "", 
                             "fields": [
                                 "クラスの中で一番偉い学生＿＿＿分からないものがあるみたいんだね。", 
-                                "Parece que hay cosas que ni aun el estudiante más listo de la clase sabe.", 
+                                "Parece que hay cosas que ni <font color=\"#ff0000\">aun</font> el estudiante más listo de la clase sabe.", 
                                 "クラスの 中[なか]で 一番[いちばん] 偉[えら]い 学生[がくせい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>&nbsp;分[わ]からないものがあるみたいんだね。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
@@ -16718,7 +16697,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は万事承知と言わ＿＿＿私に目くばせした。", 
-                                "Ella me guiñó el ojo como diciéndome que sabía todo.", 
+                                "Ella me guiñó el ojo <font color=\"#ff0000\">como</font> diciéndome que sabía todo.", 
                                 "彼女[かのじょ]は 万事[ばんじ] 承知[しょうち]と 言[い]わ<font color=\"#ff0000\">んばかりに/ぬばかりに</font> 私[わたし]に 目[め]くばせした。", 
                                 "んばかりに/ぬばかりに"
                             ], 
@@ -17138,7 +17117,7 @@
                             "data": "", 
                             "fields": [
                                 "時々自分＿＿＿レシピーで料理をする。", 
-                                "De vez en cuando cocino con mis propias recetas.", 
+                                "De vez en cuando cocino con mis <font color=\"#ff0000\">propias</font> recetas.", 
                                 "時々[ときどき] 自分[じぶん]<font color=\"#ff0000\">なりの</font>レシピーで 料理[りょうり]をする。", 
                                 "なりの"
                             ], 
@@ -18084,7 +18063,7 @@
                             "data": "", 
                             "fields": [
                                 "この地方では3日間で雨が降るのは驚く＿＿＿。", 
-                                "No es de sorprenderse que llueva tres días seguidos en esta región.", 
+                                "<font color=\"#ff0000\">No es de</font> sorprenderse que llueva tres días seguidos en esta región.", 
                                 "この 地方[ちほう]では 3 日間[にちかん]で 雨[あめ]が 降[ふ]るのは 驚[おどろ]く<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） 当[あ]たらない</font></span>。", 
                                 "に（は）当たらない"
                             ], 
@@ -19471,7 +19450,7 @@
                             "data": "", 
                             "fields": [
                                 "馬鹿なこと言うのは辞めて。冗談＿＿＿。", 
-                                "Deja de decir tonterías. Las bromas también tienen un límite.", 
+                                "Deja de decir tonterías. Las bromas <font color=\"#ff0000\">también tienen un límite</font>.", 
                                 "馬鹿[ばか]なこと 言[い]うのは 辞[や]めて。 冗談[じょうだん]<font color=\"#ff0000\">にも 程[ほど]が 有[あ]る</font>。", 
                                 "にも程が有る"
                             ], 
@@ -19513,7 +19492,7 @@
                             "data": "", 
                             "fields": [
                                 "そんな早く諦めるなんて、無責任＿＿＿。", 
-                                "No se puede ser tan irresponsable y renunciar tan pronto.", 
+                                "No se puede ser <font color=\"#ff0000\">tan</font> irresponsable y renunciar tan pronto.", 
                                 "そんな 早[はや]く 諦[あきら]めるなんて、 無責任[むせきにん]<font color=\"#ff0000\">にも 程[ほど]が 有[あ]る</font>。", 
                                 "にも程が有る"
                             ], 
@@ -20144,8 +20123,8 @@
                             "fields": [
                                 "彼は生まれ＿＿＿偉大な才能に恵まれていた。", 
                                 "Él fue bendecido con un gran talento nato.", 
-                                "彼[かれ]は 生[う]まれ<font color=\"#ff0000\">ながらにして</font> 偉大[いだい]な 才能[さいのう]に 恵[めぐ]まれていた。", 
-                                "ながらにして"
+                                "彼[かれ]は 生[う]まれ<font color=\"#ff0000\">ながらに（して）</font> 偉大[いだい]な 才能[さいのう]に 恵[めぐ]まれていた。", 
+                                "ながらに（して）"
                             ], 
                             "flags": 0, 
                             "guid": "QiTGrRW-`V", 
@@ -20165,8 +20144,8 @@
                             "fields": [
                                 "私は生まれ＿＿＿の天才だ。", 
                                 "Soy un genio nato.", 
-                                "私[わたし]は 生[う]まれ<font color=\"#ff0000\">ながらにして</font>の 天才[てんさい]だ。", 
-                                "ながらにして"
+                                "私[わたし]は 生[う]まれ<font color=\"#ff0000\">ながらに（して）</font>の 天才[てんさい]だ。", 
+                                "ながらに（して）"
                             ], 
                             "flags": 0, 
                             "guid": "z^$/LaYZs/", 
@@ -22402,7 +22381,7 @@
                             "data": "", 
                             "fields": [
                                 "誰から＿＿＿我々が支援が必死に必要である。", 
-                                "Necesitamos apoyo desesperadamente sin importar de quién sea.", 
+                                "Necesitamos apoyo desesperadamente <font color=\"#ff0000\">sin importar</font> de quién sea.", 
                                 "誰[だれ]から<font color=\"#ff0000\">によらず/にかかわらず</font> 我々[われわれ]が 支援[しえん]が 必死[ひっし]に 必要[ひつよう]である。", 
                                 "によらず/にかかわらず"
                             ], 
