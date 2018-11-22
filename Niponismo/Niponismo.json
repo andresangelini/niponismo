@@ -14499,7 +14499,7 @@
                             "data": "", 
                             "fields": [
                                 "ダイレクト・マーケティングは人々が家に居＿＿＿買い物が出来る方法である。", 
-                                "Las ventas directas es un método con el cual la gente puede comprar desde su casa.", 
+                                "Las ventas directas es un método con el cual la gente puede comprar <font color=\"#ff0000\">desde</font> su casa.", 
                                 "ダイレクト・マーケティングは 人々[ひとびと]が 家[いえ]に 居[い]<font color=\"#ff0000\">ながら（にして）</font> 買い物[かいもの]が 出来[でき]る 方法[ほうほう]である。", 
                                 "ながら（にして）"
                             ], 
@@ -15870,7 +15870,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は何の断りも＿＿＿私の車を運転した。", 
-                                "Ella condujo mi auto sin siquiera preguntarme.", 
+                                "Ella condujo mi auto <font color=\"#ff0000\">sin siquiera</font> preguntarme.", 
                                 "彼女[かのじょ]は 何[なん]の 断[ことわ]りも<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なしに&nbsp;</font></span>私[わたし]の 車[くるま]を 運転[うんてん]した。", 
                                 "なしに"
                             ], 
@@ -21188,9 +21188,9 @@
                             "data": "", 
                             "fields": [
                                 "部長に報告＿＿＿問題じゃないでしょう。", 
-                                "No es un problema que valga la pena reportar al jefe.", 
+                                "No es un problema que <font color=\"#ff0000\">valga la pena</font> reportar al jefe.", 
                                 "部長[ぶちょう]に 報告[ほうこく]<font color=\"#ff0000\">（する）</font><font color=\"#ff0000\">に 値[あたい]する</font>&nbsp;問題[もんだい]じゃないでしょう。", 
-                                "（する）に値する/に耐える"
+                                "（する）に値する"
                             ], 
                             "flags": 0, 
                             "guid": "Qd6{wZ+JOt", 
@@ -21209,7 +21209,7 @@
                             "data": "", 
                             "fields": [
                                 "しおりさんは誇り＿＿＿選手だ。", 
-                                "Shiori es una jugadora que merece nuestro orgullo.", 
+                                "Shiori es una jugadora que <font color=\"#ff0000\">merece</font> nuestro orgullo.", 
                                 "しおりさんは 誇[ほこ]り<font color=\"#ff0000\">に 値[あたい]する</font>&nbsp;選手[せんしゅ]だ。", 
                                 "に値する"
                             ], 
@@ -21509,7 +21509,7 @@
                             "data": "", 
                             "fields": [
                                 "最近の医学の進歩＿＿＿癌の決定的な医療はそんなに遠くないらしい。", 
-                                "En vista de los últimos avances en la medicina, parece que la cura definitiva del cancer no está tan lejos.", 
+                                "<font color=\"#ff0000\">En vista de</font> los últimos avances en la medicina, parece que la cura definitiva del cancer no está tan lejos.", 
                                 "最近[さいきん]の 医学[いがく]の 進歩[しんぽ]<font color=\"#ff0000\">に 照[て]らして</font> 癌[がん]の 決定的[けっていてき]な 医療[いりょう]はそんなに 遠[とお]くないらしい。", 
                                 "に照らして"
                             ], 
@@ -21764,7 +21764,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は私を養う＿＿＿、助言を１つしてくれた。", 
-                                "En no sólo me apoyó sino que también me dio un consejo.", 
+                                "En <font color=\"#ff0000\">no sólo</font> me apoyó <font color=\"#ff0000\">sino que también</font> me dio un consejo.", 
                                 "彼[かれ]は 私[わたし]を 養[やしな]う<font color=\"#ff0000\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、 助言[じょげん]を １[ひと]つしてくれた。", 
                                 "だけで（は）なく/（だけ）にとどまらず/のみならず"
                             ], 
@@ -21810,7 +21810,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼女は、親切＿＿＿正直だ。</div>", 
-                                "Ella no sólo es amable sino que también honesta.", 
+                                "Ella <font color=\"#ff0000\">no sólo</font> es amable <font color=\"#ff0000\">sino que también</font> honesta.", 
                                 "彼女[かのじょ]は、 親切[しんせつ]<font color=\"#ff0000\">な</font><font color=\"#ff0000\">だけで（は）なく/であるにとどまらず/であるのみならず</font>&nbsp;正直[しょうじき]だ。", 
                                 "なだけで（は）なく/であるにとどまらず/であるのみならず"
                             ], 
@@ -21833,7 +21833,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は働かない＿＿＿、仕事を探そうともしない。", 
-                                "Él no sólo no trabaja sino que tampoco busca trabajo.", 
+                                "Él <font color=\"#ff0000\">no sólo</font> no trabaja <font color=\"#ff0000\">sino que tampoco</font> busca trabajo.", 
                                 "彼[かれ]は 働[はたら]かない<font color=\"#ff0000\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、 仕事[しごと]を 探[さが]そうともしない。", 
                                 "だけで（は）なく/（だけ）にとどまらず/のみならず"
                             ], 
@@ -21879,7 +21879,7 @@
                             "data": "", 
                             "fields": [
                                 "最近の出来事＿＿＿授業は中止することになりました。", 
-                                "A la luz de los recientes acontecimientos se ha decidido suspender las clases.", 
+                                "<font color=\"#ff0000\">A la luz de</font> los recientes acontecimientos se ha decidido suspender las clases.", 
                                 "最近[さいきん]の 出来事[できごと]<font color=\"#ff0000\">に 照[て]らして</font> 授業[じゅぎょう]は 中止[ちゅうし]することになりました。", 
                                 "に照らして"
                             ], 
@@ -22002,7 +22002,7 @@
                             "data": "", 
                             "fields": [
                                 "そんなに早くに行く＿＿＿でしょうね。", 
-                                "No hace falta ir tan temprano, ¿o sí?", 
+                                "<font color=\"#ff0000\">No hace falta</font> ir tan temprano, ¿o sí?", 
                                 "そんなに 早[はや]くに 行[い]く<font color=\"#ff0000\">に（は） 及[およ]ばない</font>でしょうね。", 
                                 "に（は）及ばない"
                             ], 
@@ -22024,7 +22024,7 @@
                             "fields": [
                                 "この事で何も腹を立てる＿＿＿。", 
                                 "No hay nada por lo que enojarse sobre este asunto.", 
-                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#ff0000\">に</font><font color=\"#ff0000\">及[およ]ばない</font>。", 
+                                "この 事[こと]で 何[なに]も 腹[はら]を 立[た]てる<font color=\"#ff0000\">に（は）</font><font color=\"#ff0000\">及[およ]ばない</font>。", 
                                 "に（は）及ばない"
                             ], 
                             "flags": 0, 
@@ -22044,7 +22044,7 @@
                             "data": "", 
                             "fields": [
                                 "あなたは来る＿＿＿。", 
-                                "No hace falta que vengas.", 
+                                "<font color=\"#ff0000\">No hace falta</font> que vengas.", 
                                 "あなたは 来[く]る<font color=\"#ff0000\">に（は）およばない</font>。", 
                                 "に（は）及ばない"
                             ], 
@@ -22065,7 +22065,7 @@
                             "data": "", 
                             "fields": [
                                 "あえて休暇を取りやめる＿＿＿。", 
-                                "No hace falta que canceles tus vacaciones.", 
+                                "<font color=\"#ff0000\">No hace falta</font> que canceles tus vacaciones.", 
                                 "あえて 休暇[きゅうか]を 取[と]りやめる<font color=\"#ff0000\">に（は） 及[およ]ばない</font>。", 
                                 "に（は）及ばない"
                             ], 
@@ -24209,7 +24209,7 @@
                             "fields": [
                                 "同じ頃、事務員・有村夏恵は、今月＿＿＿退職する旨を五鬼上に申し入れた。", 
                                 "Al mismo tiempo, el oficinista Natsue Arimura le hizo saber a Gokijo de su intención de jubilarse <font color=\"#ff0000\">a partir de</font> este mes.", 
-                                "同[おな]じ 頃[ころ]、 事務[じむ] 員[いん]・ 有村[ありむら] 夏[なつ] 恵[めぐみ]は、 今月[こんげつ]<font color=\"#ff0000\">を 限[かぎ]りに/限[かぎ]りで</font> 退職[たいしょく]する 旨[むね]を五 鬼[おに] 上[じょう]に 申し入[もうしい]れた。", 
+                                "同[おな]じ 頃[ころ]、 事務[じむ] 員[いん]・ 有村[ありむら] 夏恵[なつえ]は、 今月[こんげつ]<font color=\"#ff0000\">を 限[かぎ]りに/限[かぎ]りで</font> 退職[たいしょく]する 旨[むね]を 五鬼上[ごきじょう]に 申[おう]し 入[い]れた。", 
                                 "を限りに/限りで"
                             ], 
                             "flags": 0, 
