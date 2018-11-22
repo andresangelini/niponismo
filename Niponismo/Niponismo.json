@@ -4648,6 +4648,40 @@
                                 "tatoeba", 
                                 "を限りに/の限りに/限りで"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "を兼ねて/も兼ねて", 
+                                "を 兼[か]ねて/も 兼[か]ねて", 
+                                "をかねて/もかねて", 
+                                "además de / así como / también para", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo + と + sustantivo + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que indica un&nbsp;<font color=\"#ff0000\">segundo propósito aún más importante</font>&nbsp;además del mencionado.<div><br /></div><div>観光[かんこう]<font color=\"#ff0000\">＿＿＿</font>&nbsp;日本[にほん]へ 勉強[べんきょう]に 言[い]った。</div><div><i>Fui a Japón a estudiar&nbsp;<font color=\"#ff0000\">además de / así como</font>&nbsp;a pasear</i>.</div><div><br /></div><div>En este caso, \"estudiar\" es el verdadero propósito, el más importante de los dos para ir a Japón.</div><div><br /></div><div><font color=\"#ff0000\">Ambos propósitos</font>&nbsp;pueden expresarse como&nbsp;<font color=\"#ff0000\">igual de importantes</font>&nbsp;cuando se usan junto a la partícula&nbsp;<font color=\"#ff0000\">と</font>.</div><div><br /></div><div>私[わたし]の 従兄弟[いとこ]は 趣味[しゅみ]と 実益[じつえき]<font color=\"#ff0000\">＿＿＿</font>&nbsp;絵[え]を 描[か]いている。</div><div><i>Mi primo pinta cuadros tanto por amor al arte&nbsp;<font color=\"#ff0000\">así como</font>&nbsp;por profesión (por ambas razones)</i>.</div><div><br /></div><div>Es posible&nbsp;<font color=\"#ff0000\">omitir el propósito primordial</font>&nbsp;cuando este es evidente, en cuyo caso es común sustituir la partícula&nbsp;<font color=\"#ff0000\">を</font>&nbsp;por&nbsp;<font color=\"#ff0000\">も</font>.</div><div><br /></div><div>健康[けんこう]<font color=\"#ff0000\">＿＿＿&nbsp;</font>毎朝[まいあさ]ラーニングをする。</div><div><i>Corro todas las mañanas&nbsp;<font color=\"#ff0000\">también para</font>&nbsp;estar saludable (no sólo porque lo disfruto)</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "dw/~LOzbdM", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
                         }
                     ]
                 }, 
@@ -24334,6 +24368,138 @@
                                 "tatoeba", 
                                 "を限りに/の限りに/限りで"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私達は時々、ドライブ＿＿＿大好きなラーメンを食べに行きます。", 
+                                "A veces nos vamos a comer nuestro ramen favorito <font color=\"#ff0000\">cuando</font> salimos&nbsp;a pasear en el auto.", 
+                                "私[わたし] 達[たち]は 時々[ときどき]、ドライブ<font color=\"#ff0000\">を 兼[か]ねて/も&nbsp;兼[か]ねて</font>&nbsp;大好[だいす]きなラーメンを 食[た]べに 行[い]きます。", 
+                                "を兼ねて/も兼ねて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r(`^~LHupT", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今日は、ばーさんのお使い＿＿＿街で買い物。", 
+                                "Hoy voy de compras a la ciudad <font color=\"#ff0000\">además de</font> hacer algunos mandados para la abuela.", 
+                                "今日[きょう]は、ばーさんのお 使[つか]い<font color=\"#ff0000\">を 兼[か]ねて/も 兼[か]ねて</font> 街[まち]で 買い物[かいもの]。", 
+                                "を兼ねて/も兼ねて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J(yk.Ktx?T", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "英語の勉強＿＿＿アメリカの映画を見ている。", 
+                                "Veo películas americanas <font color=\"#ff0000\">también para</font> estudiar inglés.", 
+                                "英語[えいご]の 勉強[べんきょう]<font color=\"#ff0000\">を 兼[か]ねて/も 兼[か]ねて</font><span style=\"font-family: 'Liberation Sans'\">アメリカの&nbsp;</span>映画[えいが]を 見[み]ている。", 
+                                "を兼ねて/も兼ねて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oVTbwOCx+I", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "勉強と遊び＿＿＿仕事をしたい。", 
+                                "Quiero un trabajo en donde pueda combinar el estudio <font color=\"#ff0000\">así como</font> el trabajo.", 
+                                "勉強[べんきょう]と 遊[あそ]び<font color=\"#ff0000\">を 兼[か]ねて</font> 仕事[しごと]をしたい。", 
+                                "を兼ねて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "b#nf%[+lCS", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "観光＿＿＿親戚を訪問にドイツへ行った", 
+                                "Fui a Alemania a visitar a unos familiares <font color=\"#ff0000\">además de</font> ir a pasear.", 
+                                "観光[かんこう]<font color=\"#ff0000\">を 兼[か]ねて/も 兼[か]ねて</font> 親戚[しんせき]を 訪問[ほうもん]にドイツへ 行[い]った", 
+                                "を兼ねて/も兼ねて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q2L=net)+w", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "モールに行く時、時々買い物＿＿＿食事をする。", 
+                                "Cuando voy al centro comercial, a veces como allí <font color=\"#ff0000\">además de</font> hacer las compras.", 
+                                "モールに 行[い]く 時[とき]、 時々[ときどき] 買い物[かいもの]<font color=\"#ff0000\">を 兼[か]ねて/も 兼[か]ねて</font> 食事[しょくじ]をする。", 
+                                "を兼ねて/も兼ねて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oG0P!7D4ux", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "も兼ねて", 
+                                "を兼ねて"
+                            ]
                         }
                     ]
                 }
@@ -24464,10 +24630,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
                 "tatoeba", 
-                "を限りに/の限りに/限りで"
+                "も兼ねて", 
+                "を兼ねて"
             ], 
             "tmpls": [
                 {
@@ -24671,8 +24837,8 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "tatoeba", 
-                "を限りに/の限りに/限りで"
+                "も兼ねて", 
+                "を兼ねて"
             ], 
             "tmpls": [
                 {
