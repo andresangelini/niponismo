@@ -24578,8 +24578,100 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "tatoeba", 
+                                "を振り出しに", 
+                                "を皮切りとして", 
+                                "を皮切りに（して）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最前列の人＿＿＿、速やかに自己紹介をお願いします。", 
+                                "Por favor, presentense brevemente <font color=\"#ff0000\">empezando por</font> los de la fila de adelante.", 
+                                "最[さい] 前列[ぜんれつ]の 人[ひと]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font>、 速[すみ]やかに 自己[じこ] 紹介[しょうかい]をお 願[ねが]いします。", 
+                                "を皮切りに（して）/を皮切りとして/を振り出しに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w[YcBv)|L@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を振り出しに", 
+                                "を皮切りとして", 
+                                "を皮切りに（して）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "先週末は居間＿＿＿、家を大掃除した。", 
+                                "El fin de semana pasado hice una gran limpieza en casa <font color=\"#ff0000\">comenzando por</font> la sala.", 
+                                "先週[せんしゅう] 末[まつ]は 居間[いま]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font>、 家[いえ]を 大[だい] 掃除[そうじ]した。", 
+                                "を皮切りに（して）/を皮切りとして/を振り出しに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "gd$oq_H^yL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を振り出しに", 
+                                "を皮切りとして", 
+                                "を皮切りに（して）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "このお祭りでは出店＿＿＿、色々の面白くてやってみるに値するものが多いです。", 
+                                "En este festival hay un montón de cosas que valen la pena probar, <font color=\"#ff0000\">empezando con</font> los puestos de comida.", 
+                                "このお 祭[まつ]りでは 出店[しゅってん]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font>、 色々[いろいろ]の 面白[おもしろ]くてやってみるに 値[あたい]するものが 多[おお]いです。", 
+                                "を皮切りに（して）/を皮切りとして/を振り出しに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "C-(QJ%EABv", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を振り出しに", 
+                                "を皮切りとして", 
+                                "を皮切りに（して）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "学校劇＿＿＿、数々のイベントが予定されました。", 
+                                "Se programaron varios eventos <font color=\"#ff0000\">empezando con</font> una obra escolar.", 
+                                "学校[がっこう] 劇[げき]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font>、 数々[かずかず]のイベントが 予定[よてい]されました。", 
+                                "を皮切りに（して）/を皮切りとして/を振り出しに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ni&Kkm15kN", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
                                 "を振り出しに", 
                                 "を皮切りとして", 
                                 "を皮切りに（して）"
@@ -24714,8 +24806,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
                 "を振り出しに", 
                 "を皮切りとして", 
                 "を皮切りに（して）"
