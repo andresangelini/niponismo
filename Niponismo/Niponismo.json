@@ -2700,16 +2700,16 @@
                                 "（で/に）さえ（も）/（で/に）すら（も）", 
                                 "（で/に）さえ（も）/（で/に）すら（も）", 
                                 "incluso", 
-                                "Sustantivo + opcionalmente で o に + forma gramatical + opcionalmente も.<div>Verbo + の o こと + forma gramatical + opcionalmente も.</div><div>Frase + と + forma gramatical + opcionalmente も.</div><div>Frase interrogativa (どこ, いつ, だれ, etc.) + か + forma gramatical + opcionalmente も.</div>", 
-                                "Se usa para dar un ejemplo de algo que normalmente no se esperaría que fuera tal. Tiene dos versions, una de uso informal (en el lenguaje hablado, con familia, amigos, etc.) y otra de uso formal (en el lenguaje escrito, en el trabajo, etc.). De hecho, la versión informal proviene de 添え cuyo significado es \"agregado\", \"adición\" o \"acompañamiento\". Se pueden usar las partículas で y に para dar énfasis e incluso se puede agregar も para dar aún más énfasis a cualquiera de las dos. Por último, puede ser usado con frases reportadas (en donde se reporta lo que alguien dijo con la partícula と) así como con frases interrogativas (en donde se usan palabras interrogativas como \"dónde\", \"cuándo\", \"quién\", etc.).", 
-                                "こんなに 簡単[かんたん]な 問題[もんだい]は 猿[さる]＿＿＿ 解[と]けますよ。", 
-                                "Incluso un mono puede resolver un problema tan sencillo como este.", 
-                                "ボストンダイナミクスは走る（の/こと）＿＿＿出来るロボットを造りましたよ。", 
-                                "Boston Dynamics construyó un robot que incluso puede correr.", 
-                                "私[わたし]は 金[かね]の 無駄遣[むだづか]いをすると＿＿＿ 言[い]ってたの。", 
-                                "Él me dijo incluso que despilfarro el dinero.", 
-                                "お母さんは誰が何時も深夜まで家に帰ってこなかったか＿＿＿もちゃんと分かっていた。", 
-                                "Nuestra madre siempre tuvo bien claro incluso quién era el que no venía a casa sino hasta tarde en la noche.", 
+                                "Sustantivo + （で/に） + <font color=\"#ff0000\">＿＿＿</font> + （も）<div>Verbo + の/こと + <font color=\"#ff0000\">＿＿＿</font> + （も）</div><div>Frase + と + <font color=\"#ff0000\">＿＿＿</font> + （も）</div><div>Frase interrogativa (どこ, いつ, だれ, etc.) + か + <font color=\"#ff0000\">＿＿＿</font> + （も）</div>", 
+                                "Se usa para dar un ejemplo de algo que <font color=\"#ff0000\">normalmente no se esperaría que fuera tal</font>. Tiene dos versions, una de uso informal (en el lenguaje hablado, con familia, amigos, etc.) y otra de uso formal (en el lenguaje escrito, en el trabajo, etc.). De hecho, la versión informal proviene de <font color=\"#ff0000\">添え</font> cuyo significado es \"<font color=\"#ff0000\">agregado</font>\", \"<font color=\"#ff0000\">adición</font>\" o \"<font color=\"#ff0000\">acompañamiento</font>\".&nbsp;Se pueden usar las partículas&nbsp;<font color=\"#ff0000\">で</font>&nbsp;y&nbsp;<font color=\"#ff0000\">に</font>&nbsp;para dar&nbsp;<font color=\"#ff0000\">énfasis</font>&nbsp;e incluso se puede agregar&nbsp;<font color=\"#ff0000\">も</font>&nbsp;para dar&nbsp;<font color=\"#ff0000\">aún más énfasis</font>&nbsp;a cualquiera de las dos.<div><br /></div><div>こんなに 簡単[かんたん]な 問題[もんだい]は 猿[さる]<font color=\"#ff0000\">＿＿＿</font> 解[と]けますよ。</div><div><i><font color=\"#ff0000\">Incluso</font> un mono puede resolver un problema tan sencillo como este</i>.</div><div><br /></div><div>Cuando se usa junto a un verbo, éste se debe sustantivar agregando <font color=\"#ff0000\">の</font> o <font color=\"#ff0000\">こと</font>.</div><div><br /></div><div>ボストンダイナミクスは走る（の/こと）<font color=\"#ff0000\">＿＿＿</font>出来るロボットを造りましたよ。</div><div><i>Boston Dynamics construyó un robot que <font color=\"#ff0000\">incluso</font> puede correr</i>.</div><div><br /></div><div>Por último, puede ser usado con <font color=\"#ff0000\">frases reportadas</font> (en donde se reporta lo que alguien dijo con la partícula <font color=\"#ff0000\">と</font>).</div><div><br /></div><div>私[わたし]は 金[かね]の 無駄遣[むだづか]いをすると<font color=\"#ff0000\">＿＿＿</font> 言[い]ってたの。</div><div><i>Él me dijo <font color=\"#ff0000\">incluso</font> que despilfarro el dinero</i>.</div><div><br /></div><div>Así como con <font color=\"#ff0000\">frases interrogativas</font> (en donde se usan palabras interrogativas como \"<font color=\"#ff0000\">dónde</font>\", \"<font color=\"#ff0000\">cuándo</font>\", \"<font color=\"#ff0000\">quién</font>\", etc.).</div><div><br /></div><div>お 母[かあ]さんは 誰[だれ]が 何時[いつ]も 深夜[しにゃ]まで 家[いえ]に 帰[かえ]ってこなかったか＿＿＿もちゃんと 分[わ]かっていた。</div><div><i>Nuestra madre siempre tuvo bien claro <font color=\"#ff0000\">incluso</font> quién era el que no venía a casa sino hasta tarde en la noche</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 ""
                             ], 
@@ -2722,6 +2722,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "N3", 
+                                "Niponismo", 
                                 "（で/に）さえ（も）/（で/に）すら（も）"
                             ]
                         }, 
@@ -4693,7 +4694,7 @@
                                 "をかわきりに（して）/をかわきりとして/をふりだしに", 
                                 "empezando por / empezando con", 
                                 "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresiones formales que marcan a algo como <font color=\"#ff0000\">punto de partida de otros sucesos de igual carácter</font>. La primera es muy usada en <font color=\"#ff0000\">noticieros</font> y en <font color=\"#ff0000\">anuncios públicos</font>, mientras que la segunda es muy poco frecuente.<div><br /></div><div>大阪[おおさか]<font color=\"#ff0000\">＿＿＿&nbsp;</font>全国[ぜんこく] １０か&nbsp;所[しょ]で 開[ひら]かれる。</div><div><i>Se llevarán a cabo diez conciertos por todo el país <font color=\"#ff0000\">comenzando por</font> Osaka</i>.</div><div><br /></div><div>A diferencia de <font color=\"#ff0000\">〜を（ 契[けい]） 機[き]に</font>, estas expresiones son el punto de partida de <font color=\"#ff0000\">más de un suceso</font>.</div><div><br /></div><div>就職[しゅしょく]<font color=\"#ff0000\">を（契）[けい] 機[き]に</font>、 自立[じりつ]してひとり 暮[く]らしすることにした。</div><div><i>Decidí independizarme e irme a vivir sólo <font color=\"#ff0000\">aprovechando que</font> conseguí empleo</i>.</div><div><br /></div><div><div>総理大臣[そうりだいじん]はドイツ<font color=\"#ff0000\">＿＿＿</font>&nbsp;欧米[おうべい] 諸国[しょこく]を 訪問[ほうもん]する 予定[よてい]が 決[き]まった。</div><div><i>Se confirmó una visita del Primer Ministro por toda Europa&nbsp;<font color=\"#ff0000\">comenzando por</font>&nbsp;Alemania</i>.</div></div><div><br /></div><div>También se distinguen de <font color=\"#ff0000\">〜をきっかけに</font> en que <font color=\"#ff0000\">los sucesos a continuación deben ser de la misma naturaleza</font>.</div><div><br /></div><div>失業[しつぎょう]<font color=\"#ff0000\">をきっかけに</font>、 夢[ゆめ]を 追[お]い 掛[か]けたいと 思[おも]っている。</div><div><i><font color=\"#ff0000\">Aprovechando que</font> perdí mi empleo, estoy pensando en ir tras mi sueño</i>.</div><div><br /></div><div>短距離走[たんきょりそう]<font color=\"#ff0000\">＿＿＿</font> 今度[こんど]の 運動会[うんどうかい]で6かのイベントが 行[おこな]われている。</div><div><i><font color=\"#ff0000\">Comenzando con</font> una carrera de corta distancia, se llevarán a cabo seis eventos en estas competiciones deportivas</i>.</div><div><br /></div><div>En resumen, estas expresiones <font color=\"#ff0000\">marcan a un suceso o acción A como punto de origen de otros múltiples sucesos o eventos de igual índole</font>.</div>", 
+                                "Expresiones formales que marcan a algo como <font color=\"#ff0000\">punto de partida de otros sucesos de igual carácter</font>. La primera es muy usada en <font color=\"#ff0000\">noticieros</font> y&nbsp;<font color=\"#ff0000\">anuncios públicos</font>, mientras que la segunda es muy poco frecuente.<div><br /></div><div>大阪[おおさか]<font color=\"#ff0000\">＿＿＿&nbsp;</font>全国[ぜんこく] １０か&nbsp;所[しょ]で 開[ひら]かれる。</div><div><i>Se llevarán a cabo diez conciertos por todo el país <font color=\"#ff0000\">comenzando por</font> Osaka</i>.</div><div><br /></div><div>A diferencia de <font color=\"#ff0000\">〜を（ 契[けい]） 機[き]に</font>, estas expresiones son el punto de partida de <font color=\"#ff0000\">más de un suceso</font>.</div><div><br /></div><div>就職[しゅしょく]<font color=\"#ff0000\">を（契）[けい] 機[き]に</font>、 自立[じりつ]してひとり 暮[く]らしすることにした。</div><div><i>Decidí independizarme e irme a vivir sólo <font color=\"#ff0000\">aprovechando que</font> conseguí empleo</i>.</div><div><br /></div><div><div>総理大臣[そうりだいじん]はドイツ<font color=\"#ff0000\">＿＿＿</font>&nbsp;欧米[おうべい] 諸国[しょこく]を 訪問[ほうもん]する 予定[よてい]が 決[き]まった。</div><div><i>Se confirmó una visita del Primer Ministro por toda Europa&nbsp;<font color=\"#ff0000\">comenzando por</font>&nbsp;Alemania</i>.</div></div><div><br /></div><div>También se distinguen de <font color=\"#ff0000\">〜をきっかけに</font> en que <font color=\"#ff0000\">los sucesos a continuación deben ser de la misma naturaleza</font>.</div><div><br /></div><div>失業[しつぎょう]<font color=\"#ff0000\">をきっかけに</font>、 夢[ゆめ]を 追[お]い 掛[か]けたいと 思[おも]っている。</div><div><i><font color=\"#ff0000\">Aprovechando que</font> perdí mi empleo, estoy pensando en ir tras mi sueño</i>.</div><div><br /></div><div>短距離走[たんきょりそう]<font color=\"#ff0000\">＿＿＿</font> 今度[こんど]の 運動会[うんどうかい]で6かのイベントが 行[おこな]われている。</div><div><i><font color=\"#ff0000\">Comenzando con</font> una carrera de corta distancia, se llevarán a cabo seis eventos en estas competiciones deportivas</i>.</div><div><br /></div><div>En resumen, estas expresiones <font color=\"#ff0000\">marcan a un suceso o acción A como punto de origen de otros múltiples sucesos o eventos B, C, D, etc., de igual índole</font>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -8878,7 +8879,7 @@
                             "data": "", 
                             "fields": [
                                 "人生を振り返ってみると、私は＿＿＿多くの時間を浪費したかがわかる。", 
-                                "Al mirar atrás, me doy cuenta de cuánto tiempo he desperdiciado en mi vida.", 
+                                "Al mirar atrás, me doy cuenta de <font color=\"#ff0000\">cuánto</font> tiempo he desperdiciado en mi vida.", 
                                 "人生[じんせい]を 振り返[ふりかえ]ってみると、 私[わたし]は&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">如何[いか]に</font></span>&nbsp;多[おお]くの 時間[じかん]を 浪費[ろうひ]したかがわかる。", 
                                 "如何に"
                             ], 
@@ -12229,7 +12230,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は＿＿＿自分を抑制することができなかった。", 
-                                "Él ya no se podía controlar.", 
+                                "Él <font color=\"#ff0000\">ya</font> no se podía controlar.", 
                                 "彼[かれ]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font> 自分[じぶん]を 抑制[よくせい]することができなかった。", 
                                 "最早"
                             ], 
@@ -13274,7 +13275,7 @@
                             "data": "", 
                             "fields": [
                                 "海外で育つ日本人の子供の場合、日本語が完璧にできる場合＿＿＿、帰国後日本の学校に適応するのに大変苦労することが時々ある。", 
-                                "A los niños japoneses criados fuera de Japón, a veces les cuesta mucho adaptarse a las escuelas japonesas cuando regresan, incluso teniendo un manejo perfecto del japonés.", 
+                                "A los niños japoneses criados fuera de Japón, a veces les cuesta mucho adaptarse a las escuelas japonesas cuando regresan, <font color=\"#ff0000\">incluso</font> teniendo un manejo perfecto del japonés.", 
                                 "海外[かいがい]で 育[そだ]つ 日本人[にっぽんじん]の 子供[こども]の 場合[ばあい]、 日本語[にほんご]が 完璧[かんぺき]にできる 場合[ばあい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（で/に）さえ（も）/（で/に）すら（も）</font></span>、 帰国[きこく] 後[ご] 日本[にっぽん]の 学校[がっこう]に 適応[てきおう]するのに 大変[たいへん] 苦労[くろう]することが 時々[ときどき]ある。", 
                                 "（で/に）さえ（も）/（で/に）すら（も）"
                             ], 
@@ -18421,7 +18422,7 @@
                             "data": "", 
                             "fields": [
                                 "地震であれ火事であれ、そのような状況＿＿＿一番大切なのは落ち着くということだ。", 
-                                "Ya sea un terremoto o un incendio, lo más importante en ese tipo de situación es mantener la calma.", 
+                                "Ya sea un terremoto o un incendio, lo más importante <font color=\"#ff0000\">en</font> ese tipo de situación es mantener la calma.", 
                                 "地震[じしん]であれ 火事[かじ]であれ、そのような 状況[じょうきょう]<font color=\"#ff0000\">にあって（は）</font> 一番[いちばん] 大切[たいせつ]なのは 落ち着[おちつ]くということだ。", 
                                 "<span style=\"font-family: Arial\">にあって（は）</span>"
                             ], 
@@ -19786,7 +19787,7 @@
                             "data": "", 
                             "fields": [
                                 "どこ＿＿＿その高級なレストランは値段が高いです。", 
-                                "Los precios en ese restaruante de lujo son más caros que en cualquier otra parte.", 
+                                "Los precios en ese restaruante de lujo son <font color=\"#ff0000\">más</font> caros <font color=\"#ff0000\">que</font> en cualquier otra parte.", 
                                 "どこ<font color=\"#ff0000\">にもまして</font>その 高級[こうきゅう]なレストランは 値段[ねだん]が 高[たか]いです。", 
                                 "にもまして"
                             ], 
@@ -21858,7 +21859,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女はきれい＿＿＿頭もよい。", 
-                                "Ella no sólo es preciosa sino también inteligente.", 
+                                "Ella <font color=\"#ff0000\">no sólo</font> es preciosa <font color=\"#ff0000\">sino también</font> inteligente.", 
                                 "彼女[かのじょ]はきれい<font color=\"#ff0000\">な</font><font color=\"#ff0000\">だけで（は）なく/であるにとどまらず/であるのみならず</font> 頭[あたま]もよい。", 
                                 "なだけで（は）なく/であるにとどまらず/であるのみならず"
                             ], 
@@ -22052,7 +22053,7 @@
                             "data": "", 
                             "fields": [
                                 "どんなに立派な翻訳でも明らかに原文＿＿＿。", 
-                                "No importa qué tan buena se una traducción, jamás estará al nivel de la obra original.", 
+                                "No importa qué tan buena se una traducción, jamás <font color=\"#ff0000\">estará al nivel de</font> la obra original.", 
                                 "どんなに 立派[りっぱ]な 翻訳[ほんやく]でも 明[あき]らかに 原文[げんぶん]<font color=\"#ff0000\">に（は） 及[およ]ばない</font>ものだ。", 
                                 "に（は）及ばない"
                             ], 
