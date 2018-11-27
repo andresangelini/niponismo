@@ -24538,6 +24538,52 @@
                                 "も兼ねて", 
                                 "を兼ねて"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "かわりに「ある程度」「多くの」「しばしば」という言葉を使い、「私の経験では」「間違っていたら申し訳ないのですが」「多くの例では」のような言葉＿＿＿話を始めなさい。", 
+                                "Podrías usar en su lugar palabras como \"en cierta medida\", \"muchos\" o \"a menudo\", <font color=\"#ff0000\">comenzando</font> la oración <font color=\"#ff0000\">con</font> frases como \"En mi experiencia,...\", \"Discúlpeme si me equivoco,...\" o \"En muchos casos,...\".", 
+                                "かわりに「ある 程度[ていど]」「 多[おお]くの」「しばしば」という 言葉[ことば]を 使[つか]い、「 私[わたし]の 経験[けいけん]では」「 間違[まちが]っていたら 申し訳[もうしわけ]ないのですが」「 多[おお]くの 例[れい]では」のような 言葉[ことば]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font> 話[はなし]を 始[はじ]めなさい。", 
+                                "を皮切りに（して）/を皮切りとして/を振り出しに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "oB&+>mRQ[,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を振り出しに", 
+                                "を皮切りとして", 
+                                "を皮切りに（して）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あのバンドは来年東京＿＿＿、全国でライブを行います。", 
+                                "La banda va a dar conciertos en vivo por todo el país <font color=\"#ff0000\">comenzando por</font> Tokio.", 
+                                "あのバンドは 来年[らいねん] 東京[とうきょう]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font>、 全国[ぜんこく]でライブを 行[おこな]います。", 
+                                "を皮切りに（して）/を皮切りとして/を振り出しに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L%9_S0Ets|", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "を振り出しに", 
+                                "を皮切りとして", 
+                                "を皮切りに（して）"
+                            ]
                         }
                     ]
                 }
@@ -24670,8 +24716,9 @@
                 "N1", 
                 "Oración", 
                 "tatoeba", 
-                "も兼ねて", 
-                "を兼ねて"
+                "を振り出しに", 
+                "を皮切りとして", 
+                "を皮切りに（して）"
             ], 
             "tmpls": [
                 {
