@@ -4729,7 +4729,7 @@
                                 "をきっかけに/を（けい）きに", 
                                 "aprovechar", 
                                 "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresiones que marcan una acción como <font color=\"#ff0000\">la oportunidad para realizar alguna otra</font>. La primera de ellas es de uso informal y se usa para contar cosas de carácter personal.<div><br /></div><div>休憩[きゅうけい]<font color=\"#ff0000\">＿＿＿&nbsp;</font>少[すこ]しの 勉強[べんきょう]をしていた。</div><div><i><font color=\"#ff0000\">Aproveché</font> el descanso para estudiar un poco</i>.</div><div><br /></div><div>Mientras que la segunda es más bien formal.</div><div><br /></div><div>今回[こんかい]の 会議[かいぎ]<font color=\"#ff0000\">＿＿＿</font> 我[わが]が 社[しゃ]の 計画[けいかく]を 提案[ていあん]したいと 思[おも]います。</div><div><i>Me gustaría <font color=\"#ff0000\">aprovechar</font> esta reunión para presentarles el plan de nuestra compañía</i>.</div><div><br /></div><div>A diferencia del español, estas expresiones <font color=\"#ff0000\">no se pueden usar para hacer cosas de la misma naturaleza</font>. En su lugar, se puede usar tanto&nbsp;<font color=\"#ff0000\">を 皮切[かわき]りに（して）</font>,&nbsp;como&nbsp;<span style=\"color: rgb(255, 0, 0)\">を 皮切[かわき]りとして</span>, o <span style=\"color: rgb(255, 0, 0);\">を 振[ふ]り 出[だ]しに</span>.</div><div><br /></div><div>日本[にほん]の 旅行[りょこう]<font color=\"#ff0000\">＿＿＿×/を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振[ふ]り 出[だ]しに</font> 中国[ちゅうごく]にも 旅行[りょこう]した。</div>", 
+                                "Expresiones que marcan una acción como <font color=\"#ff0000\">la oportunidad para realizar alguna otra</font>. La primera de ellas es de uso informal y se usa para contar cosas de carácter personal.<div><br /></div><div>休憩[きゅうけい]<font color=\"#ff0000\">＿＿＿&nbsp;</font>少[すこ]しの 勉強[べんきょう]をしていた。</div><div><i><font color=\"#ff0000\">Aproveché</font> el descanso para estudiar un poco</i>.</div><div><br /></div><div>Mientras que la segunda es más bien formal.</div><div><br /></div><div>今回[こんかい]の 会議[かいぎ]<font color=\"#ff0000\">＿＿＿</font> 我[わが]が 社[しゃ]の 計画[けいかく]を 提案[ていあん]したいと 思[おも]います。</div><div><i>Me gustaría <font color=\"#ff0000\">aprovechar</font> esta reunión para presentarles el plan de nuestra compañía</i>.</div><div><br /></div><div>A diferencia del español, estas expresiones <font color=\"#ff0000\">no se pueden usar para hacer cosas de la misma naturaleza</font>. En su lugar, se puede usar tanto&nbsp;<font color=\"#ff0000\">を 皮切[かわき]りに（して）</font>,&nbsp;como&nbsp;<span style=\"color: rgb(255, 0, 0)\">を 皮切[かわき]りとして</span>, u&nbsp;<span style=\"color: rgb(255, 0, 0);\">を 振[ふ]り 出[だ]しに</span>.</div><div><br /></div><div>日本[にほん]の 旅行[りょこう]<font color=\"#ff0000\">＿＿＿×/を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振[ふ]り 出[だ]しに</font> 中国[ちゅうごく]にも 旅行[りょこう]した。</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4834,7 +4834,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は＿＿＿思い通りにしようとする。", 
-                                "Él trata de hacer lo que quiere lo más que puede.", 
+                                "Él trata de hacer lo que quiere <font color=\"#ff0000\">lo más</font> que puede.", 
                                 "彼[かれ]は<font color=\"#ff0000\"> 飽[あ]く 迄[まで]も</font> 思[おも]い 通[どお]りにしようとする。", 
                                 "飽く迄も"
                             ], 
@@ -12201,7 +12201,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は＿＿＿その侮辱には耐えられなかった。", 
-                                "Ella ya no pudo soportar más los insultos.", 
+                                "Ella <font color=\"#ff0000\">ya</font> no pudo soportar más los insultos.", 
                                 "彼女[かのじょ]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font>その 侮辱[ぶじょく]には 耐[た]えられなかった。", 
                                 "最早"
                             ], 
@@ -13268,7 +13268,7 @@
                             "data": "", 
                             "fields": [
                                 "これらの言葉＿＿＿いつか消えてしまいます。", 
-                                "Incluso estas palabras desaparecerán algún día.", 
+                                "<font color=\"#ff0000\">Incluso</font> estas palabras desaparecerán algún día.", 
                                 "これらの 言葉[ことば]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（で/に）さえ（も）/（で/に）すら（も）</font></span>いつか 消[き]えてしまいます。", 
                                 "（で/に）さえ（も）/（で/に）すら（も）"
                             ], 
@@ -16964,7 +16964,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は同意すると言わ＿＿＿うなずいた。", 
-                                "Él asintió como estando de acuerdo.", 
+                                "Él asintió <font color=\"#ff0000\">como</font> estando de acuerdo.", 
                                 "彼[かれ]は 同意[どうい]すると 言[い]わ<font color=\"#ff0000\">んばかりに/ぬばかりに</font>うなずいた。", 
                                 "<span style=\"font-family: Arial\">んばかりに/ぬばかりに</span>"
                             ], 
@@ -18688,8 +18688,8 @@
                             "data": "", 
                             "fields": [
                                 "彼が尊敬されて偉大な学者だった＿＿＿、その根本的な真実が分からなかった。", 
-                                "Mientras que él era un erudita grande y respetado, no sabía algo tan elemental como eso.", 
-                                "彼[かれ]が 尊敬[そんけい]されて 偉大[いだい]な 学者[がくしゃ]だった<span style=\"color: rgb(0, 0, 255)\">のに 引き換[ひきか]え</span>、その 根本[こんぽん] 的[てき]な 真実[しんじつ]が 分[わ]からなかった。", 
+                                "<font color=\"#ff0000\">Mientras que</font> él era un erudita grande y respetado, no sabía algo tan elemental como eso.", 
+                                "彼[かれ]が 尊敬[そんけい]されて 偉大[いだい]な 学者[がくしゃ]だった<font color=\"#ff0000\">のに 引き換[ひきか]え</font>、その 根本[こんぽん] 的[てき]な 真実[しんじつ]が 分[わ]からなかった。", 
                                 "のに引き換え"
                             ], 
                             "flags": 0, 
@@ -19759,7 +19759,7 @@
                             "data": "", 
                             "fields": [
                                 "何もの＿＿＿私は健康になりたい。", 
-                                "Lo que más quiero es estar sano.", 
+                                "Lo <font color=\"#ff0000\">que más</font> quiero es estar sano.", 
                                 "何[なに]もの<font color=\"#ff0000\">にもまして</font> 私[わたし]は 健康[けんこう]になりたい。", 
                                 "にもまして"
                             ], 
@@ -23431,7 +23431,7 @@
                             "fields": [
                                 "車が便利＿＿＿、電車が便利だけはなく、しかも安いです。", 
                                 "<font color=\"#ff0000\">Mientras que</font> el automóvil es conveniente, el tren no sólo lo es también, sino que además es barato.", 
-                                "車[くるま]が 便利[べんり]<font color=\"#ff0000\">なのに 引き換[ひきか]え</font>、 電車[でんしゃ]が 便利[べんり]だけはなく、しかも 安[やす]いです。", 
+                                "車[くるま]が 便利[べんり]<font color=\"#ff0000\">なのに 引き換[ひきか]え</font>、 電車[でんしゃ]が 便利[べんり]なだけはなく、しかも 安[やす]いです。", 
                                 "なのに引き換え"
                             ], 
                             "flags": 0, 
