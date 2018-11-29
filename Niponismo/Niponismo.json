@@ -24711,6 +24711,138 @@
                                 "を皮切りとして", 
                                 "を皮切りに（して）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "退職＿＿＿茶道を始めた。", 
+                                "<font color=\"#ff0000\">Aproveché</font> mi jubilación para comenzar a estudiar la ceremonia del té.", 
+                                "退職[たいしょく]をきっかけに/を 契機[けいき]に 茶道[さどう]を 始[はじ]めた。", 
+                                "をきっかけに/を（契）機に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p6>e0++DEx", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をきっかけに", 
+                                "を（契）機に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "株価上昇＿＿＿新工場建設の話が持ち上がった。", 
+                                "<font color=\"#ff0000\">Aprovecharon</font> la suba en el valor de las acciones para sugerir la construcción de una nueva planta.", 
+                                "株価[かぶか] 上昇[じょうしょう]<font color=\"#ff0000\">をきっかけに/を 契機[けいき]に</font> 新[しん] 工場[こうじょう] 建設[けんせつ]の 話[はなし]が 持ち上[もちあ]がった。", 
+                                "をきっかけに/を契機に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mv+Ip4yU]O", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をきっかけに", 
+                                "を（契）機に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "「エグゼンプション」の議論＿＿＿働き方を見直そう。", 
+                                "<font color=\"#ff0000\">Aprovechemos</font> la discusión sobre la \"excepción\" para reconsiderar la forma en que trabajamos.", 
+                                "「エグゼンプション」の 議論[ぎろん]<font color=\"#ff0000\">をきっかけに/を（ 契[ちぎり]） 機[き]に</font> 働[はたら]き 方[かた]を 見直[みなお]そう。", 
+                                "をきっかけに/を（契）機に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nTHa?@FNAJ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をきっかけに", 
+                                "を（契）機に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "停電＿＿＿、メンテナンスチームは電気回路をチェックした。", 
+                                "El equipo de mantenimiento <font color=\"#ff0000\">aprovechó</font> el apagón para revisar el circuito eléctrico.", 
+                                "停電[ていでん]<font color=\"#ff0000\">をきっかけに/を（ 契[ちぎり]） 機[き]に</font>、メンテナンスチームは 電気[でんき] 回路[かいろ]をチェックした。", 
+                                "をきっかけに/を（契）機に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w2!5mL90y3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をきっかけに", 
+                                "を（契）機に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "不合格＿＿＿自分の勉強仕方を見直そうとします。", 
+                                "Voy a <font color=\"#ff0000\">aprovechar</font> el hecho de haber perdido el examen para intentar reconsiderar mi método de estudio.", 
+                                "不合格[ふごうかく]<font color=\"#ff0000\">をきっかけに/を（ 契[ちぎり]） 機[き]に</font> 自分[じぶん]の 勉強[べんきょう] 仕方[しかた]を 見直[みなお]そうとします。", 
+                                "をきっかけに/を（契）機に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KC~WFcC!=F", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をきっかけに", 
+                                "を（契）機に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女との別れ＿＿＿、新しい人生を生きろうとしていた。", 
+                                "<font color=\"#ff0000\">Aproveché</font> mi separación de ella para intentar vivir una vida nueva.", 
+                                "彼女[かのじょ]との 別[わか]れ<font color=\"#ff0000\">をきっかけに/を（ 契[ちぎり]） 機[き]に</font>、 新[あたら]しい 人生[じんせい]を 生[い]きろうとしていた。", 
+                                "をきっかけに/を（契）機に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iih5(E!Z5>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をきっかけに", 
+                                "を（契）機に"
+                            ]
                         }
                     ]
                 }
@@ -24843,9 +24975,8 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "を振り出しに", 
-                "を皮切りとして", 
-                "を皮切りに（して）"
+                "をきっかけに", 
+                "を（契）機に"
             ], 
             "tmpls": [
                 {
