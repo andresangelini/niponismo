@@ -3625,12 +3625,12 @@
                                 "に 値[あたい]する", 
                                 "にあたいする", 
                                 "merecer / valer la pena / ser digno de", 
-                                "Verbo en forma diccionario + forma gramatical.<div>Sustantivo (con o sin する) + forma gramatical.</div>", 
-                                "Expresión que indica que algo vale la pena.<div><br /></div><div>彼[かれ]の 勇敢[ゆうかん]な 行動[こうどう]は 称賛[しょうだん]＿＿＿。</div><div><i>Su valiente accionar es digno de elogio</i>.</div><div><br /></div><div>その 歌手[かしゅ]の 最後[さいご]のCDは 聞[き]くに＿＿＿。</div><div><i>Vale la pena escuchar el último CD de esa cantante.</i></div><div><br /></div><div>Refleja desinterés por algo cuando se usa en forma negativa.&nbsp;</div><div><br /></div><div>最近[さいきん]の 番組[ばんぐみ]は 見[み]る＿＿＿ない。</div><div><i>No vale la pena mirar ningún programa últimamente</i>.</div><div><br /></div><div>O que sencillamente algo no vale la pena.</div><div><br /></div><div>紅葉なら、わざわざ京都まで行って見る＿＿＿ない。</div><div><i>Si es por mirar las hojas de otoño, no vale la pena intentar ir hasta Kioto</i>.</div><div><br /></div><div>A diferencia de に 耐[た]えない/に 耐[た]えない que indica que algo no se puede aguantar o tolerar.</div><div><br /></div><div>最近[さいきん]の 番組[ばんぐみ]は 見[み]る＿＿＿ない。</div><div><i>No puedo soportar ver ningún programa últimamente</i>.</div><div><br /></div><div>Es más común que に 耐[た]える/に 堪[た]える o に 足[た]る/に 足[た]りる a excepción de &nbsp;信頼[しんらい], &nbsp;信[しん]じる, &nbsp;信用[しんよう] y &nbsp;取[と]る.</div>", 
-                                "良書[りょうしょ]はすべて 読[よ]む＿＿＿。", 
-                                "Los buenos libros siempre merecen la pena leerlos.", 
-                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]＿＿＿。", 
-                                "<div>Ellos no merecen el elogio que recibieron.</div>", 
+                                "Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo + (する) + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que indica que algo <font color=\"#ff0000\">vale la pena</font>.<div><br /></div><div>彼[かれ]の 勇敢[ゆうかん]な 行動[こうどう]は 称賛[しょうだん]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Su valiente accionar <font color=\"#ff0000\">es digno de</font> elogio</i>.</div><div><br /></div><div>その 歌手[かしゅ]の 最後[さいご]のCDは 聞[き]くに<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Vale la pena</font> escuchar el último CD de esa cantante.</i></div><div><br /></div><div>Refleja <font color=\"#ff0000\">desinterés</font> por algo cuando se usa en <font color=\"#ff0000\">forma negativa</font>.&nbsp;</div><div><br /></div><div>最近[さいきん]の 番組[ばんぐみ]は 見[み]る<font color=\"#ff0000\">＿＿＿</font>ない。</div><div><i><font color=\"#ff0000\">No vale la pena</font> mirar ningún programa últimamente</i>.</div><div><br /></div><div>O que sencillamente algo <font color=\"#ff0000\">no vale la pena</font>.</div><div><br /></div><div>紅葉なら、わざわざ京都まで行って見る<font color=\"#ff0000\">＿＿＿</font>ない。</div><div><i>Si es por mirar las hojas de otoño, <font color=\"#ff0000\">no vale la pena</font> intentar ir hasta Kioto</i>.</div><div><br /></div><div>A diferencia de <font color=\"#ff0000\">に 耐[た]えない/に 耐[た]えない</font> que indica que algo <font color=\"#ff0000\">no se puede aguantar o tolerar</font>.</div><div><br /></div><div>最近[さいきん]の 番組[ばんぐみ]は 見[み]る<font color=\"#ff0000\">＿＿＿</font>ない。</div><div><i><font color=\"#ff0000\">No puedo soportar</font> ver ningún programa últimamente</i>.</div><div><br /></div><div>Es más común que <font color=\"#ff0000\">に 耐[た]える/に 堪[た]える</font> o <font color=\"#ff0000\">に 足[た]る/に 足[た]りる</font> a excepción de &nbsp;<font color=\"#ff0000\">信頼[しんらい], &nbsp;信[しん]じる, &nbsp;信用[しんよう]</font> y &nbsp;<font color=\"#ff0000\">取[と]る</font>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "<div><br /></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -9687,7 +9687,7 @@
                             "data": "", 
                             "fields": [
                                 "彼がそれをする＿＿＿は全く彼が決めることだ。", 
-                                "Si lo hace o no, depende completamente de él.", 
+                                "Si lo <font color=\"#ff0000\">hace o no</font>, depende completamente de él.", 
                                 "彼[かれ]がそれをする<font color=\"#ff0000\">か 否[いな]か</font>は 全[まった]く 彼[かれ]が 決[き]めることだ。", 
                                 "か否か"
                             ], 
@@ -13934,7 +13934,7 @@
                             "data": "", 
                             "fields": [
                                 "私は＿＿＿彼女が何かを隠そうとしていると感じた。", 
-                                "De pronto sentí que ella estaba tratando de ocultar algo.", 
+                                "<font color=\"#ff0000\">De pronto</font> sentí que ella estaba tratando de ocultar algo.", 
                                 "私[わたし]は<font color=\"#ff0000\">ふと</font> 彼女[かのじょ]が 何[なに]かを 隠[かく]そうとしていると 感[かん]じた。", 
                                 "ふと"
                             ], 
@@ -15006,7 +15006,7 @@
                             "data": "", 
                             "fields": [
                                 "この戦争はこのままに続ければ国民の心理を傷付け＿＿＿。", 
-                                "Si esta guerra continúa así, definitivamente dañará la psiquies de los ciudadanos.", 
+                                "Si esta guerra continúa así, <font color=\"#ff0000\">definitivamente</font> dañará la psiquies de los ciudadanos.", 
                                 "この 戦争[せんそう]はこのままに 続[つづ]ければ 国民[こくみん]の 心理[しんり]を 傷付[きずつ]け<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないではおかない/ずにはおかない</font></span>。", 
                                 "ないではおかない/ずにはおかない"
                             ], 
@@ -18267,7 +18267,7 @@
                             "data": "", 
                             "fields": [
                                 "その程度の過ちなら子供を責める＿＿＿。", 
-                                "No da reprochar al niño por un error tan trivial.", 
+                                "<font color=\"#ff0000\">No da&nbsp;para</font> reprochar al niño por un error tan trivial.", 
                                 "その 程度[ていど]の 過[あやま]ちなら 子供[こども]を 責[せ]める<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） 当[あ]たらない</font></span>。", 
                                 "<span style=\"font-family: Arial\">に（は）当たらない</span>"
                             ], 
@@ -19885,7 +19885,7 @@
                             "data": "", 
                             "fields": [
                                 "どこ＿＿＿日本に行きたいです。", 
-                                "Quiero ir a Japón más que a ningún otro lado en el mundo.", 
+                                "Quiero ir a Japón <font color=\"#ff0000\">más que</font> a ningún otro lado en el mundo.", 
                                 "どこ<font color=\"#ff0000\">にもまして</font> 日本[にっぽん]に 行[い]きたいです。", 
                                 "にもまして"
                             ], 
@@ -19906,7 +19906,7 @@
                             "data": "", 
                             "fields": [
                                 "何時＿＿＿世界中で旅行したいです。", 
-                                "Quiero viajar alrededor del mundo ahora más que nunca.", 
+                                "Quiero viajar alrededor del mundo ahora <font color=\"#ff0000\">más que</font> nunca.", 
                                 "何[なん] 時[じ]<font color=\"#ff0000\">にもまして</font> 世界中[せかいじゅう]で 旅行[りょこう]したいです。", 
                                 "にもまして"
                             ], 
@@ -24740,8 +24740,8 @@
                             "fields": [
                                 "株価上昇＿＿＿新工場建設の話が持ち上がった。", 
                                 "<font color=\"#ff0000\">Aprovecharon</font> la suba en el valor de las acciones para sugerir la construcción de una nueva planta.", 
-                                "株価[かぶか] 上昇[じょうしょう]<font color=\"#ff0000\">をきっかけに/を 契機[けいき]に</font> 新[しん] 工場[こうじょう] 建設[けんせつ]の 話[はなし]が 持ち上[もちあ]がった。", 
-                                "をきっかけに/を契機に"
+                                "株価[かぶか] 上昇[じょうしょう]<font color=\"#ff0000\">をきっかけに/を （ 契[<span style=\"color: rgb(255, 0, 0)\">けい</span>]）機[き]に</font> 新[しん] 工場[こうじょう] 建設[けんせつ]の 話[はなし]が 持ち上[もちあ]がった。", 
+                                "をきっかけに/を（契）機に"
                             ], 
                             "flags": 0, 
                             "guid": "mv+Ip4yU]O", 
@@ -24842,6 +24842,48 @@
                                 "Oración", 
                                 "をきっかけに", 
                                 "を（契）機に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "良書はすべて読む＿＿＿。", 
+                                "Los buenos libros siempre <font color=\"#ff0000\">merecen la pena</font> leerlos.", 
+                                "良書[りょうしょ]はすべて 読[よ]む<font color=\"#ff0000\">に 値[あたい]する</font>。", 
+                                "に値する"
+                            ], 
+                            "flags": 0, 
+                            "guid": "EbrNBy!:Dq", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは与えられた賞賛＿＿＿。", 
+                                "Ellos <font color=\"#ff0000\">no merecen</font> el elogio que recibieron.", 
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]<font color=\"#ff0000\">に 値[あたい]しない</font>。", 
+                                "に値しない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L-+wTZsJiM", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "に値する"
                             ]
                         }
                     ]
@@ -24973,10 +25015,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "をきっかけに", 
-                "を（契）機に"
+                "tatoeba", 
+                "に値する"
             ], 
             "tmpls": [
                 {
