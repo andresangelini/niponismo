@@ -4754,6 +4754,39 @@
                                 "をきっかけに", 
                                 "を（契）機に"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "を禁じ得ない", 
+                                "を 禁[きん]じ 得[え]ない", 
+                                "をきんじえない", 
+                                "no poder evitar", 
+                                "Es una forma muy formal de expresar que <font color=\"#ff0000\">no se puede contener un sentimiento</font>.<div><br /></div><div>こんど 実験[じけん]の 結果[けっか]に 驚[おどろ]き<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> estar sorpendido por los resultados del experimento</i>.</div><div><br /></div><div>Es aún más formal que <font color=\"#ff0000\">〜に堪えない</font> y es más comunmente usado entre <font color=\"#ff0000\">políticos, empresarios y gente con cargos de mucha responsabilidad</font>, especialmente en conferencias de prensa o situaciones similares.</div><div><br /></div><div>今回[こんかい]のテロ 事件[じけん]に関して 憤[いきどお]り＿＿＿。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> sentirme indignado por el resiente caso de terrorismo</i>.</div><div><br /></div><div>Entre las palabras más comunes con los cuales se usa se encuentran <font color=\"#ff0000\">同情</font>, <font color=\"#ff0000\">怒</font>, <font color=\"#ff0000\">恐怖</font>, <font color=\"#ff0000\">驚き</font>, <font color=\"#ff0000\">違和感</font>, <font color=\"#ff0000\">笑い</font>,<font color=\"#ff0000\">興奮</font>, <font color=\"#ff0000\">悲しみ</font>, <font color=\"#ff0000\">涙</font>,&nbsp;<font color=\"#ff0000\">畏怖の念</font>, etc.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "y{:>X><Hod", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "を禁じ得ない"
+                            ]
                         }
                     ]
                 }, 
@@ -25242,7 +25275,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo"
+                "Niponismo", 
+                "を禁じ得ない"
             ], 
             "tmpls": [
                 {
