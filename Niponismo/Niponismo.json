@@ -1116,10 +1116,10 @@
                                 "羽目[はめ]になる", 
                                 "はめになる", 
                                 "terminar mal", 
-                                "Verbo en forma diccionario o adjetivo + forma gramatical.", 
-                                "La primera parte de esta forma gramatical significa \"aprieto\" o \"apuro\", por que es fácil de ver que su significado final es \"volverse un problema\" o \"terminar en un apuro\".", 
-                                "結局[けっきょく]、 自分[じぶん]はお 客様[きゃくさま]にお 詫[わ]びをする＿＿＿。", 
-                                "Terminé pidiéndole disculpas yo al cliente.", 
+                                "Verbo en forma diccionario o adjetivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "La primera parte de esta forma gramatical significa \"<font color=\"#ff0000\">aprieto</font>\" o \"<font color=\"#ff0000\">apuro</font>\", por lo que es fácil de ver que su significado final es \"<font color=\"#ff0000\">volverse un problema</font>\" o \"<font color=\"#ff0000\">terminar en un apuro</font>\".<div><br /></div><div>結局[けっきょく]、 自分[じぶん]はお 客様[きゃくさま]にお 詫[わ]びをする<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Terminé</font> pidiéndole disculpas yo al cliente</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1137,6 +1137,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "羽目になる"
                             ]
                         }, 
@@ -2403,12 +2404,12 @@
                                 "めく", 
                                 "めく", 
                                 "tipo algo", 
-                                "Sustantivo + forma gramatical た + sustantivo.<div>Sustantivo + forma gramatical て + verbo.<br /><div>Sustantivo + forma gramatical.</div></div>", 
-                                "Es un verbo del tipo sufijo que significa&nbsp;～のような感じがする (\"dar sensación de\") y&nbsp;es usada para indicar que algo muestra signos de o se siente como algo en particular. Puede resultar complicado traducir al principio ya que la función de este verbo es, básicamente, la de hacer que un sustantivo se comporte como un adjetivo, lo que no se necesita en español porque ya existen adjetivos que cumplen la función deseada. Se lo ve más frecuentemente usado con los siguientes sustantivos:<div><br /></div><div>春 - primavera --&gt; 春＿＿＿ - primaveral / tipo primaveral</div><div>謎 - misterio --&gt; 謎＿＿＿ - misterioso(a) / tipo misterioso</div><div>説教 - sermón --&gt; 説教＿＿＿ - sermonario(a) / tipo sermón</div><div><br /></div><div>Por últimmo, al ser un verbo, se debe conjugar como tal en cada situación.</div>", 
-                                "彼[かれ]にはどことなく 謎[なぞ]＿＿＿ところがある。", 
-                                "Él tiene algo de misterioso.", 
-                                "彼[かれ]の 言葉[ことば]にはどこかなぞめいた 意味[いみ]があるようだ。", 
-                                "Parece haber un significado oculto en sus palabras.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> た + sustantivo<div>Sustantivo + <font color=\"#ff0000\">＿＿＿</font> て + verbo<br /><div>Sustantivo + <font color=\"#ff0000\">＿＿＿</font></div></div>", 
+                                "Es un verbo del tipo sufijo que significa&nbsp;<font color=\"#ff0000\">～のような感じがする</font> (\"<font color=\"#ff0000\">dar sensación de</font>\") y&nbsp;es usada para indicar que algo <font color=\"#ff0000\">muestra signos de</font> o <font color=\"#ff0000\">se siente como</font> algo en particular. Puede resultar complicado traducir al principio ya que la función de este verbo es, básicamente, la de hacer que <font color=\"#ff0000\">un sustantivo se comporte como un adjetivo</font>, lo que no se necesita en español porque ya existen adjetivos que cumplen la función deseada. Se lo ve más frecuentemente usado con los siguientes <font color=\"#ff0000\">sustantivos</font>:<div><br /></div><div>春 - primavera --&gt; 春<font color=\"#ff0000\">＿＿＿</font> - primaveral / tipo primaveral</div><div><br /></div><div>今日[きょう] 春[はる]<font color=\"#ff0000\">＿＿＿</font>になってきた。</div><div><i>Hoy se puso primavera<font color=\"#ff0000\">l</font></i>.</div><div><br /></div><div>謎 - misterio --&gt; 謎<font color=\"#ff0000\">＿＿＿</font> - misterioso(a) / tipo misterioso</div><div><br /></div><div>彼[かれ]にはどことなく 謎[なぞ]<font color=\"#ff0000\">＿＿＿</font>ところがある。</div><div><i>Él tiene algo de misterio<font color=\"#ff0000\">so</font></i>.</div><div><br /></div><div>説教 - sermón --&gt; 説教<font color=\"#ff0000\">＿＿＿</font> - sermonario(a) / tipo sermón</div><div><br /></div><div>兄[にい]さんは 説教[せっきょう]<font color=\"#ff0000\">＿＿＿&nbsp;</font>話[はなし]ばっかり。</div><div><i>Los discursos de mi hermano mayor son siempre <font color=\"#ff0000\">como un</font> sermón</i>.</div><div><br /></div><div>Por últimmo, al ser un verbo, se debe conjugar como tal en cada situación.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2469,10 +2470,10 @@
                                 "をかえりみず/もかえりみず", 
                                 "をかえりみず/もかえりみず", 
                                 "sin fijarse en", 
-                                "Sustantivo + forma gramatical.", 
-                                "Conjugación ず del verbo 顧みる (\"mirar atrás\"), por lo que pasa a significar literalmente \"sin mirar atrás\". Se usa con el sentido de que se hace algo \"sin fijarse en\" \"sin importar\" o \"a pesar de\" otra cosa. Puede usarse tanto con la partícula を como con la も, lo que equivaldría a decir \"sin fijarse\" y \"sin siquiera fijarse\", respectivamente. También es posible el uso de ambas partículas a la vez.", 
-                                "彼女[かのじょ]は 費用[ひよう]＿＿＿ 家[いえ]を 飾[かざ]りたてた。", 
-                                "Ella decoró la casa sin fijarse en los costos.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Conjugación <font color=\"#ff0000\">ず</font> del verbo <font color=\"#ff0000\">顧みる</font> (\"<font color=\"#ff0000\">mirar atrás</font>\"), por lo que pasa a significar literalmente \"<font color=\"#ff0000\">sin mirar atrás</font>\". Se usa con el sentido de que se hace algo \"<font color=\"#ff0000\">sin fijarse en</font>\", \"<font color=\"#ff0000\">sin importar</font>\" o \"<font color=\"#ff0000\">a pesar de</font>\" otra cosa. Puede usarse tanto con la partícula <font color=\"#ff0000\">を</font> como con la も, lo que equivaldría a decir \"<font color=\"#ff0000\">sin fijarse</font>\" y \"<font color=\"#ff0000\">sin siquiera fijarse</font>\", respectivamente. También es posible el uso de ambas partículas a la vez.<div><br /></div><div>彼女[かのじょ]は 費用[ひよう]<font color=\"#ff0000\">＿＿＿</font> 家[いえ]を 飾[かざ]りたてた。</div><div><i>Ella decoró la casa <font color=\"#ff0000\">sin fijarse en</font> los costos</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2634,12 +2635,12 @@
                                 "ものとして", 
                                 "ものとして", 
                                 "haciendo como que", 
-                                "<div>Verbo casual + forma gramatical.</div><div>Sustantivo + である + forma gramatical.</div><div>Adjetivo い + forma gramatical.</div><div>Adjetivo な + である/な + forma gramatical.</div>", 
-                                "Expresión que se usa para decir que algo se realiza o acontece dando por sentado algo. Literalmente significa \"haciendo como que\" (ej.: \"está muerto\"), pero de igual forma se lo puede interpretar como \"tomando por\", \"dando por\", etc. A diferencia de ものと思われる, esta forma expresa una intención en creer que algo es de determinada forma. En ese sentido, es equivalente a ことにする.", 
-                                "彼女[かのじょ]はその 指輪[ゆびわ]を 自分[じぶん]＿＿＿ 通[とお]した。", 
-                                "Ella pasó ese anillo haciendo como que fuese suyo.", 
-                                "私達[わたしたち]はいない＿＿＿ 話[はなし]をお 続[つづ]き 下[くだ]さい。", 
-                                "Por favor, continúe hablando como si nosotros no estuviésemos aquí.", 
+                                "<div>Verbo casual + <font color=\"#ff0000\">＿＿＿</font></div><div>Sustantivo + である + <font color=\"#ff0000\">＿＿＿</font></div><div>Adjetivo い + <font color=\"#ff0000\">＿＿＿</font></div><div>Adjetivo な + である/な + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que se usa para decir que <font color=\"#ff0000\">algo se realiza o acontece dando por sentado alguna otra cosa</font>. Literalmente significa \"<font color=\"#ff0000\">haciendo como que</font>\" (ej.: \"está muerto\"), pero de igual forma se lo puede interpretar como \"<font color=\"#ff0000\">tomando por</font>\", \"<font color=\"#ff0000\">dando por</font>\", etc.<div><br /></div><div><!--anki-->私達[わたしたち]はいない<font color=\"#ff0000\">＿＿＿</font> 話[はなし]をお 続[つづ]き 下[くだ]さい。</div><div><i>Por favor, continúe hablando <font color=\"#ff0000\">como si</font> nosotros no estuviésemos aquí</i>.</div><div><br /></div><div>A diferencia de <font color=\"#ff0000\">ものと思われる</font>, esta forma <font color=\"#ff0000\">expresa una intención en creer que algo es de determinada forma</font>. En ese sentido, es equivalente a <font color=\"#ff0000\">ことにする</font>.</div><div><br /></div><div>彼女[かのじょ]はその 指輪[ゆびわ]を 自分[じぶん]<font color=\"#ff0000\">＿＿＿</font> 通[とお]した。</div><div><i>Ella pasó ese anillo haciendo <font color=\"#ff0000\">como que</font> fuese suyo</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2799,10 +2800,10 @@
                                 "もしくは", 
                                 "もしくは", 
                                 "o de otro modo", 
-                                "Sustantivo + forma gramatical + sustantivo.<div>Sustantivo する + forma gramatical + verbo.</div>", 
-                                "Sirve para mencionar otra alternativa o posibilidad. Dependiendo del contexto, se puede interpretar como \"o\", \"o de otro modo\", \"o de lo contrario\", \"o al menos\", \"o también\", \"o si no\", etc.", 
-                                "川越[かわごえ]の 山車[だし]は、いわゆる 鉾[ほこ] 山車[だし]と 呼[よ]ばれる 形[かたち]で、 車輪[しゃりん]が 3[みっ]つ、＿＿＿ 4[よっ]つ 付[つ]いています。", 
-                                "La carroza del festival de Kawagoe tiene la forma de lo que se llama una carroza hoko, la cual tiene tres o cuatro ruedas pegadas.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo<div>Sustantivo する + <font color=\"#ff0000\">＿＿＿</font> + verbo</div>", 
+                                "Sirve para mencionar otra <font color=\"#ff0000\">alternativa o posibilidad</font>. Dependiendo del contexto, se puede interpretar como \"<font color=\"#ff0000\">o</font>\", \"<font color=\"#ff0000\">o de otro modo</font>\", \"<font color=\"#ff0000\">o de lo contrario</font>\", \"<font color=\"#ff0000\">o al menos</font>\", \"<font color=\"#ff0000\">o también</font>\", \"<font color=\"#ff0000\">o si no</font>\", etc.<div><br /></div><div>川越[かわごえ]の 山車[だし]は、いわゆる 鉾[ほこ] 山車[だし]と 呼[よ]ばれる 形[かたち]で、 車輪[しゃりん]が 3[みっ]つ、<font color=\"#ff0000\">＿＿＿</font> 4[よっ]つ 付[つ]いています。</div><div><i>La carroza del festival de Kawagoe tiene la forma de lo que se llama una carroza hoko, la cual tiene tres <font color=\"#ff0000\">o</font> cuatro ruedas pegadas</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -20305,7 +20306,7 @@
                             "data": "", 
                             "fields": [
                                 "2008年の金融恐慌はその国の経済を一夜＿＿＿崩させた。", 
-                                "La crísis financiera de 2008 hizo derrumbarse la economía de ese país.", 
+                                "<i>La crísis financiera de 2008 hizo derrumbarse la economía de ese país de la noche <font color=\"#ff0000\">a</font> la mañana</i>.", 
                                 "2008 年[ねん]の 金融[きんゆう] 恐慌[きょうこう]はその 国[くに]の 経済[けいざい]を 一夜[いちや]<font color=\"#ff0000\">にして</font> 崩[くず]させた。", 
                                 "にして"
                             ], 
@@ -24885,6 +24886,27 @@
                                 "tatoeba", 
                                 "に値する"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の言葉にはどこかなぞ＿＿＿意味があるようだ。", 
+                                "Parece haber un significado oculto en sus palabras.", 
+                                "彼[かれ]の 言葉[ことば]にはどこかなぞ<font color=\"#ff0000\">めいた</font> 意味[いみ]があるようだ。", 
+                                "めいた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "O;`,%Vxo-E", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "めく"
+                            ]
                         }
                     ]
                 }
@@ -25017,7 +25039,7 @@
                 "N1", 
                 "Oración", 
                 "tatoeba", 
-                "に値する"
+                "めく"
             ], 
             "tmpls": [
                 {
