@@ -1182,12 +1182,12 @@
                                 "ほどのことはない/ほどのこともない", 
                                 "ほどのことはない/ほどのこともない", 
                                 "no ser para tanto", 
-                                "Verbo en forma diccionario + forma gramatical.", 
-                                "Se usa para restarle importancia a algo.", 
-                                "警察[けいさつ]を 呼[よ]ぶ＿＿＿と 思[おも]った。", 
-                                "Pensé que no era para tanto como para llamar a la policía.", 
-                                "そんなに 急[いそ]ぐ＿＿＿から、 徒歩[とほ]で 歩[ある]くことにした。", 
-                                "No daba como para apresurarse, así que decidí ir caminando.", 
+                                "Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Se usa para <font color=\"#ff0000\">restarle importancia a algo</font>.<div><br /></div><div>警察[けいさつ]を 呼[よ]ぶ<font color=\"#ff0000\">＿＿＿</font>と 思[おも]った。</div><div><i>Pensé que <font color=\"#ff0000\">no era para tanto</font> como para llamar a la policía</i>.</div><div><br /></div><div>そんなに 急[いそ]ぐ<font color=\"#ff0000\">＿＿＿</font>から、 徒歩[とほ]で 歩[ある]くことにした。</div><div><i><font color=\"#ff0000\">No era para tanto</font> como para&nbsp;apresurarse, así que decidí ir caminando</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -3659,12 +3659,12 @@
                                 "に（は） 当[あ]たらない", 
                                 "に（は）あたらない", 
                                 "no dar para", 
-                                "Sustantivo + forma gramatical.<div>Verbo en forma diccionario + forma gramatical.</div>", 
-                                "<div>Expresión que indica que algo no amerita una determinada acción ( 見[み]る, &nbsp;聞[き]く o &nbsp;読[よ]む) o reacción ( 驚[おどろ]く, &nbsp;喜[よろこ]ぶ u &nbsp;恐[おそ]れる) ya que es normal, nada especial, común o habitual.</div><div><br /></div><div>昨日のは見る＿＿＿映画だった（普通だから）。</div><div><i>La de ayer no era una película que daba para mirar (no era nada especial).</i></div><div><br /></div><div>これは常識だから、一々メモして置く＿＿＿（誰でも知っているから）。</div><div><i>No da para andar anotando cada cosa ya que son de sentido común (cualquiera lo sabe).</i></div><div><i><br /></i></div><div>Cuando se usa en este sentido es sinónimo de に 値[あたい]しない.</div><div><br /></div><div>Significa 「（ 一般的[いっぱんてき]なことだから）～する 必要[ひつよう]はない」pero difiere con に（は） 及[およ]ばない en que la situación no amerita la acción o reacción por ser algo común.</div><div><br /></div><div>西洋[せいよう]では 家[いえ]に 入[はい]る 時[とき]、 靴[くつ]を 脱[ぬ]ぐ＿＿＿（普通だから）。</div><div><i>En occidente no da para sacarse los zapatos al entrar a una casa (porque es normal).</i></div><div><i><br /></i></div><div>Por el contrario, に（は） 及[およ]ばない se usa a modo de excepción por alguien.</div><div><br /></div><div>あなたは靴を脱ぐに（は）及ばない（特別だから）。</div><div><i>No hace falta que te quites los zapatos (tu caso es especial).</i></div><div><br /></div><div>&nbsp;Se debe tener cuidado cuando se usa junto a &nbsp;失礼[しつれい] ya que en ese caso significa \"no es una falta de respeto\" (o más literlamente \"no da para tomarlo como una falta de respeto\" o \"no da para ofenderse\"). Conviente entonces considerarla como una frase hecha</div>", 
-                                "彼[かれ]はいつも 夜[よる] 遅[おそ]くまで 帰[かえ]るから、 心配[しんぱい]する＿＿＿。", 
-                                "Él siempre llegar tarde en la noche así que no da para preocuparse.", 
-                                "その 映画[えいが]の 筋[すじ]はとてもつまらないから、 見[みる]る＿＿＿。", 
-                                "La trama de esa película es aburrida por lo que no da para verla.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font><div>Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "<div>Expresión que indica que algo <font color=\"#ff0000\">no amerita una determinada acción</font> ( <font color=\"#ff0000\">見[み]る</font>, &nbsp;<font color=\"#ff0000\">聞[き]く</font> o &nbsp;<font color=\"#ff0000\">読[よ]む</font>) <font color=\"#ff0000\">o reacción</font> ( <font color=\"#ff0000\">驚[おどろ]く</font>, &nbsp;<font color=\"#ff0000\">喜[よろこ]ぶ</font> u &nbsp;<font color=\"#ff0000\">恐[おそ]れる</font>) ya que <font color=\"#ff0000\">es normal, nada especial, común o habitual</font>.</div><div><br /></div><div>昨日[きのう]のは 見[み]る<font color=\"#ff0000\">＿＿＿&nbsp;</font>映画[えいが]だった（ 普通[ふつう]だから）。</div><div><i>La de ayer no era una película que <font color=\"#ff0000\">daba para mirar</font> (no era nada especial).</i></div><div><br /></div><div>これは 常識[じょうしき]だから、一々メモして 置[お]く<font color=\"#ff0000\">＿＿＿</font>（ 誰[だれ]でも 知[し]っているから）。</div><div><i><font color=\"#ff0000\">No da para</font> andar anotando cada cosa ya que son de sentido común (cualquiera lo sabe).</i></div><div><i><br /></i></div><div>Cuando se usa en este sentido es sinónimo de に 値[あたい]しない.</div><div><br /></div><div>Significa <font color=\"#ff0000\">「（ 一般的[いっぱんてき]なことだから）～する 必要[ひつよう]はない」</font>pero difiere con <font color=\"#ff0000\">に（は） 及[およ]ばない</font> en que la situación <font color=\"#ff0000\">no amerita la acción o reacción por ser algo común</font>.</div><div><br /></div><div>西洋[せいよう]では 家[いえ]に 入[はい]る 時[とき]、 靴[くつ]を 脱[ぬ]ぐ<font color=\"#ff0000\">＿＿＿</font>（ 普通[ふつう]だから）。</div><div><i>En occidente <font color=\"#ff0000\">no da para</font> sacarse los zapatos al entrar a una casa (porque es normal).</i></div><div><i><br /></i></div><div>Por el contrario, <font color=\"#ff0000\">に（は） 及[およ]ばない</font> se usa <font color=\"#ff0000\">a modo de excepción por alguien</font>.</div><div><br /></div><div>あなたは靴を 脱[ぬ]ぐ<font color=\"#ff0000\">に（は） 及[およ]ばない</font>（ 特別[とくべつ]だから）。</div><div><i><font color=\"#ff0000\">No hace falta que</font> te quites los zapatos (tu caso es especial).</i></div><div><br /></div><div>&nbsp;Se debe tener cuidado cuando se usa junto a &nbsp;<font color=\"#ff0000\">失礼[しつれい]</font> ya que en ese caso significa \"<font color=\"#ff0000\">no es una falta de respeto</font>\" (o más literlamente \"<font color=\"#ff0000\">no da para tomarlo como una falta de respeto</font>\" o \"<font color=\"#ff0000\">no da para ofenderse</font>\"). Conviente entonces considerarla como una <font color=\"#ff0000\">frase hecha</font>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4763,7 +4763,7 @@
                                 "を 禁[きん]じ 得[え]ない", 
                                 "をきんじえない", 
                                 "no poder evitar", 
-                                "Es una forma muy formal de expresar que <font color=\"#ff0000\">no se puede contener un sentimiento</font>.<div><br /></div><div>こんど 実験[じけん]の 結果[けっか]に 驚[おどろ]き<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> estar sorpendido por los resultados del experimento</i>.</div><div><br /></div><div>Es aún más formal que <font color=\"#ff0000\">〜に堪えない</font> y es más comunmente usado entre <font color=\"#ff0000\">políticos, empresarios y gente con cargos de mucha responsabilidad</font>, especialmente en conferencias de prensa o situaciones similares.</div><div><br /></div><div>今回[こんかい]のテロ 事件[じけん]に関して 憤[いきどお]り＿＿＿。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> sentirme indignado por el resiente caso de terrorismo</i>.</div><div><br /></div><div>Entre las palabras más comunes con los cuales se usa se encuentran <font color=\"#ff0000\">同情</font>, <font color=\"#ff0000\">怒</font>, <font color=\"#ff0000\">恐怖</font>, <font color=\"#ff0000\">驚き</font>, <font color=\"#ff0000\">違和感</font>, <font color=\"#ff0000\">笑い</font>,<font color=\"#ff0000\">興奮</font>, <font color=\"#ff0000\">悲しみ</font>, <font color=\"#ff0000\">涙</font>,&nbsp;<font color=\"#ff0000\">畏怖の念</font>, etc.</div>", 
+                                "Es una forma muy formal de expresar que <font color=\"#ff0000\">no se puede contener un sentimiento</font>.<div><br /></div><div>こんどの 実験[じけん]の 結果[けっか]に 驚[おどろ]き<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> estar sorpendido por los resultados del experimento</i>.</div><div><br /></div><div>Es aún más formal que <font color=\"#ff0000\">〜に堪えない</font> y es más comunmente usado entre <font color=\"#ff0000\">políticos, empresarios y gente con cargos de mucha responsabilidad</font>, especialmente en conferencias de prensa o situaciones similares.</div><div><br /></div><div>今回[こんかい]のテロ 事件[じけん]に関して 憤[いきどお]り＿＿＿。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> sentirme indignado por el reciente caso de terrorismo</i>.</div><div><br /></div><div>Entre las palabras más comunes con los cuales se usa se encuentran &nbsp;<font color=\"#ff0000\">同情[どうじょう]</font>, &nbsp;<font color=\"#ff0000\">怒[いか]り</font>, &nbsp;<font color=\"#ff0000\">恐怖[きょうふ]</font>, &nbsp;<font color=\"#ff0000\">驚[おどろ]き</font>, &nbsp;<font color=\"#ff0000\">違和感[いわかん]</font>, &nbsp;<font color=\"#ff0000\">笑[わら]い</font>, &nbsp;<font color=\"#ff0000\">興奮[こうふん]</font>, &nbsp;<font color=\"#ff0000\">悲[かな]しみ</font>, &nbsp;<font color=\"#ff0000\">涙[なみだ]</font>, &nbsp;<font color=\"#ff0000\">畏怖[いふ]の 念[ねん]</font>, etc.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -8294,7 +8294,7 @@
                             "data": "", 
                             "fields": [
                                 "彼からはまだその＿＿＿は何の便りもない。", 
-                                "No he sabido más nada de él.", 
+                                "No he sabido <font color=\"#ff0000\">más nada</font> de él.", 
                                 "彼[かれ]からはまだその<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ほかに</font></span>は 何[なん]の 便[たよ]りもない。", 
                                 "ほかに"
                             ], 
@@ -13219,7 +13219,7 @@
                             "data": "", 
                             "fields": [
                                 "彼には必需品＿＿＿＿＿＿、まして贅沢品はなおさらだ。", 
-                                "Él ni siquiera tiene artículos de primera necesidad, mucho menos del tipo lujoso.", 
+                                "Él <font color=\"#ff0000\">ni siquiera</font> tiene artículos de primera necesidad, mucho menos del tipo lujoso.", 
                                 "彼[かれ]には 必需[ひつじゅ] 品[ひん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（で/に）さえ（も）ない/（で/に）すら（も）ない</font></span>、まして 贅沢[ぜいたく] 品[ひん]はなおさらだ。", 
                                 "（で/に）さえ（も）ない/（で/に）すら（も）ない"
                             ], 
@@ -13907,9 +13907,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "この風邪は＿＿＿良くならない", 
+                                "この風邪は＿＿＿良くならない。", 
                                 "No puedo quitarme este resfriado.", 
-                                "この 風邪[かぜ]は<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">どうにも</font></span>&nbsp;良[よ]くならない", 
+                                "この 風邪[かぜ]は<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">どうにも</font></span>&nbsp;良[よ]くならない。", 
                                 "どうにも"
                             ], 
                             "flags": 0, 
@@ -13920,6 +13920,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
+                                "tatoeba", 
                                 "どうにも～ない"
                             ]
                         }, 
@@ -15839,7 +15840,7 @@
                             "data": "", 
                             "fields": [
                                 "愛＿＿＿、結婚生活は続けられない。", 
-                                "Sin amor, no podría seguir casada.", 
+                                "<font color=\"#ff0000\">Sin amor</font>, no podría seguir casada.", 
                                 "愛[あい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なくして（は）/なしに（は）/なしでは</font></span>、 結婚[けっこん] 生活[せいかつ]は 続[つづ]けられない。", 
                                 "なくして（は）/なしに（は）/なしでは"
                             ], 
@@ -16410,7 +16411,7 @@
                             "data": "", 
                             "fields": [
                                 "ドアが開ける＿＿＿、黒猫が急に飛び出した。", 
-                                "Fue apenas abrirse la puerta y salió repentinamente un gato negro.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> abrirse la puerta y salió repentinamente un gato negro.", 
                                 "ドアが 開[あ]ける<font color=\"#ff0000\">なり</font>、 黒[くろ] 猫[ねこ]が 急[きゅう]に 飛び出[とびだ]した。", 
                                 "なり"
                             ], 
@@ -16641,7 +16642,7 @@
                             "data": "", 
                             "fields": [
                                 "友達も参加する＿＿＿選手はたりない。", 
-                                "Aun participando mis amigos, no alcanzan los jugadores.", 
+                                "<font color=\"#ff0000\">Aun</font> participando mis amigos, no alcanzan los jugadores.", 
                                 "友達[ともだち]も 参加[さんか]する<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>&nbsp;選手[せんしゅ]はたりない。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
@@ -17880,7 +17881,7 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿早く、全額をご送金くださるようお願いします。", 
-                                "Le solicitamos que envíe el monto total lo más pronto posible, por favor.", 
+                                "Le solicitamos que envíe el monto total <font color=\"#ff0000\">lo más</font> pronto <font color=\"#ff0000\">posible</font>, por favor.", 
                                 "<font color=\"#ff0000\">なるべく</font> 早[はや]く、 全額[ぜんがく]をご 送金[そうきん]くださるようお 願[ねが]いします。", 
                                 "なるべく"
                             ], 
@@ -18743,7 +18744,7 @@
                             "data": "", 
                             "fields": [
                                 "その絵の鮮やか＿＿＿、この壁の色は鈍すぎると思う。", 
-                                "En contraste con lo vívido de la pintura, el color de la pared es demasiado opaco.", 
+                                "<font color=\"#ff0000\">En contraste con</font> lo vívido de la pintura, el color de la pared es demasiado opaco.", 
                                 "その 絵[え]の 鮮[あざ]やか<font color=\"#ff0000\">なのに 引き換[ひきか]え</font>、この 壁[かべ]の 色[いろ]は 鈍[のろ]すぎると 思[おも]う。", 
                                 "なのに引き換え"
                             ], 
@@ -22269,9 +22270,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "結婚式は天候＿＿＿催されるだろう。", 
-                                "La boda se celebrará <font color=\"#ff0000\">sin importar</font> el clima.", 
-                                "結婚式[けっこんしき]は 天候[てんこう]<font color=\"#ff0000\">（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</font>&nbsp;催[もよお]されるだろう。", 
+                                "心配しないで。送別会は天候＿＿＿催されるだろう。", 
+                                "La despedida se celebrará <font color=\"#ff0000\">sin importar</font> el clima.", 
+                                "心配[しんぱい]しないで。 送別[そうべつ] 会[かい]は 天候[てんこう]<span style=\"color: rgb(255, 0, 0)\">いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>&nbsp;催[もよお]されるだろう。", 
                                 "（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず"
                             ], 
                             "flags": 0, 
@@ -22281,8 +22282,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "tatoeba", 
                                 "にかかわらず", 
                                 "によらず"
                             ]
