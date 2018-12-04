@@ -24941,6 +24941,132 @@
                                 "tatoeba", 
                                 "めく"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私の秘書はそんなみっともない事件に巻き込まれて、驚き＿＿＿。", 
+                                "<font color=\"#ff0000\">No puedo evitar</font> asombrarme de que mi asistente personal haya esta involucrado en un hecho tan deshonroso.", 
+                                "私[わたし]の 秘書[ひしょ]はそんなみっともない 事件[じけん]に 巻き込[まきこ]まれて、 驚[おどろ]き<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
+                                "を禁じ得ない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AgL-X1ii0m", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を禁じ得ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この感動的な映画を思い出すと涙＿＿＿。", 
+                                "<font color=\"#ff0000\">No puedo evitar</font> las lágrimas al recordar una película tan conmovedora.", 
+                                "この 感動[かんどう] 的[てき]な 映画[えいが]を 思い出[おもいだ]すと 涙[なみだ]<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
+                                "を禁じ得ない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dybF8x>4{e", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を禁じ得ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この世界にある不正のことを考えると憤り＿＿＿。", 
+                                "No puedo evitar mi indignación al pensar en las injusticias que hay en el mundo.", 
+                                "この 世界[せかい]にある 不正[ふせい]のことを 考[かんが]えると 憤[いきどお]り<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
+                                "を禁じ得ない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "e%#5aXa:jj", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を禁じ得ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大統領としてそんな汚らわしいことを言えるなんて、怒り＿＿＿。", 
+                                "<font color=\"#ff0000\">No puedo evitar</font> enojarme cuando alguien como el presidente dice algo tan repulsivo.", 
+                                "大統領[だいとうりょう]としてそんな 汚[けが]らわしいことを 言[い]えるなんて、 怒[いか]り<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
+                                "を禁じ得ない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xDWfH(SHJc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を禁じ得ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最近世界中の人々が先鋭化されてきたことに違和感＿＿＿。", 
+                                "<font color=\"#ff0000\">No puedo evitar</font> sentir un cierto desagrado al saber que la gente se ha venido radicalizando en los últimos tiempos.", 
+                                "最近[さいきん] 世界中[せかいじゅう]の 人々[ひとびと]が 先鋭[せんえい] 化[か]されてきたことに 違和感[いわかん]<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
+                                "を禁じ得ない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vh=K]clMZQ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を禁じ得ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "新しい冷戦があるなんて、畏怖の念＿＿＿。", 
+                                "<font color=\"#ff0000\">No puedo evitar</font> horrorizarme al pensar que pueda haber una nueva guerra fría.", 
+                                "新[あたら]しい 冷戦[れいせん]があるなんて、 畏怖[いふ]の 念[ねん]<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
+                                "を禁じ得ない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "DJK:w|wm:|", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を禁じ得ない"
+                            ]
                         }
                     ]
                 }
@@ -25071,9 +25197,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "めく"
+                "を禁じ得ない"
             ], 
             "tmpls": [
                 {
