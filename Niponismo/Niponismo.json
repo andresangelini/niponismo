@@ -1215,12 +1215,12 @@
                                 "ほかに～ない", 
                                 "ほかに～ない", 
                                 "ningún otro / ninguna otra", 
-                                "Forma gramatical + verbo ない.", 
-                                "Expresa que además de lo que se menciona, no hay, se hace o sucede nada más.", 
-                                "＿＿＿ 方法[ほうほう]はありませんか。", 
-                                "¿No existe otro método?", 
-                                "＿＿＿ 痛[いた]いところはありますか。", 
-                                "¿Hay algún otro lado donde le duela?", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + verbo ない.", 
+                                "Expresa que no <font color=\"#ff0000\">hay o se hace nada más</font> además de lo que se menciona.<div><br /></div><div><font color=\"#ff0000\">＿＿＿</font> 方法[ほうほう]はありませんか。</div><div><i>¿No hay <font color=\"#ff0000\">ninguna otra</font> forma?</i></div><div><br /></div><div>倉庫には家具が一つ<font color=\"#ff0000\">＿＿＿</font>は何もなかった。</div><div><i>En el depósito no había <font color=\"#ff0000\">ninguna otra</font> cosa más que un mueble</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4968,7 +4968,7 @@
                             "data": "", 
                             "fields": [
                                 "「わはははは、心配するなっ！」オレは＿＿＿虚勢を張った。", 
-                                "¡Ja ja ja ja! \"No te preocupes\", me atreví a fanfarronear.", 
+                                "¡Ja ja ja ja! \"No te preocupes\", me <font color=\"#ff0000\">atreví</font> a fanfarronear.", 
                                 "「わはははは、 心配[しんぱい]するなっ！」オレは&nbsp;<font color=\"#ff0000\">敢[あ]えて</font> 虚勢[きょせい]を 張[は]った。", 
                                 "<span style=\"font-family: Arial\">敢えて</span>"
                             ], 
@@ -13747,7 +13747,7 @@
                             "data": "", 
                             "fields": [
                                 "どんな言語を学ぶにしても辞書なし＿＿＿。", 
-                                "No importa qué idioma estés aprendiendo, no podés estar sin un diccionario.", 
+                                "No importa qué idioma estés aprendiendo, <font color=\"#ff0000\">no podés estar sin</font> un diccionario.", 
                                 "どんな 言語[げんご]を 学[まな]ぶにしても 辞書[じしょ]なし<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">では済まない/じゃ済まない/では済まされない/じゃ済まされない</font></span>。", 
                                 "では済まない/じゃ済まない/では済まされない/じゃ済まされない"
                             ], 
@@ -14146,7 +14146,7 @@
                             "data": "", 
                             "fields": [
                                 "あの太った魔女は世界で一番綺麗＿＿＿振る舞っているのを見ると笑わなくてはいられない。", 
-                                "No puedo evitar reírme al ver a esa bruja gorda comportándose como si ella fuese la más linda del mundo.", 
+                                "No puedo evitar reírme al ver a esa bruja gorda <font color=\"#ff0000\">comportándose como</font> si ella fuese la más linda del mundo.", 
                                 "あの 太[ふと]った 魔女[まじょ]は 世界[せかい]で 一番[いちばん] 綺麗[きれい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">であるかの 如[ごと]く</font></span>&nbsp;振る舞[ふるま]っているのを 見[み]ると 笑[わら]わなくてはいられない。", 
                                 "であるかの如く"
                             ], 
@@ -14458,9 +14458,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "両親の意向＿＿＿、子供自身が有名校にあこがれている。", 
-                                "<font color=\"#ff0000\">No</font> es <font color=\"#ff0000\">sólo</font> la intención de los padres. El niño <font color=\"#ff0000\">también</font> anhela ser famoso en la escuela.", 
-                                "両親[りょうしん]の 意向[いこう]<font color=\"#ff0000\">もさることながら</font>、 子供[こども] 自身[じしん]が 有名[ゆうめい] 校[こう]にあこがれている。", 
+                                "両親の意向＿＿＿、子供自身がいつかピアニストになることにあこがれている。", 
+                                "<font color=\"#ff0000\">No</font> es <font color=\"#ff0000\">sólo</font> el deseo de sus padre sino que el niño <font color=\"#ff0000\">también</font> anhela con convertirse en pianista algún día.", 
+                                "両親[りょうしん]の 意向[いこう]<span style=\"color: rgb(255, 0, 0)\">もさることながら</span>、 子供[こども] 自身[じしん]がいつかピアニストになることにあこがれている。", 
                                 "もさることながら"
                             ], 
                             "flags": 0, 
@@ -14470,8 +14470,9 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "jgram"
+                                "もさることながら"
                             ]
                         }, 
                         {
@@ -16432,7 +16433,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は帰ってくる＿＿食事もせずに寝てしまいました。", 
-                                "Fue apenas volver a casa y él se fue a dormir sin siquiera comer.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> volver a casa y él se fue a dormir sin siquiera comer.", 
                                 "彼[かれ]は 帰[かえ]ってくる<font color=\"#ff0000\">なり</font> 食事[しょくじ]もせずに 寝[ね]てしまいました。", 
                                 "なり"
                             ], 
@@ -18049,7 +18050,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はその罰を受ける＿＿＿。", 
-                                "Él merece recibir ese castigo.", 
+                                "Él <font color=\"#ff0000\">merece</font> recibir ese castigo.", 
                                 "彼[かれ]はその 罰[ばち]を 受[う]ける<font color=\"#ff0000\">に 値[あたい]する</font>。", 
                                 "に値する"
                             ], 
@@ -19689,7 +19690,7 @@
                             "data": "", 
                             "fields": [
                                 "お客さんにそんなに失礼なことするなんて、図々しい＿＿＿。", 
-                                "No se puede ser tan descarado de faltarle así el respeto a un cliente.", 
+                                "<font color=\"#ff0000\">No se puede ser tan</font> descarado de faltarle así el respeto a un cliente.", 
                                 "お 客[きゃく]さんにそんなに 失礼[しつれい]なことするなんて、 図々[ずうずう]しい<font color=\"#ff0000\">にも 程[ほど]が 有[あ]る</font>。", 
                                 "にも程が有る"
                             ], 
@@ -19836,7 +19837,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らは誰＿＿＿勝ちたいです。", 
-                                "Ellos quieren ganar más que nadie.", 
+                                "Ellos quieren ganar <font color=\"#ff0000\">más que</font> nadie.", 
                                 "彼[かれ]らは 誰[だれ]<font color=\"#ff0000\">にもまして</font> 勝[か]ちたいです。", 
                                 "にもまして"
                             ], 
@@ -19878,7 +19879,7 @@
                             "data": "", 
                             "fields": [
                                 "お母さんにとってあなたの幸せは何＿＿＿大切です。", 
-                                "Para tu madre tu felicidad es más importante que cualquier otra cosa.", 
+                                "Para tu madre tu felicidad es <font color=\"#ff0000\">más</font> importante <font color=\"#ff0000\">que</font> cualquier otra cosa.", 
                                 "お 母[かあ]さんにとってあなたの 幸[しあわ]せは 何[なに]<font color=\"#ff0000\">にもまして</font> 大切[たいせつ]です。", 
                                 "にもまして"
                             ], 
@@ -20403,7 +20404,7 @@
                             "data": "", 
                             "fields": [
                                 "あの車は高価＿＿＿不便利である。", 
-                                "Es auto es caro y poco conveniente.", 
+                                "Es auto es caro <font color=\"#ff0000\">y</font> poco conveniente.", 
                                 "あの 車[くるま]は 高価[こうか<font color=\"#ff0000\">]にして</font> 不[ふ] 便利[べんり]である。", 
                                 "にして"
                             ], 
@@ -22535,7 +22536,7 @@
                             "data": "", 
                             "fields": [
                                 "英語＿＿＿日本語＿＿＿、やる気がないなら上手に絶対ならない。", 
-                                "Independientemente de si es inglés o japonés, si no le pones ganas jamás serás proficiente.", 
+                                "<font color=\"#ff0000\">Independientemente de</font> si es inglés o japonés, si no le pones ganas jamás serás proficiente.", 
                                 "英語[えいご]<font color=\"#ff0000\">によらず/にかかわらず</font> 日本語[にほんご]<font color=\"#ff0000\">によらず/にかかわらず</font>、やる 気[き]がないなら 上手[じょうず]に 絶対[ぜったい]ならない。", 
                                 "によらず/にかかわらず"
                             ], 
@@ -24989,7 +24990,7 @@
                             "data": "", 
                             "fields": [
                                 "この世界にある不正のことを考えると憤り＿＿＿。", 
-                                "No puedo evitar mi indignación al pensar en las injusticias que hay en el mundo.", 
+                                "<font color=\"#ff0000\">No puedo evitar</font> mi indignación al pensar en las injusticias que hay en el mundo.", 
                                 "この 世界[せかい]にある 不正[ふせい]のことを 考[かんが]えると 憤[いきどお]り<font color=\"#ff0000\">を 禁[きん]じ 得[え]ない</font>。", 
                                 "を禁じ得ない"
                             ], 
