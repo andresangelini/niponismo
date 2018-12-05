@@ -4787,6 +4787,39 @@
                                 "Niponismo", 
                                 "を禁じ得ない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "をものともせず（に）", 
+                                "をものともせず（に）", 
+                                "をものともせず（に）", 
+                                "desafiando", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión sinónima de <font color=\"#ff0000\">〜を 気[き]にしないで</font> y <font color=\"#ff0000\">〜を（ 少[すこ]しも） 恐[おそ]れないで</font> que indica que&nbsp;<font color=\"#ff0000\">se hace algo a pesar de las dificulades&nbsp;</font>&nbsp;<font color=\"#ff0000\">mostrando coraje y resolución para enfrentar las adversidades</font>.<div><br /></div><div>周[まわ]りの 人[ひと]<font color=\"#ff0000\">＿＿＿</font> 彼女[かのじょ]は 夢[ゆめ]を 果[はた]たそうとし 続[つづ]けた。</div><div><i>Ella siguió tratando de cumplir su sueño <font color=\"#ff0000\">desafiando</font> a quienes la rodeaban</i>.</div><div><br /></div><div>Difiere de <font color=\"#ff0000\">〜をよそに</font> porque éste refleja <font color=\"#ff0000\">tal indiferenencia</font> por la adversidad que tal acción bordea la <font color=\"#ff0000\">irresponsabilidad</font> e incluso la <font color=\"#ff0000\">estupidez</font>.</div><div><br /></div><div>数々[かずかず]の 忠告[ちゅうこく]<font color=\"#ff0000\">＿＿＿</font> 彼[かれ]らはその 空[あ]き 地[き]に 入[はい]っていた。</div><div><i>Ellos entraron al terreno baldío <font color=\"#ff0000\">a pesar de</font> las varias advertencias</i>.</div><div><br /></div><div>También se distingue de <font color=\"#ff0000\">〜を 顧[かえり]みず</font> en que éste útlimo <font color=\"#ff0000\">no refleja ninguna opinión</font> del locutor. <font color=\"#ff0000\">Ni critica ni tampoco elogia</font> al sujeto.</div><div><br /></div><div><div>彼女[かのじょ]は 費用[ひよう]<font color=\"#ff0000\">＿＿＿</font>&nbsp;家[いえ]を 飾[かざ]りたてた。</div><div><i>Ella decoró la casa&nbsp;<font color=\"#ff0000\">sin fijarse en</font>&nbsp;los costos</i>.</div></div><div><br /></div><div>Al contrario de estas otras expresiones, <font color=\"#ff0000\">〜をものともせず（に）</font>　incluye un sentimiento de <font color=\"#ff0000\">admiración</font> y <font color=\"#ff0000\">elogio</font> por quien ejecuta la acción.</div><div><br /></div><div>危険[きけん]<font color=\"#ff0000\">＿＿＿</font> 消防士[しょうぼうし] 達[たち]はそのビルに 入[はい]った。</div><div><i>Los bomberos entraron al edificio <font color=\"#ff0000\">desafiando</font> el peligro</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "P!,;Mx48r+", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "をものともせず（に）"
+                            ]
                         }
                     ]
                 }, 
@@ -25404,7 +25437,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "を禁じ得ない"
+                "をものともせず（に）"
             ], 
             "tmpls": [
                 {
