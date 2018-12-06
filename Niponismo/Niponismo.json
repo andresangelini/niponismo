@@ -25101,6 +25101,132 @@
                                 "Oración", 
                                 "を禁じ得ない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "氷のような水＿＿＿彼は川へ飛びこんだ。", 
+                                "Él se zambulló en el río <font color=\"#ff0000\">desafiando</font> el frío helado del agua.", 
+                                "氷[こおり]のような 水[みず]<font color=\"#ff0000\">をものともせず（に）</font> 彼[かれ]は 川[かわ]へ 飛[と]びこんだ。", 
+                                "をものともせず（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "D*^iRd[}b|", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をものともせず（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "激しい吹雪＿＿＿、登山家たちは出発した。", 
+                                "Los montañistas partieron <font color=\"#ff0000\">desafiando</font> la violenta tormenta de nieve.", 
+                                "激[はげ]しい 吹雪[ふぶき]<font color=\"#ff0000\">をものともせず（に）</font>、 登山[とざん] 家[か]たちは 出発[しゅっぱつ]した。", 
+                                "をものともせず（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "f#D]P3*z$n", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をものともせず（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "寒さ＿＿＿、彼は薄着で外出した。", 
+                                "Él salió con ropa ligera <font color=\"#ff0000\">desafiando</font> al frío.", 
+                                "寒[さむ]さ<font color=\"#ff0000\">をものともせず（に）</font>、 彼[かれ]は 薄着[うすぎ]で 外出[がいしゅつ]した。", 
+                                "をものともせず（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "vX|}HZ9iZ#", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をものともせず（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "一行は危険＿＿＿前進した。", 
+                                "El grupo avanzó <font color=\"#ff0000\">desafiando</font> al peligro.", 
+                                "一行[いっこう]は 危険[きけん]<font color=\"#ff0000\">をものともせず（に）</font> 前進[ぜんしん]した。", 
+                                "をものともせず（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jq1mxLE#6y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をものともせず（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そのおてんば娘は危険＿＿＿その木に登った。", 
+                                "La chica osada se trepó al árbol <font color=\"#ff0000\">desafiando</font> el peligro.", 
+                                "そのおてんば 娘[むすめ]は 危険[きけん]<font color=\"#ff0000\">をものともせず（に）</font>その 木[き]に 登[のぼ]った。", 
+                                "をものともせず（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zj[>>akLH[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "をものともせず（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "上の人＿＿＿その記者は不正事件について書いた。", 
+                                "El reportero escribió sobre el escándalo de extorsión <font color=\"#ff0000\">desafiando</font> a sus superiores.", 
+                                "上[うえ]の 人[ひと]<font color=\"#ff0000\">をものともせず（に）</font>その 記者[きしゃ]は 不正[ふせい] 事件[じけん]について 書[か]いた。", 
+                                "をものともせず（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mO9O+-xn]l", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をものともせず（に）"
+                            ]
                         }
                     ]
                 }
@@ -25233,7 +25359,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "を禁じ得ない"
+                "をものともせず（に）"
             ], 
             "tmpls": [
                 {
