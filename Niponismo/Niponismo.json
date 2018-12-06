@@ -7066,7 +7066,7 @@
                             "data": "", 
                             "fields": [
                                 "ユーフォーを見たよ。本当だよ。信じてくれ。僕は気がちがっているん＿＿＿。", 
-                                "¡Vi un OVNI! ¡En serio! Créanme, por fovor. Yo no estoy loco ni nada por el estilo.", 
+                                "¡Vi un OVNI! ¡En serio! Créanme, por fovor. Yo no estoy loco <font color=\"#ff0000\">ni nada por el estilo</font>.", 
                                 "ユーフォーを 見[み]たよ。 本当[ほんとう]だよ。 信[しん]じてくれ。 僕[ぼく]は 気[き]がちがっているん<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">でも何でもない</font></span>。", 
                                 "でも何でもない"
                             ], 
@@ -11747,7 +11747,7 @@
                             "data": "", 
                             "fields": [
                                 "友情が仕事より大切なのは言う＿＿＿。", 
-                                "No hace falta decir que la amistad es más importante que el trabajo.", 
+                                "<font color=\"#ff0000\">No hace falta</font> decir que la amistad es más importante que el trabajo.", 
                                 "友情[ゆうじょう]が 仕事[しごと]より 大切[たいせつ]なのは 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">までもない</font></span>。", 
                                 "までもない"
                             ], 
@@ -11890,7 +11890,7 @@
                             "data": "", 
                             "fields": [
                                 "その言葉は市長に＿＿＿ものであった。", 
-                                "Esa declaración no fue propia de un alcalde.", 
+                                "Esa declaración no fue <font color=\"#ff0000\">propia de</font> un alcalde.", 
                                 "その 言葉[ことば]は 市長[しちょう]に<font color=\"#ff0000\">あるまじき</font>ものであった。", 
                                 "あるまじき"
                             ], 
@@ -12289,7 +12289,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らの伝統的な生活模様は、＿＿＿存在しない。", 
-                                "Su forma de vida tradicional ya no existe.", 
+                                "Su forma de vida tradicional <font color=\"#ff0000\">ya</font> no existe.", 
                                 "彼[かれ]らの 伝統[でんとう] 的[てき]な 生活[せいかつ] 模様[もよう]は、&nbsp;<font color=\"#ff0000\">最早[もはや]</font> 存在[そんざい]しない。", 
                                 "最早"
                             ], 
@@ -16382,7 +16382,7 @@
                             "data": "", 
                             "fields": [
                                 "みちこちゃんは学校から帰る＿＿＿、一言を言わずに部屋に閉じ籠もった。", 
-                                "Fue apenas volver a casa del colegio y Michiko se encerró en su cuarto sin decir nada.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> volver a casa del colegio y Michiko se encerró en su cuarto sin decir nada.", 
                                 "みちこちゃんは 学校[がっこう]から 帰[かえ]る<font color=\"#ff0000\">なり</font>、 一言[ひとこと]を 言[い]わずに 部屋[へや]に 閉[と]じ 籠[かご]もった。", 
                                 "なり"
                             ], 
@@ -19807,7 +19807,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は以前＿＿＿勉強しようと決めたのです", 
-                                "Él decidió estudiar aún más duro que antes.", 
+                                "Él decidió estudiar aún <font color=\"#ff0000\">más</font> duro <font color=\"#ff0000\">que</font> antes.", 
                                 "彼[かれ]は 以前[いぜん]<font color=\"#ff0000\">にもまして</font> 勉強[べんきょう]しようと 決[き]めたのです", 
                                 "にもまして"
                             ], 
@@ -22481,7 +22481,7 @@
                             "data": "", 
                             "fields": [
                                 "好むと好まざると＿＿＿、コンピューターが、われわれの生活の中で重要な役割を果たしていることは確かである。", 
-                                "Independientemente de si nos guste o no, las computadoras ciertamente juegan un rol fundamental en nuestras vidas.", 
+                                "<font color=\"#ff0000\">Independientemente de</font> si nos guste o no, las computadoras ciertamente juegan un rol fundamental en nuestras vidas.", 
                                 "好[この]むと 好[この]まざると<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">によらず/にかかわらず</font></span>、コンピューターが、われわれの 生活[せいかつ]の 中[なか]で 重要[じゅうよう]な 役割[やくわり]を 果[は]たしていることは 確[たし]かである。", 
                                 "によらず/にかかわらず"
                             ], 
