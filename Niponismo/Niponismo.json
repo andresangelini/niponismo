@@ -19996,7 +19996,7 @@
                             "data": "", 
                             "fields": [
                                 "日本の法律＿＿＿そんなことをしてはいけない。", 
-                                "Eso no se puede hacer cumpliendo las leyes japonesas.", 
+                                "Eso no se puede hacer <font color=\"#ff0000\">cumpliendo</font> las leyes japonesas.", 
                                 "日本[にっぽん]の 法律[ほうりつ]<font color=\"#ff0000\">に 則[のっと]って</font>そんなことをしてはいけない。", 
                                 "に則って"
                             ], 
@@ -20080,7 +20080,7 @@
                             "data": "", 
                             "fields": [
                                 "国家は慣習法＿＿＿行動すべきだ。", 
-                                "Cada país debería actuar cumpliendo las leyes internacionales.", 
+                                "Cada país debería actuar <font color=\"#ff0000\">cumpliendo</font> las leyes internacionales.", 
                                 "国家[こっか]は 慣習[かんしゅう] 法[ほう]<font color=\"#ff0000\">に 則[のっと]って</font> 行動[こうどう]すべきだ。", 
                                 "に則って"
                             ], 
@@ -21754,7 +21754,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は美しい＿＿＿頭もよい。", 
-                                "Ella no sólo es hermosa sino también inteligente.", 
+                                "Ella <font color=\"#ff0000\">no sólo</font> es hermosa <font color=\"#ff0000\">sino también</font> inteligente.", 
                                 "彼女[かのじょ]は 美[うつく]しい<font color=\"#ff0000\">だけで（は）なく/だけにとどまらず/のみならず</font> 頭[あたま]もよい。", 
                                 "だけで（は）なく/だけにとどまらず/のみならず"
                             ], 
@@ -22415,7 +22415,7 @@
                             "data": "", 
                             "fields": [
                                 "私は疲れている、それ＿＿＿、宿題を終えなければならない。", 
-                                "Independientemente de que esté cansado, tengo que terminar mis deberes.", 
+                                "<font color=\"#ff0000\">Independientemente de</font> que esté cansado, tengo que terminar mis deberes.", 
                                 "私[わたし]は 疲[つか]れている、それ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">によらず/にかかわらず</font></span>、 宿題[しゅくだい]を 終[お]えなければならない。", 
                                 "によらず/にかかわらず"
                             ], 
