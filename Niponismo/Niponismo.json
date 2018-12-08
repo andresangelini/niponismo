@@ -8244,7 +8244,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らには、＿＿＿どこも行くところがありません。", 
-                                "Ellos no tienen ningún otro lado a donde ir.", 
+                                "Ellos no tienen <font color=\"#ff0000\">ningún otro</font> lado a donde ir.", 
                                 "彼[かれ]らには、<font color=\"#ff0000\">ほかに</font>どこも 行[い]くところがありません。", 
                                 "ほかに"
                             ], 
@@ -19261,7 +19261,7 @@
                             "data": "", 
                             "fields": [
                                 "君の成功は主に好機をいかにして上手に利用するか＿＿＿。", 
-                                "Tu éxito dependerá de cómo tu aproveches las oportunidades.", 
+                                "Tu éxito <font color=\"#ff0000\">dependerá de</font> cómo tu aproveches las oportunidades.", 
                                 "君[きみ]の 成功[せいこう]は 主[おも]に 好機[こうき]をいかにして 上手[じょうず]に 利用[りよう]するか<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -20248,7 +20248,7 @@
                             "data": "", 
                             "fields": [
                                 "そのゲームは世界＿＿＿日本で出版されることが決まったそうだ。", 
-                                "Parece que decidieron publicar el juego en Japón anticipándose al resto del mundo.", 
+                                "Parece que decidieron publicar el juego en Japón <font color=\"#ff0000\">anticipándose al</font> resto del mundo.", 
                                 "そのゲームは 世界[せかい]<font color=\"#ff0000\">に 先駆[さきが]けて</font> 日本[にっぽん]で 出版[しゅっぱん]されることが 決[き]まったそうだ。", 
                                 "に先駆けて"
                             ], 
@@ -20416,7 +20416,7 @@
                             "data": "", 
                             "fields": [
                                 "その教授は素晴らしい著者＿＿＿偉大な講師である。", 
-                                "Ese profesor es un brillante escritor y gran conferencista.", 
+                                "Ese profesor es un brillante escritor <font color=\"#ff0000\">y</font> gran conferencista.", 
                                 "その 教授[きょうじゅ]は 素晴[すば]らしい 著者[ちょしゃ]<font color=\"#ff0000\">にして</font> 偉大[いだい]な 講師[こうし]である。", 
                                 "にして"
                             ], 
