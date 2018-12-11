@@ -1545,12 +1545,12 @@
                                 "限[かぎ]りだ/ 限[かぎ]りです", 
                                 "かぎりだ", 
                                 "sentirse tan", 
-                                "Adjetivo い o な + punto gramatical.", 
-                                "Se usa para expresar que algo se siente tan extremo, sea bueno o malo, que llega a su \"límite\". Y es por ello que usa esa palabra junto al だ.", 
-                                "試験[しけん]にパスできなくて、 悔[くや]しい＿＿＿。", 
-                                "Me siento tan frustrado de no haber podido pasar el examen.", 
-                                "彼[かれ]らパーティーに 来[こ]られなくて、 残念[ざんねん]な＿＿＿。", 
-                                "Lamento tanto que ellos no puedan venir a la fiesta.", 
+                                "Adjetivo い o な + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Se usa para expresar que algo <font color=\"#ff0000\">se siente tan extremo</font>, sea bueno o malo, que llega a su \"límite\". Y es por ello que usa esa palabra junto al <font color=\"#ff0000\">だ</font>.<div><br /></div><div>試験[しけん]にパスできなくて、 悔[くや]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Me <font color=\"#ff0000\">siento tan</font> frustrado de no haber podido pasar el examen</i>.</div><div><br /></div><div>彼[かれ]らパーティーに 来[こ]られなくて、 残念[ざんねん]な<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Lamento <font color=\"#ff0000\">tanto</font> que ellos no puedan venir a la fiesta</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -7266,7 +7266,7 @@
                             "data": "", 
                             "fields": [
                                 "散歩＿＿＿新しいテレビの値段を調べます。", 
-                                "Voy a ir a caminar y de paso averiguaré precios de televisores nuevos.", 
+                                "Voy a ir a caminar y <font color=\"#ff0000\">de paso</font> averiguaré precios de televisores nuevos.", 
                                 "散歩[さんぽ]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">がてら</font></span>&nbsp;新[あたら]しいテレビの 値段[ねだん]を 調[しら]べます。", 
                                 "がてら"
                             ], 
@@ -7277,6 +7277,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "がてら"
                             ]
@@ -12625,7 +12626,7 @@
                             "data": "", 
                             "fields": [
                                 "今日は何＿＿＿ください。", 
-                                "Hoy ni siquiera haga nada, por favor.", 
+                                "Hoy <font color=\"#ff0000\">ni siquiera</font> haga nada, por favor.", 
                                 "今日[きょう]は 何[なに]<font color=\"#ff0000\">もしないで</font>ください。", 
                                 "もしないで"
                             ], 
@@ -14220,7 +14221,7 @@
                             "data": "", 
                             "fields": [
                                 "実力テストの結果＿＿＿レベルを決める。", 
-                                "Tu nivel será determinado dependiendo de los resultados del test.", 
+                                "Tu nivel será determinado <font color=\"#ff0000\">dependiendo de</font> los resultados del test.", 
                                 "実力[じつりょく]テストの 結果[けっか]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（の）いかんで（は）/（の）いかんによって（は）</font></span>レベルを 決[き]める。", 
                                 "（の）いかんで（は）/（の）いかんによって（は）"
                             ], 
@@ -14991,7 +14992,7 @@
                             "data": "", 
                             "fields": [
                                 "民衆の熱狂的な彼への支持は、首相の座にとどまり＿＿＿大統領の権限の発揮を可能にしそうだ。", 
-                                "Con el ferviente apoyo de las masas de su lado, parece que él logra tener poderes presidenciales aun siendo el primer ministro.", 
+                                "Con el ferviente apoyo de las masas de su lado, parece que él logra tener poderes presidenciales <font color=\"#ff0000\">aun</font> siendo el primer ministro.", 
                                 "民衆[みんしゅう]の 熱狂[ねっきょう] 的[てき]な 彼[かれ]への 支持[しじ]は、 首相[しゅしょう]の 座[ざ]にとどまり<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ながら（も）</font></span>&nbsp;大統領[だいとうりょう]の 権限[けんげん]の 発揮[はっき]を 可能[かのう]にしそうだ。", 
                                 "ながら（も）"
                             ], 
@@ -17747,7 +17748,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>＿＿＿安いほうがいいです。</div>", 
-                                "Quiero el más barato posible.", 
+                                "Quiero el <font color=\"#ff0000\">más</font> barato <font color=\"#ff0000\">posible</font>.", 
                                 "<font color=\"#ff0000\">なるべく</font> 安[やす]いほうがいいです。", 
                                 "なるべく"
                             ], 
@@ -17852,7 +17853,7 @@
                             "data": "", 
                             "fields": [
                                 "助手を求めています。＿＿＿ならば経験のある人を望む。", 
-                                "Buscamos un asistente, preferiblemente alguien con experiencia.", 
+                                "Buscamos un asistente, <font color=\"#ff0000\">preferiblemente</font> alguien con experiencia.", 
                                 "助手[じょしゅ]を 求[もと]めています。<font color=\"#ff0000\">なるべく</font>ならば 経験[けいけん]のある 人[ひと]を 望[のぞ]む。", 
                                 "なるべく"
                             ], 
@@ -18463,8 +18464,8 @@
                             "data": "", 
                             "fields": [
                                 "学校では兄はとても愛想がいいけど、家＿＿＿悪魔だ。", 
-                                "Mi hermano mayor es muy simpático en el colegio pero en casa es un demonio.", 
-                                "学校[がっこう]では 兄[あに]はとても 愛想[あいそ]がいいけど、 家[いえ]<font color=\"#ff0000\">にあっては</font> 悪魔[あくま]だ。", 
+                                "Mi hermano mayor es muy simpático en el colegio pero <font color=\"#ff0000\">en</font> casa es un demonio.", 
+                                "学校[がっこう]では 兄[あに]はとても 愛想[あいそ]がいいけど、 家[いえ]<font color=\"#ff0000\">にあって（は）</font> 悪魔[あくま]だ。", 
                                 "にあって（は）"
                             ], 
                             "flags": 0, 
