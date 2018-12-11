@@ -4627,7 +4627,7 @@
                                 "をかぎりに/のかぎりに/かぎりで", 
                                 "a partir de / hasta donde", 
                                 "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresión con dos significados y usos diferentes:<div><br /></div><div>- Sinónima de <font color=\"#ff0000\">〜を最後に</font>, indica que <font color=\"#ff0000\">es la última vez que se hace algo</font>. Suele usarse junto a <font color=\"#ff0000\">今回</font>, <font color=\"#ff0000\">今日</font>, <font color=\"#ff0000\">今月</font>, <font color=\"#ff0000\">今年</font>, etc.</div><div><br /></div><div>今日[きょう]<font color=\"#ff0000\">＿＿＿</font> タバコを 辞[や]めます。</div><div><i><font color=\"#ff0000\">A partir de</font> hoy voy a dejar de fumar</i>.</div><div><br /></div><div>&nbsp;- Indica que se hace algo <font color=\"#ff0000\">hasta donde</font> las capacidades lo permitan.</div><div><br /></div><div>彼らは声＿＿＿万歳を叫んだ。</div><div><i>Ellos gritaron \"banzai\" <font color=\"#ff0000\">hasta donde</font> la voz les permitió</i>.</div><div><br /></div><div>Esta forma gramatical suele usarse con la partícula <font color=\"#ff0000\">を</font> pero también admite el uso de <font color=\"#ff0000\">の</font>. La partícula <font color=\"#ff0000\">に</font> puede ser reemplazada por <font color=\"#ff0000\">で</font> cuando se usa en el sentido de \"<font color=\"#ff0000\">a partir de</font>\", en cuyo caso no se usa la <font color=\"#ff0000\">を</font> ni la <font color=\"#ff0000\">の</font>.</div>", 
+                                "Expresión con dos significados y usos diferentes:<div><br /></div><div>- Sinónima de <font color=\"#ff0000\">〜を 最後[さいご]に</font>, indica que <font color=\"#ff0000\">es la última vez que se hace algo</font>. Suele usarse junto a&nbsp;<font color=\"#ff0000\">今回[こなき]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今日[きょう]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今月[こんげつ]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今年[ことし]</font>, etc.</div><div><br /></div><div>今日[きょう]<font color=\"#ff0000\">＿＿＿</font> タバコを 辞[や]めます。</div><div><i><font color=\"#ff0000\">A partir de</font> hoy voy a dejar de fumar</i>.</div><div><br /></div><div>&nbsp;- Indica que se hace algo <font color=\"#ff0000\">hasta donde</font> las capacidades lo permitan.</div><div><br /></div><div>彼らは声＿＿＿万歳を叫んだ。</div><div><i>Ellos gritaron \"banzai\" <font color=\"#ff0000\">hasta donde</font> la voz les permitió</i>.</div><div><br /></div><div>Esta forma gramatical suele usarse con la partícula <font color=\"#ff0000\">を</font> pero también admite el uso de <font color=\"#ff0000\">の</font>. La partícula <font color=\"#ff0000\">に</font> puede ser reemplazada por <font color=\"#ff0000\">で</font> cuando se usa en el sentido de \"<font color=\"#ff0000\">a partir de</font>\", en cuyo caso no se usa la <font color=\"#ff0000\">を</font> ni la <font color=\"#ff0000\">の</font>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4819,6 +4819,40 @@
                                 "N1", 
                                 "Niponismo", 
                                 "をものともせず（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "をもって/をもちまして", 
+                                "をもって/をもちまして", 
+                                "をもって/をもちまして", 
+                                "con / a partir de", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión más formal que <font color=\"#ff0000\">を 限[かぎ]りに</font> que indica que <font color=\"#ff0000\">es la última vez que se hace algo</font>. También suele usarse junto a &nbsp;<font color=\"#ff0000\">今回[こなき]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今日[きょう]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今月[こんげつ]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今年[ことし]</font>, etc. y es sinónima de <font color=\"#ff0000\">で</font> pero generalmente se emplea en anuncios durante una conferencia o en una tienda como supermercado y toda clase de situación que requiera una mayor formalidad.<div><br /></div><div>今日[きょう]の 営業[えいぎょう]は 午後[ごご]8 時[じ]<font color=\"#ff0000\">＿＿＿</font> 終了[しゅうりょう] 致[いた]します。</div><div><i>Hoy cerraremos nuestras puertas <font color=\"#ff0000\">a partir de</font> las ocho de la tarde</i>.</div><div><br /></div><div>Esta expresión tiene una versión más larga que es <font color=\"#ff0000\">aún más formal</font>. Es usa muy comunmente para <font color=\"#ff0000\">cerrar algún evento</font>.</div><div><br /></div><div>これ<font color=\"#ff0000\">＿＿＿&nbsp;</font>第[だい]27&nbsp;回[かい] 日本語[にほんご] 弁論大会[べんろんたいかい]を 終了[しゅうりょう]させていただきます。</div><div><i><font color=\"#ff0000\">Con</font> esto cerramos el Vigésimo Séptimo Concurso de Oratoria de Idioma Japonés</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "bCRer<6yS(", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "をもちまして", 
+                                "をもって"
                             ]
                         }
                     ]
@@ -25564,7 +25598,8 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "をものともせず（に）"
+                "をもちまして", 
+                "をもって"
             ], 
             "tmpls": [
                 {
