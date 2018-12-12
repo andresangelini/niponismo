@@ -25267,6 +25267,132 @@
                                 "Oración", 
                                 "をものともせず（に）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "これ＿＿＿会議は終了いたします。", 
+                                "<font color=\"#ff0000\">Con esto</font> concluimos la reunión.", 
+                                "これ<font color=\"#ff0000\">をもって/を</font><font color=\"#ff0000\">もちまして</font> 会議[かいぎ]は 終了[しゅうりょう]いたします。", 
+                                "をもって/をもちまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Fxc-h]R&?M", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をもちまして", 
+                                "をもって"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "当店３月1＿＿＿閉店いたします。今まで長い間ありがとうございました。", 
+                                "Esta tienda cerrará <font color=\"#ff0000\">a partir del</font> primero de Marzo. Muchas gracias a todos por apoyarnos todos estos años.", 
+                                "当店[とうてん] ３月[さんがつ] 1<font color=\"#ff0000\">をもって/をもちまして</font> 閉店[へいてん]いたします。 今[いま]まで 長[なが]い 間[ま]ありがとうございました。", 
+                                "をもって/をもちまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MB|ej0ByJs", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をもちまして", 
+                                "をもって"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "次の試合＿＿＿私は引退することにしました。", 
+                                "He decidido retirarme <font color=\"#ff0000\">a partir del</font> próximo partido.", 
+                                "次[つぎ]の 試合[しあい]<font color=\"#ff0000\">をもって/をもちまして</font> 私[わたし]は 引退[いんたい]することにしました。", 
+                                "をもって/をもちまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wFl?7vn:Rs", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をもちまして", 
+                                "をもって"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "来月＿＿＿値上がりが決まりました。", 
+                                "Se confirmó una suba de precios <font color=\"#ff0000\">a partir del</font> próximo mes.", 
+                                "来月[らいげつ]<font color=\"#ff0000\">をもって/をもちまして</font> 値上[ねあ]がりが 決[き]まりました。", 
+                                "をもって/をもちまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Ab6G!T7d2)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をもちまして", 
+                                "をもって"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "校長先生のスピーチ＿＿＿運動会を終了いたします。", 
+                                "Cerraremos el festival deportivo <font color=\"#ff0000\">con</font> algunas palabras del director del colegio.", 
+                                "校長[こうちょう] 先生[せんせい]のスピーチ<font color=\"#ff0000\">をもって/をもちまして</font> 運動会[うんどうかい]を 終了[しゅうりょう]いたします。", 
+                                "をもって/をもちまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N%FFUIv>q8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をもちまして", 
+                                "をもって"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "突然ではありますが、８月９日＿＿＿このサービスは不通になります。", 
+                                "Aunque sabemos que es algo repentino, debemos informarles que este servicio se verá interrumpido <font color=\"#ff0000\">a partir del</font> nueve de Agosto.", 
+                                "突然[とつぜん]ではありますが、 ８月[はちがつ]９ 日[にち]<font color=\"#ff0000\">をもって/をもちまして</font>このサービスは 不通[ふつう]になります。", 
+                                "をもって/をもちまして"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QXel)n0bF6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をもちまして", 
+                                "をもって"
+                            ]
                         }
                     ]
                 }
@@ -25395,11 +25521,11 @@
             "sortf": 0, 
             "tags": [
                 "Gramática", 
-                "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "をものともせず（に）"
+                "をもちまして", 
+                "をもって"
             ], 
             "tmpls": [
                 {
