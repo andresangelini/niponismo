@@ -568,16 +568,16 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "だに/にだに", 
-                                "だに/にだに", 
-                                "だに/にだに", 
+                                "だに/（に）だに/（する）だに", 
+                                "だに/（に）だに/（する）だに", 
+                                "だに/（に）だに/（する）だに", 
                                 "siquiera", 
-                                "<div>Verbo en forma diccionario + forma gramatical.</div><div>Sustantivo + forma gramatical.</div>", 
-                                "Parecido a lo que sucede con &nbsp;敢[あ]えて, su significado cambia según el contexto. Si acompaña a un verbo, se entiende como \"siquiera\", pero si lo hace a un sustantivo, cambia a \"ni siquiera\". En este último caso, se puede usar la partícula に opcionalmente entre ambos.", 
-                                "想像[そうぞう]＿＿＿しなかった。", 
-                                "Ni siquiera lo imaginé.", 
-                                "聞く＿＿＿恐ろしい。", 
-                                "Me espanta siquiera escucharlo.", 
+                                "<div>Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font></div><div>Sustantivo verbal + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Parecido a lo que sucede con &nbsp;<font color=\"#ff0000\">敢[あ]えて</font>, su significado cambia según el contexto. Si acompaña a un verbo, se entiende como \"<font color=\"#ff0000\">siquiera</font>\".<div><br /></div><div>聞[き]く<font color=\"#ff0000\">＿＿＿</font> 恐[おそ]ろしい。</div><div><i>Me espanta <font color=\"#ff0000\">siquiera</font> escucharlo</i>.</div><div><br /></div><div>Pero si lo hace a un sustantivo verbal, cambia a \"<font color=\"#ff0000\">ni siquiera</font>\". En este último caso, dicho sustantivo verbal puede ir con o sin <font color=\"#ff0000\">する</font>.</div><div><br /></div><div>想像[そうぞう]<font color=\"#ff0000\">＿＿＿</font>しなかった。</div><div><i><font color=\"#ff0000\">Ni siquiera</font> lo imaginé</i>.</div><div><br /></div><div>Existe una excepción y es el sustantivo &nbsp;<font color=\"#ff0000\">夢[ゆめ]</font> con el cual se puede usar opcionalmente la partícula <font color=\"#ff0000\">に</font>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -593,7 +593,10 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "だに/にだに"
+                                "Niponismo", 
+                                "だに", 
+                                "（する）だに", 
+                                "（に）だに"
                             ]
                         }, 
                         {
@@ -2536,10 +2539,10 @@
                                 "もので", 
                                 "もので", 
                                 "por lo que", 
-                                "Verbo casual + forma gramatical.", 
-                                "Expresión que sirve para unir dos frases, poniendo la primera como causa o razón de la segunda. Es un poco más formal que ので y tiene una versión más corta, もん, pero ésta es mucho más informal y considerada impropia para hombres.", 
-                                "月謝[げっしゃ]を 払[はら]う 余裕[よゆう]がない＿＿＿、 少[すこ]しお 金[かね]を 貸[か]してくれますか。&nbsp;", 
-                                "No me sobra para pagara la matrícula, ¿por lo que podría prestarme algo de dinero?", 
+                                "Verbo casual + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión que sirve para unir dos frases, poniendo la primera como causa o razón de la segunda. Es un poco más formal que <font color=\"#ff0000\">ので</font> y tiene una versión más corta, <font color=\"#ff0000\">もん</font>, pero ésta es mucho más informal y considerada impropia para hombres.<div><br /></div><div>月謝[げっしゃ]を 払[はら]う 余裕[よゆう]がない<font color=\"#ff0000\">＿＿＿</font>、 少[すこ]しお 金[かね]を 貸[か]してくれますか。&nbsp;</div><div><i>No me sobra para pagara la matrícula, ¿<font color=\"#ff0000\">por lo que</font> podría prestarme algo de dinero?</i></div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -3130,7 +3133,7 @@
                                 "ないとはかぎらない/ないともかぎらない", 
                                 "quién sabe si no", 
                                 "Verbo ない sin ない + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "<div>Este forma gramatical usa un doble negativo para expresar que algo NO es cien por ciento seguro. Literalmente, sería algo así como \"no se limita a no\" ya que &nbsp;限[かぎ]る significa \"limitar\", \"restringir\", \"confinar\" (¿recuerdas que la palabra clave de &nbsp;限 era justamente \"confín\"?) En otras palabras, es una forma algo rebuscada de decir que \"existe la posibilidad\" o \"es posible\" que la acción del verbo se lleva acabo, por lo que es equivalente a &nbsp;可能性[かのうせい]がある, provisto que cambiemos el verbo a positivo.</div><div><br /></div><div>Dicho esto, debido al razonamiento inverso que supone esta expresión, sería mucho más natural interpretarla como \"quién sabe si no\" o \"quién dice que no\". Además, esta interpretación nos evita cualquier conflicto con &nbsp;可能性[かのうせい]がある (\"existe la posibilidad\").</div><div><br /></div><div>Veamos un ejemplo en acción:</div><div><br /></div><div>彼[かれ]は 喧嘩[けんか]している 間[あいだ]に 時計[とけい]を 失[さ]くさ<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Quién sabe si</font> él <font color=\"#ff0000\">no</font> perdió el reloj mientras peleaba</i>.</div><div><br /></div><div>La partícula は puede sustituirse por も para agregar énfasis:</div><div><br /></div><div>そのことをしたら、 処罰[しょばつ]を 受[う]け<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Quién dice que incluso no</font> te sancionen por hacer eso</i>.</div><div><br /></div><div>Esta forma gramatical es un típico ejemplo de esas que te hacen echar humo por la cabeza al principio. Pero si nos tomamos el tiempo de analizarla más detenidamente y así entenderla en profundidad, veremos que luego se nos hará bien sencillo porque la podemos reconocer como una frase armada que, a excepción de la sutil diferencia entre は y も, no tiene más variaciones.</div>", 
+                                "<div>Este forma gramatical usa un doble negativo para expresar que algo <font color=\"#ff0000\">NO es cien por ciento seguro</font>. Literalmente, sería algo así como \"<font color=\"#ff0000\">no se limita a no</font>\" ya que &nbsp;<font color=\"#ff0000\">限[かぎ]る</font> significa \"<font color=\"#ff0000\">limitar</font>\", \"<font color=\"#ff0000\">restringir</font>\", \"<font color=\"#ff0000\">confinar</font>\" (¿recuerdas que la palabra clave de &nbsp;<font color=\"#ff0000\">限</font> era justamente \"<font color=\"#ff0000\">confín</font>\"?) En otras palabras, es una forma algo rebuscada de decir que \"<font color=\"#ff0000\">existe la posibilidad</font>\" o \"<font color=\"#ff0000\">es posible</font>\" que la acción del verbo se lleva acabo, por lo que es equivalente a &nbsp;<font color=\"#ff0000\">可能性[かのうせい]がある</font>, provisto que cambiemos el verbo a positivo.</div><div><br /></div><div>Dicho esto, debido al razonamiento inverso que supone esta expresión, sería mucho más natural interpretarla como \"<font color=\"#ff0000\">quién sabe si no</font>\" o \"<font color=\"#ff0000\">quién dice que no</font>\". Además, esta interpretación nos evita cualquier conflicto con &nbsp;<font color=\"#ff0000\">可能性[かのうせい]がある</font> (\"<font color=\"#ff0000\">existe la posibilidad</font>\").</div><div><br /></div><div>Veamos un ejemplo en acción:</div><div><br /></div><div>彼[かれ]は 喧嘩[けんか]している 間[あいだ]に 時計[とけい]を 失[さ]くさ<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Quién sabe si</font> él <font color=\"#ff0000\">no</font> perdió el reloj mientras peleaba</i>.</div><div><br /></div><div>La partícula は puede sustituirse por も para agregar énfasis:</div><div><br /></div><div>そのことをしたら、 処罰[しょばつ]を 受[う]け<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Quién dice que incluso no</font> te sancionen por hacer eso</i>.</div><div><br /></div><div>Esta forma gramatical es un típico ejemplo de esas que te hacen echar humo por la cabeza al principio. Pero si nos tomamos el tiempo de analizarla más detenidamente y así entenderla en profundidad, veremos que luego se nos hará bien sencillo porque la podemos reconocer como una frase armada que, a excepción de la sutil diferencia entre <font color=\"#ff0000\">は</font> y <font color=\"#ff0000\">も</font>, no tiene más variaciones.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4830,7 +4833,7 @@
                                 "をもって/をもちまして", 
                                 "con / a partir de", 
                                 "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresión más formal que <font color=\"#ff0000\">を 限[かぎ]りに</font> que indica que <font color=\"#ff0000\">es la última vez que se hace algo</font>. También suele usarse junto a &nbsp;<font color=\"#ff0000\">今回[こなき]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今日[きょう]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今月[こんげつ]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今年[ことし]</font>, etc. y es sinónima de <font color=\"#ff0000\">で</font> pero generalmente se emplea en anuncios durante una conferencia o en una tienda como supermercado y toda clase de situación que requiera una mayor formalidad.<div><br /></div><div>今日[きょう]の 営業[えいぎょう]は 午後[ごご]8 時[じ]<font color=\"#ff0000\">＿＿＿</font> 終了[しゅうりょう] 致[いた]します。</div><div><i>Hoy cerraremos nuestras puertas <font color=\"#ff0000\">a partir de</font> las ocho de la tarde</i>.</div><div><br /></div><div>Esta expresión tiene una versión más larga que es <font color=\"#ff0000\">aún más formal</font>. Es usa muy comunmente para <font color=\"#ff0000\">cerrar algún evento</font>.</div><div><br /></div><div>これ<font color=\"#ff0000\">＿＿＿&nbsp;</font>第[だい]27&nbsp;回[かい] 日本語[にほんご] 弁論大会[べんろんたいかい]を 終了[しゅうりょう]させていただきます。</div><div><i><font color=\"#ff0000\">Con</font> esto cerramos el Vigésimo Séptimo Concurso de Oratoria de Idioma Japonés</i>.</div>", 
+                                "Expresión más formal que <font color=\"#ff0000\">を 限[かぎ]りに</font> que indica que <font color=\"#ff0000\">es la última vez que se hace algo</font>. También suele usarse junto a &nbsp;<font color=\"#ff0000\">今回[こなき]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今日[きょう]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今月[こんげつ]</font>,&nbsp;&nbsp;<font color=\"#ff0000\">今年[ことし]</font>, etc. y es sinónima de <font color=\"#ff0000\">で</font> pero generalmente se emplea en anuncios durante una conferencia o en una tiendas tales como supermercados y toda clase de situación que requiera una mayor formalidad.<div><br /></div><div>今日[きょう]の 営業[えいぎょう]は 午後[ごご]8 時[じ]<font color=\"#ff0000\">＿＿＿</font> 終了[しゅうりょう] 致[いた]します。</div><div><i>Hoy cerraremos nuestras puertas <font color=\"#ff0000\">a partir de</font> las ocho de la tarde</i>.</div><div><br /></div><div>Esta expresión tiene una versión más larga que es <font color=\"#ff0000\">aún más formal</font>. Es usa muy comunmente para <font color=\"#ff0000\">cerrar algún evento</font>.</div><div><br /></div><div>これ<font color=\"#ff0000\">＿＿＿&nbsp;</font>第[だい]27&nbsp;回[かい] 日本語[にほんご] 弁論大会[べんろんたいかい]を 終了[しゅうりょう]させていただきます。</div><div><i><font color=\"#ff0000\">Con</font> esto cerramos el Vigésimo Séptimo Concurso de Oratoria de Idioma Japonés</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5920,7 +5923,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女にふっと捨てられた為で、彼は衝撃を受けていたことを疑う＿＿＿。", 
-                                "No puedo dudar que haya quedado en shock cuando su novia lo dejó repentinamente.", 
+                                "<font color=\"#ff0000\">No puedo</font> dudar que haya quedado en shock cuando su novia lo dejó repentinamente.", 
                                 "彼女[かのじょ]にふっと 捨[す]てられた 為[ため]で、 彼[かれ]は 衝撃[しょうげき]を 受[う]けていたことを 疑[うたが]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">べくもない</font></span>。", 
                                 "べくもない"
                             ], 
@@ -6381,9 +6384,9 @@
                             "data": "", 
                             "fields": [
                                 "ピアノ・コンクールで私は第１位になるなんて夢想＿＿＿しなかった。", 
-                                "Ni si quiera en mis sueños hubiese pensado que ganaría el primer puesto en el concurso de piano.", 
-                                "ピアノ・コンクールで 私[わたし]は 第[だい]１ 位[い]になるなんて 夢想[むそう]<font color=\"#ff0000\">だに/にだに</font>しなかった。", 
-                                "だに/にだに"
+                                "<font color=\"#ff0000\">Ni siquiera</font> en mis sueños hubiese pensado que ganaría el primer puesto en el concurso de piano.", 
+                                "ピアノ・コンクールで 私[わたし]は 第[だい]１ 位[い]になるなんて 夢想[むそう]<font color=\"#ff0000\">（する）だに</font>しなかった。", 
+                                "（する）だに"
                             ], 
                             "flags": 0, 
                             "guid": "cjMuOvivz", 
@@ -6393,7 +6396,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
-                                "だに/にだに"
+                                "（に）だに"
                             ]
                         }, 
                         {
@@ -6401,9 +6404,9 @@
                             "data": "", 
                             "fields": [
                                 "彼らはこのアイディアを一顧＿＿＿しない。", 
-                                "A ellos ni siquiera se les ocurrió esa idea.", 
-                                "彼[かれ]らはこのアイディアを 一顧[いっこ]<font color=\"#ff0000\">だに/にだに</font>しない。", 
-                                "だに/にだに"
+                                "A ellos <font color=\"#ff0000\">ni siquiera</font> se les ocurrió esa idea.", 
+                                "彼[かれ]らはこのアイディアを 一顧[いっこ]<font color=\"#ff0000\">（する）だに</font>しない。", 
+                                "（する）だに"
                             ], 
                             "flags": 0, 
                             "guid": "FYjNQ<Y&wu", 
@@ -6413,7 +6416,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
-                                "だに/にだに"
+                                "（する）だに"
                             ]
                         }, 
                         {
@@ -6421,7 +6424,7 @@
                             "data": "", 
                             "fields": [
                                 "考える＿＿＿恐ろしいことだ。", 
-                                "Es espantoso siquiera pensarlo.", 
+                                "Es espantoso <font color=\"#ff0000\">siquiera</font> pensarlo.", 
                                 "考[かんが]える<font color=\"#ff0000\">だに</font> 恐[おそ]ろしいことだ。", 
                                 "だに"
                             ], 
@@ -6432,7 +6435,9 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Oración"
+                                "Niponismo", 
+                                "Oración", 
+                                "だに"
                             ]
                         }, 
                         {
@@ -6440,9 +6445,9 @@
                             "data": "", 
                             "fields": [
                                 "将軍は結局のところ敗北を認めたが、想像＿＿＿しなかったことである。", 
-                                "Aunque el general finalmente admitió la derrota, él ni siquiera la había previsto.", 
-                                "将軍[しょうぐん]は 結局[けっきょく]のところ 敗北[はいぼく]を 認[みと]めたが、 想像[そうぞう]<font color=\"#ff0000\">だに/にだに</font>しなかったことである。", 
-                                "だに/にだに"
+                                "Aunque el general finalmente admitió la derrota, él <font color=\"#ff0000\">ni siquiera</font> la había previsto.", 
+                                "将軍[しょうぐん]は 結局[けっきょく]のところ 敗北[はいぼく]を 認[みと]めたが、 想像[そうぞう]<font color=\"#ff0000\">（する）だに</font>しなかったことである。", 
+                                "（する）だに"
                             ], 
                             "flags": 0, 
                             "guid": "O*jku?AxpC", 
@@ -6452,7 +6457,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
-                                "だに/にだに"
+                                "（する）だに"
                             ]
                         }, 
                         {
@@ -6460,9 +6465,9 @@
                             "data": "", 
                             "fields": [
                                 "今日やっと彼女と結婚します。一年前の私に聞かせれば、この日は何時か来るなんて、夢＿＿＿思わなかった。", 
-                                "Hoy por fin que me caso con ella. Si me hubieses preguntado un año atrás, ni siquiera me lo hubiera imaginado.", 
-                                "今日[きょう]やっと 彼女[かのじょ]と 結婚[けっこん]します。一 年[ねん] 前[まえ]の 私[わたし]に 聞[き]かせれば、この 日[ひ]は 何時[いつ]か 来[く]るなんて、 夢[ゆめ]<font color=\"#ff0000\">だに/にだに</font> 思[おも]わなかった。", 
-                                "だに/にだに"
+                                "Hoy por fin que me caso con ella. Si me hubieses preguntado un año atrás, <font color=\"#ff0000\">ni siquiera</font> me lo hubiera imaginado.", 
+                                "今日[きょう]やっと 彼女[かのじょ]と 結婚[けっこん]します。一 年[ねん] 前[まえ]の 私[わたし]に 聞[き]かせれば、この 日[ひ]は 何時[いつ]か 来[く]るなんて、 夢[ゆめ]<font color=\"#ff0000\">（に）だに</font> 思[おも]わなかった。", 
+                                "（に）だに"
                             ], 
                             "flags": 0, 
                             "guid": "g:JZY|bkTC", 
@@ -6472,7 +6477,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
-                                "だに/にだに"
+                                "（に）だに"
                             ]
                         }, 
                         {
@@ -7521,7 +7526,7 @@
                             "data": "", 
                             "fields": [
                                 "見つかった＿＿＿、真珠は取上げられてしまいますぞ。", 
-                                "Una vez que las encuentren, se llevarán las perlas.", 
+                                "<font color=\"#ff0000\">Una vez que</font> las encuentren, se llevarán las perlas.", 
                                 "見[み]つかった<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が最後/ら最後</font></span>、 真珠[しんじゅ]は 取上[とりあ]げられてしまいますぞ。", 
                                 "が最後/ら最後"
                             ], 
@@ -8847,7 +8852,7 @@
                             "data": "", 
                             "fields": [
                                 "施設は、その使命が＿＿＿崇高なものでも、家庭のかわりにはなり得なかった。", 
-                                "Las instituciones, sin importar cuan noble sea su misión, han fracasado en reemplazar a la familia.", 
+                                "Las instituciones, sin importar <font color=\"#ff0000\">cuan</font> noble sea su misión, han fracasado en reemplazar a la familia.", 
                                 "施設[しせつ]は、その 使命[しめい]が&nbsp;<font color=\"#ff0000\" style=\"font-family: 'Liberation Sans';\">如何[いか]に</font>&nbsp;崇高[すうこう]なものでも、 家庭[かてい]のかわりにはなり 得[え]なかった。", 
                                 "如何に"
                             ], 
@@ -11063,7 +11068,7 @@
                             "data": "", 
                             "fields": [
                                 "良いお返事をいただく＿＿＿、帰るわけにはまいりません。", 
-                                "No puedo volver sin una buena respuesta.", 
+                                "No puedo volver <font color=\"#ff0000\">sin</font> una buena respuesta.", 
                                 "良[よ]いお 返事[へんじ]をいただく<font color=\"#ff0000\">ことなしに</font>、 帰[かえ]るわけにはまいりません。", 
                                 "ことなしに"
                             ], 
@@ -16606,7 +16611,7 @@
                             "data": "", 
                             "fields": [
                                 "入ってくる＿＿＿、彼は倒れた。", 
-                                "Fue apenas entrar y él se desplomó.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> entrar y él se desplomó.", 
                                 "入[はい]ってくる<font color=\"#ff0000\">なり</font>、 彼[かれ]は 倒[たお]れた。", 
                                 "なり"
                             ], 
@@ -18519,7 +18524,7 @@
                             "data": "", 
                             "fields": [
                                 "この悪い天気＿＿＿外に出ることが出来ません。", 
-                                "En un clima como éste no se puede salir.", 
+                                "<font color=\"#ff0000\">En</font> un clima como éste no se puede salir.", 
                                 "この 悪[わる]い 天気[てんき]<font color=\"#ff0000\">にあって（は）</font> 外[そと]に 出[で]ることが 出来[でき]ません。", 
                                 "<span style=\"font-family: Arial\">にあって（は）</span>"
                             ], 
@@ -18960,7 +18965,7 @@
                             "data": "", 
                             "fields": [
                                 "うちは一人親家庭だったから、父は掃除から、子育て＿＿＿全部一人でやってくらました。", 
-                                "Nuestra familia sólo tenía a nuestro padre, así que él era quien hacía todo, desde la limpieza hasta criarnos a nosotros.", 
+                                "Nuestra familia sólo tenía a nuestro padre, así que él era quien hacía todo, desde la limpieza <font color=\"#ff0000\">hasta</font> criarnos a nosotros.", 
                                 "うちは一 人[にん] 親[おや] 家庭[かてい]だったから、 父[ちち]は 掃除[そうじ]から、 子育[こそだ]て<font color=\"#ff0000\">に 至[いた]るまで</font> 全部[ぜんぶ]一 人[にん]でやってくれました。", 
                                 "に至るまで"
                             ], 
@@ -19800,7 +19805,7 @@
                             "data": "", 
                             "fields": [
                                 "トイレに行きたいけどやる気がないから何もしないでそのままに我慢するなんて、怠け者＿＿＿。", 
-                                "No se puede ser tan perezoso para aguantarse sin ir al baño sólo porque no te dan las fuerzas.", 
+                                "<font color=\"#ff0000\">No se puede</font> ser tan perezoso para aguantarse sin ir al baño sólo porque no te dan las fuerzas.", 
                                 "トイレに 行[い]きたいけどやる 気[き]がないから 何[なに]もしないでそのままに 我慢[がまん]するなんて、 怠け者[なまけもの]<font color=\"#ff0000\">にも 程[ほど]が 有[あ]る</font>。", 
                                 "にも程が有る"
                             ], 
@@ -19821,7 +19826,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は何物＿＿＿名誉を重んじる。", 
-                                "Él valora el honor sobre cualquier otra cosa.", 
+                                "Él valora el honor <font color=\"#ff0000\">sobre</font> cualquier otra cosa.", 
                                 "彼[かれ]は 何[なに] 物[ぶつ]<font color=\"#ff0000\">にもまして</font> 名誉[めいよ]を 重[おも]んじる。", 
                                 "にもまして"
                             ], 
@@ -20094,7 +20099,7 @@
                             "data": "", 
                             "fields": [
                                 "規則＿＿＿行動しなさい。", 
-                                "Actúen cumpliendo las reglas.", 
+                                "Actúen <font color=\"#ff0000\">cumpliendo</font> las reglas.", 
                                 "規則[きそく]<font color=\"#ff0000\">に 則[のっと]って</font> 行動[こうどう]しなさい。", 
                                 "に則って"
                             ], 
@@ -21812,7 +21817,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は美しい＿＿＿＿、みんなに優しい。", 
-                                "Ella no sólo es hermosa sino que también es amable con todo el mundo.", 
+                                "Ella <font color=\"#ff0000\">no sólo</font> es hermosa <font color=\"#ff0000\">sino que también</font> es amable con todo el mundo.", 
                                 "彼女[かのじょ]は 美[うつく]しい<font color=\"#ff0000\">だけで（は）なく/だけにとどまらず/のみならず</font>、みんなに 優[やさ]しい。", 
                                 "だけで（は）なく/だけにとどまらず/のみならず"
                             ], 
