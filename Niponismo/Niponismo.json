@@ -4858,6 +4858,38 @@
                                 "をもちまして", 
                                 "をもって"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "をおいて（ほかに）〜ない", 
+                                "をおいて（ほかに）〜ない", 
+                                "をおいて（ほかに）〜ない", 
+                                "no hay... a parte de / no hay... además de / no hay... más (menos) que", 
+                                "Sustantivo +&nbsp;<font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión que <font color=\"#ff0000\">limita algo extrictamente al sustantivo</font>.<div><br /></div><div>今[いま]はもう我々[われわれ]を 救[すく]うのは 彼女[かのじょ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>誰[だれ]もいない。</div><div><i>Ya no hay nadie que nos pueda salvar <font color=\"#ff0000\">a parte de</font> ella</i>.</div><div><br /></div><div>A menudo se usa a forma de <font color=\"#ff0000\">elogio</font>.</div><div><br /></div><div>その役目にふさわしいのは、彼<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No hay nadie más</font> adecuado para esa tarea que él</i>.</div><div><br /></div><div>Naturalmente, también se puede usar con sustantivos que representen <font color=\"#ff0000\">tiempo</font> y <font color=\"#ff0000\">lugar</font>.</div><div><br /></div><div>彼[かれ]と 話[はな]したいなら、 今[いま]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si quieres hablar con él, <font color=\"#ff0000\">no habrá</font> un mejor momento <font color=\"#ff0000\">que</font> ahora</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "PGjF|Mt`JV", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "N1", 
+                                "Niponismo", 
+                                "をおいて（ほかに）〜ない"
+                            ]
                         }
                     ]
                 }, 
@@ -25727,11 +25759,9 @@
             "tags": [
                 "Definición", 
                 "Gramática", 
-                "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "をもちまして", 
-                "をもって"
+                "をおいて（ほかに）〜ない"
             ], 
             "tmpls": [
                 {
