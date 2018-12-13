@@ -799,12 +799,12 @@
                                 "ではあるまいし/じゃあるまいし", 
                                 "ではあるまいし/じゃあるまいし", 
                                 "no es como si", 
-                                "Sustantivo + forma gramatical (では se puede reemplazar con じゃ en el lenguaje hablado).<div>Verbo forma diccionario + の + forma gramatical.</div><div>Verbo casual, pasado + の + forma gramatical (では se puede reemplazar con んじゃ en el lenguaje hablado).</div>", 
-                                "Se usa para dar una razón de por qué algo no debería ser como es.", 
-                                "子供[こども]＿＿＿、 泣[な]くのはやめなさい。", 
-                                "Ya no sos un niño. Dejá de llorar.", 
-                                "俺達[おれたち]はエベレストに 登[のぼ]っている＿＿＿、もうぐちぐちするな。", 
-                                "No es como si estuviésemos escalando el monte Everest, así que no te quejes.", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> (では se puede reemplazar con じゃ en el lenguaje hablado).<div>Verbo forma diccionario + の + <font color=\"#ff0000\">＿＿＿</font></div><div>Verbo casual, pasado + の + <font color=\"#ff0000\">＿＿＿</font> (では se puede reemplazar con んじゃ en el lenguaje hablado).</div>", 
+                                "Se usa para dar una razón de por qué algo no debería ser como es.<div><br /></div><div>子供[こども]<font color=\"#ff0000\">＿＿＿</font>、 泣[な]くのはやめなさい。</div><div><i><font color=\"#ff0000\">Ya no sos</font> un niño. Dejá de llorar</i>.</div><div><br /></div><div>俺達[おれたち]はエベレストに 登[のぼ]っている＿＿＿、もうぐちぐちするな。</div><div><i><font color=\"#ff0000\">No es como si</font> estuviésemos escalando el monte Everest, <font color=\"#ff0000\">así que</font> no te quejes</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -820,6 +820,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "ではあるまいし"
                             ]
                         }, 
@@ -7145,7 +7146,7 @@
                             "data": "", 
                             "fields": [
                                 "その雑誌はおもしろく＿＿＿。", 
-                                "Esa revista no es para nada interesante.", 
+                                "Esa revista no es <font color=\"#ff0000\">para nada</font> interesante.", 
                                 "その 雑誌[ざっし]はおもしろく<font color=\"#ff0000\">も何ともない</font>。", 
                                 "も何ともない"
                             ], 
@@ -9754,7 +9755,7 @@
                             "data": "", 
                             "fields": [
                                 "探した＿＿＿、彼の姿がどこにも見えなかった。", 
-                                "A pesar de que lo busqué, no lo vi por ningún lado.", 
+                                "<font color=\"#ff0000\">A pesar de que</font> lo busqué, no lo vi por ningún lado.", 
                                 "探[さが]した<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">かいもなく</font></span>、 彼[かれ]の 姿[すがた]がどこにも 見[み]えなかった。", 
                                 "かいもなく"
                             ], 
@@ -10819,7 +10820,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼の回復の望みはたとえあるにしても＿＿＿少ない。</div>", 
-                                "Aunque hubiesen esperanzas de que se recupere, éstas serían extremadamente pocas.", 
+                                "Aunque hubiesen esperanzas de que se recupere, éstas serían <font color=\"#ff0000\">extremadamente</font> pocas.", 
                                 "彼[かれ]の 回復[かいふく]の 望[のぞ]みはたとえあるにしても&nbsp;<font color=\"#ff0000\">極[きわ]めて</font> 少[すく]ない。", 
                                 "極めて"
                             ], 
@@ -13941,7 +13942,7 @@
                             "data": "", 
                             "fields": [
                                 "当局は通貨を安定させようと懸命だが、＿＿＿ならない。", 
-                                "<span style=\"font-family: 'Liberation Sans'\">Las autoridades tratan de estabilizar la moneda pero no llegan a ninguna parte.</span>", 
+                                "<span style=\"font-family: 'Liberation Sans'\">Las autoridades tratan de estabilizar la moneda pero no llegan <font color=\"#ff0000\">a ninguna parte</font>.</span>", 
                                 "当局[とうきょく]は 通貨[つうか]を 安定[あんてい]させようと 懸命[けんめい]だが、<font color=\"#ff0000\">どうにも</font>ならない。", 
                                 "どうにも"
                             ], 
@@ -14947,7 +14948,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は女＿＿＿勇敢に戦った。", 
-                                "Aun siendo mujer, ella luchó con valentía.", 
+                                "<font color=\"#ff0000\">Aun</font> siendo mujer, ella luchó con valentía.", 
                                 "彼女[かのじょ]は 女[おんな]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ながら（も）</font></span>&nbsp;勇敢[ゆうかん]に 戦[たたか]った。", 
                                 "ながら（も）"
                             ], 
@@ -17724,7 +17725,7 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿ゆっくり話してもらえますか。", 
-                                "¿Podría hablar lo más lento posible?", 
+                                "¿Podría hablar <font color=\"#ff0000\">lo más</font> lento <font color=\"#ff0000\">posible</font>?", 
                                 "<font color=\"#ff0000\">なるべ</font>くゆっくり 話[はな]してもらえますか。", 
                                 "なるべく"
                             ], 
@@ -18165,7 +18166,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の勇気は賞賛＿＿＿。", 
-                                "Su valentía es digna de elogio.", 
+                                "Su valentía <font color=\"#ff0000\">es digna de</font> elogio.", 
                                 "彼[かれ]の 勇気[ゆうき]は 賞賛[しょうさん]<font color=\"#ff0000\">（する）</font><font color=\"#ff0000\">に 値[あたい]する</font>。", 
                                 "（する）に値する"
                             ], 
@@ -18186,7 +18187,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の発明は注目＿＿＿ものだ。", 
-                                "Su invento es digno de nuestra atención.", 
+                                "Su invento <font color=\"#ff0000\">es digno de</font> nuestra atención.", 
                                 "彼[かれ]の 発明[はつめい]は 注目[ちゅうもく]<font color=\"#ff0000\">（する）</font><font color=\"#ff0000\">に 値[あたい]する</font>ものだ。", 
                                 "（する）に値する"
                             ], 
@@ -18460,7 +18461,7 @@
                             "data": "", 
                             "fields": [
                                 "お客様、問題が無事に解決されましたので、もう心配＿＿＿。", 
-                                "El problema ha sido resuelto sin problemas así que no hay de qué preocuparse.", 
+                                "El problema ha sido resuelto sin contratiempos así que <font color=\"#ff0000\">no hay de qué</font> preocuparse.", 
                                 "お 客様[きゃくさま]、 問題[もんだい]が 無事[ぶじ]に 解決[かいけつ]されましたので、もう 心配[しんぱい]<font color=\"#ff0000\">（する）に（は） 及[およ]びません</font>。", 
                                 "（する）に（は）及びません"
                             ], 
@@ -20561,7 +20562,7 @@
                             "data": "", 
                             "fields": [
                                 "この作家の作品は全て不幸＿＿＿とても悲しい。", 
-                                "Las obras de este autor son todas sobre desgracias y tristes.", 
+                                "Las obras de este autor son todas sobre desgracias <font color=\"#ff0000\">y</font> tristes.", 
                                 "この 作家[さっか]の 作品[さくひん]は 全[すべ]て 不幸[ふこう]<font color=\"#ff0000\">にして</font>とても 悲[かな]しい。", 
                                 "にして"
                             ], 
