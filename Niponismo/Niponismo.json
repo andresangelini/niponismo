@@ -4886,6 +4886,7 @@
                             "tags": [
                                 "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "をおいて"
@@ -25426,6 +25427,132 @@
                                 "をもちまして", 
                                 "をもって"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私の秘書＿＿＿ほかにその仕事を任せる人はいない。", 
+                                "No hay ninguna otra persona a quien le pueda confiar ese trabajo <font color=\"#ff0000\">aparte de</font> mi secretaria.", 
+                                "私[わたし]の 秘書[ひしょ]<font color=\"#ff0000\">をおいて</font>ほかにその 仕事[しごと]を 任[まか]せる 人[ひと]はいない。", 
+                                "をおいて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dEdOBs0h;=", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をおいて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "よく覚えておけ。私達＿＿＿信じられるやつはいないぞ。", 
+                                "Acuerdate. No tienes a nadie más en quien confiar <font color=\"#ff0000\">aparte de</font> nosotros.", 
+                                "よく 覚[おぼ]えておけ。 私[わたし] 達[たち]<font color=\"#ff0000\">をおいて</font>&nbsp;信[しん]じられるやつはいないぞ。", 
+                                "をおいて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "i<3s.fnuuL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をおいて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この件＿＿＿話すことはない。", 
+                                "No tengo más nada para decir <font color=\"#ff0000\">además de</font> este asunto.", 
+                                "この 件[けん]<font color=\"#ff0000\">をおいて</font> 話[はな]すことはない。", 
+                                "をおいて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Oum-bPU+CD", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をおいて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "肺がん＿＿＿ほかに、原因が考えられない。", 
+                                "No puedo pensar en ninguna otra causa <font color=\"#ff0000\">aparte de</font> cáncer de pulmón.", 
+                                "肺[はい]がん<font color=\"#ff0000\">をおいて</font>ほかに、 原因[げんいん]が 考[かんが]えられない。", 
+                                "をおいて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Bl)%QJNR5C", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をおいて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この会社を救えるのは、元社長＿＿＿ほかに人がいない。", 
+                                "No hay ninguna otra persona que pueda salvar esta compañía <font color=\"#ff0000\">además del</font> ex presidente.", 
+                                "この 会社[かいしゃ]を 救[すく]えるのは、 元[もと] 社長[しゃちょう]<font color=\"#ff0000\">をおいて</font>ほかに 人[ひと]がいない。", 
+                                "をおいて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B`B%*G}:F^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をおいて"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "手術＿＿＿ほかに、彼を助けるための方法がない。", 
+                                "<font color=\"#ff0000\">Aparte de</font> una cirugía, no hay ninguna otra forma de salvarlo.", 
+                                "手術[しゅじゅつ]<font color=\"#ff0000\">をおいて</font>ほかに、 彼[かれ]を 助[たす]けるための 方法[ほうほう]がない。", 
+                                "<div>をおいて</div>"
+                            ], 
+                            "flags": 0, 
+                            "guid": "qY~CU}.6V/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "をおいて"
+                            ]
                         }
                     ]
                 }
@@ -25554,11 +25681,11 @@
             "sortf": 0, 
             "tags": [
                 "Gramática", 
+                "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "をもちまして", 
-                "をもって"
+                "をおいて"
             ], 
             "tmpls": [
                 {
