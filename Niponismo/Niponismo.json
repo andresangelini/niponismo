@@ -4863,12 +4863,12 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "をおいて（ほかに）〜ない", 
-                                "をおいて（ほかに）〜ない", 
-                                "をおいて（ほかに）〜ない", 
-                                "no hay... a parte de / no hay... además de / no hay... más (menos) que", 
-                                "Sustantivo +&nbsp;<font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresión que <font color=\"#ff0000\">limita algo extrictamente al sustantivo</font>.<div><br /></div><div>今[いま]はもう我々[われわれ]を 救[すく]うのは 彼女[かのじょ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>誰[だれ]もいない。</div><div><i>Ya no hay nadie que nos pueda salvar <font color=\"#ff0000\">a parte de</font> ella</i>.</div><div><br /></div><div>A menudo se usa a forma de <font color=\"#ff0000\">elogio</font>.</div><div><br /></div><div>その役目にふさわしいのは、彼<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No hay nadie más</font> adecuado para esa tarea que él</i>.</div><div><br /></div><div>Naturalmente, también se puede usar con sustantivos que representen <font color=\"#ff0000\">tiempo</font> y <font color=\"#ff0000\">lugar</font>.</div><div><br /></div><div>彼[かれ]と 話[はな]したいなら、 今[いま]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si quieres hablar con él, <font color=\"#ff0000\">no habrá</font> un mejor momento <font color=\"#ff0000\">que</font> ahora</i>.</div>", 
+                                "をおいて", 
+                                "をおいて", 
+                                "をおいて", 
+                                "aparte de / además de", 
+                                "Sustantivo +&nbsp;<font color=\"#ff0000\">＿＿＿</font> + （ほかに）〜ない", 
+                                "Expresión utilizada junto a un verbo negativo para&nbsp;<font color=\"#ff0000\">limitar algo extrictamente al sustantivo</font>.<div><br /></div><div>今[いま]はもう我々[われわれ]を 救[すく]うのは 彼女[かのじょ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>誰[だれ]もいない。</div><div><i>Ya no hay nadie que nos pueda salvar <font color=\"#ff0000\">a parte de</font> ella</i>.</div><div><br /></div><div>A menudo se usa a forma de <font color=\"#ff0000\">elogio</font>.</div><div><br /></div><div>その 役目[やくめ]に 相応[ふさわ]しいのは、 彼[かれ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Nadie más puede hacer esa tarea <font color=\"#ff0000\">a parte de</font> él</i>.</div><div><br /></div><div>Naturalmente, también se puede usar con sustantivos que representen <font color=\"#ff0000\">tiempo</font> y <font color=\"#ff0000\">lugar</font>.</div><div><br /></div><div>彼[かれ]と 話[はな]したいなら、 今[いま]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si quieres hablar con él, <font color=\"#ff0000\">no habrá</font> un mejor momento <font color=\"#ff0000\">que</font> ahora</i>.</div><div><br /></div><div>En todos los casos se puede usar opcionalmente junto a <font color=\"#ff0000\">ほかに</font>.</div><div><br /></div><div>その 話題[わだい]<font color=\"#ff0000\">＿＿＿</font>ほかにことについて 話[はな]さなかった。</div><div><i><font color=\"#ff0000\">Aparte de</font> ese tema, no hablamos de nada más</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4888,7 +4888,7 @@
                                 "Gramática", 
                                 "N1", 
                                 "Niponismo", 
-                                "をおいて（ほかに）〜ない"
+                                "をおいて"
                             ]
                         }
                     ]
@@ -7940,7 +7940,7 @@
                             "data": "", 
                             "fields": [
                                 "仕事の難しい部分は彼がやる＿＿＿。", 
-                                "Él terminó haciendo el trabajo más difícil.", 
+                                "Él <font color=\"#ff0000\">terminó</font> haciendo el trabajo más difícil.", 
                                 "仕事[しごと]の 難[むずか]しい 部分[ぶぶん]は 彼[かれ]がやる&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">羽目[はめ]になった</font></span>。", 
                                 "羽目になった"
                             ], 
@@ -13512,7 +13512,7 @@
                             "data": "", 
                             "fields": [
                                 "彼に醜女＿＿＿呼ばれたの。", 
-                                "Él incluso me llamó fea.", 
+                                "Él <font color=\"#ff0000\">incluso</font> me llamó fea.", 
                                 "彼[かれ]に 醜女[しゅうじょ]だ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">とさえ/とすら</font></span>&nbsp;呼[よ]ばれたの。", 
                                 "とさえ/とすら"
                             ], 
@@ -13833,7 +13833,7 @@
                             "data": "", 
                             "fields": [
                                 "幽霊が現れた＿＿＿、そんな驚いた顔をするなよ。&nbsp;", 
-                                "No es como si hubiese aparecido un fantasma, así no me pongas esa cara de asustado.", 
+                                "<font color=\"#ff0000\">No es como si</font> hubiese aparecido un fantasma, así no me pongas esa cara de asustado.", 
                                 "幽霊[ゆうれい]が 現[あらわ]れた<font color=\"#ff0000\">のではあるまいし/</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">んじゃあるまいし</font></span>、そんな 驚[おどろ]いた 顔[かお]をするなよ。", 
                                 "のではあるまいし/んじゃあるまいし"
                             ], 
@@ -14272,7 +14272,7 @@
                             "data": "", 
                             "fields": [
                                 "自分の信念を守るためには立ちあがるし、＿＿＿脅威にも屈しないつもりだ。", 
-                                "<div>Defenderé aquello en lo que creo y no cederé ante ninguna amenaza.</div>", 
+                                "<div>Defenderé aquello en lo que creo y no cederé ante <font color=\"#ff0000\">ninguna</font> amenaza.</div>", 
                                 "自分[じぶん]の 信念[しんねん]を 守[まも]るためには 立[た]ちあがるし、&nbsp;<font color=\"#ff0000\">如何[いか]なる</font> 脅威[きょうい]にも 屈[くっ]しないつもりだ。", 
                                 "如何なる"
                             ], 
@@ -17358,7 +17358,7 @@
                             "data": "", 
                             "fields": [
                                 "他の人をコピーしないで、自分＿＿＿考えで案を立てなさい。", 
-                                "No copien a otros y piensen un plan propio.", 
+                                "No copien a otros y piensen un plan <font color=\"#ff0000\">propio</font>.", 
                                 "他[た]の 人[ひと]をコピーしないで、 自分[じぶん]<font color=\"#ff0000\">なりの</font> 考[かんが]えで 案[あん]を 立[た]てなさい。", 
                                 "なりの"
                             ], 
@@ -18725,7 +18725,7 @@
                             "data": "", 
                             "fields": [
                                 "皆は彼が悪いと思った＿＿＿、私は彼にずっと信じてた。", 
-                                "Mientras todos pensaban que él estaba equivocadom, yo siempre creí en él.", 
+                                "<font color=\"#ff0000\">Mientras</font> todos pensaban que él estaba equivocado, yo siempre creí en él.", 
                                 "皆[みな]は 彼[かれ]が 悪[わる]いと 思[おも]った<font color=\"#ff0000\">の 引き換[ひきか]え</font>、 私[わたし]は 彼[かれ]にずっと 信[しん]じてた。", 
                                 "のに引き換え"
                             ], 
@@ -18809,7 +18809,7 @@
                             "data": "", 
                             "fields": [
                                 "今度のパーティーは詰まらなかった＿＿＿、前のは余程楽しかった。", 
-                                "Mientras que esta útlima fiesta estuvo aburrida, la anterior estuvo divertidísima.", 
+                                "<font color=\"#ff0000\">Mientras que</font> esta útlima fiesta estuvo aburrida, la anterior estuvo divertidísima.", 
                                 "今度[こんど]のパーティーは 詰[つ]まらなかった<font color=\"#ff0000\">のに 引き換[ひきか]え</font>、 前[まえ]のは 余程[よほど] 楽[たの]しかった。", 
                                 "のに引き換え"
                             ], 
@@ -20258,7 +20258,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は他の生徒＿＿＿先生の質問を大声で答えた。", 
-                                "Él se anticipó al resto de los estudiantes contestando la pregunta del profesor en voz alta.", 
+                                "Él <font color=\"#ff0000\">se anticipó</font> al resto de los estudiantes contestando la pregunta del profesor en voz alta.", 
                                 "彼[かれ]は 他[た]の 生徒[せいと]<font color=\"#ff0000\">に 先駆[さきが]けて</font> 先生[せんせい]の 質問[しつもん]を 大声[おおごえ]で 答[こた]えた。", 
                                 "に先駆けて"
                             ], 
