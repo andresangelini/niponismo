@@ -4891,6 +4891,39 @@
                                 "Niponismo", 
                                 "をおいて"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "を余儀なくされる", 
+                                "を余儀[よぎ]なくされる", 
+                                "をよぎなくされる", 
+                                "no quedar otra alternativa que", 
+                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión sinónima de <font color=\"#ff0000\">他に方法がない</font>, <font color=\"#ff0000\">仕方がない</font>, <font color=\"#ff0000\">しかない</font> y <font color=\"#ff0000\">やむを得ない</font> que indica que el sujeto <font color=\"#ff0000\">no tiene otra alternativa</font>.<div><br /></div><div>大雨[おおあめ]の 為[ため]、 俺達[おれたち]は 試合[しあい]の 延期[えんき]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Debido a las fuertes lluvias <font color=\"#ff0000\">no nos quedó otra alternativa que</font> aplazar el partido</i>.</div><div><br /></div><div>Se puede usar para cosas que suceden <font color=\"#ff0000\">actualmente</font> conjungando el verbo pasivo <font color=\"#ff0000\">される</font> a la forma <font color=\"#ff0000\">て</font>, es decir,&nbsp;<font color=\"#ff0000\">されている</font>.</div><div><br /></div><div>切[き]りの 無[な]い 戦争[せんそう]の 為[ため]、 大勢[おおせい]の 住民[じゅうみん]が 避難所[ひなんじょ]での 生活[せいかつ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A muchos ciudadanos <font color=\"#ff0000\">no le queda otra alternativa que</font> vivir en un refugio</i>.</div><div><br /></div><div>Pero se usa más comunmente para referirse a <font color=\"#ff0000\">situaciones en el pasado</font>.</div><div><br /></div><div>生徒達[せいとたち]はレポート<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A los estudiantes <font color=\"#ff0000\">no les quedó otra alternativa que</font> hacer un reporte</i>.</div><div><br /></div><div>El sujeto de la oración es quien se ve forzado a realizar una acción.</div><div><br /></div><div>そのミスの 為[ため]、 彼[かれ]は 辞職[じしょく]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A él <font color=\"#ff0000\">no le quedó otra alternativa que</font> renunciar por su error</i>.</div><div><br /></div><div>Sin embargo, <font color=\"#ff0000\">el sujeto puede omitirse</font> como sucede a menudo.</div><div><br /></div><div>テロの 事件[じけん]の 発生[はっせい]で、（ 政府[せいふ]は） 新[あたら]しい 対策[たいさく]の 検討[けんとう]を<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Al gobierno <font color=\"#ff0000\">no le quedó otra alternativa que</font> volver a analizar nuevas medidas debido a los episodios de terrorismo</i>.</div><div><br /></div><div>Existe una variación con <font color=\"#ff0000\">させる</font> en lugar <font color=\"#ff0000\">される</font> en donde el <font color=\"#ff0000\">sujeto de la oración es la causa</font>.</div><div><br /></div><div>今日[きょう]の 台風[たいふう]が、 私[わたし]のフライトの 延期[えんき]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>El tifón de hoy <font color=\"#ff0000\">no dejó otra alternativa que</font> aplazar mi vuelo</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "p~W!fi8CU*", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "を余儀なくされる"
+                            ]
                         }
                     ]
                 }, 
@@ -25886,9 +25919,10 @@
             "tags": [
                 "Definición", 
                 "Gramática", 
+                "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "をおいて（ほかに）〜ない"
+                "を余儀なくされる"
             ], 
             "tmpls": [
                 {
