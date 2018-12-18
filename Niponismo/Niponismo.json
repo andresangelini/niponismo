@@ -25588,6 +25588,258 @@
                                 "Oración", 
                                 "をおいて"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>複数の呼吸器疾患による衰弱のため、彼は先週、音楽指揮者としての仕事を断念する旨の発表＿＿＿ばかりでした。</div>", 
+                                "Debido a varios problemas respiratorios, a él <font color=\"#ff0000\">no lo quedó otra alternativa que</font> renunciar a su carrera como conductor de orquesta apenas la semana pasada.", 
+                                "複数[ふくすう]の 呼吸[こきゅう] 器[き] 疾患[しっかん]による 衰弱[すいじゃく]のため、 彼[かれ]は 先週[せんしゅう]、 音楽[おんがく] 指揮[しき] 者[しゃ]としての 仕事[しごと]を 断念[だんねん]する 旨[むね]の 発表[はっぴょう]<font color=\"#ff0000\">を 余儀[よぎ]なくされた</font>ばかりでした。", 
+                                "を余儀なくされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ta*;rE6)B3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は健康上の理由で辞任＿＿＿。", 
+                                "A él <font color=\"#ff0000\">no le quedó otra alternativa que</font> renunciar debido a problemas de salud.", 
+                                "彼[かれ]は 健康[けんこう] 上[じょう]の 理由[りゆう]で 辞任[じにん]<font color=\"#ff0000\">を 余儀[よぎ]なくされた</font>。", 
+                                "を余儀なくされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ou^@j^$}2p", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "世論のため彼は引退＿＿＿。", 
+                                "A él <font color=\"#ff0000\">no le quedó otra alternativa que</font> renunciar debido a la opinión pública.", 
+                                "世論[せろん]のため 彼[かれ]は 引退[いんたい]<font color=\"#ff0000\">を 余儀[よぎ]なくされた</font>。", 
+                                "を余儀なくされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v5>PJ)uL;:", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "首相は内閣からの辞職＿＿＿。", 
+                                "Al primer ministro <font color=\"#ff0000\">no le quedó otra alternativa que</font> renunciar al gabinete.", 
+                                "首相[しゅしょう]は 内閣[ないかく]からの 辞職[じしょく]<font color=\"#ff0000\">を 余儀[よぎ]なくされた</font>。", 
+                                "を余儀なくされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "F7^Bj23,9m", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私達は地震によって契約の破棄＿＿＿。", 
+                                "<font color=\"#ff0000\">No nos quedó otra alternativa que</font> romper el contrato debido al terremoto.", 
+                                "私[わたし] 達[たち]は 地震[じしん]によって 契約[けいやく]の 破棄[はき]<font color=\"#ff0000\">を 余儀[よぎ]なくされた</font>。", 
+                                "を余儀なくされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lb<7$uU`z)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "国債収支危機が発生し、政府は経済にブレーキをかけること＿＿＿。", 
+                                "Ocurrió una crisis en el balance de pagos y al gobierno <font color=\"#ff0000\">no le quedó otra alternativa que</font> ponerle un freno a la economía.", 
+                                "国債[こくさい] 収支[しゅうし] 危機[きき]が 発生[はっせい]し、 政府[せいふ]は 経済[けいざい]にブレーキをかけること<font color=\"#ff0000\">を 余儀[よぎ]なくされた</font>。", 
+                                "を余儀なくされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "e<>R1N-=,>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>こうしたことをじっくり考慮してから、推進者は法律案という形で計画案を提出するが、議会での批判に対処するために、ルートの変更＿＿＿かもしれない。</div>", 
+                                "Tras mucha consideración, los promotores presentaron su plan a través de un proyecto de ley, sin embargo, las posibles críticas en el Parlamento quizás <font color=\"#ff0000\">no les dejen otra alternativa que</font> cambiar de ruta.", 
+                                "こうしたことをじっくり 考慮[こうりょ]してから、 推進[すいしん] 者[しゃ]は 法律[ほうりつ] 案[あん]という 形[かたち]で 計画[けいかく] 案[あん]を 提出[ていしゅつ]するが、 議会[ぎかい]での 批判[ひはん]に 対処[たいしょ]するために、ルートの 変更[へんこう]<font color=\"#ff0000\">を 余儀[よぎ]なくさせられる</font>かもしれない。", 
+                                "を余儀なくさせられる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uP9|US~K-t", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "余儀なくさせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "最近の騒動は、その国を旅行の延期＿＿＿。", 
+                                "Las recientes revueltas <font color=\"#ff0000\">no nos dejaron otra alternativa que</font> posponer nuestro viaje a ese país.", 
+                                "最近[さいきん]の 騒動[そうどう]は、その 国[くに]を 旅行[りょこう]の 延期[えんき]<font color=\"#ff0000\">を 余儀[よぎ]なくさせた</font>。", 
+                                "を余儀なくさせた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ib3;zI^_Z>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "余儀なくさせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの先生は明日にレポートの完成＿＿＿。", 
+                                "Ese profesor <font color=\"#ff0000\">no nos dejó otra alternativa que</font> completar el reporte para mañana.", 
+                                "あの 先生[せんせい]は 明日[あした]にレポートの 完成[かんせい]<font color=\"#ff0000\">を 余儀[よぎ]なくさせた</font>。", 
+                                "を余儀なくさせた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NgQ`kwC%O0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "余儀なくさせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの客のオーダーは週末に至るまで働くこと＿＿＿。", 
+                                "La orden de ese cliente <font color=\"#ff0000\">no nos dejó otra alternativa que</font> trabajar hasta el fin de semana inclusive.", 
+                                "あの 客[きゃく]のオーダーは 週末[しゅうまつ]に 至[いた]るまで 働[はたら]くこと<font color=\"#ff0000\">を 余儀[よぎ]なくさせた</font>。", 
+                                "を余儀なくさせた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zHd[B%Z3-Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "余儀なくさせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大水のため、多勢の人は避難書での生活＿＿＿。", 
+                                "A muchas personas <font color=\"#ff0000\">no les queda otra alternativa que</font> vivir en refugios debido a las inundaciones.", 
+                                "大水[おおみず]のため、 多勢[たぜい]の 人[ひと]は 避難[ひなん] 書[しょ]での 生活[せいかつ]<font color=\"#ff0000\">を 余儀[よぎ]なくされている</font>。", 
+                                "を余儀なくされている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "LPfihm*<^+", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を余儀なくされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "冷戦の国際緊張にあって、世界の人々は恐怖の生活＿＿＿。", 
+                                "Bajo las tensiones internacionales de una Guerra Fría a la gente <font color=\"#ff0000\">no le queda otra que</font> vivir en el terror.", 
+                                "冷戦[れいせん]の 国際[こくさい] 緊張[きんちょう]にあって、 世界[せかい]の 人々[ひとびと]は 恐怖[きょうふ]の 生活[せいかつ]<font color=\"#ff0000\">を 余儀[よぎ]なくされている</font>。", 
+                                "を余儀なくされている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fTg;|,fI;y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "を余儀なくされる"
+                            ]
                         }
                     ]
                 }
@@ -25720,7 +25972,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "をおいて"
+                "を余儀なくされる"
             ], 
             "tmpls": [
                 {
