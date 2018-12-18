@@ -2243,12 +2243,12 @@
                                 "までもない", 
                                 "までもない", 
                                 "no hacer falta llegar a", 
-                                "Verbo en forma diccionario + forma gramatical.", 
-                                "Expresión equivalente a に（は） 及[およ]ばない cuyo significado básicamente es &nbsp;必要[ひつよう]は 無[な]い que indica que no es necesario hacer la acción indicada por el verbo.", 
-                                "その 時[とき]、 二人[ふたり]の 間[あいだ]に 師弟[してい]を 越[こ]えた 友情[ゆうじょう]のようなものが 芽生[めば]えた 事[こと]は 言[い]う＿＿＿。", 
-                                "No hace falta decir que surgió una especie de amistad entre ellos dos, que vas más allá de la típica relación entre maestro y alumno.", 
-                                "言[い]う＿＿＿ことだが捜索は徒労に終わった。", 
-                                "No hace falta decir que la búsqueda terminó en vano.", 
+                                "Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión equivalente a <font color=\"#ff0000\">に（は） 及[およ]ばない</font> cuyo significado básicamente es &nbsp;<font color=\"#ff0000\">必要[ひつよう]は 無[な]い</font> que indica que no es necesario hacer la acción indicada por el verbo.<div><br /></div><div>その 時[とき]、 二人[ふたり]の 間[あいだ]に 師弟[してい]を 越[こ]えた 友情[ゆうじょう]のようなものが 芽生[めば]えた 事[こと]は 言[い]う<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No hace falta</font> decir que surgió una especie de amistad entre ellos dos, que vas más allá de la típica relación entre maestro y alumno</i>.</div><div><br /></div><div>言[い]う<font color=\"#ff0000\">＿＿＿</font>ことだが捜索は徒労に終わった。</div><div><i><font color=\"#ff0000\">No hace falta</font> decir que la búsqueda terminó en vano</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2673,7 +2673,7 @@
                                 "（で/に）さえ（も）～ない/（で/に）すら（も）～ない", 
                                 "ni siquiera", 
                                 "Sustantivo + opcionalmente で o に + forma gramatical + opcionalmente も + verbo negativo.<div>Verbo + の o こと + forma gramatical + verbo negativo.</div><div>Verbo + と + forma gramatical + opcionalmente も + verbo negativo.</div>", 
-                                "Es la versión negativa de さえ/すら. Al usarse con una frase negativa, éste pasa a significar \"ni siquiera\", es decir, que se usa para dar un ejemplo de algo que normalmente se esperaría que fuera tal pero no lo es. A parte de esa diferencia, sigue las mismas reglas que dicha forma gramatical.", 
+                                "Es la versión negativa de さえ/すら. Al usarse con una frase negativa, éste pasa a significar \"ni siquiera\", es decir, que se usa para dar un ejemplo de algo que normalmente se esperaría que fuera tal pero no lo es. Aparte de esa diferencia, sigue las mismas reglas que dicha forma gramatical.", 
                                 "先生[せんせい]＿＿＿その 課題[かだい]について 話[はな]していなかった。", 
                                 "Ni siquiera el profesor habló de ese tema.", 
                                 "航空機[こうくうき]は 早過[はやす]ぎたので、 見[み]えること＿＿＿ 出来[でき]なかった。", 
@@ -4896,12 +4896,12 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "を余儀なくされる", 
-                                "を余儀[よぎ]なくされる", 
-                                "をよぎなくされる", 
-                                "no quedar otra alternativa que", 
+                                "を余儀なくされる/を余儀なくさせる", 
+                                "を余儀[よぎ]なくされる/を 余儀[よぎ]なくさせる", 
+                                "をよぎなくされる/をよぎなくさせる", 
+                                "no quedar otra alternativa que / no dejar otra alternativa que", 
                                 "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresión sinónima de <font color=\"#ff0000\">他に方法がない</font>, <font color=\"#ff0000\">仕方がない</font>, <font color=\"#ff0000\">しかない</font> y <font color=\"#ff0000\">やむを得ない</font> que indica que el sujeto <font color=\"#ff0000\">no tiene otra alternativa</font>.<div><br /></div><div>大雨[おおあめ]の 為[ため]、 俺達[おれたち]は 試合[しあい]の 延期[えんき]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Debido a las fuertes lluvias <font color=\"#ff0000\">no nos quedó otra alternativa que</font> aplazar el partido</i>.</div><div><br /></div><div>Se puede usar para cosas que suceden <font color=\"#ff0000\">actualmente</font> conjungando el verbo pasivo <font color=\"#ff0000\">される</font> a la forma <font color=\"#ff0000\">て</font>, es decir,&nbsp;<font color=\"#ff0000\">されている</font>.</div><div><br /></div><div>切[き]りの 無[な]い 戦争[せんそう]の 為[ため]、 大勢[おおせい]の 住民[じゅうみん]が 避難所[ひなんじょ]での 生活[せいかつ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A muchos ciudadanos <font color=\"#ff0000\">no le queda otra alternativa que</font> vivir en un refugio</i>.</div><div><br /></div><div>Pero se usa más comunmente para referirse a <font color=\"#ff0000\">situaciones en el pasado</font>.</div><div><br /></div><div>生徒達[せいとたち]はレポート<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A los estudiantes <font color=\"#ff0000\">no les quedó otra alternativa que</font> hacer un reporte</i>.</div><div><br /></div><div>El sujeto de la oración es quien se ve forzado a realizar una acción.</div><div><br /></div><div>そのミスの 為[ため]、 彼[かれ]は 辞職[じしょく]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A él <font color=\"#ff0000\">no le quedó otra alternativa que</font> renunciar por su error</i>.</div><div><br /></div><div>Sin embargo, <font color=\"#ff0000\">el sujeto puede omitirse</font> como sucede a menudo.</div><div><br /></div><div>テロの 事件[じけん]の 発生[はっせい]で、（ 政府[せいふ]は） 新[あたら]しい 対策[たいさく]の 検討[けんとう]を<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Al gobierno <font color=\"#ff0000\">no le quedó otra alternativa que</font> volver a analizar nuevas medidas debido a los episodios de terrorismo</i>.</div><div><br /></div><div>Existe una variación con <font color=\"#ff0000\">させる</font> en lugar <font color=\"#ff0000\">される</font> en donde el <font color=\"#ff0000\">sujeto de la oración es la causa</font>.</div><div><br /></div><div>今日[きょう]の 台風[たいふう]が、 私[わたし]のフライトの 延期[えんき]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>El tifón de hoy <font color=\"#ff0000\">no dejó otra alternativa que</font> aplazar mi vuelo</i>.</div>", 
+                                "Expresión sinónima de <font color=\"#ff0000\">他に方法がない</font>, <font color=\"#ff0000\">仕方がない</font>, <font color=\"#ff0000\">しかない</font> y <font color=\"#ff0000\">やむを得ない</font>&nbsp;con dos variaciones distintas.<div><br /></div><div>- La primera se conjuga con <font color=\"#ff0000\">される</font>&nbsp;e indica que al sujeto <font color=\"#ff0000\">no le queda otra alternativa</font>.<div><br /></div><div>大雨[おおあめ]の 為[ため]、 俺達[おれたち]は 試合[しあい]の 延期[えんき]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Debido a las fuertes lluvias <font color=\"#ff0000\">no nos quedó otra alternativa que</font> aplazar el partido</i>.</div><div><br /></div><div>Se puede usar para cosas que suceden <font color=\"#ff0000\">actualmente</font> conjungando el verbo pasivo <font color=\"#ff0000\">される</font> a la forma <font color=\"#ff0000\">て</font>, es decir,&nbsp;<font color=\"#ff0000\">されている</font>.</div><div><br /></div><div>切[き]りの 無[な]い 戦争[せんそう]の 為[ため]、 大勢[おおぜい]の 住民[じゅうみん]が 避難所[ひなんじょ]での 生活[せいかつ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A muchos ciudadanos <font color=\"#ff0000\">no le queda otra alternativa que</font> vivir en un refugio</i>.</div><div><br /></div><div>Pero se usa más comunmente para referirse a <font color=\"#ff0000\">situaciones en el pasado</font>.</div><div><br /></div><div>生徒達[せいとたち]はレポート<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A los estudiantes <font color=\"#ff0000\">no les quedó otra alternativa que</font> hacer un reporte</i>.</div><div><br /></div><div>El sujeto de la oración es quien se ve forzado a realizar una acción.</div><div><br /></div><div>そのミスの 為[ため]、 彼[かれ]は 辞職[じしょく]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>A él <font color=\"#ff0000\">no le quedó otra alternativa que</font> renunciar por su error</i>.</div><div><br /></div><div>Sin embargo, <font color=\"#ff0000\">el sujeto puede omitirse</font> como sucede a menudo.</div><div><br /></div><div>テロの 事件[じけん]の 発生[はっせい]で、（ 政府[せいふ]は） 新[あたら]しい 対策[たいさく]の 検討[けんとう]を<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>(Al gobierno) <font color=\"#ff0000\">No le quedó otra alternativa que</font> volver a analizar nuevas medidas debido a los episodios de terrorismo</i>.</div><div><br /></div><div>- La segunda variación usa la conjugación&nbsp;<font color=\"#ff0000\">させる</font>&nbsp;en donde el <font color=\"#ff0000\">sujeto de la oración es la causa</font>. En dicho caso, su significado pasa a ser \"<font color=\"#ff0000\">no dejar otra alernativa que</font>\".</div><div><br /></div><div>今日[きょう]の 台風[たいふう]が、 私[わたし]のフライトの 延期[えんき]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>El tifón de hoy <font color=\"#ff0000\">no dejó otra alternativa que</font> aplazar mi vuelo</i>.</div></div><div><br /></div><div>たった 一人息子の死亡[ひとりむすこ]は、その 家族[かぞく]の 破綻[はたん]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>La muerte de su único hijo <font color=\"#ff0000\">no dejó otra alternativa que</font> la destrucción de la familia</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4922,6 +4922,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "を余儀なくさせる", 
                                 "を余儀なくされる"
                             ]
                         }
@@ -7332,7 +7333,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はそれを見ると＿＿＿魔が差して盗んだ。", 
-                                "Al ver eso, él se tentó y lo robó.", 
+                                "Al ver eso, él <font color=\"#ff0000\">de pronto</font> se tentó y lo robó.", 
                                 "彼[かれ]はそれを 見[み]ると<font color=\"#ff0000\">ふと</font> 魔[ま]が 差[さ]して 盗[ぬす]んだ。", 
                                 "ふと"
                             ], 
@@ -7344,6 +7345,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
+                                "tatoeba", 
                                 "ふと"
                             ]
                         }, 
@@ -8393,7 +8395,7 @@
                             "data": "", 
                             "fields": [
                                 "私には君より＿＿＿友達がいない。", 
-                                "No tengo ningún amigo aparte de ti.", 
+                                "No tengo ningún amigo <font color=\"#ff0000\">aparte de</font> ti.", 
                                 "私[わたし]には 君[きみ]より<font color=\"#ff0000\">ほかに</font> 友達[ともだち]がいない。", 
                                 "ほかに"
                             ], 
@@ -8686,7 +8688,7 @@
                             "data": "", 
                             "fields": [
                                 "所得税は控除額を上回る＿＿＿所得にもかかる。", 
-                                "El impuesto a la renta se cobra sobre cualquier monto que exceda la cantidad deducible.", 
+                                "El impuesto a la renta se cobra sobre <font color=\"#ff0000\">cualquier</font> monto que exceda la cantidad deducible.", 
                                 "所得[しょとく] 税[ぜい]は 控除[こうじょ] 額[がく]を 上回[うわまわ]る <font color=\"#ff0000\">如何[いか]なる</font> 所得[しょとく]にもかかる。", 
                                 "如何なる"
                             ], 
