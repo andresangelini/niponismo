@@ -3035,12 +3035,12 @@
                                 "ないもの（だろう）か", 
                                 "ないもの（だろう）か", 
                                 "¿no se puede...?", 
-                                "Verbo en forma diccionario o en potencial + opcionalmente どうにか, なんとか o もうすこし +&nbsp;forma gramatical.", 
-                                "Expresión usada para sujerir soluciones, equivalente a \"¿no hay nada que se pueda hacer (al respecto)?\", \"¿no se puede hacer algo (al respecto)?\", \"¿no podemos hacer tal cosa?\", etc. Dependiendo de la oración, puede llevar&nbsp;どうにか, 何とか o もう少し.", 
-                                "台所[だいどころ]から 出[で]ている 臭[に]い、 何[なん]とかなら＿＿＿。", 
-                                "¿No podemos hacer nada con el olor que sale de la cocina?", 
-                                "試合[しあい]の 最中[さいちゅう]でテレビ 壊[こわ]れてしまった。どうにか直せ＿＿＿。", 
-                                "La televisión se descompuso en el medio del partido. ¿No se puede reparar de algún modo?", 
+                                "Verbo en forma diccionario o en potencial + （どうにか/なんとか/もうすこし） +&nbsp;<font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión usada para sujerir soluciones, equivalente a \"<font color=\"#ff0000\">¿no hay nada que se pueda hacer (al respecto)?</font>\", \"<font color=\"#ff0000\">¿no se puede hacer algo (al respecto)?</font>\", \"<font color=\"#ff0000\">¿no podemos hacer tal cosa?</font>\", etc. Dependiendo de la oración, puede llevar&nbsp;<font color=\"#ff0000\">どうにか, 何とか o もう少し</font>.<div><br /></div><div>台所[だいどころ]から 出[で]ている 臭[に]い、 何[なん]とかなら<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>¿No podemos hacer nada con el olor que sale de la cocina?</i></div><div><i><br /></i></div><div>試合[しあい]の 最中[さいちゅう]でテレビ 壊[こわ]れてしまった。どうにか直せ<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>La televisión se descompuso en el medio del partido. ¿<font color=\"#ff0000\">No se puede</font> reparar de algún modo?</i></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -3597,12 +3597,12 @@
                                 "なるべく", 
                                 "なるべく", 
                                 "lo más (menos) posible", 
-                                "Forma gramatical + acción.", 
-                                "Expresión usada para indicar que una acción se debe hacer o evitar tanto como sea posible. En el lenguaje cotideano equivale a できるだけ, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical se enfonca en lograr el cometido.", 
-                                "＿＿＿ 早[はや]く 診察[しんさつ]を 受[う]けたいのですが。", 
-                                "Me gustaría hacerme un examen médico lo más pronto posible.", 
-                                "われわれは＿＿＿ たくさん 本[ほん]を 読[よ]むべきである。", 
-                                "Nosotros debemos leer tantos libros como sea posible.", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + acción.", 
+                                "Expresión usada para indicar que una acción <font color=\"#ff0000\">se debe hacer o evitar tanto como sea posible</font>. En el lenguaje cotideano equivale a <font color=\"#ff0000\">できるだけ</font>, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical <font color=\"#ff0000\">se enfonca en lograr el cometido</font>.<div><br /></div><div><font color=\"#ff0000\">＿＿＿</font> 早[はや]く 診察[しんさつ]を 受[う]けたいのですが。</div><div><i>Me gustaría hacerme un examen médico <font color=\"#ff0000\">lo más</font> pronto <font color=\"#ff0000\">posible</font></i>.</div><div><br /></div><div>われわれは<font color=\"#ff0000\">＿＿＿</font> たくさん 本[ほん]を 読[よ]むべきである。</div><div><i>Nosotros debemos leer <font color=\"#ff0000\">tantos</font> libros <font color=\"#ff0000\">como sea posible</font></i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4332,7 +4332,7 @@
                                 "に（は）およばない", 
                                 "no hacer falta / no precisar / no haber de qué / no tener de qué / no estar al nivel de / no compararse con", 
                                 "<div>Cuando tiene connotación de 心配<font color=\"#ff0000\">＿＿＿</font>:</div><div><br /></div><div>Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font>.<div>Sustantivo verbal (con o sin する) + <font color=\"#ff0000\">＿＿＿</font>.</div></div><div><br /></div><div><div>Cuando tiene connotación de&nbsp;レベル<font color=\"#ff0000\">＿＿＿</font>:</div><div><br /></div><div>Sustantivo + <font color=\"#ff0000\">＿＿＿</font>.</div></div>", 
-                                "<div>Expresión con dos posibles usos:</div><div><br /></div><div>- 「<span class=\"pink\">（ 相手[あいて]の 気持[きも]ちに 対[たい]して）</span>わざわざ～する 必要[ひつよう]はない」<font color=\"#ff0000\">Mostrar consideración o preocupación por el otro</font> indicando que <font color=\"#ff0000\">no hace falta que se tome la molestia</font> de hacer algo <font color=\"#ff0000\">por una situación en particular</font>. Es sinónimo de までもない y&nbsp;必要[ひつよう]はない pero se diferencia de に（は） 当[あ]たらない en que la situación es específica.</div><div><br /></div><div>先[さき]に 警察[けいさつ]を 呼[よ]んでいたから、もう 心配[しんぱい]（する）<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Recién llamé a la policía así que <font color=\"#ff0000\">no tienes de qué</font> preocuparte.</i></div><div><i><br /></i></div><div>Mientras que に（は）当たらない se usa para indicar que <font color=\"#ff0000\">no hace falta hacer algo porque la situación es algo normal</font>.&nbsp;「（ 一般的[いっぱん]なことだから）～する 必要[ひつよう]はない」</div><div><br /></div><div>この 事業[じぎょう]は 合法[ごうほう]なので、 心配[しんぱい]<font color=\"#ff0000\">に（は）当たらない</font>。</div><div><i>Este negocio es legal por lo que <font color=\"#ff0000\">no hay de qué</font> preocuparse.</i></div><div><br /></div><div>- Señalar que el sujeto <font color=\"#ff0000\">no está al nivel</font> o <font color=\"#ff0000\">no se compara con</font> algo o alguien.</div><div><br /></div><div>彼[かれ]は 父親[ちちおや]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Él <font color=\"#ff0000\">no está al nivel de</font> su padre</i>.</div>", 
+                                "<div>Expresión con dos posibles usos:</div><div><br /></div><div>- <font color=\"#ff0000\">「<span class=\"pink\">（ 相手[あいて]の 気持[きも]ちに 対[たい]して）</span>わざわざ～する 必要[ひつよう]はない」</font><font color=\"#ff0000\">Mostrar consideración o preocupación por el otro</font> indicando que <font color=\"#ff0000\">no hace falta que se tome la molestia</font> de hacer algo <font color=\"#ff0000\">por una situación en particular</font>. Es sinónimo de <font color=\"#ff0000\">までもない</font> y&nbsp;<font color=\"#ff0000\">必要[ひつよう]はない</font> pero se diferencia de <font color=\"#ff0000\">に（は） 当[あ]たらない</font> en que la situación es específica.</div><div><br /></div><div>先[さき]に 警察[けいさつ]を 呼[よ]んでいたから、もう 心配[しんぱい]（する）<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Recién llamé a la policía así que <font color=\"#ff0000\">no tienes de qué</font> preocuparte.</i></div><div><i><br /></i></div><div>Mientras que <font color=\"#ff0000\">に（は）当たらない</font> se usa para indicar que <font color=\"#ff0000\">no hace falta hacer algo porque la situación es algo normal</font>.&nbsp;「（ 一般的[いっぱん]なことだから）～する 必要[ひつよう]はない」</div><div><br /></div><div>この 事業[じぎょう]は 合法[ごうほう]なので、 心配[しんぱい]<font color=\"#ff0000\">に（は）当たらない</font>。</div><div><i>Este negocio es legal por lo que <font color=\"#ff0000\">no hay de qué</font> preocuparse.</i></div><div><br /></div><div>- Señalar que el sujeto <font color=\"#ff0000\">no está al nivel</font> o <font color=\"#ff0000\">no se compara con</font> algo o alguien.</div><div><br /></div><div>彼[かれ]は 父親[ちちおや]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Él <font color=\"#ff0000\">no está al nivel de</font> su padre</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -9467,7 +9467,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女の行動は＿＿＿日本社会に波紋を投げかけています。", 
-                                "Sus acciones aún sacuden a la sociedad japonesa.", 
+                                "Sus acciones <font color=\"#ff0000\">aún</font> sacuden a la sociedad japonesa.", 
                                 "彼女[かのじょ]の 行動[こうどう]は&nbsp;<font color=\"#ff0000\">未[いま]だに</font> 日本[にっぽん] 社会[しゃかい]に 波紋[はもん]を 投[な]げかけています。", 
                                 "未だに"
                             ], 
@@ -10701,7 +10701,7 @@
                             "data": "", 
                             "fields": [
                                 "私は、彼の失礼＿＿＿態度に我慢ならなかった。", 
-                                "No pude soportar más su actitud extremadamente insolente.", 
+                                "No pude soportar más su actitud <font color=\"#ff0000\">extremadamente</font> insolente.", 
                                 "私[わたし]は、 彼[かれ]の 失礼[しつれい] <font color=\"#ff0000\">極[きわ]まる/ 極[きわ]まりない</font> 態度[たいど]に 我慢[がまん]ならなかった。", 
                                 "極まる/極まりない"
                             ], 
@@ -17331,7 +17331,7 @@
                             "data": "", 
                             "fields": [
                                 "覚えていないなら自分＿＿＿説明してみなさい。", 
-                                "Si no lo recuerdas, trata de explicarlo a tu manera.", 
+                                "Si no lo recuerdas, trata de explicarlo <font color=\"#ff0000\">a tu manera</font>.", 
                                 "覚[おぼ]えていないなら 自分[じぶん]<font color=\"#ff0000\">なりに</font> 説明[せつめい]してみなさい。", 
                                 "なりに"
                             ], 
@@ -19244,7 +19244,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>人質の運命はその交渉の結果＿＿＿。</div>", 
-                                "El destino de los rehenes depende del resultado de las negociaciones.", 
+                                "El destino de los rehenes <font color=\"#ff0000\">depende del</font> resultado de las negociaciones.", 
                                 "人質[ひとじち]の 運命[うんめい]はその 交渉[こうしょう]の 結果[けっか]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -19307,7 +19307,7 @@
                             "data": "", 
                             "fields": [
                                 "国家の繁栄は主としてその青年＿＿＿。", 
-                                "La prosperidad de una nación depende en gran parte de su juventud.", 
+                                "La prosperidad de una nación <font color=\"#ff0000\">depende</font> en gran parte <font color=\"#ff0000\">de</font> su juventud.", 
                                 "国家[こっか]の 繁栄[はんえい]は 主[しゅ]としてその 青年[せいねん]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -19790,7 +19790,7 @@
                             "data": "", 
                             "fields": [
                                 "泣き虫は大嫌い。情けない＿＿＿。", 
-                                "Odio la gente llorona. No se puede ser tan patético.", 
+                                "Odio la gente llorona. <font color=\"#ff0000\">No se puede</font> ser tan patético.", 
                                 "泣き虫[なきむし]は 大嫌[だいきら]い。 情[なさ]けない<font color=\"#ff0000\">にも 程[ほど]が 有[あ]る</font>。", 
                                 "にも程が有る"
                             ], 
@@ -25803,9 +25803,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "大水のため、多勢の人は避難書での生活＿＿＿。", 
+                                "大水のため、多勢の人は避難所での生活＿＿＿。", 
                                 "A muchas personas <font color=\"#ff0000\">no les queda otra alternativa que</font> vivir en refugios debido a las inundaciones.", 
-                                "大水[おおみず]のため、 多勢[たぜい]の 人[ひと]は 避難[ひなん] 書[しょ]での 生活[せいかつ]<font color=\"#ff0000\">を 余儀[よぎ]なくされている</font>。", 
+                                "大水[おおみず]のため、 多勢[たぜい]の 人[ひと]は 避難[ひなん] 所[じょ]での 生活[せいかつ]<font color=\"#ff0000\">を 余儀[よぎ]なくされている</font>。", 
                                 "を余儀なくされている"
                             ], 
                             "flags": 0, 
