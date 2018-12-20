@@ -14104,7 +14104,7 @@
                             "data": "", 
                             "fields": [
                                 "このドアは＿＿＿閉まらない。", 
-                                "Esta puerta no se cierra.", 
+                                "Esta puerta no se cierra <font color=\"#ff0000\">para nada</font>.", 
                                 "このドアは<font color=\"#ff0000\">どうにも</font> 閉[し]まらない。", 
                                 "どうにも"
                             ], 
@@ -14116,6 +14116,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
+                                "tatoeba", 
                                 "どうにも～ない"
                             ]
                         }, 
@@ -19991,7 +19992,7 @@
                             "data": "", 
                             "fields": [
                                 "トムはいまや以前＿＿＿勤勉に働いている。", 
-                                "Tom trabaja aún más diligentemente que antes.", 
+                                "Tom trabaja <font color=\"#ff0000\">aún más</font> diligentemente <font color=\"#ff0000\">que</font> antes.", 
                                 "トムはいまや 以前[いぜん]<font color=\"#ff0000\">にもまして</font> 勤勉[きんべん]に 働[はたら]いている。", 
                                 "にもまして"
                             ], 
@@ -20159,7 +20160,7 @@
                             "data": "", 
                             "fields": [
                                 "大学の規則＿＿＿振る舞わなければならない。", 
-                                "Uno debe comportarse cumpliendo con las relgas de la universidad.", 
+                                "Uno debe comportarse <font color=\"#ff0000\">cumpliendo con</font> las relgas de la universidad.", 
                                 "大学[だいがく]の 規則[きそく]<font color=\"#ff0000\">に 則[のっと]って</font> 振る舞[ふるま]わなければならない。", 
                                 "に則って"
                             ], 
