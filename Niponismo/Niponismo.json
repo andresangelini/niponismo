@@ -8197,7 +8197,7 @@
                             "data": "", 
                             "fields": [
                                 "今水が出るかどうか確かめる為、＿＿＿蛇口を回しましょう。", 
-                                "Para ver si ahora sale el agua o no, probemos abrir la canilla.", 
+                                "Para ver si ahora sale el agua o no, <font color=\"#ff0000\">probemos</font> abrir la canilla.", 
                                 "今[こん] 水[みず]が 出[で]るかどうか 確[たし]かめる 為[ため]、<font color=\"#ff0000\">ひとつ</font>蛇口[じゃぐち]を 回[まわ]しましょう。", 
                                 "ひとつ"
                             ], 
@@ -11254,7 +11254,7 @@
                             "data": "", 
                             "fields": [
                                 "教えられる＿＿＿できるようになる。", 
-                                "Ellos logran hacerlo sin que se les enseñe.", 
+                                "Ellos logran hacerlo <font color=\"#ff0000\">sin</font> que se les enseñe.", 
                                 "教[おし]えられる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ことなしに</font></span>できるようになる。", 
                                 "ことなしに"
                             ], 
@@ -12893,7 +12893,7 @@
                             "data": "", 
                             "fields": [
                                 "知ってるのであれ＿＿＿、教えてくれてもいい＿＿＿。", 
-                                "¡Si sabías, me hubieras dicho!", 
+                                "¡<font color=\"#ff0000\">Si</font> sabías, me <font color=\"#ff0000\">hubieras</font> dicho!", 
                                 "知[し]ってるのであれ<font color=\"#ff0000\">ば</font>、 教[おし]えてくれてもいい<font color=\"#ff0000\">ものを</font>。", 
                                 "ば～ものを"
                             ], 
@@ -13187,7 +13187,7 @@
                             "data": "", 
                             "fields": [
                                 "君は彼を死んだ＿＿＿あきらめなければなりません。", 
-                                "Tenés que darlo por muerto.", 
+                                "Tenés que <font color=\"#ff0000\">darlo por</font> muerto.", 
                                 "君[きみ]は 彼[かれ]を 死[し]んだ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ものとして</font></span>あきらめなければなりません。", 
                                 "ものとして"
                             ], 
@@ -16798,7 +16798,7 @@
                             "data": "", 
                             "fields": [
                                 "あの奴がどんなに怪しい＿＿＿、取り敢えず付き添わせて上げるしかない。", 
-                                "Aun siendo sospechoso, no nos queda otra que dejar que ese tipo nos acompañe.", 
+                                "<font color=\"#ff0000\">Aun</font> siendo sospechoso, no nos queda otra que dejar que ese tipo nos acompañe.", 
                                 "あの 奴[やつ]がどんなに 怪[あや]しい<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>、 取り敢[とりあ]えず 付き添[つきそ]わせて 上[あ]げるしかない。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
@@ -18858,7 +18858,7 @@
                             "data": "", 
                             "fields": [
                                 "長男の部屋は綺麗＿＿＿、次男のはいつも散らかってる。", 
-                                "Mientras que la habitación del mayor siempre está limpia, la de mi segundo hijo siempre está desordenada.", 
+                                "<font color=\"#ff0000\">Mientras que</font> la habitación del mayor siempre está limpia, la de mi segundo hijo siempre está desordenada.", 
                                 "長男[ちょうなん]の 部屋[へや]は 綺麗[きれい]<font color=\"#ff0000\">なのに 引き換[ひきか]え</font>、 次男[じなん]のはいつも 散[ち]らかってる。", 
                                 "なのに引き換え"
                             ], 
@@ -19215,7 +19215,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女＿＿＿その選手は未だ勝つ可能性がある。", 
-                                "Para ella ese jugador aún tiene posibilidades de ganar.", 
+                                "<font color=\"#ff0000\">Para</font> ella ese jugador aún tiene posibilidades de ganar.", 
                                 "彼女[かのじょ]<font color=\"#ff0000\">に 言[い]わせれば/から 言[い]わせれば</font>その 選手[せんしゅ]は 未[いま]だ 勝[か]つ 可能[かのう] 性[せい]がある。", 
                                 "に言わせれば/から言わせれば"
                             ], 
@@ -19320,7 +19320,7 @@
                             "data": "", 
                             "fields": [
                                 "私たちの成功は君の努力＿＿＿。", 
-                                "<div>Nuestro éxito depende de su esfuerzo.</div>", 
+                                "<div>Nuestro éxito <font color=\"#ff0000\">depende de</font> su esfuerzo.</div>", 
                                 "私[わたし]たちの 成功[せいこう]は 君[きみ]の 努力[どりょく]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -20265,7 +20265,7 @@
                             "data": "", 
                             "fields": [
                                 "彼が勝手に決めたルール＿＿＿働き続けない。", 
-                                "No podemos seguir trabajando cumpliendo las reglas que él decidió arbitrariamente.", 
+                                "No podemos seguir trabajando <font color=\"#ff0000\">cumpliendo</font> las reglas que él decidió arbitrariamente.", 
                                 "彼[かれ]が 勝手[かって]に 決[き]めたルール<font color=\"#ff0000\">に 則[のっと]って</font> 働[はたら]き 続[つづ]けない。", 
                                 "に則って"
                             ], 
@@ -20643,7 +20643,7 @@
                             "data": "", 
                             "fields": [
                                 "この国の総理大臣になる為、思想堅固＿＿＿高潔清廉の人間にならなければならない。", 
-                                "Para ser presidente de esta nación se debe ser una persona de principios, pureza y nobilidad.", 
+                                "Para ser presidente de esta nación se debe ser una persona de principios, pureza <font color=\"#ff0000\">y</font> nobilidad.", 
                                 "この 国[くに]の 総理[そうり] 大臣[だいじん]になる 為[ため]、 思想[しそう] 堅固[けんご]<font color=\"#ff0000\">にして</font> 高潔[こうけつ] 清廉[せいれん]の 人間[にんげん]にならなければならない。", 
                                 "にして"
                             ], 
@@ -20685,7 +20685,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の伝記は全くの事実＿＿＿書かれたものだ。", 
-                                "Su biografía va completamente de acuerdo con los hechos.", 
+                                "Su biografía va completamente <font color=\"#ff0000\">de acuerdo con</font> los hechos.", 
                                 "彼[かれ]の 伝記[でんき]は 全[まった]くの 事実[じじつ]<font color=\"#ff0000\">に 即[そく]して</font> 書[か]かれたものだ。", 
                                 "に即して"
                             ], 
@@ -20769,7 +20769,7 @@
                             "data": "", 
                             "fields": [
                                 "違反者は違反＿＿＿処分される。", 
-                                "Los infractores serán procesados conforme a infracción que cometieron.", 
+                                "Los infractores serán procesados <font color=\"#ff0000\">conforme a</font> infracción que cometieron.", 
                                 "違反[いはん] 者[しゃ]はどんな 違反[いはん]<font color=\"#ff0000\">に 即[そく]して</font> 処分[しょぶん]される。", 
                                 "に即して"
                             ], 
@@ -21873,7 +21873,7 @@
                             "data": "", 
                             "fields": [
                                 "両親＿＿＿姉も私の意見に反対である。", 
-                                "No sólo mis padres sino que también mi hermana mayor estaba en contra de lo que yo opinaba.", 
+                                "<font color=\"#ff0000\">No sólo</font> mis padres <font color=\"#ff0000\">sino que también</font> mi hermana mayor estaba en contra de lo que yo opinaba.", 
                                 "両親[りょうしん]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font> 姉[あね]も 私[わたし]の 意見[いけん]に 反対[はんたい]である。", 
                                 "だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか"
                             ], 
