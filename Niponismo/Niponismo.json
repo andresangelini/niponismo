@@ -1450,12 +1450,12 @@
                                 "未[いま]だに", 
                                 "いまだに", 
                                 "incluso ahora", 
-                                "Forma gramatical + acción.", 
-                                "Equivalente a &nbsp;今[いま]も. Significa \"aún\", \"incluso ahora\", \"aún ahora\" o \"hasta el día de hoy\".", 
-                                "彼女[かのじょ]がどうしてその 犯罪[はんざい]に 及[およ]んだかという 動機[どうき]については、＿＿＿よくわかりません。", 
-                                "Todavía no se sabe cuál fue el motivo de ella para cometer el crimen.", 
-                                "在留届[ざいりゅうとどけ]に 変更[へんこう]があったり、 ＿＿＿ 変更届[へんこうとどけ]を 提出[ていしゅつ]されていない 方[ほう]は、 至急[しきゅう] 提出[ていしゅつ] 頂[いただ]きますようお 願[おねが]いします。", 
-                                "Le solicitamos a aquellos que hayan tenido un cambio de domicilio y que aún no lo hayan informado, que por favor lo hagan a la brevedad.", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + acción", 
+                                "Equivalente a &nbsp;<font color=\"#ff0000\">今[いま]も</font>. Significa \"<font color=\"#ff0000\">aún</font>\", \"<font color=\"#ff0000\">incluso ahora</font>\", \"<font color=\"#ff0000\">aún ahora</font>\" o \"<font color=\"#ff0000\">hasta el día de hoy</font>\".<div><br /></div><div>彼女[かのじょ]がどうしてその 犯罪[はんざい]に 及[およ]んだかという 動機[どうき]については、<font color=\"#ff0000\">＿＿＿</font>よくわかりません。</div><div><i><font color=\"#ff0000\">Todavía</font> no se sabe cuál fue el motivo de ella para cometer el crimen</i>.</div><div><br /></div><div>在留届[ざいりゅうとどけ]に 変更[へんこう]があったり、 <font color=\"#ff0000\">＿＿＿</font> 変更届[へんこうとどけ]を 提出[ていしゅつ]されていない 方[ほう]は、 至急[しきゅう] 提出[ていしゅつ] 頂[いただ]きますようお 願[おねが]いします。</div><div><i>Le solicitamos a aquellos que hayan tenido un cambio de domicilio y que <font color=\"#ff0000\">aún</font> no lo hayan informado, que por favor lo hagan a la brevedad</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4201,7 +4201,7 @@
                                 "Verbo diccionario + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo verbal con o sin する + <font color=\"#ff0000\">＿＿＿</font></div>", 
                                 "Expresión cuyo uso es indicar que algo:<div><br /></div><div>- Es <font color=\"#ff0000\">suficiente</font>.</div><div><br /></div><div>皆<font color=\"#ff0000\">＿＿＿</font>食料はある。</div><div><i>Hay raciones <font color=\"#ff0000\">suficientes</font> para todos</i>.</div><div><br /></div><div>ドイツを旅行（する）<font color=\"#ff0000\">＿＿＿</font>貯金がない。</div><div><i>No tengo ahorros <font color=\"#ff0000\">suficientes</font> para viajar a Alemania</i>.</div><div><br /></div><div>- Es digno de confianza cuando se usa junto a &nbsp;信頼[しんらい], &nbsp;信[しん]じる o &nbsp;信用[しにょう].</div><div><i><br /></i></div><div>彼は信頼（する）<font color=\"#ff0000\">＿＿＿</font>友人です。</div><div><i>Él es un amigo <font color=\"#ff0000\">de confianza</font></i>.</div><div><br /></div><div><div>しかし、これは 信用[しんよう]（する）<font color=\"#ff0000\">＿＿＿</font>データーでしょうか。</div><div><i>Aún así, ¿es realmente <font color=\"#ff0000\">confiable</font> esta información?</i></div></div><div><br /></div><div>Si bien las dos versiones son válidas, <font color=\"#ff0000\">la más larga es la más usada</font> actualmente.</div><div><br /></div><div>Cuando su significado es \"<font color=\"#ff0000\">mercer</font>\", \"<font color=\"#ff0000\">valer la pena</font>\" o \"<font color=\"#ff0000\">ser digno de</font>\" y no está junto a ninguna de las palabras mencionadas anteriormente, entonces es más común usar <font color=\"#ff0000\">に 値[あたい]する</font> en su lugar.</div><div><br /></div><div>それは 一読[いちどく]（する）<font color=\"#ff0000\">に 値[あたい]する</font> 本[ほん]です。</div><div><i>Ese es un libro que <font color=\"#ff0000\">merece</font> una leída</i>.</div>", 
                                 "", 
-                                "Mitsuki tiene la habilidad suficiente.", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -5239,7 +5239,7 @@
                             "data": "", 
                             "fields": [
                                 "それについて＿＿＿彼に知らせておいてほしい。", 
-                                "Quiero que le dejen avisado sobre eso de antemano.", 
+                                "Quiero que le dejen avisado sobre eso <font color=\"#ff0000\">de antemano</font>.", 
                                 "それについて <font color=\"#ff0000\">予[あらかじ]め</font>&nbsp;彼[かれ]に 知[し]らせておいてほしい。", 
                                 "予め"
                             ], 
@@ -5250,6 +5250,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "予め"
                             ]
@@ -5743,7 +5744,7 @@
                             "data": "", 
                             "fields": [
                                 "お客様を脅迫して契約をサインさせるとは、銀行員として許す＿＿＿行為である。", 
-                                "<span style=\"font-family: 'Liberation Sans'\">Es imperdonable que un empleado de banco ande amenazando y haciendo firmar contratos a los clientes.</span>", 
+                                "<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">Es imperdonable</font> que un empleado de banco ande amenazando y haciendo firmar contratos a los clientes.</span>", 
                                 "お 客様[きゃくさま]を 脅迫[きょうはく]して 契約[けいやく]をサインさせるとは、 銀行[ぎんこう] 員[いん]として 許[ゆる]す<font color=\"#ff0000\">まじき</font>&nbsp;行為[こうい]である。", 
                                 "まじき"
                             ], 
@@ -10272,7 +10273,7 @@
                             "data": "", 
                             "fields": [
                                 "来春結婚する孫が、結婚の報告＿＿＿婚約者を連れてやってきた。", 
-                                "Mi nieto, quien se casa en primavera, nos trajo a su prometida a propósito de anunciarnos su boda.", 
+                                "Mi nieto, quien se casa en primavera, nos trajo a su prometida <font color=\"#ff0000\">a propósito de</font> anunciarnos su boda.", 
                                 "来春[らいしゅん] 結婚[けっこん]する 孫[まご]が、 結婚[けっこん]の 報告[ほうこく]<font color=\"#ff0000\">かたがた</font> 婚約[こんやく] 者[しゃ]を 連[つ]れてやってきた。", 
                                 "かたがた"
                             ], 
@@ -10629,7 +10630,7 @@
                             "data": "", 
                             "fields": [
                                 "あの女のおしゃべりはまったく＿＿＿。", 
-                                "Esa mujer no para de hablar.", 
+                                "Esa mujer <font color=\"#ff0000\">no para</font> de hablar.", 
                                 "あの 女[おんな]のおしゃべりはまったく<font color=\"#ff0000\">きりがない</font>。", 
                                 "きりがない"
                             ], 
@@ -17491,7 +17492,7 @@
                             "data": "", 
                             "fields": [
                                 "サッカーが好きだと言えないけど、多少＿＿＿知っています。", 
-                                "Yo no diría que me gusta el fútbol pero por lo menos sé un poco.", 
+                                "Yo no diría que me gusta el fútbol pero <font color=\"#ff0000\">por lo menos</font> sé un poco.", 
                                 "サッカーが 好[す]きだと 言[い]えないけど、 多少[たしょう]<font color=\"#ff0000\">なりとも</font> 知[し]っています。", 
                                 "なりとも"
                             ], 
@@ -17596,7 +17597,7 @@
                             "data": "", 
                             "fields": [
                                 "そのドラマを多少＿＿＿見たことがありますか。", 
-                                "¿Haz visto al menos un poco de esa serie?", 
+                                "¿Haz visto <font color=\"#ff0000\">al menos</font> un poco de esa serie?", 
                                 "そのドラマを 多少[たしょう]<font color=\"#ff0000\">なりとも</font> 見[み]たことがありますか。", 
                                 "なりとも"
                             ], 
@@ -18753,7 +18754,7 @@
                             "data": "", 
                             "fields": [
                                 "去年の天気＿＿＿、今年はポカポカ暖かいです。", 
-                                "En contraste con el clima del año pasado, este año está bastante agradable.", 
+                                "<font color=\"#ff0000\">En contraste con</font> el clima del año pasado, este año está bastante agradable.", 
                                 "去年[きょねん]の 天気[てんき]<font color=\"#ff0000\">に 引[ひ]き 換[か]え</font>、 今年[ことし]はポカポカ 暖[あたた]かいです。", 
                                 "に引き換え"
                             ], 
@@ -19362,7 +19363,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>国家の繁栄は市民の手＿＿＿。</div>", 
-                                "La prosperidad de un país depende de sus ciudadanos.", 
+                                "La prosperidad de un país <font color=\"#ff0000\">depende de</font> sus ciudadanos.", 
                                 "国家[こっか]の 繁栄[はんえい]は 市民[しみん]の 手[て]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -20349,7 +20350,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は救急車＿＿＿被害者に応急手当をした。", 
-                                "Ella se anticipó a la ambulancia y le dió primeros auxilios a la víctima.", 
+                                "Ella <font color=\"#ff0000\">se anticipó</font> a la ambulancia y le dió primeros auxilios a la víctima.", 
                                 "彼女[かのじょ]は 救急[きゅうきゅう] 車[しゃ]<font color=\"#ff0000\">に 先駆[さきが]けて</font> 被害[ひがい] 者[しゃ]に 応急[おうきゅう] 手当[てあて]をした。", 
                                 "に先駆けて"
                             ], 
