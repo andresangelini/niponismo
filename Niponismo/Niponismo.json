@@ -4958,6 +4958,39 @@
                                 "Niponismo", 
                                 "をよそに"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "思いをする", 
+                                "思[おも]いをする", 
+                                "思いをする", 
+                                "sentirse / pasarla", 
+                                "Aい + <font color=\"#ff0000\">＿＿＿</font><div>Aな + な + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que indica cómo se siente o la pasa el sujeto.<div><br /></div><div>学校[がっこう]の 初日[しょにち]に 教室[きょうにち]を 間違[まちが]ってしまった。 本当[ほんとう]に 恥[は]ずかしい＿＿＿しました。</div><div><i>Me equivoqué de salón el primer día de clases. <font color=\"#ff0000\">Me sentí</font> realmente avergonzado</i>.</div><div><br /></div><div>Dicho sujeto puede ser tanto el locutor así como cualquier otra persona.</div><div><br /></div><div>辛[つら]い＿＿＿させてすまなかった。</div><div><i>Discúlpame por haberte hecho <font color=\"#ff0000\">sentir&nbsp;/ pasar</font> tan mal</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Or5{BcxroZ", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "思いをする"
+                            ]
                         }
                     ]
                 }, 
@@ -26001,6 +26034,153 @@
                                 "Niponismo", 
                                 "をよそに"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "旅行中楽しい＿＿＿。", 
+                                "<font color=\"#ff0000\">La pasé</font> muy bien en el viaje.", 
+                                "旅行[りょこう] 中[ちゅう] 楽[たの]しい <font color=\"#ff0000\">思[おも]いをした</font>。", 
+                                "思いをした"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HF&?[I%{3J", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "命が縮む＿＿＿。", 
+                                "<font color=\"#ff0000\">Sentí</font> como si se me hubiera acortado la vida.", 
+                                "命[いのち]が 縮[ちぢ]む <font color=\"#ff0000\">思[おも]いをした</font>。", 
+                                "思いをした"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L9qb8829?Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "母親は息子の行儀の悪さにきまりの悪い＿＿＿。", 
+                                "La madre <font color=\"#ff0000\">se sintió</font> avergonzada por la mala educación de su hijo.", 
+                                "母親[ははおや]は 息子[むすこ]の 行儀[ぎょうぎ]の 悪[わる]さにきまりの 悪[わる]い <font color=\"#ff0000\">思[おも]いをした</font>。", 
+                                "思いをした"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bJ-V|%IS-=", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "母親は、娘が離れて大学へ行っているのでさびしい＿＿＿。", 
+                                "La madre <font color=\"#ff0000\">se sintió</font> muy sola cuando su hija se fue a la universidad.", 
+                                "母親[ははおや]は、 娘[むすめ]が 離[はな]れて 大学[だいがく]へ 行[い]っているのでさびしい <font color=\"#ff0000\">思[おも]いをした</font>。", 
+                                "思いをした"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Jz0e<7LVj5", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は非常に恥ずかしい＿＿＿何もいえなかった。", 
+                                "Ella <font color=\"#ff0000\">se sintió</font> tan humillada que no podía decir ninguna cosa.", 
+                                "彼女[かのじょ]は 非常[ひじょう]に 恥[は]ずかしい <font color=\"#ff0000\">思[おも]いをさせられて</font> 何[なに]もいえなかった。", 
+                                "思いをさせられて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s.s?T6cmIB", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は陽気に振る舞おうとしたが、私達はみんな彼がどれほど悲しい＿＿＿かわかっていた。</div>", 
+                                "Él trató de mostrarse animado pero todos sabías lo triste que <font color=\"#ff0000\">se sentía</font>.", 
+                                "彼[かれ]は 陽気[ようき]に 振る舞[ふるま]おうとしたが、 私[わたし] 達[たち]はみんな 彼[かれ]がどれほど 悲[かな]しい <font color=\"#ff0000\">思[おも]いをしている</font>かわかっていた。", 
+                                "思いをしている"
+                            ], 
+                            "flags": 0, 
+                            "guid": "j`XVpWs0$j", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "戦争中は私たちは多くの辛い＿＿＿。", 
+                                "Nosotros <font color=\"#ff0000\">pasamos</font> muchas penurias durante la guerra.", 
+                                "戦争[せんそう] 中[ちゅう]は 私[わたし]たちは 多[おお]くの 辛[つら]い <font color=\"#ff0000\">思[おも]いをした</font>。", 
+                                "思いをした"
+                            ], 
+                            "flags": 0, 
+                            "guid": "A/iF=XD^[5", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "思いをする"
+                            ]
                         }
                     ]
                 }
@@ -26128,12 +26308,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "をよそに"
+                "Oración", 
+                "tatoeba", 
+                "思いをする"
             ], 
             "tmpls": [
                 {
@@ -26337,7 +26517,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "をよそに"
+                "思いをする"
             ], 
             "tmpls": [
                 {
