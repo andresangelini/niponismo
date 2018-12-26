@@ -13324,7 +13324,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女はフランス語は言うに及ばず母語＿＿＿ろくに話せない。", 
-                                "Ni siquiera habla bien su propio idioma, ni que hablar de francés.", 
+                                "<font color=\"#ff0000\">Ni siquiera</font> habla bien su propio idioma, ni que hablar de francés.", 
                                 "彼女[かのじょ]は フランス語[ふらんすご]は 言[い]うに 及[およ]ばず 母語[ぼご]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（で/に）さえ（も）/（で/に）すら（も）</font></span>ろくに 話[はな]せない。", 
                                 "（で/に）さえ（も）/（で/に）すら（も）"
                             ], 
@@ -16706,7 +16706,7 @@
                             "data": "", 
                             "fields": [
                                 "ファンは、有名人と出くわす＿＿＿、彼にサインを求めた。", 
-                                "Fue apenas encontrarse con la celebridad y los fans le pidieron un autógrafo.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> encontrarse con la celebridad y los fans le pidieron un autógrafo.", 
                                 "ファンは、 有名人[ゆうめいじん]と 出[で]くわす<font color=\"#ff0000\">なり</font>、 彼[かれ]にサインを 求[もと]めた。", 
                                 "なり"
                             ], 
@@ -17588,7 +17588,7 @@
                             "data": "", 
                             "fields": [
                                 "久しぶりに彼女はわずか＿＿＿笑っていました。", 
-                                "Ella se rió al menos un poco después mucho tiempo.", 
+                                "Ella se rió <font color=\"#ff0000\">al menos</font> un poco después mucho tiempo.", 
                                 "久[ひさ]しぶりに 彼女[かのじょ]はわずか<font color=\"#ff0000\">なりとも</font> 笑[わら]っていました。", 
                                 "なりとも"
                             ], 
@@ -18808,7 +18808,7 @@
                             "data": "", 
                             "fields": [
                                 "母＿＿＿、父は静かな人です。", 
-                                "En contraste con mi madre, mi padre es una persona tranquila.", 
+                                "<font color=\"#ff0000\">En contraste con</font> mi madre, mi padre es una persona tranquila.", 
                                 "母[はは]に <font color=\"#ff0000\">引き換[ひきか]え</font>、 父[ちち]は 静[しず]かな 人[ひと]です。", 
                                 "に引き換え"
                             ], 
@@ -19039,7 +19039,7 @@
                             "data": "", 
                             "fields": [
                                 "私の生徒は科学から文学＿＿＿信じられないくらい上手です。", 
-                                "Mis alumnos dominan increíblemente bien desde matemáticas hasta literatura.", 
+                                "Mis alumnos dominan increíblemente bien desde matemáticas <font color=\"#ff0000\">hasta</font> literatura.", 
                                 "私[わたし]の 生徒[せいと]は 科学[かがく]から 文学[ぶんがく]<font color=\"#ff0000\">に 至[いた]るまで</font> 信[しん]じられないくらい 上手[じょうず]です。", 
                                 "に至るまで"
                             ], 
@@ -19060,7 +19060,7 @@
                             "data": "", 
                             "fields": [
                                 "ファイルを保存しなかったので、今＿＿＿のすべてしたことは失くしてしまいました。", 
-                                "No había guardado el archivo así que perdí todo lo que hice hasta ahora inclusive.", 
+                                "No había guardado el archivo así que perdí todo lo que hice <font color=\"#ff0000\">hasta</font> ahora <font color=\"#ff0000\">inclusive</font>.", 
                                 "ファイルを 保存[ほぞん]しなかったので、 今[いま]<font color=\"#ff0000\">に 至[いた]るまで</font>のすべてしたことは 失[しつ]くしてしまいました。", 
                                 "に至るまで"
                             ], 
@@ -20404,7 +20404,7 @@
                             "data": "", 
                             "fields": [
                                 "その選手は相手＿＿＿ボールをキャッチした。", 
-                                "El jugador se anticipó a su rival deteniendo la pelota.", 
+                                "El jugador <font color=\"#ff0000\">se anticipó a</font> su rival deteniendo la pelota.", 
                                 "その 選手[せんしゅ]は 相手[あいて]<font color=\"#ff0000\">に 先駆[さきが]けて</font>ボールをキャッチした。", 
                                 "に先駆けて"
                             ], 
