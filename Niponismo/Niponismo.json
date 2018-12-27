@@ -4991,6 +4991,40 @@
                                 "Niponismo", 
                                 "思いをする"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "折（に）", 
+                                "折[おり]（に）", 
+                                "おり（に）", 
+                                "cuando / oportunidad", 
+                                "Sustantivo &nbsp;+ の + <font color=\"#ff0000\">＿＿＿</font><div>V + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい + <font color=\"#ff0000\">＿＿＿</font></div><div>Aな + な +&nbsp;<font color=\"#ff0000\">＿＿＿</font></div><div>その/この + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que indica una <font color=\"#ff0000\">ocasión especial favorable</font> para el sujeto del cual éste se aprovecha o se espera que se aproveche.<div><br /></div><div>Puede usarse junto a <font color=\"#ff0000\">sustantivos</font> agregando la partícula <font color=\"#ff0000\">の</font>.</div><div><br /></div><div><div>今度[こんど] 東京[とうきょう]においでの<font color=\"#ff0000\">＿＿＿</font>はお 立[た]ち 寄[よ]りください。</div></div><div><i>Visítenos la próxima <font color=\"#ff0000\">oportunidad</font> que tenga de venir a Tokio</i>.</div><div><br /></div><div>Cuando se usa con un&nbsp;<font color=\"#ff0000\">verbo</font>,&nbsp;éste debe ir en <font color=\"#ff0000\">infinitivo</font> si la acción acurre <font color=\"#ff0000\">antes</font> de la ocasión en cuestión.</div><div><br /></div><div>ロンドンに 行[い]く<font color=\"#ff0000\">＿＿＿&nbsp;</font>先生[せんせい]に 挨拶[あいさつ]をするつもりだ。</div><div><i>Pienso saludar al profesor <font color=\"#ff0000\">cuando vaya a (antes de partir)</font> ir a Londres</i>.</div><div><br /></div><div>O en <font color=\"#ff0000\">pasado simple た</font> si la acción ocurre <font color=\"#ff0000\">después</font>.</div><div><br /></div><div>ロンドンに 行[い]った<font color=\"#ff0000\">＿＿＿&nbsp;</font>先生[せんせい]に 挨拶[あいさつ]をするつもりだ。</div><div><i>Pienso saludar al profesor <font color=\"#ff0000\">cuando vaya a (después de llegar)</font> Londres</i>.</div><div><br /></div><div>Con <font color=\"#ff0000\">adjetivos い</font>, éste debe ir en <font color=\"#ff0000\">forma infinitiva</font>.</div><div><br /></div><div>寂[さび]しさの 厳[きび]しい<font color=\"#ff0000\">＿＿＿</font>、 是非[ぜひ] 私達[わたしたち]にお 頼[たよ]り 下[く]さい。</div><div><i><font color=\"#ff0000\">Cuando</font> se sienta realmente sólo, cuente con nosotros, por favor</i>.</div><div><br /></div><div>Por su parte, los <font color=\"#ff0000\">adjetivos な</font> tienen que usarse junto a <font color=\"#ff0000\">な</font>.</div><div><br /></div><div>先生[せんせい]が 必要[ひつよう]な<font color=\"#ff0000\">＿＿＿</font>そのドアをノックしてください。</div><div><i><font color=\"#ff0000\">Cuando</font> necesites a la profesora llama a esa puerta</i>.</div><div><br /></div><div>Por último, <font color=\"#ff0000\">esta expresión es un sustantivo</font> que puede usarse independientemente junto a <font color=\"#ff0000\">その</font> y <font color=\"#ff0000\">この</font>.</div><div><br /></div><div>私[わたし]は 転勤[てんきん]させられることになった。その＿＿＿ 引[ひ]っ 越[こ]せればいいと 思[おも]った。</div><div><i>En mi compañía habían decidido transferirme. En esa <font color=\"#ff0000\">oportunidad</font> pensé que quizás sería bueno mudarme</i>.</div><div><br /></div><div>A diferencia de <font color=\"#ff0000\">時</font>, esta expresión sólo puede ser usada si la ocasión es <font color=\"#ff0000\">ventajosa</font> o <font color=\"#ff0000\">provechosa</font> para el sujeto.</div><div><br /></div><div>日本[にほん]に 行[い]った<font color=\"#ff0000\">＿＿＿×/ 時[とき]</font>&nbsp;地震[じしん]があった。</div><div><i>Hubo un terremoto <font color=\"#ff0000\">cuando</font> fui a Japón</i>.</div><div><br /></div><div>Al hacer referencia a una ocasión especial, tampoco se puede usar con <font color=\"#ff0000\">acciones rutinarias</font>.</div><div><br /></div><div>友達[ともだち]と 会[あ]う<font color=\"#ff0000\">＿＿＿×/ 時[とき]</font> 何時[いつ]もの 場所[ばしょ]に 行[い]く。</div><div><i><font color=\"#ff0000\">Cuando</font> nos reunimos con los amigos vamos al lugar de siempre</i>.</div><div><br /></div><div>Tampoco se puede usar para eventos que <font color=\"#ff0000\">no estén relacionados</font>.</div><div><br /></div><div>ジョギングをしていた<font color=\"#ff0000\">＿＿＿×/ 時[とき]</font> 雨[あめ]が 急[きゅう]に 降[ふ]り 始[はじ]めた。</div><div><i><font color=\"#ff0000\">Cuando</font> estaba trotando comenzó a llover de repente</i>.</div><div><br /></div><div>Así como tampoco para <font color=\"#ff0000\">momentos breves de tiempo</font>.</div><div><br /></div><div>お 母[おかあ]さんがドアを 開[あ]けた<font color=\"#ff0000\">＿＿＿×/ 時[とき]/ 瞬間[しゅんかん]</font> 黒猫[くろねこ]が 飛[と]び 出[で]た。</div><div><i>Un gato negró salió de un salto <font color=\"#ff0000\">en el momento</font> en que mi madre abrió la puerta</i>.</div><div><br /></div><div>Esta expresión puede usarse también como <font color=\"#ff0000\">razón</font> para una acción, en cuyo caso <font color=\"#ff0000\">に</font> debe ser reemplazada por <font color=\"#ff0000\">から</font>.</div><div><br /></div><div>今度[こんど]の 試験[しけん]は 難[むずか]しい<font color=\"#ff0000\">＿＿＿から</font>、よく 注意[ちゅうい]してください。</div><div><i>Tengan mucho cuidado <font color=\"#ff0000\">ahora que</font> estos exámenes están difíciles</i>.</div><div><br /></div><div>Se debe recordar que puede equivaler a &nbsp;<font color=\"#ff0000\">機会[きかい]</font> y cuando eso suceda es tratado como cualquier otro sustantivo.</div><div><br /></div><div><font color=\"#ff0000\">＿＿＿/ 機会[きかい]</font>を 見[み]てジャックに 伝[つた]えておこう。</div><div><i>Buscaré la <font color=\"#ff0000\">oportunidad</font> para dejarle dicho a Jack</i>.</div><div><br /></div><div>それをする<font color=\"#ff0000\">＿＿＿/ 機会[きかい]</font>がなかった。</div><div><i>No tuve la <font color=\"#ff0000\">oportunidad</font> de hacer eso</i>.</div><div><br /></div><div>Se diferencia de &nbsp;<font color=\"#ff0000\">際[さい]</font> en que la ocasión debe ser <font color=\"#ff0000\">provechosa</font>,&nbsp;<font color=\"#ff0000\">no momentaria</font> y que además puede ser una <font color=\"#ff0000\">razón</font> para una determinada acción.</div><div><br /></div><div>そのホテルに 泊[と]まった<font color=\"#ff0000\">＿＿＿×/ 際[さい]</font> 泥棒[どろぼう]があった。</div><div><i>Hubo un robo <font color=\"#ff0000\">cuando</font> me hospedé en ese hotel</i>.</div><div><br /></div><div>Puede ser reemplazada por &nbsp;<font color=\"#ff0000\">節[せつ]（に</font>） siempre y cuando el <font color=\"#ff0000\">sujeto sea el lector u oyente</font>.</div><div><br /></div><div><div>今度[こんど] 東京[とうきょう]においでの<font color=\"#ff0000\">＿＿＿/節（に）</font>はお 立[た]ち 寄[よ]りください。</div><div><i>Visítenos la próxima&nbsp;<font color=\"#ff0000\">oportunidad</font>&nbsp;que tenga de venir a Tokio</i>.</div></div><div><br /></div><div>Y tampoco<font color=\"#ff0000\">&nbsp;sea precedida por una frase</font>.</div><div><br /></div><div>町[まち]にいらっしゃる<font color=\"#ff0000\">＿＿＿/ 時[とき]/ 節[せつ]×</font>ご 連絡[れんらく] 下[くだ]さい。</div><div><i>Contáctenos cuando tenga la <font color=\"#ff0000\">oportunidad</font> de venir al pueblo</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "C:|7JcD};Q", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "折（に）"
+                            ]
                         }
                     ]
                 }, 
@@ -26518,7 +26552,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "思いをする"
+                "折（に）"
             ], 
             "tmpls": [
                 {
