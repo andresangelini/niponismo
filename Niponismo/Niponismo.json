@@ -14810,7 +14810,7 @@
                             "data": "", 
                             "fields": [
                                 "「ちがうちがう僕らは求めてる笑顔はあんなじゃない」。それは『嗤い』＿＿＿『嘲笑』。", 
-                                "¡No, no! Esa no es la cara que estamos buscando. Tiene que ser una cara de mofa o sonrisa burlona.", 
+                                "¡No, no! Esa no es la cara que estamos buscando. Tiene que ser una cara de mofa <font color=\"#ff0000\">o</font> sonrisa burlona.", 
                                 "「ちがうちがう 僕[ぼく]らは 求[もと]めてる 笑顔[えがお]はあんなじゃない」。それは『 嗤[わら]い』<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">もしくは</font></span>『 嘲笑[ちょうしょう]』。", 
                                 "もしくは"
                             ], 
@@ -15874,6 +15874,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "leech", 
                                 "ないものでもない"
                             ]
                         }, 
@@ -15987,7 +15988,7 @@
                             "data": "", 
                             "fields": [
                                 "試験の日に、風邪をひか＿＿＿。", 
-                                "Nadie dice que no vayas a pescar un resfriado el día del examen.", 
+                                "<font color=\"#ff0000\">Nadie dice que no</font> vayas a pescar un resfriado el día del examen.", 
                                 "試験[しけん]の 日[ひ]に、 風邪[かぜ]をひか<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないとは 限[かぎ]らない/ないとも 限[かぎ]らない</font></span>。", 
                                 "ないとは限らない/ないとも限らない"
                             ], 
@@ -20446,7 +20447,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らは同僚＿＿＿パーティーの準備を始めることにした。", 
-                                "Ellos decidieron anticiparse a sus compañeros y empezar con los preparativos de la fiesta.", 
+                                "Ellos decidieron <font color=\"#ff0000\">anticiparse a</font> sus compañeros y empezar con los preparativos de la fiesta.", 
                                 "彼[かれ]らは 同僚[どうりょう]<font color=\"#ff0000\">に 先駆[さきが]けて</font>パーティーの 準備[じゅんび]を 始[はじ]めることにした。", 
                                 "に先駆けて"
                             ], 
@@ -20572,7 +20573,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は有名な歌手＿＿＿優れた俳優である。", 
-                                "Ella es una cantante famosa y una excelente actriz.", 
+                                "Ella es una cantante famosa <font color=\"#ff0000\">y</font> una excelente actriz.", 
                                 "彼女[かのじょ]は 有名[ゆうめい]な 歌手[かしゅ]<font color=\"#ff0000\">にして</font> 優[すぐ]れた 俳優[はいゆう]である。", 
                                 "にして"
                             ], 
