@@ -8664,7 +8664,7 @@
                             "fields": [
                                 "私は彼を裏切るよりはむしろ餓死する＿＿＿。", 
                                 "Preferiría morir de hambre antes que traicionarlo.", 
-                                "私[わたし]は 彼[かれ]を 裏切[うらぎ]るよりはむしろ 餓死[がし]する&nbsp;<span style=\"color: rgb(0, 0, 255)\">方[ほう]が 増[ま]しだ</span>。", 
+                                "私[わたし]は 彼[かれ]を 裏切[うらぎ]るよりはむしろ 餓死[がし]する&nbsp;<font color=\"#ff0000\">方[ほう]が 増[ま]しだ</font>。", 
                                 "方が増しだ"
                             ], 
                             "flags": 0, 
@@ -14439,10 +14439,10 @@
                             "guid": "j]!hLTyiCq", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Oración", 
                                 "jgram", 
                                 "（の）いかんで（は）/（の）いかんによって（は）"
                             ]
@@ -14607,10 +14607,10 @@
                             "guid": "eV}E&tV[UF", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Oración", 
                                 "tatoeba", 
                                 "まま（に）"
                             ]
@@ -16287,11 +16287,11 @@
                             "guid": "zy~{PB2HL&", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -16308,11 +16308,11 @@
                             "guid": "&C`0d00ZQ", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -16329,11 +16329,11 @@
                             "guid": "iTCy.yz6`$", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -16350,11 +16350,11 @@
                             "guid": "i/AV0BL&fX", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ]
                         }, 
@@ -18809,7 +18809,7 @@
                             "guid": "w5MgbQM.|i", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18830,7 +18830,7 @@
                             "guid": "PIYge4pj6A", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18851,7 +18851,7 @@
                             "guid": "cB0}Ri8D}<", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18872,7 +18872,7 @@
                             "guid": "k&0^e.x8ox", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18893,7 +18893,7 @@
                             "guid": "H0L3g[1.G8", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18914,7 +18914,7 @@
                             "guid": "KUL$vlJGi_", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18935,7 +18935,7 @@
                             "guid": "H&#F&:]q<X", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18956,7 +18956,7 @@
                             "guid": "s.2~5Q=WmR", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18977,7 +18977,7 @@
                             "guid": "KuzBc!rj=+", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -18998,7 +18998,7 @@
                             "guid": "ZC=;^pwRD", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -21460,7 +21460,7 @@
                             "guid": "H@[/r1h2`0", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
@@ -21481,7 +21481,7 @@
                             "guid": "dIml<0,bV-", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
@@ -21502,6 +21502,7 @@
                             "guid": "gh(|O[/A5P", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
@@ -21522,6 +21523,7 @@
                             "guid": "F*$+9C6@$u", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
@@ -21542,7 +21544,7 @@
                             "guid": "Em#0=xSJ{C", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -21563,7 +21565,7 @@
                             "guid": "DS01[QL#y}", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -21584,7 +21586,7 @@
                             "guid": "Qd6{wZ+JOt", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -21605,7 +21607,7 @@
                             "guid": "o/g`O5tK-a", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -21626,7 +21628,7 @@
                             "guid": "p{;=:oXd!;", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -21647,7 +21649,7 @@
                             "guid": "sacGv}!4Cl", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -22318,6 +22320,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
@@ -22338,6 +22341,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Oración", 
                                 "tatoeba", 
@@ -22357,9 +22361,10 @@
                             "guid": "P~x+0qj1|&", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
+                                "Oración", 
                                 "tatoeba", 
                                 "に（は）及ばない"
                             ]
@@ -22377,10 +22382,11 @@
                             "guid": "uy0J$7aHJe", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "tatoeba", 
                                 "に（は）及ばない"
                             ]
@@ -22398,10 +22404,11 @@
                             "guid": "pv^B}V0{VD", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "tatoeba", 
                                 "に（は）及ばない"
                             ]
@@ -22419,10 +22426,11 @@
                             "guid": "C&DMv18jV%", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "tatoeba", 
                                 "に（は）及ばない"
                             ]
@@ -22440,10 +22448,11 @@
                             "guid": "exr@GZ9Cos", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "tatoeba", 
                                 "に（は）及ばない"
                             ]
@@ -22461,10 +22470,11 @@
                             "guid": "G`-B@8VLC0", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "tatoeba", 
                                 "に（は）及ばない"
                             ]
@@ -22897,11 +22907,11 @@
                             "guid": "v$`+>]*}~M", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "んがため"
                             ]
                         }, 
@@ -23086,6 +23096,7 @@
                             "guid": "C8btR<N9GQ", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23149,7 +23160,7 @@
                             "guid": "B9a]g}Y%lC", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23171,7 +23182,7 @@
                             "guid": "zL&-3O&1=F", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23193,7 +23204,7 @@
                             "guid": "CPC7#]lT^C", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23215,7 +23226,7 @@
                             "guid": "d,jAi%Gp<;", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23237,7 +23248,7 @@
                             "guid": "EAUBBE6qn6", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23259,7 +23270,7 @@
                             "guid": "y0;i{t[ZjV", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23281,7 +23292,7 @@
                             "guid": "jPjX`ZSdrt", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23303,7 +23314,7 @@
                             "guid": "I)9A(o2JfU", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
+                                "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
@@ -23506,39 +23517,6 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "のみか", 
-                                "のみか", 
-                                "のみか", 
-                                "no sólo (...sino que también)", 
-                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo", 
-                                "Expresión formal que se utiliza para <font color=\"#ff0000\">agregar</font> algo más a lo mencionado.<div><br /></div><div>その 事故[じこ]で 家族[かぞく]＿＿＿ 親友[しんゆう]も 失[うしな]った。</div><div><i><font color=\"#ff0000\">No sólo</font> perdí a mi familia en ese accidente, <font color=\"#ff0000\">sino que también</font> a mi mejor amigo</i>.</div><div><br /></div><div>Es sinónimo de だけで（は）なく, （だけ/である）にとどまらず y のみならず pero <font color=\"#ff0000\">sólo se puede usar</font> con <font color=\"#ff0000\">sustantivos</font>.</div><div><br /></div><div>そのお客さんは文句を言う<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0);\">❌/だけで（は）なく/（だけ）にとどまらず/のみならず</span>一つの店員に殴ったそうだ。</div><div><i>El cliente <font color=\"#ff0000\">no sólo</font> se quejó, <font color=\"#ff0000\">sino que también</font> le pegó a uno de los empleados de la tienda</i>.</div>", 
-                                "", 
-                                "", 
-                                "", 
-                                "", 
-                                "", 
-                                "", 
-                                "", 
-                                "", 
-                                "", 
-                                ""
-                            ], 
-                            "flags": 0, 
-                            "guid": "r{b|qlCoT}", 
-                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Niponismo", 
-                                "のみか"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
                                 "<!--anki-->その訴訟の結果は社長の名＿＿＿、会社のも汚された。", 
                                 "A consecuencia de ese litigio, <font color=\"#ff0000\">no sólo</font> ensució la reputación del presidente, <font color=\"#ff0000\">sino que también</font> el de la compañía.", 
                                 "その 訴訟[そしょう]の 結果[けっか]は 社長[しゃちょう]の 名[な]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font>、 会社[かいしゃ]のも 汚[よご]された。", 
@@ -23635,11 +23613,11 @@
                             "guid": "dIA?%&ujgK", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "のなんの（って）"
                             ]
                         }, 
@@ -25454,6 +25432,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
@@ -25475,6 +25454,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
@@ -25496,6 +25476,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
@@ -25517,6 +25498,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
@@ -25538,6 +25520,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
@@ -25559,6 +25542,7 @@
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
                                 "Gramática", 
+                                "Japonés", 
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
@@ -25957,11 +25941,11 @@
                             "guid": "OzuIX#T7OX", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "をよそに"
                             ]
                         }, 
@@ -25978,11 +25962,11 @@
                             "guid": "i<[ON5wW*|", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "をよそに"
                             ]
                         }, 
@@ -25999,11 +25983,11 @@
                             "guid": "gf4aHnA?7Y", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "をよそに"
                             ]
                         }, 
@@ -26020,11 +26004,11 @@
                             "guid": "H=OHi`S?b8", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "をよそに"
                             ]
                         }, 
@@ -26041,11 +26025,11 @@
                             "guid": "oFgZlg3O}9", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "をよそに"
                             ]
                         }, 
@@ -26062,11 +26046,11 @@
                             "guid": "d$#|12`dwz", 
                             "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
                             "tags": [
-                                "Definición", 
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "Oración", 
                                 "をよそに"
                             ]
                         }, 
@@ -26216,6 +26200,217 @@
                                 "tatoeba", 
                                 "思いをする"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お暇＿＿＿はぜひ遊びに来てください。", 
+                                "Visítenos <font color=\"#ff0000\">cuando</font> esté libre.", 
+                                "お 暇[ひま]<font color=\"#ff0000\">の 折[おり]に/の 節[せつ]に</font>はぜひ 遊[あそ]びに 来[き]てください。", 
+                                "の折に/の節に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v5=/]c)K<,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "折（に）", 
+                                "節に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あなたはちょうどよい＿＿＿来た。", 
+                                "Has venido en un momento <font color=\"#ff0000\">oportuno</font>.", 
+                                "あなたはちょうどよい <font color=\"#ff0000\">折[おり]に</font> 来[き]た。", 
+                                "折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HFN`YoJ}]-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "病院で診察を受ける＿＿＿それも聞くのを覚えておきましょう。", 
+                                "Recuerde también preguntarse sobre eso <font color=\"#ff0000\">cuando vayan a</font> examinarlo en el hospital.", 
+                                "病院[びょういん]で 診察[しんさつ]を 受[う]ける <font color=\"#ff0000\">折[おり]に</font>それも 聞[き]くのを 覚[おぼ]えておきましょう。", 
+                                "折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NEo%d:Ku:a", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本に行った＿＿＿清水寺を訪ねるつもりだ。", 
+                                "<font color=\"#ff0000\">Cuando</font> vaya a Japón tengo planeado visitar Kiyomizu-dera.", 
+                                "日本[にっぽん]に 行[い]った <font color=\"#ff0000\">折[おり]に</font> 清水寺[きよみずでら]を 訪[たず]ねるつもりだ。", 
+                                "折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nP_MH/IBZJ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "困難＿＿＿かならず私達を連絡してください。", 
+                                "No dude en contactarnos en un <font color=\"#ff0000\">momento</font> de dificultad.", 
+                                "困難[こんなん]<font color=\"#ff0000\">の 折[おり]に/の 節[せつ]に</font>かならず 私[わたし] 達[たち]を 連絡[れんらく]してください。", 
+                                "の折に/の節に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "t$hri]4S$N", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "状況が危険＿＿＿警察を呼んで下さい。", 
+                                "Llamé a la policía <font color=\"#ff0000\">cuando</font> la situación sea peligrosa.", 
+                                "状況[じょうきょう]が 危険[きけん]<font color=\"#ff0000\">な 折[おり]に</font> 警察[けいさつ]を 呼[よ]んで 下[くだ]さい。", 
+                                "な折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s;A^WaD(og", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "問題が難しい＿＿＿兄の助けを頼んでみる。", 
+                                "Intentaré pedirle ayuda a mi hermano mayor <font color=\"#ff0000\">cuando</font> un ejericio se ponga difícil.", 
+                                "問題[もんだい]が 難[むずか]しい <font color=\"#ff0000\">折[おり]に</font> 兄[あに]の 助[たす]けを 頼[たの]んでみる。", 
+                                "折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hz6D$WpaJL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "会社でお客さんのオーダーが少なくなった＿＿＿、有給を取ることにしました。", 
+                                "Como era un <font color=\"#ff0000\">momento</font> en el que la empresa recibía menos pedidos de los clientes decidí tomar mis vacaciones pagas.", 
+                                "会社[かいしゃ]でお 客[きゃく]さんのオーダーが 少[すく]なくなった <font color=\"#ff0000\">折[おり]から</font>、 有給[ゆうきゅう]を 取[と]ることにしました。", 
+                                "折から"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d-Td/k//;}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "不景気で失業になった。その＿＿＿大学に戻ろうと思った。", 
+                                "Me había quedado sin trabajo debido a la recesión. Fue <font color=\"#ff0000\">entonces</font> que pensé en volver a la universidad.", 
+                                "不景気[ふけいき]で 失業[しつぎょう]になった。その <font color=\"#ff0000\">折[おり]に</font> 大学[だいがく]に 戻[もど]ろうと 思[おも]った。", 
+                                "折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HA#xD^Ro*;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大坂にいらっしゃる＿＿＿是非来て下さいね。", 
+                                "No dude en visitarnos <font color=\"#ff0000\">cuando</font> venga a Osaka.", 
+                                "大坂[おおさか]にいらっしゃる <font color=\"#ff0000\">折[おり]に</font> 是非[ぜひ] 来[き]て 下[くだ]さいね。", 
+                                "折に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "JJwFDV)a!;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "折（に）"
+                            ]
                         }
                     ]
                 }
@@ -26346,9 +26541,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "思いをする"
+                "折（に）"
             ], 
             "tmpls": [
                 {
