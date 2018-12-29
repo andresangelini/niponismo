@@ -4399,7 +4399,7 @@
                                 "んがため（に）/んがための", 
                                 "para / con el fin de / con el propósito de", 
                                 "Verbo ない (sin ない) + <font color=\"#ff0000\">＿＿＿</font> （に） + acción.<div>Verbo ない (sin ない) + <font color=\"#ff0000\">＿＿＿</font> （の） + sustantivo.<br /><div>Sustantivo せん + <font color=\"#ff0000\">＿＿＿</font>&nbsp;（に） + acción.</div></div><div>Sustantivo せん + <font color=\"#ff0000\">＿＿＿</font>&nbsp;（の） + sustantivo.</div>", 
-                                "Expresión que indica la razón por la que algo se hace y que suele reflejar una fuerte intención. Los sustantivos verbales se conjugan a la forma せん, la cual no tiene relación alguna a la forma negativa sino que es una antigua conjugación para expresar intención al igual que するように.<div><br /></div><div>医者[いしゃ]にならん<font color=\"#ff0000\">＿＿＿</font> 彼女[かのじょ]が 必死[ひっし]に 勉強[べんきょう]した。</div><div><i>Ella estudió muchísimo <font color=\"#ff0000\">para</font> convertirse en doctora</i>.</div><div><br /></div><div>彼[かれ]がその 事件[じけん]の 真相[しんそう]を 明[あき]らかにせん<font color=\"#ff0000\">＿＿＿</font> 何年[なんねん]も 調査[ちょうさ]し 続[つづ]けてきた。</div><div><i>El siguió investigando ese caso durante muchos años <font color=\"#ff0000\">para</font> descubrir la verdad</i>.</div>", 
+                                "Expresión que indica la <font color=\"#ff0000\">razón</font> por la que algo se hace y que suele reflejar una <font color=\"#ff0000\">fuerte intención</font>. Los sustantivos verbales se conjugan a la forma <font color=\"#ff0000\">せん</font>, la cual no tiene relación alguna a la forma negativa sino que es una antigua conjugación para expresar intención al igual que <font color=\"#ff0000\">するように</font>.<div><br /></div><div>医者[いしゃ]にならん<font color=\"#ff0000\">＿＿＿</font> 彼女[かのじょ]が 必死[ひっし]に 勉強[べんきょう]した。</div><div><i>Ella estudió muchísimo <font color=\"#ff0000\">para</font> convertirse en doctora</i>.</div><div><br /></div><div>彼[かれ]がその 事件[じけん]の 真相[しんそう]を 明[あき]らかにせん<font color=\"#ff0000\">＿＿＿</font> 何年[なんねん]も 調査[ちょうさ]し 続[つづ]けてきた。</div><div><i>El siguió investigando ese caso durante muchos años <font color=\"#ff0000\">para</font> descubrir la verdad</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -4466,7 +4466,7 @@
                                 "のみか", 
                                 "no sólo (...sino que también)", 
                                 "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo", 
-                                "Expresión formal que se utiliza para <font color=\"#ff0000\">agregar</font> algo más a lo mencionado.<div><br /></div><div>その 事故[じこ]で 家族[かぞく]＿＿＿ 親友[しんゆう]も 失[うしな]った。</div><div><i><font color=\"#ff0000\">No sólo</font> perdí a mi familia en ese accidente, <font color=\"#ff0000\">sino que también</font> a mi mejor amigo</i>.</div><div><br /></div><div>Es sinónimo de だけで（は）なく, （だけ/である）にとどまらず y のみならず pero <font color=\"#ff0000\">sólo se puede usar</font> con <font color=\"#ff0000\">sustantivos</font>.</div><div><br /></div><div>そのお客さんは文句を言う<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0);\">❌/だけで（は）なく/（だけ）にとどまらず/のみならず</span>一つの店員に殴ったそうだ。</div><div><i>El cliente <font color=\"#ff0000\">no sólo</font> se quejó, <font color=\"#ff0000\">sino que también</font> le pegó a uno de los empleados de la tienda</i>.</div>", 
+                                "Expresión formal que se utiliza para <font color=\"#ff0000\">agregar</font> algo más a lo mencionado.<div><br /></div><div>その 事故[じこ]で 家族[かぞく]<font color=\"#ff0000\">＿＿＿</font> 親友[しんゆう]も 失[うしな]った。</div><div><i><font color=\"#ff0000\">No sólo</font> perdí a mi familia en ese accidente, <font color=\"#ff0000\">sino que también</font> a mi mejor amigo</i>.</div><div><br /></div><div>Es sinónimo de <font color=\"#ff0000\">だけで（は）なく</font>, <font color=\"#ff0000\">（だけ/である）にとどまらず</font> y <font color=\"#ff0000\">のみならず</font> pero <font color=\"#ff0000\">sólo se puede usar</font> con <font color=\"#ff0000\">sustantivos</font>.</div><div><br /></div><div>そのお客さんは文句を言う<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0)\">❌/だけで（は）なく/（だけ）にとどまらず/のみならず</span>一つの店員に殴ったそうだ。</div><div><i>El cliente <font color=\"#ff0000\">no sólo</font> se quejó, <font color=\"#ff0000\">sino que también</font> le pegó a uno de los empleados de la tienda</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5932,7 +5932,7 @@
                             "data": "", 
                             "fields": [
                                 "病気の原因を明らかに＿＿＿病院で診察を受けた。", 
-                                "Tomé un examen en el hospital para poder aclarar la causa de mi enfermedad.", 
+                                "Tomé un examen en el hospital <font color=\"#ff0000\">para poder</font> aclarar la causa de mi enfermedad.", 
                                 "病気[びょうき]の 原因[げんいん]を 明[あき]らかに<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">すべく/するべく</font></span>&nbsp;病院[びょういん]で 診察[しんさつ]を 受[う]けた。", 
                                 "すべく/するべく"
                             ], 
@@ -9379,7 +9379,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は、＿＿＿学生らしい印象をあたえる青年だった。", 
-                                "Él era un joven que ciertamente te daba la impresión de ser un estudiante.", 
+                                "Él era un joven que <font color=\"#ff0000\">ciertamente</font> te daba la impresión de ser un estudiante.", 
                                 "彼[かれ]は、&nbsp;<font color=\"#ff0000\">如何[いか]にも</font>&nbsp;学生[がくせい]らしい 印象[いんしょう]をあたえる 青年[せいねん]だった。", 
                                 "如何にも"
                             ], 
@@ -10865,7 +10865,7 @@
                             "data": "", 
                             "fields": [
                                 "感＿＿＿、彼女はナプキンに顔を埋めた。", 
-                                "Ella cubrió su cara con una servilleta de lo extremadamente emocionada que estaba.", 
+                                "Ella cubrió su cara con una servilleta de lo <font color=\"#ff0000\">extremadamente</font> emocionada que estaba.", 
                                 "感[かん]&nbsp;<font color=\"#ff0000\">極[きわ]まって</font>、 彼女[かのじょ]はナプキンに 顔[かお]を 埋[う]めた。", 
                                 "極まって"
                             ], 
@@ -11219,8 +11219,8 @@
                             "data": "", 
                             "fields": [
                                 "「いま忙しい」迷惑なこと＿＿＿と言いたげに、彼女は答えた。", 
-                                "\"Estoy ocupada\" contestó ella con tono de que le resultaba extramadamente molesto.", 
-                                "「いま 忙[いそが]しい」 迷惑[めいわく]なこと<span style=\"color: rgb(0, 0, 255);font-family: 'Liberation Sans'\">極[きわ]まりない</span>と 言[い]いたげに、 彼女[かのじょ]は 答[こた]えた。", 
+                                "\"Estoy ocupada\" contestó ella con tono de que le resultaba <font color=\"#ff0000\">extramadamente</font> molesto.", 
+                                "「いま 忙[いそが]しい」 迷惑[めいわく]なこと<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">極[きわ]まりない</font></span>と 言[い]いたげに、 彼女[かのじょ]は 答[こた]えた。", 
                                 "極まりない"
                             ], 
                             "flags": 0, 
@@ -12772,7 +12772,7 @@
                             "data": "", 
                             "fields": [
                                 "私は抗議＿＿＿そのことを大目にみることができない。", 
-                                "No puedo dejar pasar ese asunto sin siquiera protestar.", 
+                                "No puedo dejar pasar ese asunto <font color=\"#ff0000\">sin siquiera</font> protestar.", 
                                 "私[わたし]は 抗議[こうぎ]<font color=\"#ff0000\">もしないで</font>そのことを 大目[おおめ]にみることができない。", 
                                 "もしないで"
                             ], 
@@ -13441,7 +13441,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の息子は自分の名前を書くこと＿＿＿できない。", 
-                                "Su hijo ni siquiera puede escribir su propio nombre.", 
+                                "Su hijo <font color=\"#ff0000\">ni siquiera</font> puede escribir su propio nombre.", 
                                 "彼[かれ]の 息子[むすこ]は 自分[じぶん]の 名前[なまえ]を 書[か]くこと<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（で/に）さえ（も）/（で/に）すら（も）</font></span>できない。", 
                                 "（で/に）さえ（も）/（で/に）すら（も）"
                             ], 
@@ -18801,7 +18801,7 @@
                             "data": "", 
                             "fields": [
                                 "地球＿＿＿、火星では人間が酸素のマスクなしに呼吸できない。", 
-                                "En contraste con la Tierra, en Marte los humanos no pueden respirar sin una máscara de oxígeno.", 
+                                "<font color=\"#ff0000\">En contraste con</font> la Tierra, en Marte los humanos no pueden respirar sin una máscara de oxígeno.", 
                                 "地球[ちきゅう]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に 引[ひ]き 換[か]え</font></span>、 火星[かせい]では 人間[にんげん]が 酸素[さんそ]のマスクなしに 呼吸[こきゅう]できない。", 
                                 "に引き換え"
                             ], 
@@ -19032,7 +19032,7 @@
                             "data": "", 
                             "fields": [
                                 "宣戦布告＿＿＿の時期はこのような状況であったと言える。", 
-                                "Se podría decir que esa era la situación hasta la declaración de guerra.", 
+                                "Se podría decir que esa era la situación <font color=\"#ff0000\">hasta</font> la declaración de guerra.", 
                                 "宣戦[せんせん] 布告[ふこく]<font color=\"#ff0000\">に 至[いた]るまで</font>の 時期[じき]はこのような 状況[じょうきょう]であったと 言[い]える。", 
                                 "に至るまで"
                             ], 
@@ -19305,7 +19305,7 @@
                             "data": "", 
                             "fields": [
                                 "繁栄は勤勉＿＿＿。", 
-                                "La prosperidad depende del trabajo duro.", 
+                                "La prosperidad <font color=\"#ff0000\">depende del</font> trabajo duro.", 
                                 "繁栄[はんえい]は 勤勉[きんべん]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -20796,7 +20796,7 @@
                             "data": "", 
                             "fields": [
                                 "旅行の計画を経済事情＿＿＿立てないと。", 
-                                "Tenemos que planear nuestro viaje conforme a nuestra situación económica.", 
+                                "Tenemos que planear nuestro viaje <font color=\"#ff0000\">conforme a</font> nuestra situación económica.", 
                                 "旅行[りょこう]の 計画[けいかく]を 経済[けいざい] 事情[じじょう]<font color=\"#ff0000\">に 即[そく]して</font> 立[た]てないと。", 
                                 "に即して"
                             ], 
@@ -26249,7 +26249,7 @@
                             "data": "", 
                             "fields": [
                                 "病院で診察を受ける＿＿＿それも聞くのを覚えておきましょう。", 
-                                "Recuerde también preguntarse sobre eso <font color=\"#ff0000\">cuando vayan a</font> examinarlo en el hospital.", 
+                                "Recuerde también preguntar sobre eso <font color=\"#ff0000\">cuando vayan a</font> examinarlo en el hospital.", 
                                 "病院[びょういん]で 診察[しんさつ]を 受[う]ける <font color=\"#ff0000\">折[おり]に</font>それも 聞[き]くのを 覚[おぼ]えておきましょう。", 
                                 "折に"
                             ], 
@@ -26312,7 +26312,7 @@
                             "data": "", 
                             "fields": [
                                 "状況が危険＿＿＿警察を呼んで下さい。", 
-                                "Llamé a la policía <font color=\"#ff0000\">cuando</font> la situación sea peligrosa.", 
+                                "Llame a la policía <font color=\"#ff0000\">cuando</font> la situación sea peligrosa.", 
                                 "状況[じょうきょう]が 危険[きけん]<font color=\"#ff0000\">な 折[おり]に</font> 警察[けいさつ]を 呼[よ]んで 下[くだ]さい。", 
                                 "な折に"
                             ], 
