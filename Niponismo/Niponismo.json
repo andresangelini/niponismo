@@ -12940,7 +12940,7 @@
                             "data": "", 
                             "fields": [
                                 "地球の生態系はある程度自己修正される＿＿＿、その結果が他の変化によって隠されているという可能性もある。", 
-                                "El ecosistema de la Tierra se auto corrige hasta cierto grado, por lo que es posible que los efectos estén siendo enmascarados por otros cambios.", 
+                                "El ecosistema de la Tierra se auto corrige hasta cierto grado, <font color=\"#ff0000\">por lo que</font> es posible que los efectos estén siendo enmascarados por otros cambios.", 
                                 "地球[ちきゅう]の 生態[せいたい] 系[けい]はある 程度[ていど] 自己[じこ] 修正[しゅうせい]される<font color=\"#ff0000\">もので</font>、その 結果[けっか]が 他[た]の 変化[へんか]によって 隠[かく]されているという 可能[かのう] 性[せい]もある。", 
                                 "もので"
                             ], 
@@ -13850,7 +13850,7 @@
                             "data": "", 
                             "fields": [
                                 "あそこの人は社長の為に没落した＿＿＿。", 
-                                "Me pregunto si aquella persona que está allí no será la que fue aruinada por el presidente.", 
+                                "<font color=\"#ff0000\">Me pregunto si</font> aquella persona que está allí <font color=\"#ff0000\">no</font> será la que fue aruinada por el presidente.", 
                                 "<div>あそこの 人[ひと]は 社長[しゃちょう]の 為[ため]に 没落[ぼつらく]した<font color=\"#ff0000\">のではあるまいか</font>。</div>", 
                                 "のではあるまいか"
                             ], 
@@ -14971,9 +14971,9 @@
                             "data": "", 
                             "fields": [
                                 "インターネットの活用すれば、居＿＿＿して世界中の情報が手に入る。", 
-                                "Puedes obtener toda la información del mundo desde tu casa usando internet.", 
-                                "インターネットの 活用[かつよう]すれば、 居[い]<font color=\"#ff0000\">ながら（にして）</font>&nbsp;世界中[せかいじゅう]の 情報[じょうほう]が 手[て]に 入[はい]る。", 
-                                "ながら（にして）"
+                                "Puedes obtener toda la información del mundo <font color=\"#ff0000\">desde</font> tu casa usando internet.", 
+                                "インターネットの 活用[かつよう]すれば、 居[い]<font color=\"#ff0000\">ながら</font>して&nbsp;世界中[せかいじゅう]の 情報[じょうほう]が 手[て]に 入[はい]る。", 
+                                "ながら"
                             ], 
                             "flags": 0, 
                             "guid": "kuN8j`K8X!", 
@@ -16405,7 +16405,7 @@
                             "data": "", 
                             "fields": [
                                 "こんな新しい発想はあのデザイナー＿＿＿ものです。", 
-                                "Una idea tan novedosa sólo puedía venir de ese diseñador.", 
+                                "Una idea tan novedosa <font color=\"#ff0000\">sólo puedía venir de</font> ese diseñador.", 
                                 "こんな 新[あたら]しい 発想[はっそう]はあのデザイナー<font color=\"#ff0000\">ならではの</font>ものです。", 
                                 "<span style=\"font-family: Arial\">ならではの</span>"
                             ], 
@@ -19494,7 +19494,7 @@
                             "data": "", 
                             "fields": [
                                 "君の成功は君が一生懸命やるかどうか＿＿＿。", 
-                                "Tu éxito dependerá de si trabajas duro o no.", 
+                                "Tu éxito <font color=\"#ff0000\">dependerá de</font> si trabajas duro o no.", 
                                 "君[きみ]の 成功[せいこう]は 君[きみ]が 一生懸命[いっしょうけんめい]やるかどうか<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
