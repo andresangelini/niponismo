@@ -12814,7 +12814,7 @@
                             "data": "", 
                             "fields": [
                                 "私はただ何＿＿＿座っているより一生懸命働く方が好きだ。", 
-                                "Prefiero trabajar duro antes que estar sentado sin siquiera hacer nada.", 
+                                "Prefiero trabajar duro antes que estar sentado <font color=\"#ff0000\">sin siquiera</font> hacer nada.", 
                                 "私[わたし]はただ 何[なに]<font color=\"#ff0000\">もしないで</font> 座[すわ]っているより 一生懸命[いっしょうけんめい] 働[はたら]く 方[ほう]が 好[す]きだ。", 
                                 "もしないで"
                             ], 
@@ -13150,7 +13150,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は高名な画家だから、そういう＿＿＿扱うべきだ。", 
-                                "Él es un renombrado pintor y debe ser tratado como tal.", 
+                                "Él es un renombrado pintor y debe ser tratado <font color=\"#ff0000\">como</font> tal.", 
                                 "彼[かれ]は 高名[こうみょう]な 画家[がか]だから、そういう<font color=\"#ff0000\">ものとして</font> 扱[あつか]うべきだ。", 
                                 "ものとして"
                             ], 
@@ -14950,7 +14950,7 @@
                             "data": "", 
                             "fields": [
                                 "古いものを昔＿＿＿使う。", 
-                                "Uso cosas viejas como se solían usar.", 
+                                "Uso cosas viejas <font color=\"#ff0000\">como</font> se solían usar.", 
                                 "古[ふる]いものを 昔[むかし]<font color=\"#ff0000\">ながらに</font> 使[つか]う。", 
                                 "ながらに"
                             ], 
@@ -19242,7 +19242,7 @@
                             "data": "", 
                             "fields": [
                                 "私＿＿＿田中氏は明らかに最も適当な候補です。", 
-                                "Si me pregunta a mi, Tanaka es claramente el candidato mejor indicado.", 
+                                "<font color=\"#ff0000\">Si</font> me <font color=\"#ff0000\">pregunta a</font> mi, Tanaka es claramente el candidato mejor indicado.", 
                                 "私[わたし]<font color=\"#ff0000\">に 言[い]わせれば/から 言[い]わせれば </font>田中[たなか] 氏[し]は 明[あき]らかに 最[もっと]も 適当[てきとう]な 候補[こうほ]です。", 
                                 "に言わせれば/から言わせれば"
                             ], 
@@ -19578,7 +19578,7 @@
                             "data": "", 
                             "fields": [
                                 "すべては君が何をするかと言う事＿＿＿。", 
-                                "Todo depende de lo que tu hagas.", 
+                                "Todo <font color=\"#ff0000\">depende de</font> lo que tu hagas.", 
                                 "すべては 君[きみ]が 何[なに]をするかと 言[い]う 事[こと]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -26747,7 +26747,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "折（に）"
+                "およそ"
             ], 
             "tmpls": [
                 {
