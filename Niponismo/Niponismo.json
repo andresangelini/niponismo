@@ -5025,6 +5025,39 @@
                                 "tatoeba", 
                                 "折（に）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "およそ", 
+                                "およそ", 
+                                "およそ", 
+                                "generalmente / por lo general / bastante / totalmente / absolutamente / para nada / en lo absoluto / casi / aproximadamente / alrededor de", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + S<div><font color=\"#ff0000\">＿＿＿</font> + Aい / Aな de connotación negativa</div><div><font color=\"#ff0000\">＿＿＿</font> + Vない / A<strike>い</strike>くない / A<strike>な</strike>でない</div><div><font color=\"#ff0000\">＿＿＿</font> + V / Aい / Aな / Sだ</div><div><font color=\"#ff0000\">＿＿＿</font> + の + S</div><div><font color=\"#ff0000\">＿＿＿</font> + Número + Contador</div>", 
+                                "Expresión cuyo significado depende del contexto en que se use.<div><br /></div><div>- Cuando se usa para <font color=\"#ff0000\">generalizar</font> sobre algo o alguien significa \"<font color=\"#ff0000\">generalmente</font>\" o \"<font color=\"#ff0000\">por lo general</font>\" y puede usarse indistintamente con &nbsp;<font color=\"#ff0000\">一般[いっぱん]に</font>.</div><div><br /></div><div><font color=\"#ff0000\">＿＿＿/</font><span style=\"color: rgb(255, 0, 0)\">一般[いっぱん]に</span>あの 大人し[おとなし]いタイプの 奴[やつ]は 悪玉[あくだま]だ。</div><div><i><font color=\"#ff0000\">Generalmente</font> ese tipo de persona tranquila tiene un caracter terrible</i>.</div><div><br /></div><div>- Cuando el <font color=\"#ff0000\">predicado es negativo</font> se interpreta como \"<font color=\"#ff0000\">bastante</font>\", \"<font color=\"#ff0000\">totalmente</font>\" o \"<font color=\"#ff0000\">absolutamente</font>\" y equivale a &nbsp;<font color=\"#ff0000\">全[まった]く</font> y <font color=\"#ff0000\">まるで</font>.</div><div><br /></div><div>我々[われわれ]は<font color=\"#ff0000\">＿＿＿/ 全[まった]く/まるで</font>&nbsp;不合理[ふごうり]な 待遇[たいぐう]をずっと 受[う]けてきた。</div><div><i>Nosotros siempre hemos estado recibiendo un trato <font color=\"#ff0000\">totalmente</font> injusto</i>.</div><div><br /></div><div>No se puede usar con predicados positivos o neutrales.</div><div><br /></div><div>彼[かれ]の 本[ほん]は<font color=\"#ff0000\">＿＿＿×/全く</font> 素晴[すば]らしい 物語[ものがたり]だ。</div><div><i>Su libro es una historia <font color=\"#ff0000\">totalmente</font> fantástica</i>.</div><div><br /></div><div>- Cuando se usa junto a palabras negativas adquiere el significado de \"<font color=\"#ff0000\">para nada</font>\" o \"<font color=\"#ff0000\">en lo absoluto</font>\" y también equivale a &nbsp;<font color=\"#ff0000\">全[まった]く</font>&nbsp;y&nbsp;<font color=\"#ff0000\">まるで</font>.</div><div><br /></div><div>彼[かれ]の 最後[さいご]の 作品[さくひん]は<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0);\">/ 全[まった]く/まるで&nbsp;</span>意味[いみ]のない 内容[ないよう]だ。</div><div><i>El contenido de su última obra no tiene sentido <font color=\"#ff0000\">para nada</font></i>.</div><div><br /></div><div>- También puede significar \"<font color=\"#ff0000\">casi</font>\" para funcionar a modo de <font color=\"#ff0000\">cuantificador</font>&nbsp;en cuyo casi equivale a &nbsp;<font color=\"#ff0000\">大体[だいたい]</font> y &nbsp;<font color=\"#ff0000\">概[おおむ]ね</font>.</div><div><br /></div><div>宿題[しゅくだい]は<font color=\"#ff0000\">＿＿＿/ 大体[だいたい]/ 概[おおむ]ね</font>&nbsp;終[お]わった。</div><div><i>Mi tareas domiciliarias están <font color=\"#ff0000\">casi</font> terminadas</i>.</div><div><br /></div><div>- Así como \"<font color=\"#ff0000\">aproximadamente</font>\" o \"<font color=\"#ff0000\">alrededor de</font>\" cuando se usa junto a una <font color=\"#ff0000\">cifra</font>.</div><div><br /></div><div>昨日[きのう]は<font color=\"#ff0000\">＿＿＿</font><span style=\"color: rgb(255, 0, 0);\">/ 大体[だいたい]/ 概[おおむ]ね&nbsp;</span>4 千[せん] 円[えん]を 遣[つか]った。</div><div><i>Ayer gasté <font color=\"#ff0000\">aproximadamente / alrededor</font> de cuatro mil yenes</i>.</div><div><br /></div><div>En este sentido también se puede usar junto a <font color=\"#ff0000\">の</font> para significar \"<font color=\"#ff0000\">aproximado</font>\" o \"<font color=\"#ff0000\">aproximada</font>\".</div><div><br /></div><div>私達[わたしたち]の 結婚旅行[けっこんりょこう]は<font color=\"#ff0000\">＿＿＿/ 大体[だいたい]/ 概[おおむ]ね</font>の 旅費[りょひ]が１５ 百万[ひゃくまん] 円[えん]だった。</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "o>_O0[ArcQ", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "およそ"
+                            ]
                         }
                     ]
                 }, 
@@ -26411,6 +26444,282 @@
                                 "Oración", 
                                 "折（に）"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "旅は＿＿＿５時間くらいかかるでしょう。", 
+                                "El viaje tomará <font color=\"#ff0000\">aproximadamente</font> cinco horas.", 
+                                "旅[たび]は<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font></span>５ 時間[じかん]くらいかかるでしょう。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "x~}}SB0w4,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "父は＿＿＿非芸術的な人だ。", 
+                                "Mi padre no es una persona artística <font color=\"#ff0000\">en lo absoluto</font>.", 
+                                "父[ちち]は<font color=\"#ff0000\">およそ/全く/まるで</font> 非[ひ] 芸術[げいじゅつ] 的[てき]な 人[ひと]だ。", 
+                                "およそ/全く/まるで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rlgnB.?SSy", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "まるで", 
+                                "全く"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "富士山は六甲山の＿＿＿四倍の高さです。", 
+                                "El Monte Fuji es <font color=\"#ff0000\">aproximadamente</font> cuatro veces más alto que el Monte Rokko.", 
+                                "富士山[ふじさん]は 六甲山[ろっこうざん]の<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font> 四[よん] 倍[ばい]の 高[たか]さです。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dKR&|*5CTd", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女の＿＿＿の年齢しか知らない。", 
+                                "Sabemos sólo su edad <font color=\"#ff0000\">aproximada</font>.", 
+                                "彼女[かのじょ]の<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font>の 年齢[ねんれい]しか 知[し]らない。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MgQDfr2I(&", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は＿＿＿１０日間欠席した。", 
+                                "<i>Él estuvo ausente <font color=\"#ff0000\">aproximadamente</font> diez días</i>.", 
+                                "彼[かれ]は<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font>１０ 日間[にちかん] 欠席[けっせき]した。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cedmLCiVn1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は、収入の＿＿＿十分の一を貧しい人に与えた。", 
+                                "<i>Él dio&nbsp;<font color=\"#ff0000\">alrededor del</font> diez por ciento de sus ingresos a los pobres</i>.", 
+                                "彼[かれ]は、 収入[しゅうにゅう]の<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font>十 分[ぶん]の一を 貧[まず]しい 人[ひと]に 与[あた]えた。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G.RHx081JE", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "地球は＿＿＿５０億年前に生まれた。", 
+                                "La Tierra se formó hace <font color=\"#ff0000\">aproximadamente</font> cinco mil millones de años.", 
+                                "地球[ちきゅう]は<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font>５０ 億[おく] 年[ねん] 前[まえ]に 生[う]まれた。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w&_IimISJn", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "第２次世界大戦が終わってから＿＿＿５０年になる。", 
+                                "Han pasado <font color=\"#ff0000\">casi</font> cincuenta años desde el fin de la Segunda Guerra Mundial.", 
+                                "第[だい]２ 次[じ] 世界[せかい] 大戦[たいせん]が 終[お]わってから<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font>５０ 年[ねん]になる。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L-U?P^KGju", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "仕事は＿＿＿終わった。", 
+                                "El trabajo está <font color=\"#ff0000\">casi</font> terminado.", 
+                                "仕事[しごと]は<font color=\"#ff0000\">およそ/ 大体[だいたい]/ 概[おおむ]ね</font> 終[お]わった。", 
+                                "およそ/大体/概ね"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ea0+rOcNf|", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "およそ", 
+                                "大体", 
+                                "概ね"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あんたはこの大事な仕事には＿＿＿向いていない。", 
+                                "Tu no eres apto para este importantísimo trabajo <font color=\"#ff0000\">en lo absoluto</font>.", 
+                                "あんたはこの 大事[だいじ]な 仕事[しごと]には<font color=\"#ff0000\">およそ/ 全[まった]く/まるで</font> 向[む]いていない。", 
+                                "およそ/全く/まるで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "!_{,UY6%o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "およそ", 
+                                "まるで", 
+                                "全く"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "帰り道で泊まったホテルは＿＿＿最低だった。", 
+                                "El hotel donde nos hospedamos a la vuelta fue <font color=\"#ff0000\">totalmente</font> espantoso.", 
+                                "帰り道[かえりみち]で 泊[と]まったホテルは<font color=\"#ff0000\">およそ/ 全[まった]く/まるで</font> 最低[さいてい]だった。", 
+                                "およそ/全く/まるで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "E;o++&Oy7m", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "およそ", 
+                                "まるで", 
+                                "全く"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は一生懸命に勉強してみたけど、＿＿＿駄目となった。", 
+                                "Él trató de estudiar todo lo que pudo pero resultó ser <font color=\"#ff0000\">completamente</font> inútil.", 
+                                "彼[かれ]は 一生懸命[いっしょうけんめい]に 勉強[べんきょう]してみたけど、<font color=\"#ff0000\">およそ/ 全[まった]く/まるで</font> 駄目[だめ]となった。", 
+                                "およそ/全く/まるで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jFZmQ5mx9u", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "およそ", 
+                                "まるで", 
+                                "全く"
+                            ]
                         }
                     ]
                 }
@@ -26543,7 +26852,9 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "折（に）"
+                "およそ", 
+                "まるで", 
+                "全く"
             ], 
             "tmpls": [
                 {
