@@ -3265,8 +3265,8 @@
                                 "ならでは/ならではの", 
                                 "ならでは/ならではの", 
                                 "exclusivamente de", 
-                                "Sustantivo + forma gramatical + sustantivo.<div>Sustantivo + forma gramatical.</div><div>Sustantivo + forma gramatical + verbo ない.</div>", 
-                                "<div>Expresión que indica que una característica es <font color=\"#ff0000\">exclusiva de</font> una determinada persona, cosa, lugar, etc. A menudo se la puede interpretar como \"<font color=\"#ff0000\">propio de</font>\", \"<font color=\"#ff0000\">único de</font>\" o \"<font color=\"#ff0000\">característico de</font>\".</div><div><br /></div><div>En su forma más sencilla podemos encontrarla en frase como:</div><div><br /></div><div>このお 祭[まつ]りはこの 地方[ちほう]ならではです。</div><div><i>Este festival <font color=\"#ff0000\">es único de</font> esta región</i>.</div><div><br /></div><div>Pero cuando le sigue un <font color=\"#ff0000\">sustantivo</font>, debemos agregar la partícula <font color=\"#ff0000\">の</font>:</div><div><br /></div><div>部長[ぶちょう]ならではの 喋[しゃべ]り 方[ｋぁた]で 気[き]がつきました。</div><div><i>Me dí cuenta por <font color=\"#ff0000\">la forma peculiar</font> de hablar del jefe</i>.</div><div><br /></div><div>Por último, también podemos verlo junto a un verbo negativo para indicar que \"<font color=\"#ff0000\">nadie más que</font>\" cierta persona o cosa puede realizar una determinada tarea ya que esa capacidad es <font color=\"#ff0000\">exclusiva</font> de ella.</div><div><br /></div><div>あの 人[ひと]ならではあんな 素晴[すば]らしい 文章[ぶんしょう]を 書[か]けなかっただろう。</div><div><i><font color=\"#ff0000\">Nadie más que</font> él hubiera podido escribir algo tan maravilloso</i>.</div><div><br /></div><div>En cierta frases, podemos ver como se usa para enfatizar el sentido de <font color=\"#ff0000\">exclusividad</font>:</div><div><br /></div><div>女性[じょせい]ならではここに 入[はい]れません。</div><div><i><font color=\"#ff0000\">Sólo</font> las damas pueden entrar aquí</i>.</div><div><br /></div><div>En resumen, indica que algo <font color=\"#ff0000\">es único</font> , <font color=\"#ff0000\">propio</font>, <font color=\"#ff0000\">característico</font> o <font color=\"#ff0000\">exclusivo de</font> cierta persona, cosa, lugar, tiempo, etc.</div>", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font> + S<div>S + <font color=\"#ff0000\">＿＿＿</font></div><div>S + <font color=\"#ff0000\">＿＿＿</font> + Vない</div>", 
+                                "<div>Expresión que indica que una característica es <font color=\"#ff0000\">exclusiva de</font> una determinada persona, cosa, lugar, etc. A menudo se la puede interpretar como \"<font color=\"#ff0000\">propio de</font>\", \"<font color=\"#ff0000\">único de</font>\" o \"<font color=\"#ff0000\">característico de</font>\".</div><div><br /></div><div>En su forma más sencilla podemos encontrarla en frase como:</div><div><br /></div><div>このお 祭[まつ]りはこの 地方[ちほう]<font color=\"#ff0000\">＿＿＿</font>です。</div><div><i>Este festival <font color=\"#ff0000\">es único de</font> esta región</i>.</div><div><br /></div><div>Pero cuando le sigue un <font color=\"#ff0000\">sustantivo</font>, debemos agregar la partícula <font color=\"#ff0000\">の</font>:</div><div><br /></div><div>部長[ぶちょう]<font color=\"#ff0000\">＿＿＿</font> 喋[しゃべ]り 方[ｋぁた]で 気[き]がつきました。</div><div><i>Me dí cuenta por <font color=\"#ff0000\">la forma peculiar</font> de hablar del jefe</i>.</div><div><br /></div><div>Por último, también podemos verlo junto a un verbo negativo para indicar que \"<font color=\"#ff0000\">nadie más que</font>\" cierta persona o cosa puede realizar una determinada tarea ya que esa capacidad es <font color=\"#ff0000\">exclusiva</font> de ella.</div><div><br /></div><div>あの 人[ひと]<font color=\"#ff0000\">＿＿＿</font>あんな 素晴[すば]らしい 文章[ぶんしょう]を 書[か]けなかっただろう。</div><div><i><font color=\"#ff0000\">Nadie más que</font> él hubiera podido escribir algo tan maravilloso</i>.</div><div><br /></div><div>En cierta frases, podemos ver como se usa para enfatizar el sentido de <font color=\"#ff0000\">exclusividad</font>:</div><div><br /></div><div>女性[じょせい]<font color=\"#ff0000\">＿＿＿</font>ここに 入[はい]れません。</div><div><i><font color=\"#ff0000\">Sólo</font> las damas pueden entrar aquí</i>.</div><div><br /></div><div>En resumen, indica que algo <font color=\"#ff0000\">es único</font> , <font color=\"#ff0000\">propio</font>, <font color=\"#ff0000\">característico</font> o <font color=\"#ff0000\">exclusivo de</font> cierta persona, cosa, lugar, tiempo, etc.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -13234,7 +13234,7 @@
                             "data": "", 
                             "fields": [
                                 "私の理解では、ロビンソンはこの要素を二次的＿＿＿扱っている。", 
-                                "Según entiendo yo, Robinson trata a este elemento como secundario.", 
+                                "Según entiendo yo, Robinson trata a este elemento <font color=\"#ff0000\">como</font> secundario.", 
                                 "私[わたし]の 理解[りかい]では、ロビンソンはこの 要素[ようそ]を二 次[じ] 的[てき]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なものとして/であるものとして</font></span>&nbsp;扱[あつか]っている。", 
                                 "なものとして/であるものとして"
                             ], 
@@ -19158,7 +19158,7 @@
                             "data": "", 
                             "fields": [
                                 "自立すれば店の掃除から経営＿＿＿担当しなければならないから、簡単なことではないよ。", 
-                                "Si te independizas debes hacerte cargo desde la limpieza de la tienda hasta la administración, así no es algo fácil.", 
+                                "Si te independizas debes hacerte cargo desde la limpieza de la tienda <font color=\"#ff0000\">hasta</font> la administración, así no es algo fácil.", 
                                 "自立[じりつ]すれば 店[みせ]の 掃除[そうじ]から 経営[けいえい]<font color=\"#ff0000\">に 至[いた]るまで</font> 担当[たんとう]しなければならないから、 簡単[かんたん]なことではないよ。", 
                                 "に至るまで"
                             ], 
@@ -20859,7 +20859,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女の体の調子＿＿＿治療を受けます。", 
-                                "Ella recibirá un tratamiento conforme a su condición física.", 
+                                "Ella recibirá un tratamiento <font color=\"#ff0000\">conforme a</font> su condición física.", 
                                 "彼女[かのじょ]の 体[からだ]の 調子[ちょうし]<font color=\"#ff0000\">に 即[そく]して</font> 治療[ちりょう]を 受[う]けます。", 
                                 "に即して"
                             ], 
