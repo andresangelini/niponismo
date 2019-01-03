@@ -5058,6 +5058,41 @@
                                 "Niponismo", 
                                 "およそ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "さもないと/さもなければ/さもなくば", 
+                                "さもないと/さもなければ/さもなくば", 
+                                "さもないと/さもなければ/さもなくば", 
+                                "de lo contrario / de no ser así", 
+                                "Frase + <font color=\"#ff0000\">＿＿＿</font> + Frase", 
+                                "Expresión sinónima de <font color=\"#ff0000\">そうでなければ</font> que indica <font color=\"#ff0000\">lo que sucedería si algo no se cumple</font>.<div><br /></div><div>黙[だま]れ、<font color=\"#ff0000\">＿＿＿</font>たたき 出[だ]すぞ。</div><div><i>Cállate o (<font color=\"#ff0000\">de lo contrario</font>) te golpeo</i>.</div><div><br /></div><div>毎日[まいにち] 新聞[しんぶん]を 読[よ]みなさい、<font color=\"#ff0000\">＿＿＿&nbsp;</font>時勢[じせい]におくれます。</div><div><i>Lee el diario todos los días o <font color=\"#ff0000\">de lo contrario</font> te quedarás atrasado en el tiempo.</i></div><div><i><br /></i></div><div>Las tres variantes son una forma de expresión antigua que en la actualidad no son de uso frecuentes. Se ven más comunmente en dramas y obras escritas.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "O%c**X8H!O", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "tatoeba", 
+                                "さもないと", 
+                                "さもなくば", 
+                                "さもなければ"
+                            ]
                         }
                     ]
                 }, 
@@ -27057,8 +27092,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
-                "およそ"
+                "tatoeba", 
+                "さもないと", 
+                "さもなくば", 
+                "さもなければ"
             ], 
             "tmpls": [
                 {
