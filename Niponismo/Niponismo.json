@@ -6120,7 +6120,7 @@
                             "data": "", 
                             "fields": [
                                 "お互いの気持ちが分かる＿＿＿ちゃんと話し合った方がいんじゃない。", 
-                                "Para poder entenderse mutuamente, ¿no sería mejor conversarlo bien entre los dos?", 
+                                "<font color=\"#ff0000\">Para poder</font> entenderse mutuamente, ¿no sería mejor conversarlo bien entre los dos?", 
                                 "お 互[たが]いの 気持[きも]ちが 分[わ]かる<font color=\"#ff0000\">べく</font>ちゃんと 話し合[はなしあ]った 方[ほう]がいんじゃない。", 
                                 "べく"
                             ], 
@@ -6140,7 +6140,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女が言っているのは本当かどうか、私には分かる＿＿＿。", 
-                                "Yo no puedo saber si ella está diciendo la verdad o no.", 
+                                "Yo <font color=\"#ff0000\">no puedo</font> saber si ella está diciendo la verdad o no.", 
                                 "彼女[かのじょ]が 言[い]っているのは 本当[ほんとう]かどうか、 私[わたし]には 分[わ]かる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">べくもない</font></span>。", 
                                 "べくもない"
                             ], 
@@ -10221,7 +10221,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の発言は誤解を招く＿＿＿。", 
-                                "Sus declaraciones dejan la puerta abierta a malentendidos.", 
+                                "Sus declaraciones <font color=\"#ff0000\">dejan la puerta abierta</font> a malentendidos.", 
                                 "彼[かれ]の 発言[はつげん]は 誤解[ごかい]を 招[まね]く <font color=\"#ff0000\">可能[かのう] 性[せい]がある</font>。", 
                                 "可能性がある"
                             ], 
@@ -11985,7 +11985,7 @@
                             "data": "", 
                             "fields": [
                                 "疲れているならば、休みをとるべきなのは、言う＿＿＿ことだ。", 
-                                "No hace falta decir que si estás cansado, debes tomar un descanso.", 
+                                "<font color=\"#ff0000\">No hace falta</font> decir que si estás cansado, debes tomar un descanso.", 
                                 "疲[つか]れているならば、 休[やす]みをとるべきなのは、 言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">までもない</font></span>ことだ。", 
                                 "までもない"
                             ], 
@@ -15795,7 +15795,7 @@
                             "data": "", 
                             "fields": [
                                 "最近彼の便りがない。どうにか連絡出来＿＿＿。", 
-                                "Últimamente no hemos recibido noticias de él. ¿No hay alguna forma de contactarlo?", 
+                                "Últimamente no hemos recibido noticias de él. ¿<font color=\"#ff0000\">No hay alguna forma de</font> contactarlo?", 
                                 "最近[さいきん] 彼[かれ]の 便[たよ]りがない。どうにか&nbsp;連絡[れんらく] 出来[でき]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないもの（だろう）か</font></span>。", 
                                 "ないもの（だろう）か"
                             ], 
@@ -19289,7 +19289,7 @@
                             "data": "", 
                             "fields": [
                                 "先生＿＿＿きっとそのニュースは大歓迎です。", 
-                                "Para la prefosora eso seguramente sería una gran noticia.", 
+                                "<font color=\"#ff0000\">Para</font> la prefosora eso seguramente sería una gran noticia.", 
                                 "先生[せんせい]<font color=\"#ff0000\">に 言[い]わせれば/から 言[い]わせれば</font>きっとそのニュースは 大[だい] 歓迎[かんげい]です。", 
                                 "に言わせれば/から言わせれば"
                             ], 
