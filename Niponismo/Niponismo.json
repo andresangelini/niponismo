@@ -5093,6 +5093,39 @@
                                 "さもなくば", 
                                 "さもなければ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "始末だ", 
+                                "始末[しまつ]だ", 
+                                "しまつだ", 
+                                "como resultado (de) / ser el resultado de / ser lo que pasa al / ser lo que pasa cuando", 
+                                "V + <font color=\"#ff0000\">＿＿＿</font><div>この/その/あの + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión similar a <font color=\"#ff0000\">〜羽目になり</font> que indica el <font color=\"#ff0000\">resultado negativo</font> de determinada <font color=\"#ff0000\">acción</font>.<div><br /></div><div>夫[おっと]には 失望[しつぼう]した。 仕事[しごと]がないどころか、パチンコの 所為[せい]で 借金[しゃっきん]する<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Estoy tan descepcionada de mi marido. No sólo no tiene trabajo, sino que además acabó endeudándose <font color=\"#ff0000\">como resultado de</font> jugar al pachinko</i>.</div><div><br /></div><div>Se puede usar además para definir el resultado junto con los pronombres demostrativos <font color=\"#ff0000\">この</font>, <font color=\"#ff0000\">その</font> y <font color=\"#ff0000\">あの</font>.</div><div><br /></div><div>微妙[びみょう]な 仕事[しごと]をあんなように 腕[うで]がない 奴[やつ]に 任[まか]せれば、この<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Esto <font color=\"#ff0000\">es lo que pasa cuando</font> le dejas un trabajo delicado a tipo tan inútil como ése</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Gt{7U-pE<}", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
                         }
                     ]
                 }, 
@@ -27005,6 +27038,132 @@
                                 "しないと", 
                                 "そうでなければ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼との約束を守らなかった所為で、謝る＿＿＿った。", 
+                                "Tuve que disculparme con él <font color=\"#ff0000\">como resultado de</font> no haber cumplido mi promesa.", 
+                                "彼[かれ]との 約束[やくそく]を 守[まも]らなかった 所為[しょい]で、 謝[あやま]る <font color=\"#ff0000\">始末[しまつ]だ</font>った。", 
+                                "始末だ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jL:=}[vxyA", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "昔がお金がなくて、家賃でさえ払えなかったから、路上で暮らす＿＿＿った。", 
+                                "En el pasado no tenía dinero y ni siquiera tenía para pagar una renta así que acabé viviendo en la calle <font color=\"#ff0000\">como resultado</font>.", 
+                                "昔[むかし]がお 金[かね]がなくて、 家賃[やちん]でさえ 払[はら]えなかったから、 路上[ろじょう]で 暮[く]らす&nbsp;<font color=\"#ff0000\">始末[しまつ]だ</font>った。", 
+                                "始末だ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "m>@7(<=H|v", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "家族が極めて貧しかったので、子供の時から望む＿＿＿。", 
+                                "Él robaba desde que era niño <font color=\"#ff0000\">como resultado de</font> la extrema pobreza en la que vivía su familia.", 
+                                "家族[かぞく]が 極[きわ]めて 貧[まず]しかったので、 子供[こども]の 時[とき]から 望[のぞ]む <font color=\"#ff0000\">始末[しまつ]だ</font>。", 
+                                "始末だ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "sBvvm=UZXn", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私の息子は一行に勉強したくない。甘やかすからの＿＿＿のではないと時々思う。", 
+                                "Mi hijo no quiere estudiar para nada. A veces me pregunto si no <font color=\"#ff0000\">será el resultado de</font> haberlo malcriado.", 
+                                "私[わたし]の 息子[むすこ]は 一行[いっこう]に 勉強[べんきょう]したくない。 甘[あま]やかすからの <font color=\"#ff0000\">始末[しまつ]</font>のではないと 時々[ときどき] 思[おも]う。", 
+                                "始末"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Air|i!`yC>", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "長い間で体を怠けて、病気になり、入院する＿＿＿。", 
+                                "He descuidado mi salud por mucho tiempo y debí internarme en el hospital <font color=\"#ff0000\">como resultado de</font> haberme enfermado.", 
+                                "長[なが]い 間[ま]で 体[からだ]を 怠[なま]けて、 病気[びょうき]になり、 入院[にゅういん]する <font color=\"#ff0000\">始末[しまつ]だ</font>。", 
+                                "始末だ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q$>lIiA1R#", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "残業し過ぎて、彼はついに居眠り運転で事故を起こす＿＿＿。", 
+                                "Él trabajó demasiadas horas extras y se durmió al volante, causando un accidente <font color=\"#ff0000\">como resultado</font>.", 
+                                "残業[ざんぎょう]し 過[す]ぎて、 彼[かれ]はついに 居眠[いねむ]り 運転[うんてん]で 事故[じこ]を 起[お]こす <font color=\"#ff0000\">始末[しまつ]だ</font>。", 
+                                "始末だ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "c61i#MR(A*", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "始末だ"
+                            ]
                         }
                     ]
                 }
@@ -27132,14 +27291,12 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Oración", 
-                "tatoeba", 
-                "さもないと", 
-                "さもなくば", 
-                "さもなければ"
+                "Niponismo", 
+                "始末だ"
             ], 
             "tmpls": [
                 {
@@ -27342,10 +27499,7 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "tatoeba", 
-                "さもないと", 
-                "さもなくば", 
-                "さもなければ"
+                "Niponismo"
             ], 
             "tmpls": [
                 {
