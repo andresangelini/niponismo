@@ -5103,7 +5103,7 @@
                                 "しまつだ", 
                                 "como resultado (de) / ser el resultado de / ser lo que pasa al / ser lo que pasa cuando", 
                                 "V + <font color=\"#ff0000\">＿＿＿</font><div>この/その/あの + <font color=\"#ff0000\">＿＿＿</font></div>", 
-                                "Expresión similar a <font color=\"#ff0000\">〜羽目になり</font> que indica el <font color=\"#ff0000\">resultado negativo</font> de determinada <font color=\"#ff0000\">acción</font>.<div><br /></div><div>夫[おっと]には 失望[しつぼう]した。 仕事[しごと]がないどころか、パチンコの 所為[せい]で 借金[しゃっきん]する<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Estoy tan descepcionada de mi marido. No sólo no tiene trabajo, sino que además acabó endeudándose <font color=\"#ff0000\">como resultado de</font> jugar al pachinko</i>.</div><div><br /></div><div>Se puede usar además para definir el resultado junto con los pronombres demostrativos <font color=\"#ff0000\">この</font>, <font color=\"#ff0000\">その</font> y <font color=\"#ff0000\">あの</font>.</div><div><br /></div><div>微妙[びみょう]な 仕事[しごと]をあんなように 腕[うで]がない 奴[やつ]に 任[まか]せれば、この<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Esto <font color=\"#ff0000\">es lo que pasa cuando</font> le dejas un trabajo delicado a tipo tan inútil como ése</i>.</div>", 
+                                "Expresión similar a <font color=\"#ff0000\">〜羽目になり</font> que indica el <font color=\"#ff0000\">resultado negativo</font> de determinada <font color=\"#ff0000\">acción</font>.<div><br /></div><div>夫[おっと]には 失望[しつぼう]した。 仕事[しごと]がないどころか、パチンコの 所為[せい]で 借金[しゃっきん]する<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Estoy tan descepcionada de mi marido. No sólo no tiene trabajo, sino que además acabó endeudándose <font color=\"#ff0000\">como resultado de</font> jugar al pachinko</i>.</div><div><br /></div><div>Se puede usar además para definir el resultado junto con los pronombres demostrativos <font color=\"#ff0000\">この</font>, <font color=\"#ff0000\">その</font> y <font color=\"#ff0000\">あの</font>.</div><div><br /></div><div>微妙[びみょう]な 仕事[しごと]をあんなように 腕[うで]がない 奴[やつ]に 任[まか]せれば、この<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Esto <font color=\"#ff0000\">es lo que pasa cuando</font> le dejas un trabajo delicado a un tipo tan inútil como ése</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5628,7 +5628,7 @@
                             "data": "", 
                             "fields": [
                                 "愛していれ＿＿＿、君と結婚できない。分かってくれ。", 
-                                "Te dejo precísamente porque te amo. Entendéme por por favor.", 
+                                "Te dejo <font color=\"#ff0000\">precísamente porque</font> te amo. Entendéme por por favor.", 
                                 "愛[あい]していれ<font color=\"#ff0000\">ばこそ</font>、 君[きみ]と 結婚[けっこん]できない。 分[わ]かってくれ。", 
                                 "ばこそ"
                             ], 
@@ -5708,7 +5708,7 @@
                             "data": "", 
                             "fields": [
                                 "ちょっと聞いて＿＿＿。", 
-                                "Sólo quise intentar preguntar.", 
+                                "<font color=\"#ff0000\">Sólo quise intentar</font> preguntar.", 
                                 "ちょっと 聞[き]いて<font color=\"#ff0000\">みたまでだ</font>。", 
                                 "みたまでだ"
                             ], 
@@ -8408,7 +8408,7 @@
                             "data": "", 
                             "fields": [
                                 "彼のことはほとんど心配する＿＿＿。", 
-                                "Por lo general, él no da de que preocuparse.", 
+                                "Por lo general, él <font color=\"#ff0000\">no da</font> de que preocuparse.", 
                                 "彼[かれ]のことはほとんど 心配[しんぱい]する<font color=\"#ff0000\">ほどのことはない/ほどのこともない</font>。", 
                                 "ほどのことはない/ほどのこともない"
                             ], 
@@ -8680,7 +8680,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は誰の言うことも聞こうとしない。石像にでも話し掛ける＿＿＿。", 
-                                "Él no escucha a nadie. Te iría mejor hablándole a una estatua de piedra.", 
+                                "Él no escucha a nadie. <font color=\"#ff0000\">Te iría mejor</font> hablándole a una estatua de piedra.", 
                                 "彼[かれ]は 誰[だれ]の 言[い]うことも 聞[き]こうとしない。 石像[せきぞう]にでも 話し掛[はなしか]ける&nbsp;<font color=\"#ff0000\">方[ほう]が 増[ま]し</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">だ</font></span>。", 
                                 "方が増しだ"
                             ], 
@@ -9016,8 +9016,8 @@
                             "data": "", 
                             "fields": [
                                 "未だ決めていません。天気＿＿＿行きます。", 
-                                "Iré dependiendo del clima.", 
-                                "未[いま]だ 決[き]めていません。 天気[てんき]<span style=\"color: rgb(0, 0, 255)\">（の）いかんで（は）/（の）いかんによって（は）</span>&nbsp;行[い]きます。", 
+                                "Iré <font color=\"#ff0000\">dependiendo del</font> clima.", 
+                                "未[いま]だ 決[き]めていません。 天気[てんき]<font color=\"#ff0000\">（の）いかんで（は）/（の）いかんによって（は）</font>&nbsp;行[い]きます。", 
                                 "（の）いかんで（は）/（の）いかんによって（は）"
                             ], 
                             "flags": 0, 
@@ -9753,7 +9753,7 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿彼が来たら、あなたにお知らせします。", 
-                                "De cualquier forma, te aviso cuando él venga.", 
+                                "<font color=\"#ff0000\">De cualquier forma</font>, te aviso cuando él venga.", 
                                 "<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">何[いず]れにせよ/ 何[いず]れにしろ</font></span>&nbsp;彼[かれ]が 来[き]たら、あなたにお 知[し]らせします。", 
                                 "何れにせよ/何れにしろ"
                             ], 
@@ -10985,7 +10985,7 @@
                             "data": "", 
                             "fields": [
                                 "産科医に加え、助産師も不足と我が国の産科医療が＿＿＿深刻な状況にあることが改めて浮き彫りになった。", 
-                                "Con la falta de parteras sumada a la de obstetras, es evidente que los cuidados obstétricos en nuestro país están en una situación extremadamente grave.", 
+                                "Con la falta de parteras sumada a la de obstetras, es evidente que los cuidados obstétricos en nuestro país están en una situación <font color=\"#ff0000\">extremadamente</font> grave.", 
                                 "産科[さんか] 医[い]に 加[くわ]え、 助産[じょさん] 師[し]も 不足[ふそく]と 我が国[わがくに]の 産科[さんか] 医療[いりょう]が <font color=\"#ff0000\">極[きわ]めて</font> 深刻[しんこく]な 状況[じょうきょう]にあることが 改[あらた]めて 浮き彫[うきぼ]りになった。", 
                                 "極めて"
                             ], 
@@ -12306,7 +12306,7 @@
                             "data": "", 
                             "fields": [
                                 "本や雑誌はその＿＿＿しておきなさい。", 
-                                "Deja los libros y las revistas como están.", 
+                                "Deja los libros y las revistas <font color=\"#ff0000\">como están</font>.", 
                                 "本[ほん]や 雑誌[ざっし]はその<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">まま（に）</font></span>しておきなさい。", 
                                 "まま（に）"
                             ], 
@@ -15030,7 +15030,7 @@
                             "data": "", 
                             "fields": [
                                 "昔＿＿＿やり方。", 
-                                "Un forma de hacer las cosas desde tiempos inmemoriales.", 
+                                "Un forma de hacer las cosas <font color=\"#ff0000\">desde</font> tiempos inmemoriales.", 
                                 "昔[むかし]<font color=\"#ff0000\">ながらの</font>やり 方[かた]。", 
                                 "ながらの"
                             ], 
@@ -18270,9 +18270,9 @@
                             "data": "", 
                             "fields": [
                                 "<div>野心は抱く＿＿＿が、容易に達成され得ない。</div>", 
-                                "Aunque es bueno tener ambiciones, éstas no son fáciles de conseguir.", 
+                                "Aunque <font color=\"#ff0000\">es bueno</font> tener ambiciones, éstas no son fáciles de conseguir.", 
                                 "野心[やしん]は 抱[いだ]くに <font color=\"#ff0000\">値[あたい]する</font>が、 容易[ようい]に 達成[たっせい]され 得[え]ない。", 
-                                "に値する/に耐える"
+                                "に値する"
                             ], 
                             "flags": 0, 
                             "guid": "kO)i2n-DQu", 
@@ -22116,7 +22116,7 @@
                             "fields": [
                                 "彼女は彼に食べ物＿＿＿金も与えた。", 
                                 "Ella <font color=\"#ff0000\">no sólo</font> le dio comida <font color=\"#ff0000\">sino también</font> dinero.", 
-                                "彼女[かのじょ]は 彼[かれ]に 食べ物[たべもの]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font> 金[きん]も 与[あた]えた。", 
+                                "彼女[かのじょ]は 彼[かれ]に 食べ物[たべもの]<font color=\"#ff0000\">だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか</font> 金[かねも 与[あた]えた。", 
                                 "だけで（は）なく/（だけ/である）にとどまらず/のみならず/のみか"
                             ], 
                             "flags": 0, 
@@ -27064,9 +27064,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "昔がお金がなくて、家賃でさえ払えなかったから、路上で暮らす＿＿＿った。", 
+                                "昔はお金がなくて、家賃でさえ払えなかったから、路上で暮らす＿＿＿った。", 
                                 "En el pasado no tenía dinero y ni siquiera tenía para pagar una renta así que acabé viviendo en la calle <font color=\"#ff0000\">como resultado</font>.", 
-                                "昔[むかし]がお 金[かね]がなくて、 家賃[やちん]でさえ 払[はら]えなかったから、 路上[ろじょう]で 暮[く]らす&nbsp;<font color=\"#ff0000\">始末[しまつ]だ</font>った。", 
+                                "昔[むかし]はお 金[かね]がなくて、 家賃[やちん]でさえ 払[はら]えなかったから、 路上[ろじょう]で 暮[く]らす&nbsp;<font color=\"#ff0000\">始末[しまつ]だ</font>った。", 
                                 "始末だ"
                             ], 
                             "flags": 0, 
@@ -27085,9 +27085,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "家族が極めて貧しかったので、子供の時から望む＿＿＿。", 
+                                "家族が極めて貧しかったので、彼は子供の時から望む＿＿＿。", 
                                 "Él robaba desde que era niño <font color=\"#ff0000\">como resultado de</font> la extrema pobreza en la que vivía su familia.", 
-                                "家族[かぞく]が 極[きわ]めて 貧[まず]しかったので、 子供[こども]の 時[とき]から 望[のぞ]む <font color=\"#ff0000\">始末[しまつ]だ</font>。", 
+                                "家族[かぞく]が 極[きわ]めて 貧[まず]しかったので、 彼[かれ]は 子供[こども]の 時[とき]から 望[のぞ]む <font color=\"#ff0000\">始末[しまつ]だ</font>。", 
                                 "始末だ"
                             ], 
                             "flags": 0, 
@@ -27106,9 +27106,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "私の息子は一行に勉強したくない。甘やかすからの＿＿＿のではないと時々思う。", 
+                                "私の息子は一行に勉強したくない。甘やかすからの＿＿＿のではないかと時々思う。", 
                                 "Mi hijo no quiere estudiar para nada. A veces me pregunto si no <font color=\"#ff0000\">será el resultado de</font> haberlo malcriado.", 
-                                "私[わたし]の 息子[むすこ]は 一行[いっこう]に 勉強[べんきょう]したくない。 甘[あま]やかすからの <font color=\"#ff0000\">始末[しまつ]</font>のではないと 時々[ときどき] 思[おも]う。", 
+                                "私[わたし]の 息子[むすこ]は 一行[いっこう]に 勉強[べんきょう]したくない。 甘[あま]やかすからの <font color=\"#ff0000\">始末[しまつ]</font>のではないかと 時々[ときどき] 思[おも]う。", 
                                 "始末"
                             ], 
                             "flags": 0, 
