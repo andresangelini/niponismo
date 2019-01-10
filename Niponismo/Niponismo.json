@@ -1383,7 +1383,7 @@
                                 "如何に", 
                                 "如何[いか]に", 
                                 "いかに", 
-                                "cuán", 
+                                "cuán / cuánto / cuánta / cómo", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + S / Aい / Aな / V", 
                                 "Se usa para <font color=\"#ff0000\">cuantificar</font> algo, pero no se debe confundir con el interrogativo <font color=\"#ff0000\">いくら</font>.<div><br /></div><div>彼女[かのじょ]が<font color=\"#ff0000\">＿＿＿</font> 努力[どりょく]しようと、 彼[かれ]には 勝[か]てない。</div><div><i>No importa <font color=\"#ff0000\">cuánto</font> ella se esfuerce, no le puede ganar</i>.</div><div><br /></div><div>彼女[かのじょ]が<font color=\"#ff0000\">＿＿＿</font> 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。</div><div><i>Es sorprendente <font color=\"#ff0000\">cuán</font> poco ella sabe sobre el mundo</i>.</div>", 
                                 "", 
@@ -2836,13 +2836,13 @@
                                 "ながらに/ながらの", 
                                 "ながらに/ながらの", 
                                 "ながらに/ながらの", 
-                                "entretanto", 
-                                "Sustantivo + forma gramatical.<div>Adjetivo な + forma gramatical.</div><div>Adjetivo い + forma gramatical.</div><div>Verbo sin ます + forma gramatical.</div><div><br /></div><div>Forma gramatical + して.</div><div>Forma gramatical (に) + verbo o adjetivo.</div><div>Forma gramatical (の) + sustantivo.</div>", 
-                                "Equivalente a その状態のまま, lo que quiere decir que se usa para expresar que algo es o ocurre desde que un estado determinado comenzó.&nbsp;Puede interpretarse como \"entretanto\", \"mientras\", \"aún (siendo)\", etc.&nbsp;Cuando se usa junto a して significa \"desde que\". Por último, esta forma gramatical termina con に cuando lo que sigue es un verbo o adjetivo ya que actúa como adverbio, y termina con の cuando lo siguiente es un sustantivo, ya que se comporta como un adjetivo.", 
-                                "彼女[かのじょ]は 涙[なみだ]＿＿＿ 友達[ともだち]と 別[わか]れた。", 
-                                "Ella se alejó de su amigo entre lágrimas.", 
-                                "彼[かれ]は 子供[こども]＿＿＿お 母[か]さんを 助[たす]けるために 一生懸命[いっしょうけんめい] 働[はたら]いた。", 
-                                "Aún siendo tan solo un niño, trabajó arduamente para poder ayudarle a su madre.", 
+                                "entre / desde / de", 
+                                "S / Aな / Aい + <font color=\"#ff0000\">＿＿＿<br /></font><div>V<strike>ます</strike> +&nbsp;<span style=\"color: rgb(255, 0, 0);\">＿＿＿</span><font color=\"#ff0000\">（して）</font></div><div><font color=\"#ff0000\">＿＿＿&nbsp;(に)</font> + V / Aい / Aな</div><div><font color=\"#ff0000\">＿＿＿&nbsp;(の)</font> + S</div>", 
+                                "Expresión equivalente a&nbsp;<span style=\"color: rgb(255, 0, 0)\">その 状態[じょうたい]のまま</span>&nbsp;para indicar que una acción toma lugar mientras el sujeto está en un determinado estado.<div><br /></div><div><div>彼女[かのじょ]は 涙[なみだ]<font color=\"#ff0000\">＿＿＿</font>&nbsp;友達[ともだち]と 別[わか]れた。</div><div><i>Ella se alejó de su amigo&nbsp;<font color=\"#ff0000\">entre</font>&nbsp;lágrimas</i>.</div></div><div><br /></div><div>Cuando se usa junto a <font color=\"#ff0000\">して</font>&nbsp;también puede significar&nbsp;<font color=\"#ff0000\">その 時[とき]から</font>.</div><div><br /></div><div>あの 子[こ]は 生[う]まれ<font color=\"#ff0000\">＿＿＿（にして）&nbsp;</font>動物[どうぶつ]と 通[つう]じ 合[あ]える 才能[さいのう]がある。</div><div><i>Esa niña tiene una hablidad que le permite hablar con los animales <font color=\"#ff0000\">desde</font> que nació</i>.</div><div><br /></div><div>Por último, esta forma gramatical termina con <font color=\"#ff0000\">に</font> cuando lo que sigue es un <font color=\"#ff0000\">verbo</font> o <font color=\"#ff0000\">adjetivo</font> ya que actúa como <font color=\"#ff0000\">adverbio</font>, y termina con <font color=\"#ff0000\">の</font> cuando lo siguiente es un <font color=\"#ff0000\">sustantivo</font>, ya que se comporta como un <font color=\"#ff0000\">adjetivo</font>.<div><br /></div><div>彼[かれ]は 子供[こども]<font color=\"#ff0000\">＿＿＿</font>お 母[か]さんを 助[たす]けるために 一生懸命[いっしょうけんめい] 働[はたら]いた。</div><div><i><font color=\"#ff0000\">Desde</font>&nbsp;que era un niño trabajó arduamente para poder ayudarle a su madre</i>.</div><div><br /></div><div>あの 店[みせ]は 昔[むかし]<font color=\"#ff0000\">＿＿＿</font> 方法[ほうほう]でパンを 作[つく]っている。</div><div><i>Esa tienda elabora pan usando métdos <font color=\"#ff0000\">de</font> antaño</i>.</div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2859,7 +2859,8 @@
                                 "Japonés", 
                                 "N1", 
                                 "tatoeba", 
-                                "ながらに"
+                                "ながらに", 
+                                "ながらの"
                             ]
                         }, 
                         {
@@ -13125,7 +13126,7 @@
                             "data": "", 
                             "fields": [
                                 "人手が足りなかったんですって？ちょっと連絡してくれ＿＿＿、手伝ってあげた＿＿＿。&nbsp;", 
-                                "¿Que no tenías suficiente gente? Si me hubieras llamado, te habría ayudado.", 
+                                "¿Que no tenías suficiente gente? <font color=\"#ff0000\">Si</font> me <font color=\"#ff0000\">hubieras</font> llamado, te <font color=\"#ff0000\">habría</font> ayudado.", 
                                 "人手[ひとで]が 足[た]りなかったんですって？ちょっと 連絡[れんらく]してくれ<font color=\"#ff0000\">れば/たら</font>、 手伝[てつだ]ってあげた<font color=\"#ff0000\">ものを</font>。", 
                                 "れば～ものを/たら～ものを"
                             ], 
@@ -16422,7 +16423,7 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿小さい店なので、彼は会計係から倉庫係まで多くの仕事を一手にこなさなければならない。", 
-                                "Es una tienda pequeña después de todo, así que él tiene que encargarse de varios trabajos; desde la contaduría hasta del stock.", 
+                                "Es una tienda pequeña <font color=\"#ff0000\">después de todo</font>, así que él tiene que encargarse de varios trabajos; desde la contaduría hasta del stock.", 
                                 "<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">何[なに]せ/ 何[なに]しろ/ 何[なに]にせよ/ 何[なに]にしろ</font></span>&nbsp;小[ちい]さい 店[みせ]なので、 彼[かれ]は 会計[かいけい] 係[がかり]から 倉庫[そうこ] 係[がかり]まで 多[おお]くの 仕事[しごと]を 一手[いって]にこなさなければならない。", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ], 
