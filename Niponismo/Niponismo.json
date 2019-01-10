@@ -5127,6 +5127,39 @@
                                 "Niponismo", 
                                 "始末だ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そばから", 
+                                "そばから", 
+                                "そばから", 
+                                "tan pronto (como)", 
+                                "V dicc. + <font color=\"#ff0000\">＿＿＿</font><div>Vている + <font color=\"#ff0000\">＿＿＿<br /></font><div>Vた + <font color=\"#ff0000\">＿＿＿</font></div></div>", 
+                                "Expresión que significa <font color=\"#ff0000\">〜すると直ぐに</font>&nbsp;y que indica que algo <font color=\"#ff0000\">negativo</font> toma lugar <font color=\"#ff0000\">inmediatamente después</font> de una determinada <font color=\"#ff0000\">acción</font>.<div><br /></div><div>Puede usarse para referirse a <font color=\"#ff0000\">algo que suele pasar más de una vez</font> usando el verbo en <font color=\"#ff0000\">forma diccionario o forma ている</font>.</div><div><br /></div><div>息子[むすこ]は、 片付[かたづ]けている<font color=\"#ff0000\">＿＿＿&nbsp;</font>部屋[へや]を 散[ち]らかす。</div><div><i>Mi hijo desordena el cuarto <font color=\"#ff0000\">tan pronto&nbsp;(como)</font> lo ordeno</i>.</div><div><br /></div><div>Así como también para algo que <font color=\"#ff0000\">sucedió sólo una vez</font> conjugando el verbo en <font color=\"#ff0000\">pasado</font>.</div><div><br /></div><div>彼[かれ]にそれを 言[い]った<font color=\"#ff0000\">＿＿＿</font> 彼女[かのじょ]は 後悔[こうかい]した。</div><div><i>Ella se arrepintió de haberle dicho eso a él <font color=\"#ff0000\">tan pronto (como)</font> se lo dijo</i>.</div><div><br /></div><div>Sin embargo, <font color=\"#ff0000\">no puede</font> ser sustituido por <font color=\"#ff0000\">〜なり</font> ya que con este último el verbo debe estar en <font color=\"#ff0000\">forma diccinario</font>, sin mencionar que además sólo puede usarse cuando el sujeto es la <font color=\"#ff0000\">tercera persona</font>.</div><div><br /></div><div>あの 生徒[せいと]は 勉強[べんきょう]した<font color=\"#ff0000\">＿＿＿/なり❌</font> 全部[ぜんぶ]を忘れた。</div><div><i>Ese estudiante olvidó todo <font color=\"#ff0000\">tan pronto (como)</font> lo estudió</i>.</div><div><br /></div><div>Además de que esta forma <font color=\"#ff0000\">si se puede usar para dar órdenes</font>.</div><div><br /></div><div>教[おそ]わった<font color=\"#ff0000\">＿＿＿&nbsp;</font>忘[わす]れないようにメモをとってくださいね。</div><div><i>Tomen nota para no olvidarse <font color=\"#ff0000\">tan pronto (como)</font> les enseñe</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "yqWV<-V2@b", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "そばから"
+                            ]
                         }
                     ]
                 }, 
@@ -27165,6 +27198,132 @@
                                 "Niponismo", 
                                 "始末だ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何であれ、教わった＿＿＿忘れる。", 
+                                "Sea lo que sea, me olvido <font color=\"#ff0000\">tan pronto</font> me lo enseñan.", 
+                                "何[なに]であれ、 教[おそ]わった<font color=\"#ff0000\">そばから</font> 忘[わす]れる。", 
+                                "そばから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HXebN91wXo", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "そばから"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "命令された＿＿＿忘れた所為で部長に叱られた。", 
+                                "El jefe me retó por olvidarme de lo que me ordenó <font color=\"#ff0000\">tan pronto</font> me lo dijo.", 
+                                "命令[めいれい]された<font color=\"#ff0000\">そばから</font> 忘[わす]れた 所為[しょい]で 部長[ぶちょう]に 叱[しか]られた。", 
+                                "そばから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "eeY<~[N#MG", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "そばから"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この年で食事した＿＿＿食事したことを忘れるのは可笑しくないよ。", 
+                                "A esta edad no es raro olvidarse de haber comido <font color=\"#ff0000\">tan pronto</font> uno termina.", 
+                                "この 年[とし]で 食事[しょくじ]した<font color=\"#ff0000\">そばから</font> 食事[しょくじ]したことを 忘[わす]れるのは 可笑[おか]しくないよ。", 
+                                "そばから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tRdu%xkIko", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "そばから"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "習ったそ＿＿＿忘れる漢字が沢山がある。", 
+                                "Hay un montón de kanji que se te olvidan <font color=\"#ff0000\">tan pronto como</font> los aprendes.", 
+                                "習[なら]ったそばから 忘[わす]れる 漢字[かんじ]が 沢山[たくさん]がある。", 
+                                "そばから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "M^R?8b5.hF", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "そばから"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼に「危ない」って言ったそ＿＿＿彼は転んでしまった。", 
+                                "<font color=\"#ff0000\">Tan pronto</font> le dije \"¡cuidado!\", él se cayó.", 
+                                "彼[かれ]に「 危[あぶ]ない」って 言[い]った<font color=\"#ff0000\">そばから</font> 彼[かれ]は 転[ころ]んでしまった。", 
+                                "ばから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HgD#BJAc:M", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "そばから"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私が部屋を片付けた＿＿＿姉さんは散らかす。", 
+                                "<font color=\"#ff0000\">Tan pronto como</font> ordeno el cuarto mi hermana lo desordena.", 
+                                "私[わたし]が 部屋[へや]を 片付[かたづ]けた<font color=\"#ff0000\">そばから</font> 姉[ねえ]さんは 散[ち]らかす。", 
+                                "そばから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iN[5~P5|&z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "そばから"
+                            ]
                         }
                     ]
                 }
@@ -27292,12 +27451,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "始末だ"
+                "Oración", 
+                "そばから"
             ], 
             "tmpls": [
                 {
@@ -27500,7 +27659,8 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo"
+                "Niponismo", 
+                "そばから"
             ], 
             "tmpls": [
                 {
