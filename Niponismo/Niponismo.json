@@ -56,7 +56,7 @@
                                 "飽[あ]く 迄[まで]も", 
                                 "あくまでも", 
                                 "lo más", 
-                                "Forma gramatical + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + S / V / Aい / Aな", 
                                 "Se refiere a \"<font color=\"#ff0000\">lo máximo</font>\" que algo puede ser cuando se usa <font color=\"#ff0000\">delante de un adjetivo</font> o \"<font color=\"#ff0000\">lo más que se pueda</font>\" cuando se usa <font color=\"#ff0000\">delante de una acción</font>.<div><br /></div><div>空[そら]は<font color=\"#ff0000\">＿＿＿</font> 青[あお]い。</div><div><i>El cielo es de <font color=\"#ff0000\">lo más</font> azul</i>.</div><div><br /></div><div>彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 沈黙[ちんもく]を 守[まも]ろうとした。</div><div><i>El trató de mantenerse callado <font color=\"#ff0000\">lo más</font> que pudo</i>.</div>", 
                                 "", 
                                 "", 
@@ -1880,13 +1880,13 @@
                                 "きっての", 
                                 "きっての", 
                                 "きっての", 
-                                "lo más... de todo", 
-                                "Sustantivo + forma gramatical + sustantivo.", 
-                                "Destaca algo o alguien ante todo lo demás. Se usa para decir cosas como \"la más bella de todas\".", 
-                                "あの 看護師[かんごし]なら 知[し]らないものはありません。この 病院[びょういん]＿＿＿ 美人[びじん]です。", 
-                                "No hay nadie que no conozca a esa enfermera. Ella es la belleza de este hospital.", 
-                                "奴は六本木＿＿＿ 凶悪漢[きょうあくかん]です。", 
-                                "El tipo es el villano más malvado de Roppongi.", 
+                                "el más... de / la más... de / lo más... de / las más... de / los más... de", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font> + S", 
+                                "<font color=\"#ff0000\">Destaca</font> algo o alguien <font color=\"#ff0000\">ante todo lo demás</font>. Se usa para decir cosas como \"la más bella de todas\".<div><br /></div><div>あの 看護師[かんごし]なら 知[し]らないものはありません。この 病院[びょういん]<font color=\"#ff0000\">＿＿＿</font> 美人[びじん]です。</div><div><i>No hay nadie que no conozca a esa enfermera. Ella es <font color=\"#ff0000\">la más</font> bella <font color=\"#ff0000\">de</font> este hospital</i>.</div><div><br /></div><div>奴は六本木<font color=\"#ff0000\">＿＿＿</font> 凶悪漢[きょうあくかん]です。</div><div><i>El tipo es <font color=\"#ff0000\">el</font> villano <font color=\"#ff0000\">más</font> malvado <font color=\"#ff0000\">de</font> Roppongi</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -5102,7 +5102,7 @@
                                 "始末だ", 
                                 "始末[しまつ]だ", 
                                 "しまつだ", 
-                                "como resultado (de) / ser el resultado de / ser lo que pasa al / ser lo que pasa cuando", 
+                                "como resultado (de) / ser el resultado (de) / ser lo que pasa al / ser lo que pasa cuando", 
                                 "V + <font color=\"#ff0000\">＿＿＿</font><div>この/その/あの + <font color=\"#ff0000\">＿＿＿</font></div>", 
                                 "Expresión similar a <font color=\"#ff0000\">〜羽目になり</font> que indica el <font color=\"#ff0000\">resultado negativo</font> de determinada <font color=\"#ff0000\">acción</font>.<div><br /></div><div>夫[おっと]には 失望[しつぼう]した。 仕事[しごと]がないどころか、パチンコの 所為[せい]で 借金[しゃっきん]する<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Estoy tan descepcionada de mi marido. No sólo no tiene trabajo, sino que además acabó endeudándose <font color=\"#ff0000\">como resultado de</font> jugar al pachinko</i>.</div><div><br /></div><div>Se puede usar además para definir el resultado junto con los pronombres demostrativos <font color=\"#ff0000\">この</font>, <font color=\"#ff0000\">その</font> y <font color=\"#ff0000\">あの</font>.</div><div><br /></div><div>微妙[びみょう]な 仕事[しごと]をあんなように 腕[うで]がない 奴[やつ]に 任[まか]せれば、この<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Esto <font color=\"#ff0000\">es lo que pasa cuando</font> le dejas un trabajo delicado a un tipo tan inútil como ése</i>.</div>", 
                                 "", 
@@ -5846,7 +5846,7 @@
                             "data": "", 
                             "fields": [
                                 "ここにゴミ捨てる＿＿＿。", 
-                                "No tirar basura aquí.", 
+                                "<font color=\"#ff0000\">No</font> tirar basura aquí.", 
                                 "ここにゴミ 捨[す]てる<font color=\"#ff0000\">べからず</font>。", 
                                 "べからず"
                             ], 
@@ -11187,7 +11187,7 @@
                             "data": "", 
                             "fields": [
                                 "時間もある＿＿＿、もう少し話しましょう。", 
-                                "Ya que tenemos tiempo, charlemos un poco más.", 
+                                "<font color=\"#ff0000\">Ya que</font> tenemos tiempo, charlemos un poco más.", 
                                 "時間[じかん]もある<font color=\"#ff0000\">ことだし</font>、もう 少[すこ]し 話[はな]しましょう。", 
                                 "ことだし"
                             ], 
@@ -13012,7 +13012,7 @@
                             "data": "", 
                             "fields": [
                                 "休暇中は何＿＿＿日々を過ごした。", 
-                                "Pasé las vacaciones sin siquiera hacer nada.", 
+                                "Pasé las vacaciones <font color=\"#ff0000\">sin siquiera hacer</font> nada.", 
                                 "休暇[きゅうか] 中[ちゅう]は 何[なに]<font color=\"#ff0000\">もしないで</font> 日々[ひび]を 過[す]ごした。", 
                                 "もしないで"
                             ], 
@@ -19671,7 +19671,7 @@
                             "data": "", 
                             "fields": [
                                 "我々の成功は彼が手伝ってくれるかどうか＿＿＿。", 
-                                "Nuestro éxito dependerá de si él nos ayuda o no.", 
+                                "Nuestro éxito <font color=\"#ff0000\">dependerá de</font> si él nos ayuda o no.", 
                                 "我々[われわれ]の 成功[せいこう]は 彼[かれ]が 手伝[てつだ]ってくれるかどうか<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -27266,9 +27266,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "習ったそ＿＿＿忘れる漢字が沢山がある。", 
+                                "習った＿＿＿忘れる漢字が沢山がある。", 
                                 "Hay un montón de kanji que se te olvidan <font color=\"#ff0000\">tan pronto como</font> los aprendes.", 
-                                "習[なら]ったそばから 忘[わす]れる 漢字[かんじ]が 沢山[たくさん]がある。", 
+                                "習[なら]った<font color=\"#ff0000\">そばから</font> 忘[わす]れる 漢字[かんじ]が 沢山[たくさん]がある。", 
                                 "そばから"
                             ], 
                             "flags": 0, 
@@ -27287,10 +27287,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼に「危ない」って言ったそ＿＿＿彼は転んでしまった。", 
+                                "彼に「危ない」って言った＿＿＿彼は転んでしまった。", 
                                 "<font color=\"#ff0000\">Tan pronto</font> le dije \"¡cuidado!\", él se cayó.", 
                                 "彼[かれ]に「 危[あぶ]ない」って 言[い]った<font color=\"#ff0000\">そばから</font> 彼[かれ]は 転[ころ]んでしまった。", 
-                                "ばから"
+                                "そばから"
                             ], 
                             "flags": 0, 
                             "guid": "HgD#BJAc:M", 
