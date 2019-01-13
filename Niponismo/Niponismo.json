@@ -11893,7 +11893,7 @@
                             "data": "", 
                             "fields": [
                                 "「冬のソナタ」を例に挙げる＿＿＿、いまや時ならぬ韓流ブームである。", 
-                                "No hace falta poner a \"Winter Sonata\" como ejemplo para demostrar que la cultura de Corea del Sur está teniendo un gran impacto en Japón.", 
+                                "<font color=\"#ff0000\">No hace falta</font> poner a \"Winter Sonata\" como ejemplo para demostrar que la cultura de Corea del Sur está teniendo un gran impacto en Japón.", 
                                 "「 冬[ふゆ]のソナタ」を 例[れい]に 挙[あ]げる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">までもなく</font></span>、いまや 時[とき]ならぬ 韓[かん] 流[りゅう]ブームである。", 
                                 "までもなく"
                             ], 
@@ -17968,7 +17968,7 @@
                             "data": "", 
                             "fields": [
                                 "あなたの為にどこ＿＿＿行きます。", 
-                                "Por ti voy a donde sea.", 
+                                "Por ti voy a donde <font color=\"#ff0000\">sea</font>.", 
                                 "あなたの 為[ため]にどこ<font color=\"#ff0000\">なりと</font> 行[い]きます。", 
                                 "なりと"
                             ], 
@@ -18852,7 +18852,7 @@
                             "data": "", 
                             "fields": [
                                 "停電＿＿＿、列車は停止します。", 
-                                "Durante un apagón los trenes se detienen.", 
+                                "<font color=\"#ff0000\">Durante</font> un apagón los trenes se detienen.", 
                                 "停電[ていでん]<font color=\"#ff0000\">にあって</font>、 列車[れっしゃ]は 停止[ていし]します。", 
                                 "にあって"
                             ], 
