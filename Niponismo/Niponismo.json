@@ -3068,13 +3068,13 @@
                                 "如し", 
                                 "如[ごと]し", 
                                 "ごとし", 
-                                "es como", 
-                                "Sustantivo + opcionalmente か + の + forma gramatical.<div>Verbo infinitio no pasado + が o かの + forma gramatical.</div>", 
-                                "Forma acraíca de uso únicamente escrito que se comporta como un sustantivo para expresar similitud. Equivalente a ようだ o みたいだ.&nbsp;Cuando se agrega la partícula か, ésta refleja un tono de incertidumbre o poca certeza por parte de quien habla equivalente al español \"es como si fuese\".", 
-                                "その 水泳者[すいえいしゃ]は 魚[さかな]（か）の＿＿＿。", 
-                                "Ese nadador es como un pez.", 
-                                "彼女との出会いは夢見る（が/かの）＿＿＿。", 
-                                "Encontrarme con ella fue como un sueño.", 
+                                "ser como", 
+                                "S + （か） + の + <font color=\"#ff0000\">＿＿＿</font><div>V infinitio no pasado + が o かの + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Forma acraíca de uso únicamente escrito que se comporta como un sustantivo para expresar <font color=\"#ff0000\">similitud</font>. Equivalente a <font color=\"#ff0000\">ようだ</font> o <font color=\"#ff0000\">みたいだ</font>.&nbsp;Cuando se agrega la partícula <font color=\"#ff0000\">か</font>, ésta refleja un tono de <font color=\"#ff0000\">incertidumbre</font> o <font color=\"#ff0000\">poca certeza</font> por parte de quien habla equivalente al español \"<font color=\"#ff0000\">es como si fuese</font>\".<div><br /></div><div>その 水泳者[すいえいしゃ]は 魚[さかな]（か）の<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Ese nadador <font color=\"#ff0000\">es como (si fuese)</font> un pez</i>.</div><div><br /></div><div>彼女との出会いは夢見る（が/かの）<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Encontrarme con ella <font color=\"#ff0000\">fue como (si fuese)</font> un sueño</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -5181,7 +5181,7 @@
                             "data": "", 
                             "fields": [
                                 "君は＿＿＿約束を守らなければならない。", 
-                                "Debés mantener esta promesa lo más que puedas.", 
+                                "Debés mantener esta promesa <font color=\"#ff0000\">lo más</font> que puedas.", 
                                 "君[きみ]は<font color=\"#ff0000\">&nbsp;飽[あ]く 迄[まで]も</font> 約束[やくそく]を 守[まも]らなければならない。", 
                                 "飽く迄も"
                             ], 
@@ -5702,7 +5702,7 @@
                             "data": "", 
                             "fields": [
                                 "売り上げできたのは、この素晴らしいチーム全員の協力<span style=\"font-family: Arial\">であれ</span>＿＿＿だ。", 
-                                "Pudimos obtener mejores ventas sólo gracias al esfuerzo de todo este maravilloso equipo.", 
+                                "Pudimos obtener mejores ventas <font color=\"#ff0000\">sólo</font> gracias al esfuerzo de todo este maravilloso equipo.", 
                                 "売り上[うりあ]げできたのは、この 素晴[すば]らしいチーム 全員[ぜんいん]の 協力[きょうりょく]であれ<font color=\"#ff0000\">ばこそ</font>だ。", 
                                 "ばこそ"
                             ], 
@@ -10727,8 +10727,8 @@
                             "data": "", 
                             "fields": [
                                 "お父さんは、何でもものごとを悪い方に考える＿＿＿。", 
-                                "Mi padre tiende a pensar todo de forma negativa.", 
-                                "お 父[とう]さんは、 何[なん]でもものごとを 悪[わる]い 方[ほう]に 考[かんが]える<span style=\"color: rgb(0, 0, 255)\">嫌[きら]いがある</span>。", 
+                                "Mi padre <font color=\"#ff0000\">tiende a</font> pensar todo de forma negativa.", 
+                                "お 父[とう]さんは、 何[なん]でもものごとを 悪[わる]い 方[ほう]に 考[かんが]える<font color=\"#ff0000\">嫌[きら]いがある</font>。", 
                                 "嫌いがある"
                             ], 
                             "flags": 0, 
@@ -13925,7 +13925,7 @@
                             "data": "", 
                             "fields": [
                                 "もし君＿＿＿いてくれれ＿＿＿幸せだよ。", 
-                                "Mientras tú estés a mi lado, yo soy feliz.", 
+                                "<font color=\"#ff0000\">Mientras</font> tú estés a mi lado, yo soy feliz.", 
                                 "もし 君[きみ]<font color=\"#ff0000\">さえ</font>いてくれれ<font color=\"#ff0000\">ば</font> 幸[しあわ]せだよ。", 
                                 "さえ～ば"
                             ], 
@@ -14388,7 +14388,7 @@
                             "data": "", 
                             "fields": [
                                 "そうだ、どうせなら散歩＿＿＿に、林道に行ってプチ森林浴でも・・・。", 
-                                "Cierto. Mientras damos un paseo podríamos ir por el camino boscoso y disfrutar del relajante paisaje.", 
+                                "Cierto. <font color=\"#ff0000\">Mientras</font> damos un paseo podríamos ir por el camino boscoso y disfrutar del relajante paisaje.", 
                                 "そうだ、どうせなら 散歩[さんぽ]<font color=\"#ff0000\">がてら</font>に、 林道[りんどう]に 行[い]ってプチ 森林浴[しんりんよく]でも・・・。", 
                                 "がてら"
                             ], 
@@ -18073,7 +18073,7 @@
                             "data": "", 
                             "fields": [
                                 "大至急お願い、＿＿＿早くお願いします。", 
-                                "Lo necesito tan pronto como sea posible.", 
+                                "Lo necesito <font color=\"#ff0000\">tan</font> pronto <font color=\"#ff0000\">como sea posible</font>.", 
                                 "大[だい] 至急[しきゅう]お 願[ねが]い、<font color=\"#ff0000\">なるべく</font> 早[はや]くお 願[ねが]いします。", 
                                 "なるべく"
                             ], 
@@ -19461,7 +19461,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>彼の生活は彼女＿＿＿。</div>", 
-                                "Su subsistencia depende de ella.", 
+                                "Su subsistencia <font color=\"#ff0000\">depende de</font> ella.", 
                                 "彼[かれ]の 生活[せいかつ]は 彼女[かのじょ]<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -19839,7 +19839,7 @@
                             "data": "", 
                             "fields": [
                                 "大切な人を亡くした者の苦しみは察する＿＿＿。", 
-                                "No es difícil adivinar lo qu edebe sentir alguien que perdió a un ser querido.", 
+                                "<font color=\"#ff0000\">No es difícil</font> adivinar lo qu edebe sentir alguien que perdió a un ser querido.", 
                                 "大切[たいせつ]な 人[ひと]を 亡[な]くした 者[もの]の 苦[くる]しみは 察[さっ]する<font color=\"#ff0000\">に 難[かた]くない</font>。", 
                                 "に難くない"
                             ], 
