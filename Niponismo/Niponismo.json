@@ -10496,7 +10496,7 @@
                             "data": "", 
                             "fields": [
                                 "仕事の＿＿＿、子供達にフランス語を教えるつもりです。", 
-                                "Además de trabajar, planeo enseñar francés a niños.", 
+                                "<font color=\"#ff0000\">Además de</font> trabajar, planeo enseñar francés a niños.", 
                                 "仕事[しごと]の <font color=\"#ff0000\">傍[かたわ]ら</font>、 子供[こども] 達[たち]に フランス語[ふらんすご]を 教[おし]えるつもりです。", 
                                 "傍ら"
                             ], 
@@ -10685,7 +10685,7 @@
                             "data": "", 
                             "fields": [
                                 "おじいちゃんは頑固で自分と違う考え方を認めようとしない＿＿＿。", 
-                                "Mi abuelo es testarudo y tiende a desaprovar las formas de pensar diferentes a las de él.", 
+                                "Mi abuelo es testarudo y <font color=\"#ff0000\">tiende a</font> desaprovar las formas de pensar diferentes a las de él.", 
                                 "おじいちゃんは 頑固[がんこ]で 自分[じぶん]と 違[ちが]う 考え方[かんがえかた]を 認[みと]めようとしない&nbsp;<font color=\"#ff0000\">嫌[きら]いがある</font>。", 
                                 "嫌いがある"
                             ], 
@@ -14005,7 +14005,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女の両親は娘の貯金が最早消えた＿＿＿＿と心配になった。", 
-                                "Sus padres se empezaron a preocupar de que ella vez ya haya perdido sus ahorros.", 
+                                "Sus padres se empezaron a preocupar <font color=\"#ff0000\">de que</font> ella vez ya haya perdido sus ahorros.", 
                                 "彼女[かのじょ]の 両親[りょうしん]は 娘[むすめ]の 貯金[ちょきん]が 最早[もはや] 消[き]えた<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">のではあるまいか</font></span>と 心配[しんぱい]になった。", 
                                 "のではあるまいか"
                             ], 
@@ -17506,7 +17506,7 @@
                             "data": "", 
                             "fields": [
                                 "お腹が空いたら、にぎり＿＿＿バナナ＿＿＿食べたらどう。", 
-                                "Si tienes hambre, ¿por qué no comes un nigiri o una banana?", 
+                                "Si tienes hambre, ¿por qué no comes un nigiri <font color=\"#ff0000\">o</font> una banana?", 
                                 "お 腹[なか]が 空[あ]いたら、にぎり<font color=\"#ff0000\">なり</font>バナナ<font color=\"#ff0000\">なり</font> 食[た]べたらどう。", 
                                 "なり～なり"
                             ], 
@@ -17842,7 +17842,7 @@
                             "data": "", 
                             "fields": [
                                 "いつか＿＿＿お申し付け下さい。", 
-                                "Contáctenos cuando sea, por favor.", 
+                                "Contáctenos cuando <font color=\"#ff0000\">sea</font>, por favor.", 
                                 "いつか<font color=\"#ff0000\">なりと</font>お 申し付[もうしつ]け 下[くだ]さい。", 
                                 "なりと"
                             ], 
@@ -21212,7 +21212,7 @@
                             "data": "", 
                             "fields": [
                                 "凄く詰まらないから、少なくとも読む＿＿＿本があったら、貸して。", 
-                                "Estoy increíblemente aburrido así que por lo menos tienes un libros que se deje leer, préstamelo.", 
+                                "Estoy increíblemente aburrido así que por lo menos tienes un libros que <font color=\"#ff0000\">se deje</font> leer, préstamelo.", 
                                 "凄[すご]く 詰[つ]まらないから、 少[すく]なくとも 読[よ]む<font color=\"#ff0000\">に 耐[た]える</font> 本[ほん]があったら、 貸[か]して。", 
                                 "に耐える"
                             ], 
