@@ -24,8 +24,8 @@
                                 "敢[あ]えて", 
                                 "あえて", 
                                 "atreverse", 
-                                "Forma gramatical + acción.", 
-                                "Si es positivo o negativo depende de la conjugación del verbo de la acción en cuestión.<div><br /></div><div><div>Punto gramatical + acción positiva: atreverse, animarse.</div><div>Punto gramatical + acción negativa: no atreverse, no animarse.</div></div>", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + acción", 
+                                "<div>Expresión que indica que <font color=\"#ff0000\">se tiene o no el coraje</font> para realizar una acción según dicha acción sea positiva o negativa.<br /><div><br /></div><div><div>彼[かれ]はやっと<font color=\"#ff0000\">＿＿＿</font> 好[す]きだって 言[い]ってくれた。</div></div></div><div><i>Al fin él se <font color=\"#ff0000\">atrevió</font> y me dijo que le gustaba</i>.</div><div><br /></div><div>美波[みなみ]は<font color=\"#ff0000\">＿＿＿&nbsp;</font>上司[じょうし]に 今年[ことし]のボナスについて 聞[き]いていない。</div><div><i>Minami <font color=\"#ff0000\">no se atreve</font> a preguntarle al jefe por el bono de este año</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -45,6 +45,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "敢えて"
                             ]
                         }, 
@@ -17806,7 +17807,7 @@
                             "data": "", 
                             "fields": [
                                 "その日が起こったことは多少＿＿＿覚えています。", 
-                                "Me acuerdo al menos un poco de lo que ocurrió ese día.", 
+                                "Me acuerdo <font color=\"#ff0000\">al menos</font> un poco de lo que ocurrió ese día.", 
                                 "その 日[ひ]が 起[お]こったことは 多少[たしょう]<font color=\"#ff0000\">なりとも</font> 覚[おぼ]えています。", 
                                 "なりとも"
                             ], 
@@ -19215,7 +19216,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らは、カルカッタからニューヨーク市＿＿＿、世界中に支部を持っている。", 
-                                "Ellos tienen sucursales en todo el mundo, desde Calcuta hasta Nueva York.", 
+                                "Ellos tienen sucursales en todo el mundo, desde Calcuta <font color=\"#ff0000\">hasta</font> Nueva York.", 
                                 "彼[かれ]らは、カルカッタからニューヨーク 市[し]<font color=\"#ff0000\">に 至[いた]るまで</font>、 世界中[せかいじゅう]に 支部[しぶ]を 持[も]っている。", 
                                 "に至るまで"
                             ], 
