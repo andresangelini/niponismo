@@ -1089,13 +1089,13 @@
                                 "ぐるみ", 
                                 "ぐるみ", 
                                 "ぐるみ", 
-                                "junto con", 
-                                "Sustantivo + forma gramatical.", 
-                                "Equivalente a ～と 一緒[いっしょ]に sólo que es un sufijo que se comporta como un sustantivo.", 
-                                "二人[ふらり]の 家族[かぞく]は 長年[ながねん]＿＿＿の 付[つ]き 合[あ]いをしている。", 
-                                "Las dos familias han tenido buenas relaciones desde hace tiempo.", 
-                                "そのマンションを 家財道具[かざいどうぐ]ぐるみそっくり 買[か]い 取[と]ることにした。", 
-                                "Decidí comprar ese apartamento con muebles y todo.", 
+                                "con la totalidad de / en la totalidad de / por la totalidad de", 
+                                "S&nbsp;+ <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Sufijo&nbsp;que indica la inclusión de la totalidad de algo.<div><br /></div><div>Es equivalente a&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜（を含めて）全部で</span>:</div><div><br /></div><div>その 家[いえ]は 土地[とち]<font color=\"#ff0000\">＿＿＿</font>で２５００ 万[まん] 円[えん]だって。</div><div><i>Dice que el precio de la casa<font color=\"#ff0000\">&nbsp;con</font>&nbsp;el terreno&nbsp;sale unos 228 mil dólares</i>.</div><div><div><br /></div><div>Como a&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜（を含めて）全員で</span>:</div><div><br /></div><div>彼[かれ]は 家族[かぞく]<font color=\"#ff0000\">＿＿＿</font>で 亡命[ぼうめい]したらしい。</div><div><i>Parece que emigró del país <font color=\"#ff0000\">con&nbsp;toda</font> su familia</i>.</div><div><br /></div><div>O&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜全体で</span>:</div><div><br /></div><div>そのマンションを 家財道具[かざいどうぐ]<font color=\"#ff0000\">＿＿＿</font>そっくり 買[か]い 取[と]ることにした。</div><div><i>Decidí comprar ese apartamento&nbsp;<font color=\"#ff0000\">con&nbsp;todos</font> los muebles incluídos</i>.</div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1111,6 +1111,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "ぐるみ"
                             ]
                         }, 
@@ -6038,7 +6039,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は、このチームには欠く＿＿＿選手であると思わないか。", 
-                                "<span style=\"font-family: 'Liberation Sans'\">¿No creen que él es un jugador indispensable para este equipo?</span>", 
+                                "<span style=\"font-family: 'Liberation Sans'\">¿No creen que él es un jugador <font color=\"#ff0000\">indispensable</font> para este equipo?</span>", 
                                 "彼[かれ]は、このチームには 欠[か]く<font color=\"#ff0000\">べからざる</font> 選手[せんしゅ]であると 思[おも]わないか。", 
                                 "べからざる"
                             ], 
@@ -8042,8 +8043,8 @@
                             "data": "", 
                             "fields": [
                                 "前述した＿＿＿、会議の日程が変更になりましたので、ご注意ください。", 
-                                "Como lo he mencionado antes, cambió el itinerario de la reunión, así que tenganlo presente.", 
-                                "前述[ぜんじゅつ]した<font color=\"#ff0000\">（が）&nbsp;</font><span style=\"color: rgb(0, 0, 255);font-family: 'Liberation Sans'\">如[ごと]く</span>、 会議[かいぎ]の 日程[にってい]が 変更[へんこう]になりましたので、ご 注意[ちゅうい]ください。", 
+                                "<font color=\"#ff0000\">Como</font> lo he mencionado antes, cambió el itinerario de la reunión, así que tenganlo presente.", 
+                                "前述[ぜんじゅつ]した<font color=\"#ff0000\">（が）&nbsp;<span style=\"font-family: 'Liberation Sans'\">如[ごと]く</span></font>、 会議[かいぎ]の 日程[にってい]が 変更[へんこう]になりましたので、ご 注意[ちゅうい]ください。", 
                                 "（が）如く"
                             ], 
                             "flags": 0, 
@@ -8181,9 +8182,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "このごろ町＿＿＿の活動は行われています。", 
-                                "Estos días se están llevando a cabo actividades <font color=\"#ff0000\">a lo largo de</font> toda la ciudad.", 
-                                "このごろ 町[まち]<font color=\"#ff0000\">ぐるみ</font>の 活動[かつどう]は 行[おこな]われています。", 
+                                "このごろ町＿＿＿で活動は行われています。", 
+                                "Estos días se están llevando a cabo actividades <font color=\"#ff0000\">por toda</font>&nbsp;la ciudad.", 
+                                "このごろ 町[まち]<font color=\"#ff0000\">ぐるみ</font>で 活動[かつどう]は 行[おこな]われています。", 
                                 "ぐるみ"
                             ], 
                             "flags": 0, 
@@ -8193,6 +8194,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぐるみ"
                             ]
@@ -8202,7 +8204,7 @@
                             "data": "", 
                             "fields": [
                                 "あの会社の会計官は、書類＿＿＿監獄へ持ってゆかれました。", 
-                                "Al contador de esa empresa se lo llevaron junto a sus papeles a la cárcel.", 
+                                "Al contador de esa empresa se lo llevaron a la cárcel junto<font color=\"#ff0000\">&nbsp;con</font><font color=\"#ff0000\">&nbsp;todos</font> sus papeles.", 
                                 "あの 会社[かいしゃ]の 会計[かいけい] 官[かん]は、 書類[しょるい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ぐるみ</font></span>&nbsp;監獄[かんごく]へ 持[も]ってゆかれました。", 
                                 "ぐるみ"
                             ], 
@@ -8213,6 +8215,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぐるみ"
                             ]
@@ -8222,7 +8225,7 @@
                             "data": "", 
                             "fields": [
                                 "奴等は人質＿＿＿お金を持ち去ってしまった。", 
-                                "Los tipos se llevaron el dinero con rehenes y todo.", 
+                                "Los tipos se llevaron el dinero junto&nbsp;<font color=\"#ff0000\">con&nbsp;todos</font> los rehenes.", 
                                 "奴等[やつら]は 人質[ひとじち]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ぐるみ</font></span>お 金[かね]を 持ち去[もちさ]ってしまった。", 
                                 "ぐるみ"
                             ], 
@@ -8233,6 +8236,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぐるみ"
                             ]
@@ -11174,7 +11178,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は話し振りが＿＿＿凡俗だ。", 
-                                "La forma de hablar de ella es extremadamente vulgar.", 
+                                "La forma de hablar de ella es <font color=\"#ff0000\">extremadamente</font> vulgar.", 
                                 "彼女[かのじょ]は 話[はな]し 振[ふ]りが <font color=\"#ff0000\">極[きわ]めて</font> 凡俗[ぼんぞく]だ。", 
                                 "極めて"
                             ], 
@@ -12768,7 +12772,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は＿＿＿思い出の人となってしまった。", 
-                                "Él ya se ha convertido en un recuerdo.", 
+                                "Él <font color=\"#ff0000\">ya</font> se ha convertido en un recuerdo.", 
                                 "彼[かれ]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font> 思い出[おもいで]の 人[ひと]となってしまった。", 
                                 "最早"
                             ], 
@@ -12999,7 +13003,7 @@
                             "data": "", 
                             "fields": [
                                 "私は何＿＿＿1時間そこで過ごした。", 
-                                "Pasé ahí una hora sin siquiera hacer nada.", 
+                                "Pasé ahí una hora <font color=\"#ff0000\">sin siquiera</font> hacer nada.", 
                                 "私[わたし]は 何[なに]<font color=\"#ff0000\">もしないで</font> 1 時間[じかん]そこで 過[す]ごした。", 
                                 "もしないで"
                             ], 
@@ -16632,7 +16636,7 @@
                             "data": "", 
                             "fields": [
                                 "この大学の法律図書館には、この大学＿＿＿充実した資料が揃っている。", 
-                                "La biblioteca de leyes de esta universidad recopila una perfecta colección de documentos como ninguna otra.", 
+                                "La biblioteca de leyes de esta universidad recopila una perfecta colección de documentos como <font color=\"#ff0000\">ninguna otra</font>.", 
                                 "この 大学[だいがく]の 法律[ほうりつ] 図書館[としょかん]には、この 大学[だいがく]<font color=\"#ff0000\">ならではの</font> 充実[じゅうじつ]した 資料[しりょう]が 揃[そろ]っている。", 
                                 "ならではの"
                             ], 
