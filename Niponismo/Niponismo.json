@@ -1089,9 +1089,9 @@
                                 "ぐるみ", 
                                 "ぐるみ", 
                                 "ぐるみ", 
-                                "con la totalidad de / en la totalidad de / por la totalidad de", 
-                                "S&nbsp;+ <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Sufijo&nbsp;que indica la inclusión de la totalidad de algo.<div><br /></div><div>Es equivalente a&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜（を含めて）全部で</span>:</div><div><br /></div><div>その 家[いえ]は 土地[とち]<font color=\"#ff0000\">＿＿＿</font>で２５００ 万[まん] 円[えん]だって。</div><div><i>Dice que el precio de la casa<font color=\"#ff0000\">&nbsp;con</font>&nbsp;el terreno&nbsp;sale unos 228 mil dólares</i>.</div><div><div><br /></div><div>Como a&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜（を含めて）全員で</span>:</div><div><br /></div><div>彼[かれ]は 家族[かぞく]<font color=\"#ff0000\">＿＿＿</font>で 亡命[ぼうめい]したらしい。</div><div><i>Parece que emigró del país <font color=\"#ff0000\">con&nbsp;toda</font> su familia</i>.</div><div><br /></div><div>O&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜全体で</span>:</div><div><br /></div><div>そのマンションを 家財道具[かざいどうぐ]<font color=\"#ff0000\">＿＿＿</font>そっくり 買[か]い 取[と]ることにした。</div><div><i>Decidí comprar ese apartamento&nbsp;<font color=\"#ff0000\">con&nbsp;todos</font> los muebles incluídos</i>.</div></div>", 
+                                "todo / toda / todo junto", 
+                                "S&nbsp;+ <font color=\"#ff0000\">＿＿＿</font> + で + acción<div>S + <font color=\"#ff0000\">＿＿＿</font>&nbsp;+ の + S</div>", 
+                                "Sufijo&nbsp;que <font color=\"#ff0000\">agrega</font> un sustantivo <font color=\"#ff0000\">a una totalidad</font> o que indica que una acción <font color=\"#ff0000\">abarca la totalidad</font> del mismo.<div><br /></div><div>Es equivalente a&nbsp;<span style=\"color: rgb(255, 0, 0)\">〜（を含めて）全部で</span>:</div><div><br /></div><div>その 家[いえ]は 土地[とち]<font color=\"#ff0000\">＿＿＿</font>で２５００ 万[まん] 円[えん]だって。</div><div><i>Dice que el precio de la casa&nbsp;y el terreno&nbsp;sale <font color=\"#ff0000\">todo junto</font> unos 228 mil dólares</i>.</div><div><div><br /></div><div>Como a&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜（を含めて）全員で</span>:</div><div><br /></div><div>彼[かれ]は 家族[かぞく]<font color=\"#ff0000\">＿＿＿</font>で 亡命[ぼうめい]したらしい。</div><div><i>Parece que é y su familia emigraron <font color=\"#ff0000\">todos juntos</font></i>.</div><div><br /></div><div>O&nbsp;<span style=\"color: rgb(255, 0, 0);\">〜全体で</span>:</div><div><br /></div><div>警察[けいさつ]は 彼[かれ]を 街[まち]<font color=\"#ff0000\">＿＿＿</font>で 徹底的[てっていてき]に 探[さが]していた。</div><div><i>La policía lo buscó exaustivamente <font color=\"#ff0000\">por toda</font> la ciudad</i>.</div></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -1388,7 +1388,7 @@
                                 "いかに", 
                                 "cuán / cuánto / cuánta / cómo", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + S / Aい / Aな / V", 
-                                "Se usa para <font color=\"#ff0000\">cuantificar</font> algo, pero no se debe confundir con el interrogativo <font color=\"#ff0000\">いくら</font>.<div><br /></div><div>彼女[かのじょ]が<font color=\"#ff0000\">＿＿＿</font> 努力[どりょく]しようと、 彼[かれ]には 勝[か]てない。</div><div><i>No importa <font color=\"#ff0000\">cuánto</font> ella se esfuerce, no le puede ganar</i>.</div><div><br /></div><div>彼女[かのじょ]が<font color=\"#ff0000\">＿＿＿</font> 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。</div><div><i>Es sorprendente <font color=\"#ff0000\">cuán</font> poco ella sabe sobre el mundo</i>.</div>", 
+                                "Se usa para <font color=\"#ff0000\">cuantificar</font> algo en frases interrogativas indirectas, por lo que no se debe confundir con el interrogativo directo&nbsp;<font color=\"#ff0000\">いくら</font>.<div><br /></div><div>彼女[かのじょ]が<font color=\"#ff0000\">＿＿＿</font> 努力[どりょく]しようと、 彼[かれ]には 勝[か]てない。</div><div><i>No importa <font color=\"#ff0000\">cuánto</font> ella se esfuerce, no le puede ganar</i>.</div><div><br /></div><div>彼女[かのじょ]が<font color=\"#ff0000\">＿＿＿</font> 世間[せかい]を 知[し]らないか 驚[おどろ]くほどだ。</div><div><i>Es sorprendente <font color=\"#ff0000\">cuán</font> poco ella sabe sobre el mundo</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -7280,7 +7280,7 @@
                             "data": "", 
                             "fields": [
                                 "どこ＿＿＿道路を横切る時に右左を見るというのはいいことだ。", 
-                                "Sea donde sea, es bueno mirar a ambos al momento de cruzar un camino.", 
+                                "<font color=\"#ff0000\">Sea</font> donde <font color=\"#ff0000\">sea</font>, es bueno mirar a ambos al momento de cruzar un camino.", 
                                 "どこ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">であれ/であろうと</font></span>&nbsp;道路[どうろ]を 横切[よこぎ]る 時[とき]に 右左[みぎひだり]を 見[み]るというのはいいことだ。", 
                                 "であれ/であろうと"
                             ], 
@@ -8184,8 +8184,8 @@
                             "fields": [
                                 "このごろ町＿＿＿で活動は行われています。", 
                                 "Estos días se están llevando a cabo actividades <font color=\"#ff0000\">por toda</font>&nbsp;la ciudad.", 
-                                "このごろ 町[まち]<font color=\"#ff0000\">ぐるみ</font>で 活動[かつどう]は 行[おこな]われています。", 
-                                "ぐるみ"
+                                "このごろ 町[まち]<font color=\"#ff0000\">ぐるみで</font> 活動[かつどう]は 行[おこな]われています。", 
+                                "ぐるみで"
                             ], 
                             "flags": 0, 
                             "guid": "Jyw0KnB)&m", 
@@ -8204,9 +8204,9 @@
                             "data": "", 
                             "fields": [
                                 "あの会社の会計官は、書類＿＿＿監獄へ持ってゆかれました。", 
-                                "Al contador de esa empresa se lo llevaron a la cárcel junto<font color=\"#ff0000\">&nbsp;con</font><font color=\"#ff0000\">&nbsp;todos</font> sus papeles.", 
-                                "あの 会社[かいしゃ]の 会計[かいけい] 官[かん]は、 書類[しょるい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ぐるみ</font></span>&nbsp;監獄[かんごく]へ 持[も]ってゆかれました。", 
-                                "ぐるみ"
+                                "Se llevaron al contador de la empresa y a sus papeles <font color=\"#ff0000\">todo junto</font> a la cárcel.", 
+                                "あの 会社[かいしゃ]の 会計[かいけい] 官[かん]は、 書類[しょるい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ぐるみで</font></span>&nbsp;監獄[かんごく]へ 持[も]ってゆかれました。", 
+                                "ぐるみで"
                             ], 
                             "flags": 0, 
                             "guid": "xc+lRdAG6C", 
@@ -8225,9 +8225,9 @@
                             "data": "", 
                             "fields": [
                                 "奴等は人質＿＿＿お金を持ち去ってしまった。", 
-                                "Los tipos se llevaron el dinero junto&nbsp;<font color=\"#ff0000\">con&nbsp;todos</font> los rehenes.", 
-                                "奴等[やつら]は 人質[ひとじち]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ぐるみ</font></span>お 金[かね]を 持ち去[もちさ]ってしまった。", 
-                                "ぐるみ"
+                                "Los tipos se llevaron el dinero y los rehenes <font color=\"#ff0000\">todo junto</font>.", 
+                                "奴等[やつら]は 人質[ひとじち]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ぐるみで</font></span>お 金[かね]を 持ち去[もちさ]ってしまった。", 
+                                "ぐるみで"
                             ], 
                             "flags": 0, 
                             "guid": "PA]O?NoYcd", 
@@ -9170,8 +9170,8 @@
                             "fields": [
                                 "肌の色＿＿＿、彼は万人の言論の自由を擁護した。&nbsp;", 
                                 "Él abogó por la libertad de expresión de todos <font color=\"#ff0000\">independientemente de</font> su color de piel.", 
-                                "肌[はだ]の 色[いろ]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（の）いかんによらず/（の）いかんにかかわらず</font></span>、 彼[かれ]は 万[まん] 人[にん]の 言論[げんろん]の 自由[じゆう]を 擁護[ようご]した。", 
-                                "（の）いかんによらず/（の）いかんにかかわらず"
+                                "肌[はだ]の 色[いろ]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（いかん/のいかん）によらず/<span style=\"color: rgb(255, 0, 0);\">（いかん/のいかん）</span>にかかわらず</font></span>、 彼[かれ]は 万[まん] 人[にん]の 言論[げんろん]の 自由[じゆう]を 擁護[ようご]した。", 
+                                "（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず"
                             ], 
                             "flags": 0, 
                             "guid": "ENpYna$9rN", 
@@ -9358,7 +9358,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は私にその問題を＿＿＿攻めるべきかについて教えてくれた。", 
-                                "Él me ilustró sobre cómo debía abordar el asunto.", 
+                                "Él me ilustró sobre <font color=\"#ff0000\">cómo</font> debía abordar el asunto.", 
                                 "彼[かれ]は 私[わたし]にその 問題[もんだい]を&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">如何[いか]に</font></span>&nbsp;攻[せ]めるべきかについて 教[おし]えてくれた。", 
                                 "如何に"
                             ], 
@@ -18400,7 +18400,7 @@
                             "data": "", 
                             "fields": [
                                 "費用＿＿＿だけの価値を提供する。", 
-                                "Ellos ofrecen precios que valen la pena.", 
+                                "Ellos ofrecen precios que <font color=\"#ff0000\">valen la pena</font>.", 
                                 "費用[ひよう]<font color=\"#ff0000\">に 値[あたい]する</font>だけの 価値[かち]を 提供[ていきょう]する。", 
                                 "に値する"
                             ], 
@@ -19767,7 +19767,7 @@
                             "data": "", 
                             "fields": [
                                 "すべては君が試験に通るかどうか＿＿＿。", 
-                                "Todo depende de si pasas el examen.", 
+                                "Todo <font color=\"#ff0000\">depende de</font> si pasas el examen.", 
                                 "すべては 君[きみ]が 試験[しけん]に 通[とお]るかどうか<font color=\"#ff0000\">にかかっている</font>。", 
                                 "にかかっている"
                             ], 
@@ -22738,7 +22738,7 @@
                             "fields": [
                                 "心配しないで。送別会は天候＿＿＿催されるだろう。", 
                                 "La despedida se celebrará <font color=\"#ff0000\">sin importar</font> el clima.", 
-                                "心配[しんぱい]しないで。 送別[そうべつ] 会[かい]は 天候[てんこう]<span style=\"color: rgb(255, 0, 0)\">いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>&nbsp;催[もよお]されるだろう。", 
+                                "心配[しんぱい]しないで。 送別[そうべつ] 会[かい]は 天候[てんこう]<font color=\"#ff0000\">（</font><span style=\"color: rgb(255, 0, 0)\">いかん/のいかん）によらず/（いかん/のいかん）にかかわらず</span>&nbsp;催[もよお]されるだろう。", 
                                 "（いかん/のいかん）によらず/（いかん/のいかん）にかかわらず"
                             ], 
                             "flags": 0, 
@@ -27706,6 +27706,69 @@
                                 "tatoeba", 
                                 "それなりの"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そのマンションを家財道具＿＿＿そっくり買い取ることにした。", 
+                                "Decidí comprar ese apartamento&nbsp;con los&nbsp;muebles <font color=\"#ff0000\">todo junto</font>.", 
+                                "そのマンションを 家財道具[かざいどうぐ]<font color=\"#ff0000\">ぐるみで</font>そっくり 買い取[かいと]ることにした。", 
+                                "ぐるみで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Qj>c%rZNyt", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ぐるみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "航空券は滞在費＿＿＿いくらですか。", 
+                                "¿Cuánto cuestan los pasajes con la estadía <font color=\"#ff0000\">todo junto</font>?", 
+                                "航空[こうくう] 券[けん]は 滞在[たいざい] 費[ひ]<font color=\"#ff0000\">ぐるみで</font>いくらですか。", 
+                                "ぐるみで"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u.,H4!*d)%", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ぐるみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私たちはすでに家族＿＿＿お付き合いがあります。", 
+                                "Nosotros ya teníamos un compromiso familiar.", 
+                                "私[わたし]たちはすでに 家族[かぞく]<font color=\"#ff0000\">ぐるみの</font>お 付き合[つきあ]いがあります。", 
+                                "ぐるみの"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Eqhg/+nUy?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ぐるみ"
+                            ]
                         }
                     ]
                 }
@@ -27836,9 +27899,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "それなりの"
+                "ぐるみ"
             ], 
             "tmpls": [
                 {
