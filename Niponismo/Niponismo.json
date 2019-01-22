@@ -5232,6 +5232,41 @@
                                 "それなりに", 
                                 "それなりの"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "そうもない/そうにない/そうにもない", 
+                                "そうもない/そうにない/そうにもない", 
+                                "そうもない/そうにない/そうにもない", 
+                                "no creer / no parecer / ser poco probable / ser improbable / no ser probable", 
+                                "V<strike>ます</strike> + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión que describe algo como <font color=\"#ff0000\">imposible</font> o <font color=\"#ff0000\">casi imposible</font>.<div><br /></div><div>仕事[しごと]は 溜[た]まったから、６ 時[じ]に 終[お]わり<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>。</div><div><i>Se me acumuló el trabajo así que <font color=\"#ff0000\">no creo</font> que pueda terminar para las seis</i>.</div><div><br /></div><div>私[わたし]はあなたみたいに 素晴[すば]らしい 女性[じょせい]に 幸[しあわ]せに 出来[でき]<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font> 男[おとこ]だと 思[おも]う。</div><div><i><font color=\"#ff0000\">No creo</font> que yo sea el hombre que pueda hacer feliz a una mujer tan maravillosa como tú</i>.</div><div><br /></div><div>Las tres variaciones están ordenas según la frecuencia de uso, siendo la primera la más común.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "N%Uu85jbnD", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
                         }
                     ]
                 }, 
@@ -27769,6 +27804,144 @@
                                 "Oración", 
                                 "ぐるみ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "これらの計画のうちどれも実現し＿＿＿。", 
+                                "<font color=\"#ff0000\">Ninguno</font> de estos planes <font color=\"#ff0000\">parecen</font> concretarse.", 
+                                "これらの 計画[けいかく]のうちどれも 実現[じつげん]し<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>。", 
+                                "そうもない/そうにない/そうにもない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bN=g>0$WF2", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らは結婚し＿＿＿。", 
+                                "<font color=\"#ff0000\">No parece</font> que se vayan a casar.", 
+                                "彼[かれ]らは 結婚[けっこん]し<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>。", 
+                                "そうもない/そうにない/そうにもない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "tgAyJP(G|B", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らはこんなに遅い時刻に来＿＿＿。", 
+                                "<font color=\"#ff0000\">No creo</font> que vayan a venir tan tarde a esta hora.", 
+                                "彼[かれ]らはこんなに 遅[おそ]い 時刻[じこく]に 来[き]<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>。", 
+                                "そうもない/そうにない/そうにもない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "IOI<ts0PA,", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は医者に煙草を止めるように言われているが、止められ＿＿＿。", 
+                                "El médico le dijo que dejara de fumar pero <font color=\"#ff0000\">no parece</font> que él pueda hacerlo.", 
+                                "彼[かれ]は 医者[いしゃ]に 煙草[たばこ]を 止[と]めるように 言[い]われているが、 止[と]められ<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>。", 
+                                "そうもない/そうにない/そうにもない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "z0f`>Pj<TR", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はそんなことを決して信じ＿＿＿。", 
+                                "<font color=\"#ff0000\">No creo</font> que el jamás fuera a creer eso.", 
+                                "彼[かれ]はそんなことを 決[けっ]して 信[しん]じ<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>。", 
+                                "そうもない/そうにない/そうにもない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iHInL9_7r/", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "勝利は得られ＿＿＿が、不可能でもない。", 
+                                "La victoria es improbable pero tampoco imposible.", 
+                                "勝利[しょうり]は 得[え]られ<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>が、 不可能[ふかのう]でもない。", 
+                                "そうもない/そうにない/そうにもない"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w|01ePWwja", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "そうにない", 
+                                "そうにもない", 
+                                "そうもない"
+                            ]
                         }
                     ]
                 }
@@ -27899,9 +28072,11 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "ぐるみ"
+                "tatoeba", 
+                "そうにない", 
+                "そうにもない", 
+                "そうもない"
             ], 
             "tmpls": [
                 {
@@ -28105,8 +28280,9 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "それなりに", 
-                "それなりの"
+                "そうにない", 
+                "そうにもない", 
+                "そうもない"
             ], 
             "tmpls": [
                 {
