@@ -5268,6 +5268,40 @@
                                 "そうにもない", 
                                 "そうもない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ただ〜だけ/ただ〜のみ", 
+                                "ただ〜だけ/ただ〜のみ", 
+                                "ただ〜だけ/ただ〜のみ", 
+                                "(tan) sólo / (tan) solamente", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + V / S / Aい / Aな&nbsp;+ <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Variación más larga de <font color=\"#ff0000\">〜だけ</font>. También se puede usar junto a <font color=\"#ff0000\">〜のみ</font> en ocasiones más formales.<br /><div><br /></div><div>幸[さいわ]い、 息子[むすこ]さんは 未[ま]だ 生[い]きているらしい。 後[あと]は<font color=\"#ff0000\">＿＿＿</font> 無事[ぶじ]に 帰[かえ]るように 祈[いの]る<font color=\"#ff0000\">＿＿＿</font>だ。</div><div><i>Afortunadamente parece que su hijo aún está vivo. Ahora <font color=\"#ff0000\">tan sólo</font> hay que rezar por que vuelva sano y salvo</i>.</div><div><br /></div><div>そのブランドの 支店[してん]は一々 閉店[へいてん]されてきました。<font color=\"#ff0000\">＿＿＿</font>&nbsp;本店[ほんてん]が 残[のこ]っている<font color=\"#ff0000\">＿＿＿</font>だ。</div><div><i>Las sucursales de esa marca fueron cerrando una por una. <font color=\"#ff0000\">Tan sólo</font> queda la casa matriz</i>.</div><div><br /></div><div>取[と]り 敢[あ]えず<font color=\"#ff0000\">＿＿＿&nbsp;</font>目[め]の 前[まえ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>集中[しゅうちゅう]してください。</div><div><i>Por ahora <font color=\"#ff0000\">tan sólo</font> concéntrece en lo que tiene enfrente, por favor</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "MtfHFrw_!L", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
                         }
                     ]
                 }, 
@@ -27952,6 +27986,138 @@
                                 "そうにもない", 
                                 "そうもない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今更＿＿＿この道を進み続く＿＿＿だ。", 
+                                "A estas alturas <font color=\"#ff0000\">sólo</font> nos queda seguir avanzando por este camino.", 
+                                "今更[いまさら]<font color=\"#ff0000\">ただ</font>この 道[みち]を 進[すす]み 続[つづ]く<font color=\"#ff0000\">だけ/のみ</font>だ。", 
+                                "ただ〜だけ/ただ〜のみ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "y(g^al6=Zt", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その会社に謝罪の手紙を送ったばかりです。今は＿＿＿お返事を頂く＿＿＿です。", 
+                                "Acabo de enviar una carta de disculpas. Ahora <font color=\"#ff0000\">sólo</font> resta esperar una respuesta.", 
+                                "その 会社[かいしゃ]に 謝罪[しゃざい]の 手紙[てがみ]を 送[おく]ったばかりです。 今[いま]は<font color=\"#ff0000\">ただ</font>お 返事[へんじ]を 頂[いただ]く<font color=\"#ff0000\">だけ/のみ</font>です。", 
+                                "ただ〜だけ/ただ〜のみ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r?.WiM+=vg", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ケーキを４０分でオーブンに入れて、その後＿＿＿冷ます＿＿＿だ。", 
+                                "Meta la torta en el horno por cuarenta minutos y luego <font color=\"#ff0000\">sólo</font> resta dejarla enfriar.", 
+                                "ケーキを４０ 分[ふん]でオーブンに 入[い]れて、その 後[ご]<font color=\"#ff0000\">ただ</font> 冷[さ]ます<font color=\"#ff0000\">だけ/のみ</font>だ。", 
+                                "ただ〜だけ/ただ〜のみ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N3r7%yh3DQ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "会場の準備はもう出来ておりました。これからは＿＿＿関係者の皆様に連絡する＿＿＿でございます。", 
+                                "Ya he realizado todos los preparativos de la sala de reuniones. De aqué en más <font color=\"#ff0000\">sólo</font> resta contactar a todos los involucrados.", 
+                                "会場[かいじょう]の 準備[じゅんび]はもう 出来[でき]ておりました。これからは<font color=\"#ff0000\">ただ</font> 関係[かんけい] 者[しゃ]の 皆様[みなさま]に 連絡[れんらく]する<font color=\"#ff0000\">だけ/のみ</font>でございます。", 
+                                "ただ〜だけ/ただ〜のみ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J$$m/c~9fI", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あのカップルは皆に反対されて、＿＿＿苦しみ＿＿＿の人生を送っていた。", 
+                                "Todos se opusieron a su relación y esa pareja <font color=\"#ff0000\">sólo</font> vivió sufrimiento.", 
+                                "あのカップルは 皆[みな]に 反対[はんたい]されて、<font color=\"#ff0000\">ただ</font> 苦[くる]しみ<font color=\"#ff0000\">だけ/のみ</font>の 人生[じんせい]を 送[おく]っていた。", 
+                                "ただ〜だけ/ただ〜のみ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p,2z52>%(8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの出鱈目を聞いていたら、＿＿＿呆然とする＿＿＿だった。", 
+                                "Al escuchar tal disparate <font color=\"#ff0000\">sólo</font> pude quedarme ahí pasmado.", 
+                                "あの 出鱈目[でたらめ]を 聞[き]いていたら、<font color=\"#ff0000\">ただ</font> 呆然[ぼうぜん]とする<font color=\"#ff0000\">だけ/のみ</font>だった。", 
+                                "ただ〜だけ/のみ〜だけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "I<x=DnR>%v", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ただ〜だけ", 
+                                "ただ〜のみ"
+                            ]
                         }
                     ]
                 }
@@ -28082,11 +28248,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "そうにない", 
-                "そうにもない", 
-                "そうもない"
+                "ただ〜だけ", 
+                "ただ〜のみ"
             ], 
             "tmpls": [
                 {
@@ -28290,9 +28455,8 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "そうにない", 
-                "そうにもない", 
-                "そうもない"
+                "ただ〜だけ", 
+                "ただ〜のみ"
             ], 
             "tmpls": [
                 {
