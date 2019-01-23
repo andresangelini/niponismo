@@ -1156,10 +1156,10 @@
                                 "ひとつ", 
                                 "ひとつ", 
                                 "probar hacer algo", 
-                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "<div>Al igual que &nbsp;試[ため]す o &nbsp;試[ため]して 見[み]る, se usa para expresar la intención de intentar hacer algo para ver qué sucede. Por ejemplo, presionar un botón.</div>", 
-                                "<font color=\"#ff0000\">＿＿＿</font>、 赤[あか]いボタンを 押[お]して 見[み]たかっただけだ。", 
-                                "Sólo quería <font color=\"#ff0000\">probar</font> presionando el botón rojo para ver qué pasaba.", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<div>Al igual que &nbsp;<font color=\"#ff0000\">試[ため]す</font> o &nbsp;<font color=\"#ff0000\">試[ため]して 見[み]る</font>, se usa para expresar la intención de <font color=\"#ff0000\">intentar hacer algo</font> para ver qué sucede. Por ejemplo, presionar un botón.</div><div><br /></div><div><font color=\"#ff0000\">＿＿＿</font>、 赤[あか]いボタンを 押[お]して 見[み]たかっただけだ。</div><div><i>Sólo quería&nbsp;<font color=\"#ff0000\">probar</font>&nbsp;presionando el botón rojo para ver qué pasaba</i>.</div>", 
+                                "<font color=\"#ff0000\"><br /></font>", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1287,9 +1287,9 @@
                                 "如何なる", 
                                 "如何[いか]なる", 
                                 "いかなる", 
-                                "cualquiera que sea", 
-                                "<font color=\"#ff0000\">＿＿＿</font> + sustantivo.", 
-                                "Forma más formal de どんな～. Dependiendo de con qué se lo combine puede cambiar ligeramente de significado. Si es acompañado por も, usualmente se lo traduce como \"ninguno\" y si en cambio, lo acompaña でも se entiende como \"cualquiera que sea\", por lo que en ese caso es similar a であれ, にせよ y にしろ.<div><br /></div><div>彼女[かのじょ]は 正[ただ]しいものと 正[ただ]しくないものとの、<font color=\"#ff0000\">＿＿＿</font> 相違[そうい]も 見逃[みのが]さなかった。</div><div><i>Ella no dejaba pasar por alto nada, <font color=\"#ff0000\">por más</font> mínima que fuera la diferencia entre lo correcto e incorrecto</i>.</div><div><br /></div><div>彼[かれ]は 提案[あんてい]に 対[たい]する<font color=\"#ff0000\">＿＿＿</font> 反論[はんろん]もただ 排除[はいじょ]した。</div><div><i>Él rechazaba <font color=\"#ff0000\">cualquier</font> objeción que le pusieran a la propuesta</i>.</div><div><br /></div><div>彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 困難[こんなん]に 出会[であ]っても、 気[き]を 落[お]とすようなことはない。</div><div><i><font color=\"#ff0000\">Cualquiera sea</font> la dificultad con la que él se encuentre, no se desanima</i>.</div>", 
+                                "cualquier / cualquiera / cualesquiera", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + S + acción + か<div><font color=\"#ff0000\">＿＿＿</font> + S + （なの） + か<br /><div><font color=\"#ff0000\">＿＿＿</font> + S + も</div></div><div><font color=\"#ff0000\">＿＿＿</font> + S + にも</div><div><font color=\"#ff0000\">＿＿＿</font> + S + でも / であれ /&nbsp;であろうと（も）</div><div><font color=\"#ff0000\">＿＿＿</font> + S + を / で / に + Vても/ Vおうと（も）</div>", 
+                                "Adjetivo indefinido más formal que <font color=\"#ff0000\">どんな</font> y <font color=\"#ff0000\">どのような</font>.<br /><div><br /></div><div>彼女[かのじょ]は 正[ただ]しいものと 正[ただ]しくないものとの、<font color=\"#ff0000\">＿＿＿</font> 相違[そうい]も 見逃[みのが]さなかった。</div><div><i>Ella no dejaba pasar por alto nada, <font color=\"#ff0000\">cualquiera</font> fuera la diferencia entre lo correcto y lo incorrecto</i>.</div><div><br /></div><div>彼[かれ]は 提案[あんてい]に 対[たい]する<font color=\"#ff0000\">＿＿＿</font> 反論[はんろん]もただ 排除[はいじょ]した。</div><div><i>Él rechazaba <font color=\"#ff0000\">cualquier</font> objeción que le pusieran a la propuesta</i>.</div><div><br /></div><div>彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 困難[こんなん]に 出会[であ]っても、 気[き]を 落[お]とすようなことはない。</div><div><i><font color=\"#ff0000\">Cualquiera</font> sea la dificultad con la que él se encuentre, no se desanima</i>.</div><div><br /></div><div>Esta expresión se usa a menudo junto con <font color=\"#ff0000\">〜でも</font>, <font color=\"#ff0000\">〜であれ</font> y <font color=\"#ff0000\">〜であろうと</font> cuando se el foco de la farse es aquello que justamente está indefinido.</div><div><br /></div><div><font color=\"#ff0000\">＿＿＿</font> 仕事[しごと]<font color=\"#ff0000\">でも/であれ/であろうと</font>、 彼[かれ]の 現状[げんじょう]にあってはお 金[かね]をもらったらそれだけはいいと 思[おも]う。ç</div><div><i><font color=\"#ff0000\">Cualquiera</font> sea el trabajo, mientras él reciba dinero pienso que eso es suficiente</i>.</div><div><br /></div><div>Pero si por el contrario, el foco está en una acción, entonces se usa junto a un verbo en forma <font color=\"#ff0000\">ても</font> o en forma <font color=\"#ff0000\">volitiva</font>.</div><div><br /></div><div>娘[むすめ]は 如何[いか]なる 専門[せんもん]を 勉強[べんきょう]<font color=\"#ff0000\">しても/しおうと（も）</font>、 一流[いちりゅう]の 大学[だいがく]に 行[い]った 方[ほう]がいい。</div><div><i><font color=\"#ff0000\">Cualquiera</font> sea la especialización que ella pretenda estudiar, es mejor que vaya a una universidad de primer nivel</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -2575,9 +2575,9 @@
                                 "ば～ものを/たら～ものを", 
                                 "ば～ものを/たら～ものを", 
                                 "ば～ものを/たら～ものを", 
-                                "si tan sólo", 
+                                "si tan sólo / bastar con", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + verbo る/た +&nbsp;<span style=\"color: rgb(255, 0, 0)\">＿＿＿</span><br /><div><span style=\"color: rgb(255, 0, 0);\">＿＿＿</span>&nbsp;+ adjetivo い +&nbsp;<span style=\"color: rgb(255, 0, 0);\">＿＿＿</span></div><div><span style=\"color: rgb(255, 0, 0);\">＿＿＿</span>&nbsp;+ adjetivo な sin +&nbsp;<span style=\"color: rgb(255, 0, 0);\">＿＿＿</span></div><div><span style=\"color: rgb(255, 0, 0);\">＿＿＿</span>&nbsp;+ sustantivo + である +&nbsp;<span style=\"color: rgb(255, 0, 0);\">＿＿＿</span></div>", 
-                                "Se usa para expresar <font color=\"#ff0000\">arrepentimiento</font> indicando <font color=\"#ff0000\">qué es lo que se debería haber hecho</font> o <font color=\"#ff0000\">debería haber pasado</font>.<div><br /></div><div>やってみれ<font color=\"#ff0000\">＿＿＿</font>できる<font color=\"#ff0000\">＿＿＿</font>、どうしてそんな 簡単[かんたん]なことをやらなかったんですか。</div><div><i><font color=\"#ff0000\">Si tan solo</font> lo hubieses intentado, podría haberlo logrado. ¿Por qué no quisistes si era tan sencillo</i>?</div><div><br /></div><div>僕[ぼく]に 連絡[れんらく]してくれれ<font color=\"#ff0000\">＿＿＿</font>、 直[す]ぐ 空港[くうこう]に 迎[むか]えに 行[い]ってあげた<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>¿Por qué no me llamaste? (<font color=\"#ff0000\">Si tan sólo</font> me hubieras llamado) Te hubiera ido a buscar al aeropuerto</i>.</div>", 
+                                "Se usa para expresar <font color=\"#ff0000\">arrepentimiento</font> indicando <font color=\"#ff0000\">qué es lo que se debería haber hecho</font> o <font color=\"#ff0000\">debería haber pasado</font>.<div><br /></div><div>やってみれ<font color=\"#ff0000\">＿＿＿</font>できる<font color=\"#ff0000\">＿＿＿</font>、どうしてそんな 簡単[かんたん]なことをやらなかったんですか。</div><div><i><font color=\"#ff0000\">Si tan sólo</font> lo hubieses intentado, podría haberlo logrado. ¿Por qué no quisistes si era tan sencillo</i>?</div><div><br /></div><div>僕[ぼく]に 連絡[れんらく]してくれれ<font color=\"#ff0000\">＿＿＿</font>、 直[す]ぐ 空港[くうこう]に 迎[むか]えに 行[い]ってあげた<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>¿Por qué no me llamaste? (<font color=\"#ff0000\">Si tan sólo</font> me hubieras llamado) Te hubiera ido a buscar al aeropuerto</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -2741,9 +2741,9 @@
                                 "さえ～ば/さえ～たら", 
                                 "さえ～ば/さえ～たら", 
                                 "さえ～ば/さえ～たら", 
-                                "si tan siquiera", 
-                                "Verbo sin ます + <font color=\"#ff0000\">＿＿＿</font><div>Verbo て + <font color=\"#ff0000\">＿＿＿</font></div><div>Sustantivo + opcionalmente で + <font color=\"#ff0000\">＿＿＿</font></div><div>Adjetivo い (sin い) + く + <font color=\"#ff0000\">＿＿＿</font></div><div>Adjetivo な + opcionalmente で o に + <font color=\"#ff0000\">＿＿＿</font></div>", 
-                                "Expresión usada para decir que <font color=\"#ff0000\">cierta cosa se hará o sucederá si se cumple con una condición</font>. El <font color=\"#ff0000\">さえ</font> nos indica aquí que \"<font color=\"#ff0000\">si tan siquiera</font>\" lo primero se cumple, se hará o sucederá lo segundo. Cuidado, no se puede usar <font color=\"#ff0000\">すら</font> de esta forma.<div><br /></div><div>薬[くすり]を 飲[の]み<font color=\"#ff0000\">＿＿＿</font>すれ<font color=\"#ff0000\">＿＿＿</font>&nbsp;風邪[かぜ]が 治[なお]ります。</div><div><i><font color=\"#ff0000\">Si</font> tomas el remedio, el resfriado se curará</i>.</div><div><br /></div><div>あなたはあそこで 黙[だま]って<font color=\"#ff0000\">＿＿＿</font>いてくれ<font color=\"#ff0000\">＿＿＿</font>いいです。</div><div><i>Me <font color=\"#ff0000\">basta con</font> que te quedes ahí callado</i>.</div><div><br /></div><div>宿題<font color=\"#ff0000\">＿＿＿</font>終わっ<font color=\"#ff0000\">＿＿＿</font>後で遊んでもいいです。</div><div><i><font color=\"#ff0000\">Si</font> terminas los deberes luego podrás ir a jugar</i>.</div><div><br /></div><div>ケーキは美味しく<font color=\"#ff0000\">＿＿＿</font>できれ<font color=\"#ff0000\">＿＿＿</font>彼が元気になります。</div><div><i><font color=\"#ff0000\">Basta con</font> que la torta salga rica para que él quede contento</i>.</div>", 
+                                "<div>mientras / en tanto / siempre y cuando / si tan sólo / si tan siquiera / basta con</div>", 
+                                "V<strike>ます</strike> + <font color=\"#ff0000\">＿＿＿</font><div>Vて + <font color=\"#ff0000\">＿＿＿</font></div><div>S + （で） + <font color=\"#ff0000\">＿＿＿</font></div><div>A<strike>い</strike> + く + <font color=\"#ff0000\">＿＿＿</font></div><div>Aな + （で/に） + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que <font color=\"#ff0000\">establece una condición</font> para que algo se cumpla. No se puede usar junto a <font color=\"#ff0000\">すら</font>.<div><br /></div><div>薬[くすり]を 飲[の]み<font color=\"#ff0000\">＿＿＿</font>すれ<font color=\"#ff0000\">＿＿＿</font>&nbsp;風邪[かぜ]が 治[なお]ります。</div><div><i><font color=\"#ff0000\">Siempre y cuando</font> tomes el remedio, el resfriado se te curará</i>.</div><div><br /></div><div>あなたはあそこで 黙[だま]って<font color=\"#ff0000\">＿＿＿</font>いてくれ<font color=\"#ff0000\">＿＿＿</font>いいです。</div><div><i><font color=\"#ff0000\">Mientras</font> te quedes cayado todo estará bien</i>.</div><div><br /></div><div>宿題[しゅくだい]<font color=\"#ff0000\">＿＿＿&nbsp;</font>終[お]わっ<font color=\"#ff0000\">＿＿＿&nbsp;</font>後[あと]で 遊[あそ]んでもいいです。</div><div><i>Podrás ir a jugar más tarde&nbsp;<font color=\"#ff0000\">siempre y cuando</font> termines los deberes</i>.</div><div><br /></div><div>ケーキは 美味[おい]しく<font color=\"#ff0000\">＿＿＿</font>できれ<font color=\"#ff0000\">＿＿＿&nbsp;</font>彼[かれ]が 元気[げんき]になります。</div><div><i>Él estará contento <font color=\"#ff0000\">siempre y cuando</font> la torta esté rica</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -2763,6 +2763,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "さえ～ば/さえ～たら"
                             ]
                         }, 
@@ -3104,12 +3105,12 @@
                                 "ないものでもない", 
                                 "ないものでもない", 
                                 "no es que no", 
-                                "Verbo negativo sin ない + forma gramatical.", 
-                                "Forma que usa el doble negativo para expresar que algo es posible. En tal sentido, equivale a もしかしたら、～かもしれない.", 
-                                "今[いま]すぐ 行[い]ければ、 彼[かれ]に 追[お]い 付[つ]か＿＿＿。", 
-                                "Si vas ahora mismo, tal vez lo puedas alcanzar.", 
-                                "条件によっては、その内定を引き受け＿＿＿。", 
-                                "Dependiendo de las condiciones, puede que acepte esa oferta tentativa de trabajo.", 
+                                "V<strike>ない</strike> + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Forma que usa el doble negativo para expresar que algo es posible. En tal sentido, equivale a <font color=\"#ff0000\">もしかしたら、～かもしれない</font>.<div><br /></div><div>今[いま]すぐ 行[い]ければ、 彼[かれ]に 追[お]い 付[つ]か<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si vas ahora mismo, <font color=\"#ff0000\">tal vez</font> lo puedas alcanzar</i>.</div><div><br /></div><div>条件によっては、その内定を引き受け<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Dependiendo de las condiciones, <font color=\"#ff0000\">puede que</font> acepte esa oferta tentativa de trabajo</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -6234,7 +6235,7 @@
                             "data": "", 
                             "fields": [
                                 "このお支払いの問題が解決できるよう、ご指摘の件を改善＿＿＿努力いたします。&nbsp;", 
-                                "Nos esforzaremos para poder mejorar el asunto que usted nos indicó así resolver el problema con el pago.", 
+                                "Nos esforzaremos <font color=\"#ff0000\">para poder</font> mejorar el asunto que usted nos indicó así resolver el problema con el pago.", 
                                 "このお 支払[しはら]いの 問題[もんだい]が 解決[かいけつ]できるよう、ご 指摘[してき]の 件[けん]を 改善[かいぜん]<font color=\"#ff0000\">すべく/するべく</font> 努力[どりょく]いたします。", 
                                 "すべく/するべく"
                             ], 
@@ -9055,7 +9056,7 @@
                             "data": "", 
                             "fields": [
                                 "人生は＿＿＿本よりも興味深い。", 
-                                "La vida es más interesante que cualquier libro.", 
+                                "La vida es más interesante que <font color=\"#ff0000\">cualquier</font> libro.", 
                                 "人生[じんせい]は <font color=\"#ff0000\">如何[いか]なる</font> 本[ほん]よりも 興味深[きょうみぶか]い。", 
                                 "如何なる"
                             ], 
@@ -9076,7 +9077,7 @@
                             "data": "", 
                             "fields": [
                                 "人々の性格は彼らに与え得る、＿＿＿教えよりも、その職業に基づく。", 
-                                "El carácter de las personas depende más de sus ocupaciones que de cualquier enseñanza que les podamos dar.", 
+                                "El carácter de las personas depende más de sus ocupaciones que de <font color=\"#ff0000\">cualquier</font> enseñanza que les podamos dar.", 
                                 "人々[ひとびと]の 性格[せいかく]は 彼[かれ]らに 与[あた]え 得[え]る、&nbsp;<font color=\"#ff0000\">如何[いか]なる</font> 教[おし]えよりも、その 職業[しょくぎょう]に 基[もと]づく。", 
                                 "如何なる"
                             ], 
@@ -9097,7 +9098,7 @@
                             "data": "", 
                             "fields": [
                                 "昔は＿＿＿王も国民に重税を課して苦しめた。", 
-                                "En tiempos pasados, todos los reyes cargaban a sus ciudadanos con fuertes impuestos.", 
+                                "<div>En tiempos pasados, <font color=\"#ff0000\">cualquier</font> rey cargaba a sus ciudadanos con fuertes impuestos.</div>", 
                                 "昔[むかし]は <font color=\"#ff0000\">如何[いか]なる</font> 王[おう]も 国民[こくみん]に 重税[じゅうぜい]を 課[か]して 苦[くる]しめた。", 
                                 "如何なる"
                             ], 
@@ -13206,7 +13207,7 @@
                             "data": "", 
                             "fields": [
                                 "知ってるのであれ＿＿＿、教えてくれてもいい＿＿＿。", 
-                                "¡<font color=\"#ff0000\">Si</font> sabías, me <font color=\"#ff0000\">hubieras</font> dicho!", 
+                                "<font color=\"#ff0000\">Bastaba</font> con decirme si lo sabía.", 
                                 "知[し]ってるのであれ<font color=\"#ff0000\">ば</font>、 教[おし]えてくれてもいい<font color=\"#ff0000\">ものを</font>。", 
                                 "ば～ものを"
                             ], 
@@ -13227,7 +13228,7 @@
                             "data": "", 
                             "fields": [
                                 "すぐ医者に診てもら＿＿＿簡単に治っていた​＿＿＿。手遅れになってしまった。", 
-                                "Su huiese ido al médico inmediatamente, me huebiese curado sin ningún problema. Me demoré demasiado.", 
+                                "<font color=\"#ff0000\">Si tan sólo</font> huiese ido al médico inmediatamente, me huebiese curado sin ningún problema. Me demoré demasiado.", 
                                 "すぐ 医者[いしゃ]に 診[み]てもら<font color=\"#ff0000\">えば/ったら</font> 簡単[かんたん]に 治[なお]っていた<font color=\"#ff0000\">ものを</font>。 手遅[ておく]れになってしまった。", 
                                 "えば～ものを/ったら～ものを"
                             ], 
@@ -13248,7 +13249,7 @@
                             "data": "", 
                             "fields": [
                                 "インターネットで予約すれ＿＿＿簡単にすむ＿＿＿、彼女は国際電話をかけたんだって。", 
-                                "Si hubiese hecho las reservas por internet, hubiese sido mucho más sencillo, pero dice que lo hizo con una llamada internacional.", 
+                                "Hubiera sido mucho más sencillo <font color=\"#ff0000\">si tan sólo</font> hubiese reservado por internet, pero dice que lo hizo con una llamada internacional.", 
                                 "インターネットで 予約[よやく]すれ<font color=\"#ff0000\">ば</font> 簡単[かんたん]にすむ<font color=\"#ff0000\">ものを</font>、 彼女[かのじょ]は 国際[こくさい] 電話[でんわ]をかけたんだって。", 
                                 "ば～ものを"
                             ], 
@@ -13269,7 +13270,7 @@
                             "data": "", 
                             "fields": [
                                 "人手が足りなかったんですって？ちょっと連絡してくれ＿＿＿、手伝ってあげた＿＿＿。&nbsp;", 
-                                "¿Que no tenías suficiente gente? <font color=\"#ff0000\">Si</font> me <font color=\"#ff0000\">hubieras</font> llamado, te <font color=\"#ff0000\">habría</font> ayudado.", 
+                                "¿Que no tenías suficiente gente? <font color=\"#ff0000\">Si&nbsp;tan sólo</font> me hubieses&nbsp;llamado, te habría ayudado.", 
                                 "人手[ひとで]が 足[た]りなかったんですって？ちょっと 連絡[れんらく]してくれ<font color=\"#ff0000\">れば/たら</font>、 手伝[てつだ]ってあげた<font color=\"#ff0000\">ものを</font>。", 
                                 "れば～ものを/たら～ものを"
                             ], 
@@ -13290,7 +13291,7 @@
                             "data": "", 
                             "fields": [
                                 "本当のことを言＿＿＿いい＿＿＿、彼は嘘をついて信用を失ってしまった。", 
-                                "<font color=\"#ff0000\">Si hubiera</font> dicho la verdad, <font color=\"#ff0000\">le hubieran</font> creído. Pero él mintió y perdió toda confianza.", 
+                                "<font color=\"#ff0000\">Si tan sólo</font>&nbsp;hubiese dicho la verdad, le hubieran creído. Pero él mintió y perdió toda confianza.", 
                                 "本当[ほんとう]のことを 言[い]<font color=\"#ff0000\">えば/ったら</font>いい<font color=\"#ff0000\">ものを</font>、 彼[かれ]は 嘘[うそ]をついて 信用[しんよう]を 失[うしな]ってしまった。", 
                                 "えば～ものを/ったら～ものを"
                             ], 
@@ -13915,7 +13916,7 @@
                             "data": "", 
                             "fields": [
                                 "内の犬は近づけないで＿＿＿すれ＿＿＿噛みません。", 
-                                "Nuestro perro no te va a morder en tanto no te le acerques.", 
+                                "Nuestro perro no te va a morder <font color=\"#ff0000\">en tanto</font> no te le acerques.", 
                                 "内[うち]の 犬[いぬ]は 近[ちか]づけないで<font color=\"#ff0000\">さえ</font>すれ<font color=\"#ff0000\">ば</font> 噛[か]みません。", 
                                 "さえ～ば"
                             ], 
@@ -13926,6 +13927,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -13935,7 +13937,7 @@
                             "data": "", 
                             "fields": [
                                 "家賃は締切りまえに払って＿＿＿いれ＿＿＿問題ない。", 
-                                "Mientras pagues la renta antes de la fecha límite, no hay problema.", 
+                                "<font color=\"#ff0000\">Mientras</font> pagues la renta antes de la fecha límite, no hay problema.", 
                                 "家賃[やちん]は 締切[しめき]りまえに 払[はら]って<font color=\"#ff0000\">さえ</font>いれ<font color=\"#ff0000\">ば</font> 問題[もんだい]ない。", 
                                 "さえ～ば"
                             ], 
@@ -13946,6 +13948,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -13955,7 +13958,7 @@
                             "data": "", 
                             "fields": [
                                 "命令した通りでやって＿＿＿い＿＿＿いいでしょう。", 
-                                "Basta con que lo haga como me lo ordenaron, ¿no?", 
+                                "<font color=\"#ff0000\">Basta con</font> que lo haga como me lo ordenaron, ¿no?", 
                                 "命令[めいれい]した 通[とお]りでやって<font color=\"#ff0000\">さえ</font>い<font color=\"#ff0000\">れば/たら</font>いいでしょう。", 
                                 "さえ～れば/さえ～たら"
                             ], 
@@ -13966,6 +13969,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -13975,7 +13979,7 @@
                             "data": "", 
                             "fields": [
                                 "もっとしっかり勉強して＿＿＿いれ＿＿＿合格したのに。", 
-                                "Si hubieras estudiado más duro, habrías aprobado.", 
+                                "<font color=\"#ff0000\">Si tan sólo</font> estudiado más duro, habrías aprobado.", 
                                 "もっとしっかり 勉強[べんきょう]して<font color=\"#ff0000\">さえ</font>いれ<font color=\"#ff0000\">ば</font> 合格[ごうかく] 出来[でき]たのに。", 
                                 "さえ～ば"
                             ], 
@@ -13986,6 +13990,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -13995,7 +14000,7 @@
                             "data": "", 
                             "fields": [
                                 "お金が余りないんですから、安く＿＿＿あれ＿＿＿どんな食べ物でもいいです。", 
-                                "No tengo mucha plata así que cualquier comida estará bien siempre y cuando sea barato.", 
+                                "No tengo mucha plata así que cualquier comida estará bien <font color=\"#ff0000\">siempre y cuando</font> sea barato.", 
                                 "お 金[かね]が 余[あま]りないんですから、 安[やす]く<font color=\"#ff0000\">さえ</font>あれ<font color=\"#ff0000\">ば</font>どんな 食べ物[たべもの]でもいいです。", 
                                 "さえ～ば"
                             ], 
@@ -14006,6 +14011,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -14015,7 +14021,7 @@
                             "data": "", 
                             "fields": [
                                 "綺麗で＿＿＿あれ＿＿＿どんな花でもいいです。", 
-                                "Cualquier flor estará bien mientras sea linda.", 
+                                "Cualquier flor estará bien <font color=\"#ff0000\">mientras</font> sea linda.", 
                                 "綺麗[きれい]で<font color=\"#ff0000\">さえ</font>あれ<font color=\"#ff0000\">ば</font>どんな 花[はな]でもいいです。", 
                                 "さえ～ば"
                             ], 
@@ -14026,6 +14032,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -14046,6 +14053,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -14066,6 +14074,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -14075,7 +14084,7 @@
                             "data": "", 
                             "fields": [
                                 "電卓＿＿＿あれ＿＿＿計算出来る。", 
-                                "Puedo hacer las cuentas mientras tenga una calculadora.", 
+                                "Puedo hacer las cuentas <font color=\"#ff0000\">siempre y cuando</font> tenga una calculadora.", 
                                 "電卓[でんたく]<font color=\"#ff0000\">さえ</font>あれ<font color=\"#ff0000\">ば</font> 計算[けいさん]出来る。", 
                                 "さえ～ば"
                             ], 
@@ -14086,6 +14095,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N3", 
+                                "Niponismo", 
                                 "Oración", 
                                 "さえ～ば/さえ～たら"
                             ]
@@ -14135,7 +14145,7 @@
                             "data": "", 
                             "fields": [
                                 "部屋が静かになった時インディアナ・ジョーンズは罠＿＿＿と迷いました。", 
-                                "Indiana Jones comenzó a dudar si no era una trampa cuando la habitación quedó en silencio.", 
+                                "Indiana Jones comenzó a dudar <font color=\"#ff0000\">si no</font> era una trampa cuando la habitación quedó en silencio.", 
                                 "部屋[へや]が 静[しず]かになった 時[とき]インディアナ・ジョーンズは 罠[わな]<font color=\"#ff0000\" style=\"font-family: 'Liberation Sans';\">ではあるまいか</font>と&nbsp;迷[まよ]いました。", 
                                 "ではあるまいか"
                             ], 
@@ -14760,7 +14770,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>ここでの私の関心は、ウーマン・リブ運動が消えつつあるの＿＿＿ということである。</div>", 
-                                "Mi preocupación aquí es si el moviemiento de las mujeres desaparece o no.", 
+                                "Mi preocupación aquí es si el moviemiento de las mujeres desaparece <font color=\"#ff0000\">o no</font>.", 
                                 "ここでの 私[わたし]の 関心[かんしん]は、ウーマン・リブ 運動[うんどう]が 消[き]えつつあるの<font color=\"#ff0000\">か 否[いな]か</font>ということである。", 
                                 "か否か"
                             ], 
@@ -16755,7 +16765,7 @@
                             "data": "", 
                             "fields": [
                                 "辞書がある＿＿＿、何もなくてはこの文章はとても読めるものではない。", 
-                                "No sé con diccionario, pero así sin nada este texto no se puede leer.", 
+                                "<font color=\"#ff0000\">No sé</font> con diccionario, <font color=\"#ff0000\">pero</font> así sin nada este texto no se puede leer.", 
                                 "辞書[じしょ]がある<font color=\"#ff0000\">ならいざ 知[し]らず</font>、 何[なに]もなくてはこの 文章[ぶんしょう]はとても 読[よ]めるものではない。", 
                                 "ならいざ知らず"
                             ], 
@@ -27925,7 +27935,7 @@
                             "data": "", 
                             "fields": [
                                 "勝利は得られ＿＿＿が、不可能でもない。", 
-                                "La victoria es improbable pero tampoco imposible.", 
+                                "La victoria es <font color=\"#ff0000\">improbable</font> pero tampoco imposible.", 
                                 "勝利[しょうり]は 得[え]られ<font color=\"#ff0000\">そうもない/そうにない/そうにもない</font>が、 不可能[ふかのう]でもない。", 
                                 "そうもない/そうにない/そうにもない"
                             ], 
