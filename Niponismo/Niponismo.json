@@ -9407,7 +9407,7 @@
                             "data": "", 
                             "fields": [
                                 "人間はどのくらい長く生きるかではなくて、＿＿＿生きるか、その生き方が問題である。", 
-                                "Lo importante no es cuánto tiempo vivamos, sino cómo.", 
+                                "Lo importante no es cuánto tiempo vivamos, sino <font color=\"#ff0000\">cómo</font>.", 
                                 "人間[にんげん]はどのくらい 長[なが]く 生[い]きるかではなくて、&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">如何[いか]に</font></span>&nbsp;生[い]きるか、その 生き方[いきかた]が 問題[もんだい]である。", 
                                 "如何に"
                             ], 
@@ -12139,7 +12139,7 @@
                             "data": "", 
                             "fields": [
                                 "論じる＿＿＿基本的人権は尊重されなければならない。", 
-                                "De más está decir que los derechos humanos fundamentales deben ser respetados.", 
+                                "<font color=\"#ff0000\">De más está</font> decir que los derechos humanos fundamentales deben ser respetados.", 
                                 "論[ろん]じる<font color=\"#ff0000\">までもなく</font> 基本[きほん] 的[てき] 人権[じんけん]は 尊重[そんちょう]されなければならない。", 
                                 "までもなく"
                             ], 
