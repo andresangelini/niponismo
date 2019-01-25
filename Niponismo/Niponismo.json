@@ -25,7 +25,7 @@
                                 "あえて", 
                                 "atreverse", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + acción", 
-                                "<div>Expresión que indica que <font color=\"#ff0000\">se tiene o no el coraje</font> para realizar una acción según dicha acción sea positiva o negativa.<br /><div><br /></div><div><div>彼[かれ]はやっと<font color=\"#ff0000\">＿＿＿</font> 好[す]きだって 言[い]ってくれた。</div></div></div><div><i>Al fin él se <font color=\"#ff0000\">atrevió</font> y me dijo que le gustaba</i>.</div><div><br /></div><div>美波[みなみ]は<font color=\"#ff0000\">＿＿＿&nbsp;</font>上司[じょうし]に 今年[ことし]のボナスについて 聞[き]いていない。</div><div><i>Minami <font color=\"#ff0000\">no se atreve</font> a preguntarle al jefe por el bono de este año</i>.</div>", 
+                                "<div>Expresión que indica que <font color=\"#ff0000\">se tiene o no el coraje</font> para realizar una acción según dicha acción sea positiva o negativa.<br><div><br></div><div><div>彼[かれ]はやっと<font color=\"#ff0000\">＿＿＿</font> 好[す]きだって 言[い]ってくれた。</div></div></div><div><i>Al fin él se <font color=\"#ff0000\">atrevió</font> y me dijo que le gustaba</i>.</div><div><br></div><div>美波[みなみ]は<font color=\"#ff0000\">＿＿＿&nbsp;</font>上司[じょうし]に 今年[ことし]のボナスについて 聞[き]いていない。</div><div><i>Minami <font color=\"#ff0000\">no se atreve</font> a preguntarle al jefe por el bono de este año</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -284,7 +284,7 @@
                                 "までだ", 
                                 "no quedar otra que", 
                                 "Verbo en forma diccionario + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresa que la única opción es la que se tiene. Es equivalente que <font color=\"#ff0000\">しかない</font>.<div><br /></div><div>ご両親[りょうしん]が 反対[はんたい]だと 言[い]えば、あきらめる<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si tus padres dicen que no, <font color=\"#ff0000\">no te quedará otra que</font> renunciar a esa idea</i>.</div><div><br /></div><div>もう我慢できない。他のルームがなければ、このホテルを出て行く<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>No aguanto más. Si no hay otra habitación, <font color=\"#ff0000\">no nos quedará otra que</font> irnos de este hotel</i>.</div>", 
+                                "Expresa que la única opción es la que se tiene. Es equivalente que <font color=\"#ff0000\">しかない</font>.<div><br></div><div>ご両親[りょうしん]が 反対[はんたい]だと 言[い]えば、あきらめる<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si tus padres dicen que no, <font color=\"#ff0000\">no te quedará otra que</font> renunciar a esa idea</i>.</div><div><br></div><div>もう我慢できない。他のルームがなければ、このホテルを出て行く<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>No aguanto más. Si no hay otra habitación, <font color=\"#ff0000\">no nos quedará otra que</font> irnos de este hotel</i>.<br></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5443,7 +5443,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は＿＿＿試験の結果を聞いた。", 
-                                "Ella se atrevió a preguntar por los resultados del examen.", 
+                                "Ella se <font color=\"#ff0000\">atrevió</font> a preguntar por los resultados del examen.", 
                                 "彼女[かのじょ]は&nbsp;<font color=\"#ff0000\">敢[あ]えて</font>試験[しけん]の 結果[けっか]を 聞[き]いた。", 
                                 "<span style=\"font-family: Arial\">敢えて</span>"
                             ], 
@@ -5824,7 +5824,7 @@
                             "data": "", 
                             "fields": [
                                 "その花は綺麗<span style=\"font-family: Arial\">であれ</span>＿＿＿買わなきゃ！", 
-                                "Tengo que comprar esa flor sólo porque es hermosa.", 
+                                "Tengo que comprar esa flor <font color=\"#ff0000\">sólo porque</font> es hermosa.", 
                                 "その 花[はな]は 綺麗[きれい]であれ<font color=\"#ff0000\">ばこそ</font> 買[か]わなきゃ！", 
                                 "ばこそ"
                             ], 
@@ -9638,7 +9638,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の体つきは＿＿＿強そうだった。", 
-                                "Sus cicatrices ciertamente reflejaban su fuerza.", 
+                                "Sus cicatrices <font color=\"#ff0000\">ciertamente</font> reflejaban su fuerza.", 
                                 "彼[かれ]の 体[からだ]つきは&nbsp;<font color=\"#ff0000\">如何[いか]にも</font>&nbsp;強[つよ]そうだった。", 
                                 "如何にも"
                             ], 
@@ -17934,7 +17934,7 @@
                             "data": "", 
                             "fields": [
                                 "コーヒーに少し＿＿＿砂糖を入れてください。", 
-                                "Agréguele por lo menos un poco de azúcar al café, por favor.", 
+                                "Agréguele <font color=\"#ff0000\">por lo menos</font> un poco de azúcar al café, por favor.", 
                                 "コーヒーに 少[すこ]し<font color=\"#ff0000\">なりとも</font> 砂糖[さとう]を 入[い]れてください。", 
                                 "なりとも"
                             ], 
@@ -18543,7 +18543,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は我々の称賛＿＿＿。", 
-                                "Él se merece nuestro elogio.", 
+                                "Él <font color=\"#ff0000\">se merece</font> nuestro elogio.", 
                                 "彼[かれ]は 我々[われわれ]の 称賛[しょうさん]<font color=\"#ff0000\">（する）</font><font color=\"#ff0000\">に 値[あたい]する</font>。", 
                                 "（する）に値する"
                             ], 
