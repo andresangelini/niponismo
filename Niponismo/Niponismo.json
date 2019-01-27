@@ -7873,7 +7873,7 @@
                             "data": "", 
                             "fields": [
                                 "言う＿＿＿やってしまった。&nbsp;", 
-                                "Ni lo dije, y ya lo había hecho.", 
+                                "<font color=\"#ff0000\">Ni lo</font> dije, <font color=\"#ff0000\">y ya</font> lo había hecho.", 
                                 "言[い]う<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が早いか</font></span>やってしまった。", 
                                 "が早いか"
                             ], 
@@ -10851,7 +10851,7 @@
                             "data": "", 
                             "fields": [
                                 "人は自分の聞きたくないことは耳に入れないという＿＿＿のではないか。", 
-                                "Parece que la gente tiende a no esuchar lo que no quiere, ¿no?", 
+                                "Parece que la gente <font color=\"#ff0000\">tiende a</font> no esuchar lo que no quiere, ¿no?", 
                                 "人[ひと]は 自分[じぶん]の 聞[き]きたくないことは 耳[みみ]に 入[い]れないという&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">嫌[きら]いがある</font></span>のではないか。", 
                                 "嫌いがある"
                             ], 
