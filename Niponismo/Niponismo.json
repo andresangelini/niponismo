@@ -7794,7 +7794,7 @@
                             "data": "", 
                             "fields": [
                                 "その力士はまわしを取る＿＿＿、相手を投げ飛ばした。&nbsp;", 
-                                "Tan pronto como ese luchador de sumo tomó a su oponente por su cinto, lo lanzó volando por los aires.", 
+                                "<font color=\"#ff0000\">Tan pronto</font> como ese luchador de sumo tomó a su oponente por su cinto, lo lanzó volando por los aires.", 
                                 "その 力士[りきし]はまわしを 取[と]る<font color=\"#ff0000\">が早いか</font>、 相手[あいて]を 投げ飛[なげと]ばした。", 
                                 "が早いか"
                             ], 
@@ -7854,7 +7854,7 @@
                             "data": "", 
                             "fields": [
                                 "ことによるとあの女は、私が太刀打ちを始める＿＿＿、人の助けでも呼ぶために、藪をくぐって逃げたかもしれない。&nbsp;", 
-                                "Es posible que tan pronto yo haya empezado a luchar con mi espada, esa mujera se haya escabullido por entre la maleza a pedir ayuda.", 
+                                "Es posible que <font color=\"#ff0000\">tan pronto</font> yo haya empezado a luchar con mi espada, esa mujera se haya escabullido por entre la maleza a pedir ayuda.", 
                                 "ことによるとあの 女[おんな]は、 私[わたし]が 太刀打[たちう]ちを 始[はじ]める<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が早いか</font></span>、 人[ひと]の 助[たす]けでも 呼[よ]ぶために、 藪[やぶ]をくぐって 逃[に]げたかもしれない。", 
                                 "が早いか"
                             ], 
@@ -7894,7 +7894,7 @@
                             "data": "", 
                             "fields": [
                                 "社長が会議室に入った＿＿＿、早速会議が始まった。", 
-                                "Tan pronto el presidente entró en la sala de conferencias, comenzó rápidamente la reunión.", 
+                                "<font color=\"#ff0000\">Tan pronto</font> el presidente entró en la sala de conferencias, comenzó rápidamente la reunión.", 
                                 "社長[しゃちょう]が 会議[かいぎ] 室[しつ]に 入[はい]った<font color=\"#ff0000\">が早いか</font>、 早速[さっそく] 会議[かいぎ]が 始[はじ]まった。", 
                                 "が早いか"
                             ], 
@@ -7914,7 +7914,7 @@
                             "data": "", 
                             "fields": [
                                 "ベルが鳴った＿＿＿、生徒たちは教室を飛び出して行った。", 
-                                "Tan pronto sonó la campana, los estudiantes salieron disparados del salón.", 
+                                "<font color=\"#ff0000\">Tan pronto</font> sonó la campana, los estudiantes salieron disparados del salón.", 
                                 "ベルが 鳴[な]った<font color=\"#ff0000\">が早いか</font>、 生徒[せいと]たちは 教室[きょうしつ]を 飛び出[とびだ]して 行[い]った。", 
                                 "が早いか"
                             ], 
@@ -14564,7 +14564,7 @@
                             "data": "", 
                             "fields": [
                                 "弟は晩ごはんを食べ終わる＿＿＿宿題をし始めた。", 
-                                "Mi hermano menor comienza a hacer sus deberes tan pronto termina de comer.", 
+                                "Mi hermano menor comienza a hacer sus deberes <font color=\"#ff0000\">tan pronto</font> termina de comer.", 
                                 "弟[おとうと]は 晩[ばん]ごはんを 食[た]べ 終[お]わる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が早いか</font></span>&nbsp;宿題[しゅくだい]をし 始[はじ]めた。", 
                                 "が早いか"
                             ], 
