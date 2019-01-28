@@ -5308,12 +5308,12 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "拍子に", 
-                                "拍子[ひょうし]に", 
-                                "ひょうしに", 
+                                "途端（に）/拍子に", 
+                                "途端[とたん]（に）/ 拍子[ひょうし]に", 
+                                "とたん（に）/ひょうしに", 
                                 "justo cuando / en el momento en que / en el instante en que", 
                                 "Vた + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresión sinónima de &nbsp;<font color=\"#ff0000\">途端[とたん]（に）</font> que indica el momento justo donde ocurre algo.<div><br /></div><div>目[め]を 閉[と]じた<font color=\"#ff0000\">＿＿＿</font> 彼[かれ]の 顔[かお]がふと 現[あらわ]れた。</div><div><i><font color=\"#ff0000\">En el instante en que</font> cerré los ojos, su cara se me apareció de repente</i>.</div><div><br /></div><div>Como esta forma se usa para acciones o eventos pasados, el verbo que lo acompaña siempre debe estar en pasado.</div><div><br /></div><div>道[みち]を 渡[わ]ってみた<font color=\"#ff0000\">＿＿＿</font>トラックが 速[はや]く 横切[よこぎ]った。</div><div><i><font color=\"#ff0000\">En el instante en que</font> intenté cruzar la calle, un camión se me cruzó a toda velocidad</i>.</div><div><br /></div><div>彼女[かのじょ]に 誘[さそ]うと 思[おも]った<font color=\"#ff0000\">＿＿＿</font> 彼氏[かれし]がいたことが 気[き]がついた。</div><div><i><font color=\"#ff0000\">Justo cuando</font> pensé en invitarla me di cuenta de que tenía novio</i>.</div>", 
+                                "Expresiones sinónimas&nbsp;que indican el momento justo en que ocurre algo.<div><br /></div><div>目[め]を 閉[と]じた<font color=\"#ff0000\">＿＿＿</font> 彼[かれ]の 顔[かお]がふと 現[あらわ]れた。</div><div><i><font color=\"#ff0000\">En el instante en que</font> cerré los ojos, su cara se me apareció de repente</i>.</div><div><br /></div><div>Como ambas formas se usan para acciones o eventos pasados, el verbo que los acompaña siempre debe estar en pasado.</div><div><br /></div><div>道[みち]を 渡[わ]ってみた<font color=\"#ff0000\">＿＿＿</font>トラックが 速[はや]く 横切[よこぎ]った。</div><div><i><font color=\"#ff0000\">En el instante en que</font> intenté cruzar la calle, un camión se me cruzó a toda velocidad</i>.</div><div><br /></div><div>Si bien quieren decir lo mismo, la primera expresión no sólo es más común, sino que además no necesariamente tiene que llevar la partícula に.</div><div><br /></div><div>彼女[かのじょ]に 誘[さそ]うと 思[おも]った<font color=\"#ff0000\">＿＿＿</font> 彼氏[かれし]がいたことに 気[き]がついた。</div><div><i><font color=\"#ff0000\">Justo cuando</font> pensé en invitarla me di cuenta de que tenía novio</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5333,6 +5333,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "拍子に"
                             ]
@@ -28168,8 +28169,8 @@
                             "fields": [
                                 "警察は現場に到着し＿＿＿犯人が逃げ出した。", 
                                 "El criminal huyó <font color=\"#ff0000\">en el instante en que</font> la policía llegó.", 
-                                "警察[けいさつ]は 現場[げんば]に 到着[とうちゃく]し<font color=\"#ff0000\">た 拍子[ひょうし]に/ 途端[とたん]（に）</font> 犯人[はんにん]が 逃げ出[にげだ]した。", 
-                                "た拍子に/途端（に）"
+                                "警察[けいさつ]は 現場[げんば]に 到着[とうちゃく]し<font color=\"#ff0000\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</font>&nbsp;犯人[はんにん]が 逃げ出[にげだ]した。", 
+                                "た途端（に）/た拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "qae]s7EoKd", 
@@ -28178,6 +28179,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "Oración", 
                                 "拍子に", 
@@ -28190,8 +28192,8 @@
                             "fields": [
                                 "やっと有給休暇が取れると思っ＿＿＿急に部長は大事な仕事を任せた。", 
                                 "<font color=\"#ff0000\">Justo cuando</font> pensé que podía tomarme mis vacasiones pagas, de repente el jefe me encarga un trabajo importante.", 
-                                "やっと 有給[ゆうきゅう] 休暇[きゅうか]が 取[と]れると 思[おも]っ<font color=\"#ff0000\">た 拍子[ひょうし]に/ 途端[とたん]（に）</font> 急[きゅう]に 部長[ぶちょう]は 大事[だいじ]な 仕事[しごと]を 任[まか]せた。", 
-                                "た拍子に/途端（に）"
+                                "やっと 有給[ゆうきゅう] 休暇[きゅうか]が 取[と]れると 思[おも]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;急[きゅう]に 部長[ぶちょう]は 大事[だいじ]な 仕事[しごと]を 任[まか]せた。", 
+                                "た途端（に）/た拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "gFijHR=Pkf", 
@@ -28200,6 +28202,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "Oración", 
                                 "拍子に", 
@@ -28212,8 +28215,8 @@
                             "fields": [
                                 "上司は入っ＿＿＿事務所の皆様が驚かされた。", 
                                 "Todos en la oficina se sorprendieron <font color=\"#ff0000\">en el instante en que</font> vieron entrar al jefe.", 
-                                "上司[じょうし]は 入[はい]っ<font color=\"#ff0000\">た 拍子[ひょうし]に/ 途端[とたん]（に）</font> 事務所[じむしょ]の 皆様[みなさま]が 驚[おどろ]かされた。", 
-                                "た拍子に/途端（に）"
+                                "上司[じょうし]は 入[はい]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;事務所[じむしょ]の 皆様[みなさま]が 驚[おどろ]かされた。", 
+                                "た途端（に）/た拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "@^bP+$zZ0", 
@@ -28222,6 +28225,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "Oración", 
                                 "拍子に", 
@@ -28234,8 +28238,8 @@
                             "fields": [
                                 "その消防士は勇敢にビルに入っ＿＿＿大きな爆発があった。", 
                                 "Hubo una gran explosión <font color=\"#ff0000\">en el instante en que</font> el bombero entró valientemente al edificio.", 
-                                "その 消防[しょうぼう] 士[し]は 勇敢[ゆうかん]にビルに 入[はい]っ<font color=\"#ff0000\">た 拍子[ひょうし]に/ 途端[とたん]（に）</font> 大[おお]きな 爆発[ばくはつ]があった。", 
-                                "た拍子に/途端（に）"
+                                "その 消防[しょうぼう] 士[し]は 勇敢[ゆうかん]にビルに 入[はい]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;大[おお]きな 爆発[ばくはつ]があった。", 
+                                "た途端（に）/た拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "kGQhmXkZ(k", 
@@ -28244,6 +28248,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "Oración", 
                                 "拍子に", 
@@ -28256,8 +28261,8 @@
                             "fields": [
                                 "同じ考えが付い＿＿＿彼女が私に先駆けて質問を答えた。", 
                                 "<font color=\"#ff0000\">Justo cuando</font> se me ocurrió la misma idea ella se me anticipó y contestó la pregunta.", 
-                                "同[おな]じ 考[かんが]えが 付[つ]いた 拍子[ひょうし]に/ 途端[とたん]（に） 彼女[かのじょ]が 私[わたし]に 先駆[さきが]けて 質問[しつもん]を 答[こた]えた。", 
-                                "た拍子に/途端（に）"
+                                "同[おな]じ 考[かんが]えが 付[つ]い<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;彼女[かのじょ]が 私[わたし]に 先駆[さきが]けて 質問[しつもん]を 答[こた]えた。", 
+                                "た途端（に）/た拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "E$gVzgS2-N", 
@@ -28266,6 +28271,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "Oración", 
                                 "拍子に", 
@@ -28278,8 +28284,8 @@
                             "fields": [
                                 "彼女に呼び掛けようと思っ＿＿＿友達と偶然で出会った。", 
                                 "<font color=\"#ff0000\">Justo cuando</font> pensaba llamarla me encontré con un amigo por casualidad.", 
-                                "彼女[かのじょ]に 呼び掛[よびか]けようと 思[おも]っ<font color=\"#ff0000\">た 拍子[ひょうし]に/ 途端[とたん]（に）</font> 友達[ともだち]と 偶然[ぐうぜん]で 出会[であ]った。", 
-                                "た拍子に/途端（に）"
+                                "彼女[かのじょ]に 呼び掛[よびか]けようと 思[おも]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;友達[ともだち]と 偶然[ぐうぜん]で 出会[であ]った。", 
+                                "た途端（に）/た拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "sEbAhbipCB", 
@@ -28288,6 +28294,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "N3", 
                                 "Niponismo", 
                                 "Oración", 
                                 "拍子に", 
