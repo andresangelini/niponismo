@@ -4773,7 +4773,7 @@
                                 "を 禁[きん]じ 得[え]ない", 
                                 "をきんじえない", 
                                 "no poder evitar", 
-                                "Es una forma muy formal de expresar que <font color=\"#ff0000\">no se puede contener un sentimiento</font>.<div><br /></div><div>こんどの 実験[じけん]の 結果[けっか]に 驚[おどろ]き<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> estar sorpendido por los resultados del experimento</i>.</div><div><br /></div><div>Es aún más formal que <font color=\"#ff0000\">〜に堪えない</font> y es más comunmente usado entre <font color=\"#ff0000\">políticos, empresarios y gente con cargos de mucha responsabilidad</font>, especialmente en conferencias de prensa o situaciones similares.</div><div><br /></div><div>今回[こんかい]のテロ 事件[じけん]に関して 憤[いきどお]り＿＿＿。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> sentirme indignado por el reciente caso de terrorismo</i>.</div><div><br /></div><div>Entre las palabras más comunes con los cuales se usa se encuentran &nbsp;<font color=\"#ff0000\">同情[どうじょう]</font>, &nbsp;<font color=\"#ff0000\">怒[いか]り</font>, &nbsp;<font color=\"#ff0000\">恐怖[きょうふ]</font>, &nbsp;<font color=\"#ff0000\">驚[おどろ]き</font>, &nbsp;<font color=\"#ff0000\">違和感[いわかん]</font>, &nbsp;<font color=\"#ff0000\">笑[わら]い</font>, &nbsp;<font color=\"#ff0000\">興奮[こうふん]</font>, &nbsp;<font color=\"#ff0000\">悲[かな]しみ</font>, &nbsp;<font color=\"#ff0000\">涙[なみだ]</font>, &nbsp;<font color=\"#ff0000\">畏怖[いふ]の 念[ねん]</font>, etc.</div>", 
+                                "Es una forma muy formal de expresar que <font color=\"#ff0000\">no se puede contener un sentimiento</font>.<div><br /></div><div>こんどの 実験[じけん]の 結果[けっか]に 驚[おどろ]き<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> estar sorpendido por los resultados del experimento</i>.</div><div><br /></div><div>Es aún más formal que <font color=\"#ff0000\">〜に堪えない</font> y es más comunmente usado entre <font color=\"#ff0000\">políticos, empresarios y gente con cargos de mucha responsabilidad</font>, especialmente en conferencias de prensa o situaciones similares.</div><div><br /></div><div>今回[こんかい]のテロ 事件[じけん]に関して 憤[いきどお]り<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puedo evitar</font> sentirme indignado por el reciente caso de terrorismo</i>.</div><div><br /></div><div>Entre las palabras más comunes con los cuales se usa se encuentran &nbsp;<font color=\"#ff0000\">同情[どうじょう]</font>, &nbsp;<font color=\"#ff0000\">怒[いか]り</font>, &nbsp;<font color=\"#ff0000\">恐怖[きょうふ]</font>, &nbsp;<font color=\"#ff0000\">驚[おどろ]き</font>, &nbsp;<font color=\"#ff0000\">違和感[いわかん]</font>, &nbsp;<font color=\"#ff0000\">笑[わら]い</font>, &nbsp;<font color=\"#ff0000\">興奮[こうふん]</font>, &nbsp;<font color=\"#ff0000\">悲[かな]しみ</font>, &nbsp;<font color=\"#ff0000\">涙[なみだ]</font>, &nbsp;<font color=\"#ff0000\">畏怖[いふ]の 念[ねん]</font>, etc.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5036,7 +5036,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "およそer", 
+                                "およそ", 
                                 "およそ", 
                                 "およそ", 
                                 "generalmente / por lo general / bastante / totalmente / absolutamente / para nada / en lo absoluto / casi / aproximadamente / alrededor de", 
@@ -5961,7 +5961,7 @@
                             "data": "", 
                             "fields": [
                                 "もう我慢できない。他のルームがなければ、このホテルを出て行く＿＿＿。", 
-                                "<span style=\"font-family: 'Liberation Sans'\">No aguanto más. Si no hay otra habitación, no nos quedará otra que irnos de este hotel.</span>", 
+                                "<span style=\"font-family: 'Liberation Sans'\">No aguanto más. Si no hay otra habitación, <font color=\"#ff0000\">no nos quedará otra que</font> irnos de este hotel.</span>", 
                                 "もう 我慢[がまん]できない。 他[た]のルームがなければ、このホテルを 出[で]て 行[い]く<font color=\"#ff0000\">までだ</font>。", 
                                 "までだ"
                             ], 
@@ -7345,7 +7345,7 @@
                             "data": "", 
                             "fields": [
                                 "なん＿＿＿物事の本体を捕らえる事が肝心だ。", 
-                                "Sea lo que sea, es escencial llegar al fondo del asunto.", 
+                                "<font color=\"#ff0000\">Sea lo que sea</font>, es escencial llegar al fondo del asunto.", 
                                 "なん<font color=\"#ff0000\">であれ/であろうと</font> 物事[ものごと]の 本体[ほんたい]を 捕[と]らえる 事[こと]が 肝心[かんじん]だ。", 
                                 "であれ/であろうと"
                             ], 
@@ -11248,7 +11248,7 @@
                             "data": "", 
                             "fields": [
                                 "必要なものと必要でないものを見分けることが＿＿＿重要である。", 
-                                "Separar lo necesario de lo innecesario es extremadamente importante.", 
+                                "Separar lo necesario de lo innecesario es <font color=\"#ff0000\">extremadamente</font> importante.", 
                                 "必要[ひつよう]なものと 必要[ひつよう]でないものを 見分[みわ]けることが <font color=\"#ff0000\">極[きわ]めて</font> 重要[じゅうよう]である。", 
                                 "極めて"
                             ], 
@@ -16018,7 +16018,7 @@
                             "data": "", 
                             "fields": [
                                 "何故自分を犠牲になっ＿＿＿彼を信じるのですか。", 
-                                "¿Por que confías en él hasta el punto de sacrificarte a ti mismo?", 
+                                "¿Por que confías en él <font color=\"#ff0000\">hasta el punto de</font> sacrificarte a ti mismo?", 
                                 "何故[なぜ] 自分[じぶん]を 犠牲[ぎせい]になっ<font color=\"#ff0000\">てまで（も）</font> 彼[かれ]を 信[しん]じるのですか。", 
                                 "<span style=\"font-family: Arial\">てまで（も）</span>"
                             ], 
@@ -16780,7 +16780,7 @@
                             "data": "", 
                             "fields": [
                                 "&nbsp;あの人＿＿＿このような文章を書けなかっただろう。", 
-                                "Nadie podría haber escrito esto excepto él.", 
+                                "<font color=\"#ff0000\">Nadie</font> podría haber escrito esto <font color=\"#ff0000\">excepto</font> él.", 
                                 "あの 人[ひと]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ならでは</font></span>このような 文章[ぶんしょう]を 書[か]けなかっただろう。", 
                                 "ならでは"
                             ], 
@@ -25461,10 +25461,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼らは与えられた賞賛＿＿＿。", 
+                                "彼らは与えられた賞賛＿＿＿ない。", 
                                 "Ellos <font color=\"#ff0000\">no merecen</font> el elogio que recibieron.", 
-                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]<font color=\"#ff0000\">に 値[あたい]しない</font>。", 
-                                "に値しない"
+                                "彼[かれ]らは 与[あた]えられた 賞賛[しょうさん]<font color=\"#ff0000\">に 値[あたい]し</font>ない。", 
+                                "に値し"
                             ], 
                             "flags": 0, 
                             "guid": "L-+wTZsJiM", 
@@ -28167,10 +28167,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "警察は現場に到着し＿＿＿犯人が逃げ出した。", 
+                                "警察は現場に到着した＿＿＿犯人が逃げ出した。", 
                                 "El criminal huyó <font color=\"#ff0000\">en el instante en que</font> la policía llegó.", 
-                                "警察[けいさつ]は 現場[げんば]に 到着[とうちゃく]し<font color=\"#ff0000\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</font>&nbsp;犯人[はんにん]が 逃げ出[にげだ]した。", 
-                                "た途端（に）/た拍子に"
+                                "警察[けいさつ]は 現場[げんば]に 到着[とうちゃく]した<font color=\"#ff0000\">&nbsp;途端[とたん]（に）/ 拍子[ひょうし]に</font>&nbsp;犯人[はんにん]が 逃げ出[にげだ]した。", 
+                                "途端（に）/拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "qae]s7EoKd", 
@@ -28190,10 +28190,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "やっと有給休暇が取れると思っ＿＿＿急に部長は大事な仕事を任せた。", 
+                                "やっと有給休暇が取れると思った＿＿＿急に部長は大事な仕事を任せた。", 
                                 "<font color=\"#ff0000\">Justo cuando</font> pensé que podía tomarme mis vacasiones pagas, de repente el jefe me encarga un trabajo importante.", 
-                                "やっと 有給[ゆうきゅう] 休暇[きゅうか]が 取[と]れると 思[おも]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;急[きゅう]に 部長[ぶちょう]は 大事[だいじ]な 仕事[しごと]を 任[まか]せた。", 
-                                "た途端（に）/た拍子に"
+                                "やっと 有給[ゆうきゅう] 休暇[きゅうか]が 取[と]れると 思[おも]っ<span style=\"color: rgb(255, 0, 0)\">&nbsp;途端[とたん]（に）/ 拍子[ひょうし]に</span>&nbsp;急[きゅう]に 部長[ぶちょう]は 大事[だいじ]な 仕事[しごと]を 任[まか]せた。", 
+                                "途端（に）/拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "gFijHR=Pkf", 
@@ -28213,10 +28213,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "上司は入っ＿＿＿事務所の皆様が驚かされた。", 
+                                "上司は入った＿＿＿事務所の皆様が驚かされた。", 
                                 "Todos en la oficina se sorprendieron <font color=\"#ff0000\">en el instante en que</font> vieron entrar al jefe.", 
-                                "上司[じょうし]は 入[はい]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;事務所[じむしょ]の 皆様[みなさま]が 驚[おどろ]かされた。", 
-                                "た途端（に）/た拍子に"
+                                "上司[じょうし]は 入[はい]った<span style=\"color: rgb(255, 0, 0)\">&nbsp;途端[とたん]（に）/ 拍子[ひょうし]に</span>&nbsp;事務所[じむしょ]の 皆様[みなさま]が 驚[おどろ]かされた。", 
+                                "途端（に）/拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "@^bP+$zZ0", 
@@ -28236,10 +28236,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "その消防士は勇敢にビルに入っ＿＿＿大きな爆発があった。", 
+                                "その消防士は勇敢にビルに入った＿＿＿大きな爆発があった。", 
                                 "Hubo una gran explosión <font color=\"#ff0000\">en el instante en que</font> el bombero entró valientemente al edificio.", 
-                                "その 消防[しょうぼう] 士[し]は 勇敢[ゆうかん]にビルに 入[はい]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;大[おお]きな 爆発[ばくはつ]があった。", 
-                                "た途端（に）/た拍子に"
+                                "その 消防[しょうぼう] 士[し]は 勇敢[ゆうかん]にビルに 入[はい]った<span style=\"color: rgb(255, 0, 0)\">&nbsp;途端[とたん]（に）/ 拍子[ひょうし]に</span>&nbsp;大[おお]きな 爆発[ばくはつ]があった。", 
+                                "途端（に）/拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "kGQhmXkZ(k", 
@@ -28259,10 +28259,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "同じ考えが付い＿＿＿彼女が私に先駆けて質問を答えた。", 
+                                "同じ考えが付いた＿＿＿彼女が私に先駆けて質問を答えた。", 
                                 "<font color=\"#ff0000\">Justo cuando</font> se me ocurrió la misma idea ella se me anticipó y contestó la pregunta.", 
-                                "同[おな]じ 考[かんが]えが 付[つ]い<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;彼女[かのじょ]が 私[わたし]に 先駆[さきが]けて 質問[しつもん]を 答[こた]えた。", 
-                                "た途端（に）/た拍子に"
+                                "同[おな]じ 考[かんが]えが 付[つ]いた<span style=\"color: rgb(255, 0, 0)\">&nbsp;途端[とたん]（に）/ 拍子[ひょうし]に</span>&nbsp;彼女[かのじょ]が 私[わたし]に 先駆[さきが]けて 質問[しつもん]を 答[こた]えた。", 
+                                "途端（に）/拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "E$gVzgS2-N", 
@@ -28282,10 +28282,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼女に呼び掛けようと思っ＿＿＿友達と偶然で出会った。", 
+                                "彼女に呼び掛けようと思った＿＿＿友達と偶然で出会った。", 
                                 "<font color=\"#ff0000\">Justo cuando</font> pensaba llamarla me encontré con un amigo por casualidad.", 
-                                "彼女[かのじょ]に 呼び掛[よびか]けようと 思[おも]っ<span style=\"color: rgb(255, 0, 0)\">た&nbsp;途端[とたん]（に）/た 拍子[ひょうし]に</span>&nbsp;友達[ともだち]と 偶然[ぐうぜん]で 出会[であ]った。", 
-                                "た途端（に）/た拍子に"
+                                "彼女[かのじょ]に 呼び掛[よびか]けようと 思[おも]った<span style=\"color: rgb(255, 0, 0)\">&nbsp;途端[とたん]（に）/ 拍子[ひょうし]に</span>&nbsp;友達[ともだち]と 偶然[ぐうぜん]で 出会[であ]った。", 
+                                "途端（に）/拍子に"
                             ], 
                             "flags": 0, 
                             "guid": "sEbAhbipCB", 
