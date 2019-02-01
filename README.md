@@ -1,6 +1,6 @@
-# Niponismo
+# ![Niponismo]
 [![Apoya en Patreon](https://img.shields.io/badge/apoya%20en-patreon-orange.svg)][Patreon]
-[![Visita el Blog](https://img.shields.io/badge/lee%20en-medium-red.svg)][Medium]
+[![Lee en Medium](https://img.shields.io/badge/lee%20en-medium-red.svg)][Medium]
 [![Join the chat at https://gitter.im/niponismo/Lobby](https://badges.gitter.im/niponismo/Lobby.svg)](https://gitter.im/niponismo/?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Colección de mazos [Anki] para el estudio del idioma nipón.
@@ -24,7 +24,7 @@ Colección de mazos [Anki] para el estudio del idioma nipón.
 
 **Niponismo** es una colección de mazos [Anki] para asistir en el estudio de las diferentes áreas del japonés empleando el [Sistema de Repetición Espaciada][SRE].
 
-Visita nuestra publicación en [Medium] para a acceder a todas las notas gramaticales, saber más sobre el proyecto y mantenerte informado de las últimas novedades. ¡Y por favor no olvides de dejarnos un comentario con tus opiniones y sugerencias!
+Visita la publicación en [Medium] para a acceder a todas las notas gramaticales, saber más sobre el proyecto y mantenerte informado de las últimas novedades. ¡Y por favor no olvides de dejarnos un comentario con tus opiniones y sugerencias!
 
 ## Descarga
 
@@ -139,7 +139,7 @@ Este paquete de mazos se encuentra publicado bajo los términos de la licencia [
 
 Si crees que me he olvidado de alguien, por favor, no dudes en [hacermelo saber][Gitter].
 
-
+[Niponismo]: niponismo.svg "Logo de Niponismo"
 [Dictionary of Advanced Japanese Grammar]: https://www.amazon.com/Dictionary-Advanced-Japanese-Grammar-English/dp/4789012956
 [「日本語能力試験」対策日本語総まとめN1文法]: https://www.amazon.co.jp/%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81-N1-%E6%96%87%E6%B3%95-%E3%80%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E3%80%8D%E5%AF%BE%E7%AD%96-%E4%BD%90%E3%80%85%E6%9C%A8/dp/4872177266/ref=sr_1_6?s=books&ie=UTF8&qid=1523885802&sr=1-6&keywords=%E3%80%8C%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%83%BD%E5%8A%9B%E8%A9%A6%E9%A8%93%E3%80%8D%E5%AF%BE%E7%AD%96+%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%B7%8F%E3%81%BE%E3%81%A8%E3%82%81 "Amazón Japón"
 [Tae Kim's Guide to Learning Japanese]: http://www.guidetojapanese.org/spanish/index.html
