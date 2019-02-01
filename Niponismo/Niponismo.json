@@ -249,9 +249,9 @@
                                 "みたまでだ", 
                                 "みたまでだ", 
                                 "みたまでだ", 
-                                "sólo quería intentar", 
-                                "Verbo て + <font color=\"#ff0000\">＿＿＿</font>.", 
-                                "Expresa que sólo se tenía la intención de intentar hacer algo.<div><br /></div><div>ちょっと 聞[き]いて<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Tan sólo quería</font> preguntar</i>.</div>", 
+                                "sólo quería probar / sólo quería intentar", 
+                                "Vて + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "<div>Expresión que indica que el sujeto únicamente tenía la intención de probar hacer algo para ver qué sucedía.</div><div><br /></div><div>ちょっと 聞[き]いて<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Tan sólo quería</font> preguntar</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -1851,13 +1851,13 @@
                                 "嫌いがある", 
                                 "嫌[きら]いがある", 
                                 "きらいがある", 
-                                "tender a", 
-                                "<div>Verbo en forma diccionario + forma gramatical.</div><div>Sustantivo + の + forma gramatical.</div>", 
-                                "Indica que algo tiene tendencia a ser o hacer tal otra, por lo general, con una connotación negativa y que es demasiado (poco o mucho, corto o largo, etc.).", 
-                                "ジムくんは 行[い]き 過[す]ぎの＿＿＿。", 
-                                "Él tiende a ir demasiado lejos.", 
-                                "彼女[かのじょ]は 優[うつく]しいですが、 知[し]らずに 人[ひと]を 傷付[きずつ]けることを 言[い]う＿＿＿。", 
-                                "Ella es una buena persona pero tiende a decir cosas que hiere a los demás sin darse cuenta.", 
+                                "tender a / tener tendencia a", 
+                                "<div>V + <font color=\"#ff0000\">＿＿＿</font></div><div>S + の + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Indica que algo tiene tendencia a ser o hacer tal otra, por lo general, con una connotación negativa y que es demasiado (poco o mucho, corto o largo, etc.).<div><br /></div><div>ジムくんは 行[い]き 過[す]ぎの<font color=\"#ff0000\">＿＿＿</font>。</div><div>Él <font color=\"#ff0000\">tiende a</font> ir demasiado lejos.</div><div><br /></div><div>彼女[かのじょ]は 優[うつく]しいですが、 知[し]らずに 人[ひと]を 傷付[きずつ]けることを 言[い]う<font color=\"#ff0000\">＿＿＿</font>。</div><div>Ella es una buena persona pero <font color=\"#ff0000\">tiende a</font> decir cosas que hiere a los demás sin darse cuenta.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -12670,7 +12670,7 @@
                             "data": "", 
                             "fields": [
                                 "その 男が、自分は百万長者だとあのきれいな女の子にいったいことは＿＿＿眉唾だった。", 
-                                "Lo que ese tipo le decía a esa bella muchacha de que él era millonario era pura mentira.", 
+                                "Lo que ese tipo le decía a esa bella muchacha de que él era millonario era <font color=\"#ff0000\">pura</font> mentira.", 
                                 "その 男[おとこ][おとこ]が、 自分[じぶん][じぶん]は 百万長者[ひゃくまんちょうじゃ][ひゃくまんちょうじゃ]だとあのきれいな 女[じょ][おんあ]の 子[こ]にいったいことは&nbsp;<font color=\"#ff0000\">丸[まる]っきり</font> 眉[まゆ] 唾[つば]だった。", 
                                 "丸っきり"
                             ], 
@@ -22454,7 +22454,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は来てくれた＿＿＿、援助してあげようと言ってくれた。", 
-                                "Él no sólo vino sino que también me dijo que me iba a ayudar.", 
+                                "Él <font color=\"#ff0000\">no sólo</font> vino <font color=\"#ff0000\">sino que también</font> me dijo que me iba a ayudar.", 
                                 "彼[かれ]は 来[き]てくれた<font color=\"#ff0000\">だけで（は）なく/（だけ）にとどまらず/のみならず</font>、 援助[えんじょ]してあげようと 言[い]ってくれた。", 
                                 "だけで（は）なく/（だけ）にとどまらず/のみならず"
                             ], 
@@ -22809,9 +22809,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "あなたは来る＿＿＿。", 
-                                "<font color=\"#ff0000\">No hace falta</font> que vengas.", 
-                                "あなたは 来[く]る<font color=\"#ff0000\">に（は）およばない</font>。", 
+                                "パーティー為の準備に足る人がもういるから、あなたは来る＿＿＿。", 
+                                "Ya tenemos suficientes personas para los preparativos de la fiesta así que <font color=\"#ff0000\">no hace falta</font> que vengas.", 
+                                "パーティー 為[ため]の 準備[じゅんび]に 足[た]る 人[ひと]がもういるから、あなたは 来[く]る<font color=\"#ff0000\">に（は）及ばない</font>。", 
                                 "に（は）及ばない"
                             ], 
                             "flags": 0, 
@@ -22823,7 +22823,6 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
-                                "tatoeba", 
                                 "に（は）及ばない"
                             ]
                         }, 
