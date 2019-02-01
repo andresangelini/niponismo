@@ -24,7 +24,7 @@ Colección de mazos [Anki] para el estudio del idioma nipón.
 
 **Niponismo** es una colección de mazos [Anki] para asistir en el estudio de las diferentes áreas del japonés empleando el [Sistema de Repetición Espaciada][SRE].
 
-Visita la publicación en [Medium] para a acceder a todas las notas gramaticales, saber más sobre el proyecto y mantenerte informado de las últimas novedades. ¡Y por favor no olvides de dejarnos un comentario con tus opiniones y sugerencias!
+Visita la publicación en [Medium] para a acceder a todas las notas gramaticales, saber más sobre el proyecto y mantenerte informado de las últimas novedades. ¡Y por favor no olvides de dejar un comentario con tus opiniones y sugerencias!
 
 ## Descarga
 
