@@ -30,7 +30,7 @@ Visita la publicación en [Medium] para a acceder a todas las notas gramaticales
 
 1. Dirígete a la página de [publicaciones](https://github.com/andresangelini/niponismo/releases).
 2. Busca y descarga la última versión de `Niponismo.apkg`.
-3. Abre el archivo con [Anki].
+3. Abre el archivo con [Anki] (PC), [AnkiDroid] (Android) o [AnkiMobile] (iOS).
 
 También puedes descargarlo directamente desde los [mazos compartidos] de [Anki].
 
@@ -148,6 +148,8 @@ Si crees que me he olvidado de alguien, por favor, no dudes en [hacermelo saber]
 [Tatoeba]: https://tatoeba.org/spa/
 [Jgram]: http://jgram.org/
 [Anki]: https://apps.ankiweb.net/
+[AnkiDroid]: https://play.google.com/store/apps/details?id=com.ichi2.anki
+[AnkiMobile]: https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387
 [manual de Anki]: https://apps.ankiweb.net/docs/manual.es.html
 [SRE]: https://apps.ankiweb.net/docs/manual.es.html#repetici%C3%B3n-espaciada
 [mazos compartidos]: https://ankiweb.net/shared/info/1221922925
