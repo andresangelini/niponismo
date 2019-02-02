@@ -5141,7 +5141,7 @@
                                 "そばから", 
                                 "そばから", 
                                 "そばから", 
-                                "tan pronto (como) / apenas / en cuanto", 
+                                "apenas / en cuanto / tan pronto (como)", 
                                 "V dicc. + <font color=\"#ff0000\">＿＿＿</font><div>Vている + <font color=\"#ff0000\">＿＿＿<br /></font><div>Vた + <font color=\"#ff0000\">＿＿＿</font></div></div>", 
                                 "Expresión que significa <font color=\"#ff0000\">〜すると直ぐに</font>&nbsp;y que indica que algo <font color=\"#ff0000\">negativo</font> toma lugar <font color=\"#ff0000\">inmediatamente después</font> de una determinada <font color=\"#ff0000\">acción</font>.<div><br /></div><div>Puede usarse para referirse a <font color=\"#ff0000\">algo que suele pasar más de una vez</font> usando el verbo en <font color=\"#ff0000\">forma diccionario o forma ている</font>.</div><div><br /></div><div>息子[むすこ]は、 片付[かたづ]けている<font color=\"#ff0000\">＿＿＿&nbsp;</font>部屋[へや]を 散[ち]らかす。</div><div><i>Mi hijo desordena el cuarto <font color=\"#ff0000\">tan pronto&nbsp;(como) / apenas / en cuanto</font> lo ordeno</i>.</div><div><br /></div><div>Así como también para algo que <font color=\"#ff0000\">sucedió sólo una vez</font> conjugando el verbo en <font color=\"#ff0000\">pasado</font>.</div><div><br /></div><div>彼[かれ]にそれを 言[い]った<font color=\"#ff0000\">＿＿＿</font> 彼女[かのじょ]は 後悔[こうかい]した。</div><div><i>Ella se arrepintió de haberle dicho eso a él <font color=\"#ff0000\">tan pronto (como) / apenas / en cuanto</font> se lo dijo</i>.</div><div><br /></div><div>Sin embargo, <font color=\"#ff0000\">no puede</font> ser sustituido por <font color=\"#ff0000\">〜なり</font> ya que con este último el verbo debe estar en <font color=\"#ff0000\">forma diccinario</font>, sin mencionar que además sólo puede usarse cuando el sujeto es la <font color=\"#ff0000\">tercera persona</font>.</div><div><br /></div><div>あの 生徒[せいと]は 勉強[べんきょう]した<font color=\"#ff0000\">＿＿＿/なり❌</font> 全部[ぜんぶ]を忘れた。</div><div><i>Ese estudiante olvidó todo <font color=\"#ff0000\">tan pronto (como) / apenas / en cuanto</font> lo estudió</i>.</div><div><br /></div><div>Además de que esta forma <font color=\"#ff0000\">si se puede usar para dar órdenes</font>.</div><div><br /></div><div>教[おそ]わった<font color=\"#ff0000\">＿＿＿&nbsp;</font>忘[わす]れないようにメモをとってくださいね。</div><div><i>Tomen nota para no olvidarse <font color=\"#ff0000\">tan pronto (como) / apenas / en cuanto</font>&nbsp;les enseñe</i>.</div>", 
                                 "", 
@@ -13573,7 +13573,7 @@
                             "data": "", 
                             "fields": [
                                 "私はあなたが手伝ってくれる＿＿＿あてにしてる。", 
-                                "Cuento con que tú le vas a ayudar.", 
+                                "<font color=\"#ff0000\">Cuento con que</font> tú le vas a ayudar.", 
                                 "私[わたし]はあなたが 手伝[てつだ]ってくれる<font color=\"#ff0000\">ものとして</font>あてにしてる。", 
                                 "ものとして"
                             ], 
@@ -15134,7 +15134,7 @@
                             "data": "", 
                             "fields": [
                                 "歌のうまさ＿＿＿彼女はピアノの名手なんです。", 
-                                "No sólo es ella una excelente cantante, sino que también una pianista experta.", 
+                                "<font color=\"#ff0000\">No sólo</font> es ella una excelente cantante, <font color=\"#ff0000\">sino que también</font> una pianista experta.", 
                                 "歌[うた]のうまさ<font color=\"#ff0000\">もさることながら</font> 彼女[かのじょ]はピアノの 名手[めいしゅ]なんです。", 
                                 "もさることながら"
                             ], 
@@ -17636,7 +17636,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の非業の死を聞いた時、彼の妻は悲しみで気も狂わ＿＿＿だった。", 
-                                "Su esposa se puso como loca al escuchar de su abrupta muerte.", 
+                                "Su esposa se puso <font color=\"#ff0000\">como</font> loca al escuchar de su abrupta muerte.", 
                                 "彼[かれ]の 非業[ひごう]の 死[し]を 聞[き]いた 時[とき]、 彼[かれ]の 妻[つま]は 悲[かな]しみで 気[き]も 狂[くる]わ<font color=\"#ff0000\">んばかり/ぬばかり</font>だった。", 
                                 "んばかり/ぬばかり"
                             ], 
@@ -24438,7 +24438,7 @@
                             "fields": [
                                 "課長に一目＿＿＿会わせて頂けないでしょうか。", 
                                 "¿Podría ver al jefe de sección <font color=\"#ff0000\">al menos</font> un momento, por favor?", 
-                                "課長[かちょう]に 一目[いちもく]<font color=\"#ff0000\">なりとも</font> 会[あ]わせて 頂[いただ]けないでしょうか。", 
+                                "課長[かちょう]に 一目[ひとめ]<font color=\"#ff0000\">なりとも</font> 会[あ]わせて 頂[いただ]けないでしょうか。", 
                                 "なりとも"
                             ], 
                             "flags": 0, 
