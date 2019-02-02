@@ -1,3 +1,9 @@
+---
+name: Sugerencia
+about: Sugiere una idea para el proyecto
+
+---
+
 **Sugerencia**
 Una explicación clara y concisa sobre qué te gustaría cambiar, quitar o agregar.
 
