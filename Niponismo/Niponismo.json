@@ -2347,12 +2347,12 @@
                                 "まみれ", 
                                 "まみれ", 
                                 "cubierto de", 
-                                "Sustantivo + forma gramatical", 
-                                "Parecido a だらけ pero sólo se puede usar cuando algo está literalmente cubierto por un objeto o sustancia físico. Por lo tanto, mientras que es correcto usarlo con sustantivos como 埃 o 油, no se puede usar con cosas intangibles como 間違え.", 
-                                "そのナイフは 血[ち]＿＿＿だった。", 
-                                "El cuchillo estaba cubierto de sangre.", 
-                                "あの子は泥と埃＿＿＿だった。", 
-                                "El niño estaba cubierto de barro y tierra.", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Parecido a だらけ pero sólo se puede usar cuando algo está literalmente cubierto por un objeto o sustancia físico.<div><br /></div><div>そのナイフは 血[ち]<font color=\"#ff0000\">＿＿＿</font>だった。</div><div><i>El cuchillo estaba <font color=\"#ff0000\">cubierto de</font> sangre</i>.</div><div><br /></div><div>Por lo tanto, mientras que es correcto usarlo con sustantivos como 埃 o 油, no se puede usar con cosas intangibles como 間違え.</div><div><br /></div><div>あの子は泥と埃<font color=\"#ff0000\">＿＿＿</font>だった。</div><div><i>El niño estaba <font color=\"#ff0000\">cubierto de</font> barro y tierra</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -4238,7 +4238,7 @@
                                 "に足[た]らない/に 足[た]りない", 
                                 "にたらない/にたりない", 
                                 "no ser suficiente / no merecer / no valer la pena / no ser digno de / no haber de qué / no tener de qué", 
-                                "Verbo diccionario + <font color=\"#ff0000\">＿＿＿</font><div>Sustantivo verbal con o sin する + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "V + <font color=\"#ff0000\">＿＿＿</font><div>SV（する） + <font color=\"#ff0000\">＿＿＿</font></div>", 
                                 "Expresión que se usa para indicar que algo:<div><br /></div><div>- <font color=\"#ff0000\">No es suficiente</font>.</div><div><br /></div><div>今[いま]まで 貯[た]まってきたお 金[かね]がドイツを 旅行[りょこう]（する）<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>El dinero que he venido ahorrando hasta ahora <font color=\"#ff0000\">no es suficiente</font> para viajar a Alemania</i>.</div><div><br /></div><div><div>時間[じかん]が 詳細[しょうさい]を 説明[せつめい]（する）<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No hay</font> tiempo <font color=\"#ff0000\">suficiente</font> para explicarte los detalles</i>.</div></div><div><br /></div><div>- <font color=\"#ff0000\">No es digno de confianza</font>.</div><div><br /></div><div><div>あの 嘘[うそ]つきは 信頼[しんらい]（する）<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Ese mentiroso <font color=\"#ff0000\">no es de confiar</font></i>.</div><div><br /></div><div>彼女[かんじょ]の 話[はなし]は 信[しん]じる<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Lo que ella dice <font color=\"#ff0000\">no es creíble</font></i>.</div><div><br /></div><div>申[もう]し 訳[わけ]ございません。 信用[しんよう]（する）<font color=\"#ff0000\">＿＿＿</font> 人[ひと]と 働[はたら]くことが 出来[でき]ません。</div><div><i>Sepan disculparme, pero yo no puedo trabajar con personas que <font color=\"#ff0000\">no sean dignas</font> <font color=\"#ff0000\">de mi confianza</font></i>.</div></div><div><br /></div><div><div>- <font color=\"#ff0000\">No vale la pena</font> tomar en cuenta junto a &nbsp;取[と]る. No existe el positivo.</div><div><br /></div><div>取[と]る<font color=\"#ff0000\">＿＿＿</font> 噂[うそ]を 耳[みみ]にするな！</div><div><i>No hagas caso a rumores <font color=\"#ff0000\">inútiles</font></i>.</div><div><br /></div><div>- <font color=\"#ff0000\">No es de temer</font> cuandos se usa junto a &nbsp;恐[おそ]れる. Tampoco existe el positivo.</div><div><br /></div><div>二人[ふたり]で 行[い]くなら 恐[おそ]れる<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No tienes de qué</font> temer si van los dos juntos</i>.</div></div><div><br /></div><div><div>Si bien las dos versiones son válidas, la más larga es la más usada actualmente.</div><div><br /></div><div>Cuando su significado es \"<font color=\"#ff0000\">no mercer</font>\", \"<font color=\"#ff0000\">no valer la pena</font>\" o \"<font color=\"#ff0000\">no ser digno de</font>\" y no está junto a ninguna de las palabras mencionadas anteriormente, entonces es más común usar <font color=\"#ff0000\">に 値[あたい]する</font> en su lugar.</div><div><br /></div><div>その 映画[えいが]は 見[み]る<font color=\"#ff0000\">に 値[あたい]しない</font>。</div></div><div><i>Esa película <font color=\"#ff0000\">no vale la pena</font> mirarla</i>.</div><div><br /></div><div>その 映画[えいが]は 見[み]る<font color=\"#ff0000\">に 耐[た]えない</font>。</div><div><i><font color=\"#ff0000\">No aguanto</font> mirar esa película</i>.</div>", 
                                 "", 
                                 "", 
@@ -4260,6 +4260,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "leech", 
                                 "に足らない", 
                                 "に足りない"
                             ]
@@ -4873,7 +4874,7 @@
                                 "をおいて", 
                                 "をおいて", 
                                 "をおいて", 
-                                "aparte de / además de", 
+                                "además de / aparte de", 
                                 "Sustantivo +&nbsp;<font color=\"#ff0000\">＿＿＿</font> + （ほかに）〜ない", 
                                 "Expresión utilizada junto a un verbo negativo para&nbsp;<font color=\"#ff0000\">limitar algo extrictamente al sustantivo</font>.<div><br /></div><div>今[いま]はもう我々[われわれ]を 救[すく]うのは 彼女[かのじょ]<font color=\"#ff0000\">＿＿＿&nbsp;</font>誰[だれ]もいない。</div><div><i>Ya no hay nadie que nos pueda salvar <font color=\"#ff0000\">a parte de</font> ella</i>.</div><div><br /></div><div>A menudo se usa a forma de <font color=\"#ff0000\">elogio</font>.</div><div><br /></div><div>その 役目[やくめ]に 相応[ふさわ]しいのは、 彼[かれ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Nadie más puede hacer esa tarea <font color=\"#ff0000\">a parte de</font> él</i>.</div><div><br /></div><div>Naturalmente, también se puede usar con sustantivos que representen <font color=\"#ff0000\">tiempo</font> y <font color=\"#ff0000\">lugar</font>.</div><div><br /></div><div>彼[かれ]と 話[はな]したいなら、 今[いま]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si quieres hablar con él, <font color=\"#ff0000\">no habrá</font> un mejor momento <font color=\"#ff0000\">que</font> ahora</i>.</div><div><br /></div><div>En todos los casos se puede usar opcionalmente junto a <font color=\"#ff0000\">ほかに</font>.</div><div><br /></div><div>その 話題[わだい]<font color=\"#ff0000\">＿＿＿</font>ほかにことについて 話[はな]さなかった。</div><div><i><font color=\"#ff0000\">Aparte de</font> ese tema, no hablamos de nada más</i>.</div>", 
                                 "", 
@@ -10428,7 +10429,7 @@
                             "data": "", 
                             "fields": [
                                 "彼がその試合に勝つ＿＿＿など誰も信じていなかった。", 
-                                "Nadie creía que existiese la posibilidad de que él ganara ese partido.", 
+                                "Nadie creía que <font color=\"#ff0000\">existiese la posibilidad</font> de que él ganara ese partido.", 
                                 "彼[かれ]がその 試合[しあい]に 勝[か]つ <font color=\"#ff0000\">可能[かのう] 性[せい]がある</font>など 誰[だれ]も 信[しん]じていなかった。", 
                                 "可能性がある"
                             ], 
@@ -11097,9 +11098,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼のぐちには＿＿＿。", 
-                                "Sus quejas no tienen fin.", 
-                                "彼[かれ]のぐちには<font color=\"#ff0000\">きりがない</font>。", 
+                                "出来るだけ彼に話しかけない方がいいよ。彼のぐちには＿＿＿。", 
+                                "Trata de no hablarle en lo posible. Sus quejas <font color=\"#ff0000\">no tienen fin</font>.", 
+                                "出来[でき]るだけ 彼[かれ]に 話[はな]しかけない 方[ほう]がいいよ。 彼[かれ]のぐちには<font color=\"#ff0000\">きりがない</font>。", 
                                 "きりがない"
                             ], 
                             "flags": 0, 
@@ -11109,8 +11110,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "tatoeba", 
                                 "きりがない"
                             ]
                         }, 
@@ -12985,8 +12986,8 @@
                             "data": "", 
                             "fields": [
                                 "彼は失礼＿＿＿その婦人に手紙を出した。", 
-                                "Él se tomó la libertad de escribirle a esa mujer sin considerar si eso era lo más adecuado.", 
-                                "彼[かれ]は 失礼[しつれい]<span style=\"color: rgb(0, 0, 255)\">を 顧[かえり]みず/も 顧[かえり]みず</span>その 婦人[ふじん]に 手紙[てがみ]を 出[だ]した。", 
+                                "Él se tomó la libertad de escribirle a esa mujer <font color=\"#ff0000\">sin considerar</font> si eso era lo más adecuado.", 
+                                "彼[かれ]は 失礼[しつれい]<font color=\"#ff0000\">を 顧[かえり]みず/も 顧[かえり]みず</font>その 婦人[ふじん]に 手紙[てがみ]を 出[だ]した。", 
                                 "を顧みず/も顧みず"
                             ], 
                             "flags": 0, 
@@ -22830,9 +22831,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "あえて休暇を取りやめる＿＿＿。", 
-                                "<font color=\"#ff0000\">No hace falta</font> que canceles tus vacaciones.", 
-                                "あえて 休暇[きゅうか]を 取[と]りやめる<font color=\"#ff0000\">に（は） 及[およ]ばない</font>。", 
+                                "手伝ってくれる人が一杯いるから、あえて休暇を取りやめる＿＿＿。", 
+                                "Un montón de gente vendrá a ayudarnos así que <font color=\"#ff0000\">no hace falta</font> que canceles tus vacaciones.", 
+                                "手伝[てつだ]ってくれる 人[ひと]が一 杯[はい]いるから、あえて 休暇[きゅうか]を 取[と]りやめる<span style=\"color: rgb(255, 0, 0)\">に（は） 及[およ]ばない</span>。", 
                                 "に（は）及ばない"
                             ], 
                             "flags": 0, 
