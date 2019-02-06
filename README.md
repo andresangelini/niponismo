@@ -10,6 +10,8 @@ Colección de mazos [Anki] para el estudio del idioma nipón.
 - [Descarga](#descarga)
 - [Actualizar](#actualizar)
 - [Cómo usar](#cómo-usar)
+  - [Mazos](#mazos)
+  - [Personalización](#personalización)
 - [¿Quiéres ayudar?](#quieres-ayudar)
 - [Cómo funciona](#cómo-funciona)
   - [Dependencias](#dependencias)
@@ -44,6 +46,8 @@ Simplemente descarga la última versión del archivo y luego importalo desde [An
 
 Si jamás has usado [Anki] antes y no sabes lo que son la **examinación de recuerdo activo (active recall testing)** y la **repetición espaciada (spaced repetition)**, es recomendable que primero leas el [manual de Anki]. Cabe aclarar además, que **este método no es un reemplazo de otros recursos** tales como libros de texto y clases presenciales, sino por el contrario, un complemento.  
 
+### Mazos
+
 La colección está conformada por varios mazos anidados los cuales se distribuyen de la siguiente forma:
 
 - Niponismo
@@ -67,6 +71,19 @@ Dependiendo de cuál eligamos podremos estudiar todas las áreas juntas o sólo 
 - `(X/Y/Z) + A + / + (X/Y/Z) + B` se interpreta como **tiene que ir A (con o sin X, Y o Z antes) o B (con o sin X, Y o Z antes)**
 
 Algunas oraciones contienen más de un espacio en blanco. En esos casos, lo que va entre dichos espacios se representa en la respuesta con el símbolo `～`. Un ejemplo sencillo es la forma gramatical `だの～だの` o `であれ～であれ～であれ/であろうと～であろうt～であろうと`.
+
+### Personalización
+
+**Nipoonismo** es un proyecto agnóstico que no pretende imponer ni sugerir ningún método u órden de estudio en particular, sino más que bien busca convertirse en una herramienta más en el arsenal del estudiante, dejando dichas cuestiones a su completo criterio. Es por ello que en lugar dividir los mazos según el nivel, **Niponismo** hace uso de [etiquetas][etiquetas en Anki] para su fácil selección.
+
+Por ejemplo, si se quiere estudiar únicamente la gramática de nivel N3, tan sólo es necesario [suspender] el resto de las tarjetas siguiendo los siguientes pasos:
+
+1. Ve a **Explorar** en menú superior de [Anki].
+2. Selecciona todos los niveles escribiendo en el buscador `deck:niponismo tag:gramática tag:n1 tag:n2 tag:n4 tag:n5` (nota el espacio entre cada grupo). Esto selecciona todas las tarjetas con las etiquetas `n1`, `n2`, `n4` y `n5` pertenecientes al mazo `niponismo`. Revisa la lista completa de [etiquetas](#etiquetas) disponibles.
+3. Ve a **Editar** y elije **Selecciona todo** (o haz clic en cualquiera de las tarjetas en el resultado de la búsqueda y presiona **Ctrl+A**) para seleccionar todo.
+4. Por último ve a **Tarjetas** y selecciona **Conmuta Ssupender** (o presiona **Ctrl+J**).
+
+Las tarjetas suspendidas ya no aparecerán en tus repasos. Cuando quieras estudiarlas, repite los pasos anteriores.
 
 ## ¿Quieres ayudar?
 
@@ -112,9 +129,10 @@ Si eres un usuario avanzado de Anki y estás pensando en colaborar o hacer tus p
 ### Etiquetas
 Las tarjetas están organizadas por grupos con el uso de [etiquetas][etiquetas en Anki]. A continuación está una lista del tipo de etiquetadas existentes:
 
-- Mazo al que pertenece (puede ser más de uno si está en un mazo anidado).
-- Nivel de estudio.
-- Autor de las oraciones de ejemplo y de ejercicio (puede ser más de uno).
+- Mazo al que pertenece (puede ser más de uno si está en un mazo anidado): `gramática`, `definición` y `oración`.
+- Nivel de estudio: `n1`, `n2`, `n3`, `n4` y `n5`
+- Expresión o forma gramatical: `あっての`, `およそ`, `なりとも`, etc.
+- Autor de las oraciones de ejemplo y de ejercicio (puede ser más de uno): `niponismo`, `tatoeba` y `jgram`.
 
 ## Bibliografía
 
@@ -162,6 +180,7 @@ Si crees que me he olvidado de alguien, por favor, no dudes en [hacermelo saber]
 [cómo contribuir]: https://opensource.guide/es/how-to-contribute/
 [Japanese Support]: https://ankiweb.net/shared/info/3918629684
 [etiquetas en Anki]: https://apps.ankiweb.net/docs/manual.es.html#a%C3%B1adiendo-etiquetas
+[suspender]: https://apps.ankiweb.net/docs/manual.es.html#editmore
 [Patreon]: https://www.patreon.com/niponismo
 [Medium]: https://medium.com/niponismo
 [KanjiHantaa]: https://kanji.koohii.com/profile/KanjiHantaa
