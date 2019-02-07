@@ -5483,7 +5483,7 @@
                             "data": "", 
                             "fields": [
                                 "<font face=\"Arial\">誰のせいでもない。責任は、＿＿＿君に取ってもらうよ。</font>", 
-                                "No es que no sea la culpa de nadie. Voy a asegurarme lo más que pueda de que seas el responsable.", 
+                                "No es que no sea la culpa de nadie. Voy a asegurarme <font color=\"#ff0000\">lo más</font> que pueda de que seas el responsable.", 
                                 "誰[だれ]のせいでもない。 責任[せきにん]は、&nbsp;<font color=\"#ff0000\">飽[あ]く 迄[まで]も</font> 君[きみ]に 取[と]ってもらうよ。", 
                                 "飽く迄も"
                             ], 
@@ -7593,7 +7593,7 @@
                             "data": "", 
                             "fields": [
                                 "あなたがだれ＿＿＿、またどこの生まれ＿＿＿、１つだけは確かである。", 
-                                "Sin importar quién seas y dónde hayas nacido, sólo una cosa es seguro.", 
+                                "Sin importar quién <font color=\"#ff0000\">seas</font> y dónde <font color=\"#ff0000\">hayas</font> nacido, sólo una cosa es seguro.", 
                                 "あなたがだれ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">であれ/であろうと</font></span>、またどこの 生[う]まれ<span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">であれ/であろうと</font></span>、 １[ひと]つだけは 確[たし]かである。", 
                                 "であれ/であろうと"
                             ], 
@@ -9599,7 +9599,7 @@
                             "data": "", 
                             "fields": [
                                 "自分の直感が、＿＿＿確かなものか自慢した手前、当てがはずれた時は首をやらなければならなくなった。", 
-                                "Habiendo presumido de cuan seguras eran sus corazonadas, fue obligado a comerse sus palabras cuando adivinó mal.", 
+                                "Habiendo presumido de cuán seguras eran sus corazonadas, fue obligado a comerse sus palabras cuando adivinó mal.", 
                                 "自分[じぶん]の 直感[ちょっかん]が、&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">如何[いか]に</font></span>&nbsp;確[たし]かなものか 自慢[じまん]した 手前[てまえ]、 当[あ]てがはずれた 時[とき]は 首[くび]をやらなければならなくなった。", 
                                 "如何に"
                             ], 
@@ -14914,7 +14914,7 @@
                             "data": "", 
                             "fields": [
                                 "私にはそれが真実＿＿＿が分からない。", 
-                                "No sé si es verdad o no.", 
+                                "No sé si es verdad <font color=\"#ff0000\">o no</font>.", 
                                 "私[わたし]にはそれが 真実[しんじつ]<font color=\"#ff0000\">か 否[いな]か</font>が 分[わ]からない。", 
                                 "か否か"
                             ], 
@@ -18571,7 +18571,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>漢字を書くときは点やはらいに気をつけて、＿＿＿早くていねいに書きましょう。</div>", 
-                                "Al escribir kanji debemos hacerlo lo más rápido posible teniendo mucho cuidado con los puntos y las terminaciones.", 
+                                "Al escribir kanji debemos hacerlo <font color=\"#ff0000\">lo más</font> rápido <font color=\"#ff0000\">posible</font> teniendo mucho cuidado con los puntos y las terminaciones.", 
                                 "漢字[かんじ]を 書[か]くときは 点[てん]やはらいに 気[き]をつけて、<font color=\"#ff0000\">なるべく</font> 早[はや]くていねいに 書[か]きましょう。", 
                                 "なるべく"
                             ], 
