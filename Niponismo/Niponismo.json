@@ -351,7 +351,7 @@
                                 "べからず", 
                                 "no debería hacer", 
                                 "<div>V dicc. + <font color=\"#ff0000\">＿＿＿</font></div><div>SV + す/する + <font color=\"#ff0000\">＿＿＿</font></div>", 
-                                "Expresión que indica una <font color=\"#ff0000\">fuerte prohibición</font>. Es la forma opuesta de <font color=\"#ff0000\">べき</font> y al igual que &nbsp;<font color=\"#ff0000\">禁止[きんし]</font> se lo ve más a menudo en advertencias como en <font color=\"#ff0000\">芝生[しばふ]に 立[たち]ち 入[いる]る＿＿＿</font>。<div><br /></div><div>このドアの先[さき]へ 進[すす]む<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puede ir</font> más allá de esta puerta</i>.</div><div><br /></div><div>職員[しょくいん] 以外[いがい] 立[た]ち 入[い]る<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Prohibida</font> la entrada a excepción de los empleados</i>.</div>", 
+                                "Expresión que indica una <font color=\"#ff0000\">fuerte prohibición</font>. Es la forma opuesta de <font color=\"#ff0000\">べき</font> y al igual que &nbsp;<font color=\"#ff0000\">禁止[きんし]</font> se lo ve más a menudo en advertencias como en <font color=\"#ff0000\">芝生[しばふ]に 立[たち]ち 入[いる]る＿＿＿</font>。<div><br></div><div>このドアの先[さき]へ 進[すす]む<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No puede ir</font> más allá de esta puerta</i>.</div><div><br></div><div>職員[しょくいん] 以外[いがい] 立[た]ち 入[い]る<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Prohibida</font> la entrada a excepción de los empleados</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -8632,7 +8632,7 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿、も一度それを言ってみろ！", 
-                                "¡Intentá decirme eso una vez más!", 
+                                "¡<font color=\"#ff0000\">Intentá</font> decirme eso una vez más!", 
                                 "<font color=\"#ff0000\">ひとつ</font>、も 一度[いちど]それを 言[い]ってみろ！", 
                                 "ひとつ"
                             ], 
@@ -10582,9 +10582,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼の発言は誤解を招く＿＿＿。", 
-                                "Sus declaraciones <font color=\"#ff0000\">dejan la puerta abierta</font> a malentendidos.", 
-                                "彼[かれ]の 発言[はつげん]は 誤解[ごかい]を 招[まね]く <font color=\"#ff0000\">可能[かのう] 性[せい]がある</font>。", 
+                                "このスキャンダルで一部の高官が罷免される＿＿＿。", 
+                                "<font color=\"#ff0000\">Existe la posibilidad</font> de que algunos oficiales de alto rango sean despedidos por este escándalo.", 
+                                "このスキャンダルで 一部[いちぶ]の 高官[こうかん]が 罷免[ひめん]される <font color=\"#ff0000\">可能[かのう] 性[せい]がある</font>。", 
                                 "可能性がある"
                             ], 
                             "flags": 0, 
@@ -13014,7 +13014,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は＿＿＿子供ではない。", 
-                                "Él ya no es un niño.", 
+                                "Él <font color=\"#ff0000\">ya</font> no es un niño.", 
                                 "彼[かれ]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font> 子供[こども]ではない。", 
                                 "最早"
                             ], 
@@ -16421,7 +16421,7 @@
                             "data": "", 
                             "fields": [
                                 "早く帰ると約束すれば行かせて上げ＿＿＿。", 
-                                "Si me prometes volver temprano, tal vez te deje ir.", 
+                                "Si me prometes volver temprano, <font color=\"#ff0000\">tal vez</font> te deje ir.", 
                                 "早[はや]く 帰[かえ]ると 約束[やくそく]すれば 行[い]かせて 上[あ]げ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないものでもない</font></span>。", 
                                 "ないものでもない"
                             ], 
