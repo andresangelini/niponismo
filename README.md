@@ -81,9 +81,9 @@ Por ejemplo, si se quiere estudiar únicamente la gramática de nivel N3, tan s�
 1. Ve a **Explorar** en menú superior de [Anki].
 2. Selecciona todos los niveles escribiendo en el buscador `deck:niponismo tag:gramática tag:n1 tag:n2 tag:n4 tag:n5` (nota el espacio entre cada grupo). Esto selecciona todas las tarjetas con las etiquetas `n1`, `n2`, `n4` y `n5` pertenecientes al mazo `niponismo`. Revisa la lista completa de [etiquetas](#etiquetas) disponibles.
 3. Ve a **Editar** y elije **Selecciona todo** (o haz clic en cualquiera de las tarjetas en el resultado de la búsqueda y presiona **Ctrl+A**) para seleccionar todo.
-4. Por último ve a **Tarjetas** y selecciona **Conmuta Ssupender** (o presiona **Ctrl+J**).
+4. Por último ve a **Tarjetas** y selecciona **Conmuta Supender** (o presiona **Ctrl+J**).
 
-Las tarjetas suspendidas ya no aparecerán en tus repasos. Cuando quieras estudiarlas, repite los pasos anteriores.
+Las tarjetas suspendidas ya no aparecerán en tus repasos. Cuando quieras volver a estudiarlas, repite los pasos anteriores.
 
 ## ¿Quieres ayudar?
 
