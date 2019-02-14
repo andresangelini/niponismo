@@ -565,6 +565,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
                                 "ぶり"
                             ]
                         }, 
@@ -6765,6 +6767,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -6785,6 +6788,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -6806,6 +6810,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
+                                "tatoeba", 
                                 "ぶり"
                             ]
                         }, 
@@ -6814,7 +6819,7 @@
                             "data": "", 
                             "fields": [
                                 "話し＿＿＿から彼はアメリカ人ではないことがわかる。", 
-                                "Sé por su forma de hablar que él no es americano.", 
+                                "Sé por su <font color=\"#ff0000\">forma</font> de hablar que él no es americano.", 
                                 "話[はな]し<font color=\"#ff0000\">ぶり</font>から 彼[かれ]はアメリカ 人[じん]ではないことがわかる。", 
                                 "ぶり"
                             ], 
@@ -6825,6 +6830,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -6845,6 +6851,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -6866,6 +6873,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
+                                "tatoeba", 
                                 "ぶり"
                             ]
                         }, 
@@ -6874,7 +6882,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の歩き＿＿＿はちょっと可笑しいと思わない？", 
-                                "¿No te parece un poco extraña su forma de caminar?", 
+                                "¿No te parece un poco extraña su <font color=\"#ff0000\">forma</font> de caminar?", 
                                 "彼[かれ]の 歩[ある]き<font color=\"#ff0000\">ぶり</font>はちょっと 可笑[おか]しいと 思[おも]わない？", 
                                 "ぶり"
                             ], 
@@ -6885,6 +6893,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -6905,6 +6914,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -6914,7 +6924,7 @@
                             "data": "", 
                             "fields": [
                                 "先輩は経験が沢山ありますので、出来るならその仕事＿＿＿教えて頂きたいと思います。", 
-                                "Usted tiene mucha experiencia, por lo que, de ser posible, me gustaria que me enseñara su forma de trabajar.", 
+                                "Usted tiene mucha experiencia, por lo que, de ser posible, me gustaria que me enseñara su <font color=\"#ff0000\">forma</font> de trabajar.", 
                                 "先輩[せんぱい]は 経験[けいけん]が 沢山[たくさん]ありますので、 出来[でき]るならその 仕事[しごと]<font color=\"#ff0000\">ぶり</font> 教[おし]えて 頂[いただ]きたいと 思[おも]います。", 
                                 "ぶり"
                             ], 
@@ -6925,6 +6935,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
                                 "ぶり"
                             ]
@@ -8883,7 +8894,7 @@
                             "data": "", 
                             "fields": [
                                 "もうこれより＿＿＿手はない。", 
-                                "Ya no nos queda otra.", 
+                                "Ya <font color=\"#ff0000\">no</font> nos <font color=\"#ff0000\">queda otra</font>.", 
                                 "もうこれより<font color=\"#ff0000\">ほかに</font> 手[て]はない。", 
                                 "ほかに"
                             ], 
@@ -11231,7 +11242,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は大統領として、無責任＿＿＿。", 
-                                "Como presidente, él es extremadamente irresponsable.", 
+                                "Como presidente, él es <font color=\"#ff0000\">extremadamente</font> irresponsable.", 
                                 "彼[かれ]は 大統領[だいとうりょう]として、 無責任[むせきにん]&nbsp;<font color=\"#ff0000\">極[きわ]まる/ 極[きわ]まりない</font>。", 
                                 "極まる/極まりない"
                             ], 
@@ -11252,7 +11263,7 @@
                             "data": "", 
                             "fields": [
                                 "こんな風は強い日に小型のボートで沖に出るなんて、危険＿＿＿。", 
-                                "Salir al mar en un bote en un día con fuertes vientos como este es extremadamente peligroso.", 
+                                "Salir al mar en un bote en un día con fuertes vientos como este es <font color=\"#ff0000\">extremadamente</font> peligroso.", 
                                 "こんな 風[かぜ]は 強[つよ]い 日[ひ]に 小型[こがた]のボートで 沖[おき]に 出[で]るなんて、 危険[きけん]&nbsp;<font color=\"#ff0000\">極[きわ]まる/ 極[きわ]まりない</font>。", 
                                 "極まる/極まりない"
                             ], 
@@ -11294,7 +11305,7 @@
                             "data": "", 
                             "fields": [
                                 "最近の映画は、平凡＿＿＿内容だ。", 
-                                "Las películas últimamente son muy aburridas.", 
+                                "Las películas últimamente son <font color=\"#ff0000\">extremadamente</font> aburridas.", 
                                 "最近[さいきん]の 映画[えいが]は、 平凡[へいぼん]&nbsp;<font color=\"#ff0000\">極[きわ]まる/ 極[きわ]まりない</font>&nbsp;内容[ないよう]だ。", 
                                 "極まる/極まりない"
                             ], 
@@ -11315,7 +11326,7 @@
                             "data": "", 
                             "fields": [
                                 "こんな退屈＿＿＿宿題を全然したくない。", 
-                                "No quiero hacer para nada estos deberes extremadamentes aburridos.", 
+                                "No quiero hacer para nada estos deberes <font color=\"#ff0000\">extremadamentes</font> aburridos.", 
                                 "こんな 退屈[たいくつ]&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">極[きわ]まる/ 極[きわ]まりない</font></span>&nbsp;宿題[しゅくだい]を 全然[ぜんぜん]したくない。", 
                                 "極まる/極まりない"
                             ], 
