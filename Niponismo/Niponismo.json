@@ -4985,7 +4985,7 @@
                                 "思いをする", 
                                 "sentirse / pasarla", 
                                 "Aい + <font color=\"#ff0000\">＿＿＿</font><div>Aな + な + <font color=\"#ff0000\">＿＿＿</font></div>", 
-                                "Expresión que indica cómo se siente o la pasa el sujeto.<div><br /></div><div>学校[がっこう]の 初日[しょにち]に 教室[きょうにち]を 間違[まちが]ってしまった。 本当[ほんとう]に 恥[は]ずかしい＿＿＿しました。</div><div><i>Me equivoqué de salón el primer día de clases. <font color=\"#ff0000\">Me sentí</font> realmente avergonzado</i>.</div><div><br /></div><div>Dicho sujeto puede ser tanto el locutor así como cualquier otra persona.</div><div><br /></div><div>辛[つら]い＿＿＿させてすまなかった。</div><div><i>Discúlpame por haberte hecho <font color=\"#ff0000\">sentir&nbsp;/ pasar</font> tan mal</i>.</div>", 
+                                "Expresión que indica cómo se siente o la pasa el sujeto.<div><br /></div><div>学校[がっこう]の 初日[しょにち]に 教室[きょうにち]を 間違[まちが]ってしまった。 本当[ほんとう]に 恥[は]ずかしい<font color=\"#ff0000\">＿＿＿</font>しました。</div><div><i>Me equivoqué de salón el primer día de clases. <font color=\"#ff0000\">Me sentí</font> realmente avergonzado</i>.</div><div><br /></div><div>Dicho sujeto puede ser tanto el locutor así como cualquier otra persona.</div><div><br /></div><div>辛[つら]い<font color=\"#ff0000\">＿＿＿</font>させてすまなかった。</div><div><i>Discúlpame por haberte hecho <font color=\"#ff0000\">sentir&nbsp;/ pasar</font> tan mal</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -10029,7 +10029,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は引退したが、＿＿＿事実上指導者である。", 
-                                "Él se jubiló pero sigue siendo un verdadero líder.", 
+                                "Él se jubiló pero <font color=\"#ff0000\">sigue</font> siendo un verdadero líder.", 
                                 "彼[かれ]は 引退[いんたい]したが、&nbsp;<font color=\"#ff0000\">未[いま]だに</font> 事実[じじつ] 上[じょう] 指導[しどう] 者[しゃ]である。", 
                                 "未だに"
                             ], 
@@ -10113,8 +10113,8 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿パーティーはとりやめにしなければならない。", 
-                                "De cualquier forma, la fiesta deberá cancelarse.", 
-                                "<span style=\"color: rgb(0, 0, 255);font-family: 'Liberation Sans'\">何[いず]れにせよ/ 何[いず]れにしろ</span>パーティーはとりやめにしなければならない。", 
+                                "<font color=\"#ff0000\">De cualquier forma</font>, la fiesta deberá cancelarse.", 
+                                "<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">何[いず]れにせよ/ 何[いず]れにしろ</font></span>パーティーはとりやめにしなければならない。", 
                                 "何れにせよ/何れにしろ"
                             ], 
                             "flags": 0, 
@@ -10446,7 +10446,7 @@
                             "data": "", 
                             "fields": [
                                 "彼がそれをする＿＿＿は全く彼が決めることだ。", 
-                                "Si lo <font color=\"#ff0000\">hace o no</font>, depende completamente de él.", 
+                                "Si lo hace <font color=\"#ff0000\">o no</font>, depende completamente de él.", 
                                 "彼[かれ]がそれをする<font color=\"#ff0000\">か 否[いな]か</font>は 全[まった]く 彼[かれ]が 決[き]めることだ。", 
                                 "か否か"
                             ], 
@@ -10467,7 +10467,7 @@
                             "data": "", 
                             "fields": [
                                 "僕たちは大学へ行くべき＿＿＿を決めかねている。", 
-                                "No nos podemos decidir si ir a la universidad o no.", 
+                                "No nos podemos decidir si ir a la universidad <font color=\"#ff0000\">o no</font>.", 
                                 "僕[ぼく]たちは 大学[だいがく]へ 行[い]くべき<font color=\"#ff0000\">か 否[いな]か</font>を 決[き]めかねている。", 
                                 "か否か"
                             ], 
@@ -10488,7 +10488,7 @@
                             "data": "", 
                             "fields": [
                                 "彼が成功する＿＿＿は、彼の健康の如何によります。", 
-                                "Si tiene éxito o no, dependerá de su estado de salud.", 
+                                "Si tiene éxito <font color=\"#ff0000\">o no</font>, dependerá de su estado de salud.", 
                                 "彼[かれ]が 成功[せいこう]する<font color=\"#ff0000\">か 否[いな]か</font>は、 彼[かれ]の 健康[けんこう]の 如何[いか]によります。", 
                                 "か否か"
                             ], 
@@ -10509,7 +10509,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女が罪を認める＿＿＿は問題ではない。", 
-                                "No importa si admite su culpa o no.", 
+                                "No importa si admite su culpa <font color=\"#ff0000\">o no</font>.", 
                                 "彼女[かのじょ]が 罪[つみ]を 認[みと]める<font color=\"#ff0000\">か 否[いな]か</font>は 問題[もんだい]ではない。", 
                                 "か否か"
                             ], 
@@ -10656,7 +10656,7 @@
                             "data": "", 
                             "fields": [
                                 "そういう＿＿＿かもしれないと思っただけのことですよ。", 
-                                "Tan sólo pensé que eso podría ser una posibilidad.", 
+                                "Tan sólo pensé que eso podría ser una <font color=\"#ff0000\">posibilidad</font>.", 
                                 "そういう&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">可能性[かのうせい]があった</font></span>かもしれないと 思[おも]っただけのことですよ。", 
                                 "可能性があった"
                             ], 
@@ -14422,7 +14422,7 @@
                             "data": "", 
                             "fields": [
                                 "冬山登山をする＿＿＿、そんな大げさ格好は要りません。", 
-                                "No es como si estuviésemos subiendo por una montaña nevada, así que no hay necesidad de usar ese tipo de ropa.", 
+                                "<font color=\"#ff0000\">No es como si</font> estuviésemos subiendo por una montaña nevada, así que no hay necesidad de usar ese tipo de ropa.", 
                                 "冬山[ふゆやま] 登山[とざん]をする<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">のではあるまいし</font></span>、そんな 大[おお]げさ 格好[かっこう]は 要[い]りません。", 
                                 "のではあるまいし"
                             ], 
@@ -14945,7 +14945,7 @@
                             "data": "", 
                             "fields": [
                                 "大事なのは全力を尽くす＿＿＿だ。", 
-                                "Lo importante es si uno hace su mejor esfuerzo o no.", 
+                                "Lo importante es si uno hace su mejor esfuerzo <font color=\"#ff0000\">o no</font>.", 
                                 "大事[だいじ]なのは 全力[ぜんりょく]を 尽[つ]くす<font color=\"#ff0000\">か 否[いな]か</font>だ。", 
                                 "か否か"
                             ], 
@@ -14987,7 +14987,7 @@
                             "data": "", 
                             "fields": [
                                 "我々がその戦いに勝つ＿＿＿はきわめて重要であろう。", 
-                                "Es extremadamente importante si ganamos o no esa batalla.", 
+                                "Es extremadamente importante si ganamos <font color=\"#ff0000\">o no</font> esa batalla.", 
                                 "我々[われわれ]がその 戦[たたか]いに 勝[か]つ<font color=\"#ff0000\">か 否[いな]か</font>はきわめて 重要[じゅうよう]であろう。", 
                                 "か否か"
                             ], 
