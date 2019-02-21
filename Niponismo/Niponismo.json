@@ -1491,13 +1491,13 @@
                                 "何れにせよ/何れにしろ", 
                                 "何[いず]れにせよ/何[いず]れにしろ", 
                                 "いずれにせよ/いずれにしろ", 
-                                "de cualquier forma", 
-                                "Forma gramatical + frase.", 
-                                "Se usa para expresar que no importa cómo sea el caso, éste no afecta la conclusión. Se puede entender como \"de cualquier forma\", \"de todas formas\", \"sea como sea\", etc.", 
-                                "第[だい]２に、 喫煙者[きつえんしゃ]は、＿＿＿ 喫煙[きつえん]は 自分[じぶん]ではまったくどうにもならないと 信[しん]じ 込[こ]んでいるのである。", 
-                                "Los fumadores pasivos se convencen así mismos de que no pueden hacer nada respecto a los fumadores de todas formas.", 
-                                "＿＿＿ありがとう。", 
-                                "Gracias de todas formas.", 
+                                "de todos modos / de todas formas / de cualquier modo / de cualquier forma", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + frase", 
+                                "<div>Expresión con la que se resta importancia a lo mensionado anteriormente. Indica que lo que sigue toma lugar o se lleva a cabo independientemente de lo que se describe en la cláusula anterior.<br /><div><br /></div><div><div><font color=\"#ff0000\">＿＿＿</font>ありがとう。</div><div><i>Gracias&nbsp;<font color=\"#ff0000\">de todas formas</font></i>.</div></div><div><br /></div><div>Usado junto a otras expresiones como どうにもならない, refleja desconsuelo o desesperanza.</div><div><br /></div><div>第[だい]２に、 喫煙者[きつえんしゃ]は、<font color=\"#ff0000\">＿＿＿</font> 喫煙[きつえん]は 自分[じぶん]ではまったくどうにもならないと 信[しん]じ 込[こ]んでいるのである。</div><div><i>Los fumadores pasivos se convencen así mismos de que no pueden hacer nada respecto a los fumadores <font color=\"#ff0000\">de todas formas</font></i>.</div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1514,7 +1514,8 @@
                                 "Japonés", 
                                 "N1", 
                                 "tatoeba", 
-                                "何れにせよ/何れにしろ"
+                                "何れにしろ", 
+                                "何れにせよ"
                             ]
                         }, 
                         {
@@ -4382,7 +4383,7 @@
                                 "によらず", 
                                 "によらず", 
                                 "sin tal cosa / sin importar / independientemente de", 
-                                "Cuando equivale a なしで:<div><br /></div><div>Sustantivo + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Palabra interrogativa + <font color=\"#ff0000\">＿＿＿</font>.</div><div><br /></div><div>Cuando equivale a にかかわらず:</div><div><br /></div><div>Verbo dicc. + か + verbo dicc. + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Sustantivo + か + sustantivo + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo な (sin な) + か +&nbsp;Adjetivo な (sin な) + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo い + か +&nbsp;adjetivo い + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div><br /></div><div>Verbo dicc.&nbsp;+ か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Sustantivo + か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo な (sin な)&nbsp;+ か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo い&nbsp;+ か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div><br /></div><div>Verbo positivo + か + verbo negativo + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Sustantivo + である + か + sutantivo + でない + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo な (sin な) + である + か + Adjetivo な (sin な) + でない + か　+ <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo い + か + Adjetivo い negativo + か + <font color=\"#ff0000\">＿＿＿</font>.</div><div><br /></div><div>Verbo dicc. no pasado + verbo dicc. negativo no pasado + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo い no pasado + adjetivo い negativo no pasado + <font color=\"#ff0000\">＿＿＿</font>.</div><div><br /></div><div>Adjetivo な (sin な) no pasado + antónimo + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Adjetivo い no pasado + antónimo + <font color=\"#ff0000\">＿＿＿</font>.</div><div><br /></div><div>Sustantivo / Adjetivo な (sin な) + であるなし + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Sustantivo + のあるなし + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Sustantivo + のいかん + <font color=\"#ff0000\">＿＿＿</font>.</div><div>Frase interrogativa en infinitivo + か + <font color=\"#ff0000\">＿＿＿</font>.</div>", 
+                                "Cuando equivale a なしで:<div><br /></div><div>S + <font color=\"#ff0000\">＿＿＿</font></div><div>Palabra interrogativa + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>Cuando equivale a にかかわらず:</div><div><br /></div><div>V + か + V + か + <font color=\"#ff0000\">＿＿＿</font></div><div>S + か + S + か + <font color=\"#ff0000\">＿＿＿</font></div><div>A<strike>な</strike> + か +&nbsp;A<strike>な</strike>&nbsp;+ か + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい + か +&nbsp;Aい + か + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>V + か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font></div><div>S + か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font></div><div>A<strike>な</strike>+ か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい&nbsp;+ か + どう/否 + か + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>V positivo + か + V negativo + か + <font color=\"#ff0000\">＿＿＿</font></div><div>S + である + か + S + でない + か + <font color=\"#ff0000\">＿＿＿</font></div><div>A<strike>な</strike> + である + か + A<strike>な</strike> + でない + か　+ <font color=\"#ff0000\">＿＿＿</font></div><div>Aい + か + Aい negativo + か + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>V no pasado + V negativo no pasado + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい no pasado + Aい negativo no pasado + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>A<strike>な</strike> no pasado + antónimo + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい no pasado + antónimo + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>S / A<strike>な</strike> + であるなし + <font color=\"#ff0000\">＿＿＿</font></div><div>S + のあるなし + <font color=\"#ff0000\">＿＿＿</font></div><div>S + のいかん + <font color=\"#ff0000\">＿＿＿</font></div><div>Frase interrogativa en infinitivo + か + <font color=\"#ff0000\">＿＿＿</font></div>", 
                                 "Expresión cuyo significado literal indica que lo que sigue no guarda relación alguno con lo que precede pero que en la práctica tiene dos usos:<div><br /></div><div>- Señalar que una acción o acontecimiento se ejecuta sin lo que precede a esta forma, lo que lo hace equivalente a なしで y puede ir seguida de la partícula (に).</div><div><br /></div><div>造[つく]られたもので、この 方[あた]<font color=\"#ff0000\">＿＿＿</font>できたものは一つもない。</div><div><i>Nada de lo que se ha creado se ha hecho <font color=\"#ff0000\">sin</font> él</i>.</div><div><br /></div><div>- Señalar que lo que sigue se hace sin importar lo que precede al igual que にかかわらず y に問わず &nbsp;y contrariamente a によって y により.</div><div><br /></div><div>彼女[かんじょ]は 見[み]かけ<font color=\"#ff0000\">＿＿＿</font> 頑張[がんば]りやだ。</div><div><i>Ella es muy tenaz <font color=\"#ff0000\">por más que</font> no lo luzca</i>.</div><div><br /></div><div>Cuando se usa junto a palabras o frases interrogativas equivale a でも como en&nbsp;どんな 状況[じょうきょう]<font color=\"#ff0000\">＿＿＿</font>/でも o 誰がそんなことを言ったか<font color=\"#ff0000\">＿＿＿</font>. Al igual que にかかわらず puede ser precedido por いかん.</div><div><br /></div><div>誰[だれ]<font color=\"#ff0000\">＿＿＿</font> 誰[だれ]かを 直[す]ぐに 派遣[はけん]してください。</div><div><i>Despache a alguien <font color=\"#ff0000\">sin importar</font> quién sea inmediatamente, por favor</i>.</div>", 
                                 "<div><br /></div>", 
                                 "", 
@@ -10382,8 +10383,8 @@
                             "data": "", 
                             "fields": [
                                 "＿＿＿、君は好むと好まないにかかわらず早く出発する必要がある。", 
-                                "De cualquier forma, tendrás que partir temprano, te guste o no.", 
-                                "<span style=\"color: rgb(0, 0, 255);font-family: 'Liberation Sans'\">何[いず]れにせよ/ 何[いず]れにしろ</span>、 君[きみ]は 好[この]むと 好[この]まないにかかわらず 早[はや]く 出発[しゅっぱつ]する 必要[ひつよう]がある。", 
+                                "<font color=\"#ff0000\">De cualquier forma</font>, tendrás que partir temprano, te guste o no.", 
+                                "<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">何[いず]れにせよ/ 何[いず]れにしろ</font></span>、 君[きみ]は 好[この]むと 好[この]まないにかかわらず 早[はや]く 出発[しゅっぱつ]する 必要[ひつよう]がある。", 
                                 "何れにせよ/何れにしろ"
                             ], 
                             "flags": 0, 
@@ -10965,7 +10966,7 @@
                             "data": "", 
                             "fields": [
                                 "今後は良＿＿＿悪し＿＿＿その連中に干渉しないほうがいいと思います。", 
-                                "Creo que, para bien o para mal, sería mejor que no te metieras con esa gente.", 
+                                "Creo que, para bien <font color=\"#ff0000\">o</font> para mal, sería mejor que no te metieras con esa gente.", 
                                 "今後[こんご]は 良[よ]<font color=\"#ff0000\">かれ</font> 悪[あ]し<font color=\"#ff0000\">かれ</font>その 連中[れんちゅう]に 干渉[かんしょう]しないほうがいいと 思[おも]います。", 
                                 "かれ～かれ"
                             ], 
@@ -29628,7 +29629,7 @@
                             "data": "", 
                             "fields": [
                                 "第２に、喫煙者は、いずれにせよ喫煙は自分ではまったく＿＿＿と信じ込んでいるのである。", 
-                                "Los fumadores pasivos se convencen así mismos de que <font color=\"#ff0000\">no pueden hacer nada respecto</font> a los fumadores de todas formas.", 
+                                "Segundo, los fumadores pasivos se convencen así mismos de que <font color=\"#ff0000\">no pueden hacer nada respecto</font> a los fumadores de todas formas.", 
                                 "第[だい]２に、 喫煙[きつえん] 者[しゃ]は、いずれにせよ 喫煙[きつえん]は 自分[じぶん]ではまったく<font color=\"#ff0000\">どうにもならない</font>と 信じ込[しんじこ]んでいるのである。", 
                                 "どうにもならない"
                             ], 
@@ -29690,9 +29691,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "チケットは多分もう売れ切りだよ。今更言っても＿＿＿だろう。", 
+                                "チケットは多分もう売れ切りだよ。今更行っても＿＿＿だろう。", 
                                 "Los más probable es que las entradas ya se hayan agotado. <font color=\"#ff0000\">Es inútil</font> que vayas ahora.", 
-                                "チケットは 多分[たぶん]もう 売[う]れ 切[ぎ]りだよ。 今更[いまさら] 言[い]っても<font color=\"#ff0000\">どうにもならない</font>だろう。", 
+                                "チケットは 多分[たぶん]もう 売[う]れ 切[ぎ]りだよ。 今更[いまさら] 行[い]っても<font color=\"#ff0000\">どうにもならない</font>だろう。", 
                                 "どうにもならない"
                             ], 
                             "flags": 0, 
