@@ -5555,132 +5555,6 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "取り繕うように、笑っ＿＿＿。", 
-                                "Ella <font color=\"#ef2929\">muestra</font> una sonrisa para suavizar las cosas.", 
-                                "取り繕[とりつくろ]うように、 笑[わら]っ<font color=\"#ef2929\">てみせる</font>。", 
-                                "てみせる"
-                            ], 
-                            "flags": 0, 
-                            "guid": "N!FQL-/$7.", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "tatoeba", 
-                                "てみせる"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "石にかじりついても成功し＿＿＿。", 
-                                "Voy a triunfar <font color=\"#ef2929\">cueste lo que cueste</font>.", 
-                                "石[いし]にかじりついても 成功[せいこう]し<font color=\"#ef2929\">てみせる</font>。", 
-                                "てみせる"
-                            ], 
-                            "flags": 0, 
-                            "guid": "lbX;7PAGh!", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "tatoeba", 
-                                "てみせる"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "私はどんな困難にも耐え＿＿＿。", 
-                                "Voy a resistir cualquier dificultad <font color=\"#ef2929\">a como de lugar</font>.", 
-                                "私[わたし]はどんな 困難[こんなん]にも 耐[た]え<font color=\"#ef2929\">てみせる</font>。", 
-                                "てみせる"
-                            ], 
-                            "flags": 0, 
-                            "guid": "G+%_)>W$H#", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "tatoeba", 
-                                "てみせる"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "どんな手を使ってでも勝ちとっ＿＿＿。", 
-                                "Yo ganaré <font color=\"#ef2929\">cueste lo que cueste</font>.", 
-                                "どんな 手[て]を 使[つか]ってでも 勝[か]ちとっ<font color=\"#ef2929\">てみせる</font>。", 
-                                "てみせる"
-                            ], 
-                            "flags": 0, 
-                            "guid": "x}pW@uDp0g", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "tatoeba", 
-                                "てみせる"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "彼はパーティーでパントマイムをやっ＿＿＿。", 
-                                "Él <font color=\"#ef2929\">mostró</font> durante la fiesta cómo se hace pantomima.", 
-                                "彼[かれ]はパーティーでパントマイムをやっ<font color=\"#ef2929\">てみせた</font>。", 
-                                "てみせた"
-                            ], 
-                            "flags": 0, 
-                            "guid": "G&`!^Wa<&o", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "tatoeba", 
-                                "てみせる"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "セールスマンはその機械の使用方法を実演し＿＿＿。", 
-                                "El vendedor <font color=\"#ef2929\">mostró</font> como usar la máquina.", 
-                                "セールスマンはその 機械[きかい]の 使用[しよう] 方法[ほうほう]を 実演[じつえん]し<font color=\"#ef2929\">てみせた</font>。", 
-                                "てみせた"
-                            ], 
-                            "flags": 0, 
-                            "guid": "Abw@MYSsz*", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Definición", 
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "tatoeba", 
-                                "てみせる"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
                                 "どうにもならない", 
                                 "どうにもならない", 
                                 "どうにもならない", 
@@ -29580,6 +29454,132 @@
                                 "Oración", 
                                 "て（は）堪らない", 
                                 "て（は）敵わない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "取り繕うように、笑っ＿＿＿。", 
+                                "Ella <font color=\"#ef2929\">muestra</font> una sonrisa para suavizar las cosas.", 
+                                "取り繕[とりつくろ]うように、 笑[わら]っ<font color=\"#ef2929\">てみせる</font>。", 
+                                "てみせる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "N!FQL-/$7.", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てみせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "石にかじりついても成功し＿＿＿。", 
+                                "Voy a triunfar <font color=\"#ef2929\">cueste lo que cueste</font>.", 
+                                "石[いし]にかじりついても 成功[せいこう]し<font color=\"#ef2929\">てみせる</font>。", 
+                                "てみせる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "lbX;7PAGh!", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てみせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私はどんな困難にも耐え＿＿＿。", 
+                                "Voy a resistir cualquier dificultad <font color=\"#ef2929\">a como de lugar</font>.", 
+                                "私[わたし]はどんな 困難[こんなん]にも 耐[た]え<font color=\"#ef2929\">てみせる</font>。", 
+                                "てみせる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G+%_)>W$H#", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てみせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どんな手を使ってでも勝ちとっ＿＿＿。", 
+                                "Yo ganaré <font color=\"#ef2929\">cueste lo que cueste</font>.", 
+                                "どんな 手[て]を 使[つか]ってでも 勝[か]ちとっ<font color=\"#ef2929\">てみせる</font>。", 
+                                "てみせる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "x}pW@uDp0g", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てみせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼はパーティーでパントマイムをやっ＿＿＿。", 
+                                "Él <font color=\"#ef2929\">mostró</font> durante la fiesta cómo se hace pantomima.", 
+                                "彼[かれ]はパーティーでパントマイムをやっ<font color=\"#ef2929\">てみせた</font>。", 
+                                "てみせた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G&`!^Wa<&o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てみせる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "セールスマンはその機械の使用方法を実演し＿＿＿。", 
+                                "El vendedor <font color=\"#ef2929\">mostró</font> como usar la máquina.", 
+                                "セールスマンはその 機械[きかい]の 使用[しよう] 方法[ほうほう]を 実演[じつえん]し<font color=\"#ef2929\">てみせた</font>。", 
+                                "てみせた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Abw@MYSsz*", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てみせる"
                             ]
                         }, 
                         {
