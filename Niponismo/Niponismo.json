@@ -1491,7 +1491,7 @@
                                 "何れにせよ/何れにしろ", 
                                 "何[いず]れにせよ/何[いず]れにしろ", 
                                 "いずれにせよ/いずれにしろ", 
-                                "de todos modos / de todas formas / de cualquier modo / de cualquier forma", 
+                                "<div>de todos modos / de todas formas / de todas maneras / de cualquier modo / de cualquier forma / de cualquier manera</div>", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + frase", 
                                 "<div>Expresión con la que se resta importancia a lo mensionado anteriormente. Indica que lo que sigue toma lugar o se lleva a cabo independientemente de lo que se describe en la cláusula anterior.<br /><div><br /></div><div><div><font color=\"#ff0000\">＿＿＿</font>ありがとう。</div><div><i>Gracias&nbsp;<font color=\"#ff0000\">de todas formas</font></i>.</div></div><div><br /></div><div>Usado junto a otras expresiones como どうにもならない, refleja desconsuelo o desesperanza.</div><div><br /></div><div>第[だい]２に、 喫煙者[きつえんしゃ]は、<font color=\"#ff0000\">＿＿＿</font> 喫煙[きつえん]は 自分[じぶん]ではまったくどうにもならないと 信[しん]じ 込[こ]んでいるのである。</div><div><i>Los fumadores pasivos se convencen así mismos de que no pueden hacer nada respecto a los fumadores <font color=\"#ff0000\">de todas formas</font></i>.</div></div>", 
                                 "", 
@@ -5830,7 +5830,7 @@
                             "data": "", 
                             "fields": [
                                 "我々は＿＿＿戦い抜く決心した。", 
-                                "Estamos determinados a pelear lo más que podamos.", 
+                                "Estamos determinados a pelear <font color=\"#ff0000\">lo más</font> que podamos.", 
                                 "我々[われわれ]は&nbsp;<font color=\"#ff0000\">飽[あ]く 迄[まで]も</font> 戦[たたか]い 抜[ぬ]く 決心[けっしん]した。", 
                                 "<span style=\"font-family: Arial\">飽く迄も</span>"
                             ], 
@@ -7354,7 +7354,7 @@
                             "data": "", 
                             "fields": [
                                 "僕は声名＿＿＿、お金＿＿＿には大して興味はないんですがね。", 
-                                "A mi no me interesan mucho ni la fama, ni la fortuna, ni nada por el estilo.", 
+                                "A mi no me interesan mucho ni la fama, ni la fortuna, <font color=\"#ff0000\">ni nada por el estilo</font>.", 
                                 "僕[ぼく]は 声名[せいめい]<font color=\"#ff0000\">だの</font>、お 金[かね]<font color=\"#ff0000\">だの</font>には 大[たい]して 興味[きょうみ]はないんですがね。", 
                                 "だの～だの"
                             ], 
@@ -14008,7 +14008,7 @@
                             "data": "", 
                             "fields": [
                                 "警察は彼女の恋人を死んだ＿＿＿諦める羽目になった。", 
-                                "La policìa terminó dando por muerto a su novio.", 
+                                "La policìa terminó <font color=\"#ff0000\">dando por</font> muerto a su novio.", 
                                 "その 少年[しょうねん]は 死[し]んだ<font color=\"#ff0000\">ものとして</font> 諦[あきら]められた。", 
                                 "ものとして"
                             ], 
@@ -15257,7 +15257,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は＿＿＿私達の会社で働いていた。", 
-                                "Ella solía trabajar para nuestra compañía.", 
+                                "Ella <font color=\"#ff0000\">solía</font> trabajar para nuestra compañía.", 
                                 "彼女[かのじょ]は&nbsp;<font color=\"#ff0000\">曾[かつ]て</font>&nbsp;私[わたし] 達[たち]の 会社[かいしゃ]で 働[はたら]いていた。", 
                                 "曾て"
                             ], 
