@@ -8935,7 +8935,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の計画に同意するより＿＿＿仕方がない。", 
-                                "No queda otra que aprobar su plan.", 
+                                "<font color=\"#ff0000\">No queda otra que</font> aprobar su plan.", 
                                 "彼[かれ]の 計画[けいかく]に 同意[どうい]するより<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ほかに</font></span>&nbsp;仕方[しかた]がない。", 
                                 "ほかに"
                             ], 
@@ -9671,7 +9671,7 @@
                             "data": "", 
                             "fields": [
                                 "私は幸せな人々が＿＿＿まれであるかよくわかった。", 
-                                "Comprendí lo rara que eran las personas felices.", 
+                                "Comprendí <font color=\"#ff0000\">lo</font> rara que eran las personas felices.", 
                                 "私[わたし]は 幸[しあわ]せな 人々[ひとびと]が&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">如何[いか]に</font></span>まれであるかよくわかった。", 
                                 "如何に"
                             ], 
@@ -13758,7 +13758,7 @@
                             "data": "", 
                             "fields": [
                                 "彼の理論は妥当＿＿＿広く認められている。", 
-                                "Su teoría es ampliamente reconocida como válida.", 
+                                "Su teoría es ampliamente reconocida <font color=\"#ff0000\">como</font> válida.", 
                                 "彼[かれ]の 理論[りろん]は 妥当[だとう]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なものとして/であるものとして</font></span>&nbsp;広[ひろ]く 認[みと]められている。", 
                                 "なものとして/であるものとして"
                             ], 
@@ -15341,7 +15341,7 @@
                             "data": "", 
                             "fields": [
                                 "高齢化が進むにつれ、認知症老人の介護が問題になっているが、これかれは、介護のこと＿＿＿ぼけをいかに予防するかがさらに重要だ。", 
-                                "A medida que la población envejece, la demensia se está volviendo un problema. Pero no sólo el cuidado, sino que también la prevención es importante.", 
+                                "A medida que la población envejece, la demensia se está volviendo un problema. <font color=\"#ff0000\">Pero no sólo</font> el cuidado, <font color=\"#ff0000\">sino que también</font> la prevención es importante.", 
                                 "高齢[こうれい] 化[か]が 進[すす]むにつれ、 認知[にんち] 症[しょう] 老人[ろうじん]の 介護[かいご]が 問題[もんだい]になっているが、これかれは、 介護[かいご]のこと<font color=\"#ff0000\">もさることながら</font>ぼけをいかに 予防[よぼう]するかがさらに 重要[じゅうよう]だ。", 
                                 "もさることながら"
                             ], 
