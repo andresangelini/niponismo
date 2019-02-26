@@ -9642,7 +9642,7 @@
                             "data": "", 
                             "fields": [
                                 "施設は、その使命が＿＿＿崇高なものでも、家庭のかわりにはなり得なかった。", 
-                                "Las instituciones, sin importar <font color=\"#ff0000\">cuan</font> noble sea su misión, han fracasado en reemplazar a la familia.", 
+                                "Las instituciones, sin importar <font color=\"#ff0000\">cuán</font> noble sea su misión, han fracasado en reemplazar a la familia.", 
                                 "施設[しせつ]は、その 使命[しめい]が&nbsp;<font color=\"#ff0000\" style=\"font-family: 'Liberation Sans';\">如何[いか]に</font>&nbsp;崇高[すうこう]なものでも、 家庭[かてい]のかわりにはなり 得[え]なかった。", 
                                 "如何に"
                             ], 
@@ -29756,8 +29756,8 @@
                             "fields": [
                                 "マッチは負けちゃったけど、くよくよしても＿＿＿。", 
                                 "Aunque hayamos perdido el partido, <font color=\"#ef2929\">lamentarse no sirve de nada</font>.", 
-                                "マッチは 負[ま]けちゃったけど、くよくよしても<font color=\"#ef2929\">どうにもならない/はじまらない</font>。", 
-                                "どうにもならない/はじまらない"
+                                "マッチは 負[ま]けちゃったけど、くよくよしても<font color=\"#ef2929\">どうにもならない/始まらない</font>。", 
+                                "どうにもならない/始まらない"
                             ], 
                             "flags": 0, 
                             "guid": "EfoY-)M,_T", 
@@ -29820,10 +29820,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "今更論文を書いて＿＿＿。時間がないから。", 
+                                "今更論文を書いても＿＿＿。時間がないから。", 
                                 "<font color=\"#ef2929\">Es inútil</font> escribir la tésis ahora. Es que ya no hay tiempo.", 
                                 "今更[いまさら] 論文[ろんぶん]を 書[か]いても<font color=\"#ef2929\">どうにもならない/始まらない</font>。 時間[じかん]がないから。", 
-                                "もどうにもならない/始まらない"
+                                "どうにもならない/始まらない"
                             ], 
                             "flags": 0, 
                             "guid": "b(1,+B~M`$", 
