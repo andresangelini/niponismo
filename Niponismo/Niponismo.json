@@ -11267,7 +11267,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は勤勉だけど、物事を少し考えすぎる＿＿＿。", 
-                                "Ella es muy diligente pero tiende a tomarse todo muy en serio.", 
+                                "Ella es muy diligente pero <font color=\"#ff0000\">tiende a</font> tomarse todo muy en serio.", 
                                 "彼女[かのじょ]は 勤勉[きんべん]だけど、 物事[ものごと]を 少[すこ]し 考[かんが]えすぎる&nbsp;<font color=\"#ff0000\">嫌[きら]いがある</font>。", 
                                 "嫌いがある"
                             ], 
@@ -17031,7 +17031,7 @@
                             "data": "", 
                             "fields": [
                                 "この季節＿＿＿感じなのかもしれない。", 
-                                "Puede que sea una sensación única de esta estación.", 
+                                "Puede que sea una sensación <font color=\"#ff0000\">única de</font> esta estación.", 
                                 "この 季節[きせつ]<font color=\"#ff0000\">ならではの</font> 感[かん]じなのかもしれない。", 
                                 "ならではの"
                             ], 
@@ -29920,10 +29920,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "<div>自分が利口だと思っ＿＿＿が、それだからと言って私をあざ笑うことはできないよ。<br></div>", 
+                                "<div>自分が利口だと思っ＿＿＿が、それだからと言って私をあざ笑うことはできないよ。<br /></div>", 
                                 "<font color=\"#ef2929\">Podrás</font> creerte el listo, pero no por eso te puedes reír de mí.", 
-                                "自分[じぶん]が 利口[りこう]だと 思[おも]っ<font color=\"#ef2929\">てもさしつかえない</font>が、それだからと 言[い]って 私[わたし]をあざ 笑[わら]うことはできないよ。", 
-                                "てもさしつかえない"
+                                "自分[じぶん]が 利口[りこう]だと 思[おも]っ<font color=\"#ef2929\">ても差し支えない/ても構わない/てもきにしない</font>が、それだからと 言[い]って 私[わたし]をあざ 笑[わら]うことはできないよ。", 
+                                "ても差し支えない/ても構わない/ても気にしない"
                             ], 
                             "flags": 0, 
                             "guid": "y@jA>!d0yd", 
@@ -29944,8 +29944,8 @@
                             "fields": [
                                 "彼は二十世紀最高のピアニストだと言っ＿＿＿でしょう。", 
                                 "<font color=\"#ef2929\">Bien se podría decir que</font> él es el mejor pianista del siglo veinte.", 
-                                "彼[かれ]は二十 世紀[せいき] 最高[さいこう]のピアニストだと 言[い]っ<font color=\"#ef2929\">て 差し支[さしつか]えない</font>でしょう。", 
-                                "て差し支えない"
+                                "彼[かれ]は二十 世紀[せいき] 最高[さいこう]のピアニストだと 言[い]っ<font color=\"#ef2929\">ても 差し支[さしつか]えない</font>でしょう。", 
+                                "ても差し支えない"
                             ], 
                             "flags": 0, 
                             "guid": "DIL=(@Jd~0", 
@@ -29966,8 +29966,8 @@
                             "fields": [
                                 "この種類は明後日に出し＿＿＿。", 
                                 "<font color=\"#ef2929\">No hay problema</font> si entrega los documentos mañana.", 
-                                "この 種類[しゅるい]は 明後日[みょうごにち]に 出[だ]し<font color=\"#ef2929\">ても 差し支[さしつか]えなない</font>。", 
-                                "ても差し支えなない"
+                                "この 種類[しゅるい]は 明後日[みょうごにち]に 出[だ]し<font color=\"#ef2929\">ても 差し支[さしつか]えない</font>。", 
+                                "ても差し支えない"
                             ], 
                             "flags": 0, 
                             "guid": "C$Emg@wbEi", 
@@ -29986,10 +29986,10 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "他の場所がなかったらここに泊まって＿＿＿。", 
+                                "他の場所がなかったらここに泊まっ＿＿＿。", 
                                 "<font color=\"#ef2929\">No hay problema</font> con que te quedes aquí si no tienes otro lugar.", 
                                 "他[た]の 場所[ばしょ]がなかったらここに 泊[と]まっ<font color=\"#ef2929\">ても差し支えない/ても構わない/ても気にしない</font>。", 
-                                "も差し支えない/ても構わない/ても気にしない"
+                                "ても差し支えない/ても構わない/ても気にしない"
                             ], 
                             "flags": 0, 
                             "guid": "j(1TH`hAgN", 
@@ -30012,8 +30012,8 @@
                             "fields": [
                                 "部屋が綺麗なら狭く＿＿＿。", 
                                 "Si la habitación está limpia, <font color=\"#ef2929\">no hay problema</font> con que sea pequeñan.", 
-                                "部屋[へや]が 綺麗[きれい]なら 狭[せま]く<font color=\"#ef2929\">ても差し支えない/ても構わない/気にしない</font>。", 
-                                "ても差し支えない/ても構わない/気にしない"
+                                "部屋[へや]が 綺麗[きれい]なら 狭[せま]く<font color=\"#ef2929\">ても差し支えない/ても構わない/ても気にしない</font>。", 
+                                "ても差し支えない/ても構わない/ても気にしない"
                             ], 
                             "flags": 0, 
                             "guid": "d(KL_zxY?|", 
@@ -30036,8 +30036,8 @@
                             "fields": [
                                 "電車は不便＿＿＿。", 
                                 "<font color=\"#ef2929\">No hay problema</font> con que el tren sea un poco inconveniente.", 
-                                "電車[でんしゃ]は 不便[ふべん]<font color=\"#ef2929\">でも 差し支[さしつか]えない/ても 構[かま]わない/ても 気[き]にしない</font>。", 
-                                "でも差し支えない/ても構わない/ても気にしない"
+                                "電車[でんしゃ]は 不便[ふべん]<font color=\"#ef2929\">でも 差し支[さしつか]えない/でも 構[かま]わない/でも 気[き]にしない</font>。", 
+                                "でも差し支えない/でも構わない/でも気にしない"
                             ], 
                             "flags": 0, 
                             "guid": "k9B>=~yqo2", 
