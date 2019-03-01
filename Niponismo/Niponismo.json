@@ -2685,16 +2685,16 @@
                                 "（で/に）さえ（も）～ない/（で/に）すら（も）～ない", 
                                 "（で/に）さえ（も）～ない/（で/に）すら（も）～ない", 
                                 "ni siquiera", 
-                                "Sustantivo + opcionalmente で o に + forma gramatical + opcionalmente も + verbo negativo.<div>Verbo + の o こと + forma gramatical + verbo negativo.</div><div>Verbo + と + forma gramatical + opcionalmente も + verbo negativo.</div>", 
-                                "Es la versión negativa de さえ/すら. Al usarse con una frase negativa, éste pasa a significar \"ni siquiera\", es decir, que se usa para dar un ejemplo de algo que normalmente se esperaría que fuera tal pero no lo es. Aparte de esa diferencia, sigue las mismas reglas que dicha forma gramatical.", 
-                                "先生[せんせい]＿＿＿その 課題[かだい]について 話[はな]していなかった。", 
-                                "Ni siquiera el profesor habló de ese tema.", 
-                                "航空機[こうくうき]は 早過[はやす]ぎたので、 見[み]えること＿＿＿ 出来[でき]なかった。", 
-                                "El avión era tan veloz, que ni siquiera lo pude ver.", 
-                                "彼[かれ]が 私[わたし]のことを 好[こと]きだと＿＿＿ 言[い]わなかった。", 
-                                "Él ni siquiera me dijo que le gustaba.", 
-                                "お 兄[にい]さんはどこに 行[い]ったのか＿＿＿ 分[わ]からない。", 
-                                "Ni siquiera sé a dónde fue mi hermano mayor.", 
+                                "S + （で/に）+ <font color=\"#ff0000\">＿＿＿</font> + （も） + Vない<div>V + の o こと + <font color=\"#ff0000\">＿＿＿</font> + Vない</div><div>V + と + <font color=\"#ff0000\">＿＿＿</font> + （も） + Vない</div>", 
+                                "Es la versión negativa de <font color=\"#ff0000\">さえ/すら</font>. Al usarse con una frase negativa, éste pasa a significar \"<font color=\"#ff0000\">ni siquiera</font>\", es decir, que se usa para dar un ejemplo de algo que normalmente se esperaría que fuera tal pero no lo es. Aparte de esa diferencia, sigue las mismas reglas que dicha forma gramatical.<div><br /></div><div>先生[せんせい]<font color=\"#ff0000\">＿＿＿</font>その 課題[かだい]について 話[はな]していなかった。</div><div><i><font color=\"#ff0000\">Ni siquiera</font> el profesor habló de ese tema</i>.</div><div><br /></div><div>航空機[こうくうき]は 早過[はやす]ぎたので、 見[み]えること<font color=\"#ff0000\">＿＿＿</font> 出来[でき]なかった。</div><div><i>El avión era tan veloz, que <font color=\"#ff0000\">ni siquiera</font> lo pude ver</i>.</div><div><br /></div><div>彼[かれ]が 私[わたし]のことを 好[こと]きだと<font color=\"#ff0000\">＿＿＿</font> 言[い]わなかった。</div><div><i>Él <font color=\"#ff0000\">ni siquiera</font> me dijo que le gustaba</i>.</div><div><br /></div><div>お 兄[にい]さんはどこに 行[い]ったのか<font color=\"#ff0000\">＿＿＿</font> 分[わ]からない。</div><div><i><font color=\"#ff0000\">Ni siquiera</font> sé a dónde fue mi hermano mayor</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 ""
                             ], 
@@ -2707,7 +2707,8 @@
                                 "Japonés", 
                                 "N1", 
                                 "N3", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
@@ -14026,7 +14027,8 @@
                                 "N1", 
                                 "N3", 
                                 "Oración", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
@@ -14067,7 +14069,8 @@
                                 "N1", 
                                 "N3", 
                                 "Oración", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
@@ -14088,7 +14091,8 @@
                                 "N1", 
                                 "N3", 
                                 "Oración", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
@@ -14109,7 +14113,8 @@
                                 "N1", 
                                 "N3", 
                                 "Oración", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
@@ -14130,7 +14135,8 @@
                                 "N1", 
                                 "N3", 
                                 "Oración", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
@@ -14296,7 +14302,8 @@
                                 "N1", 
                                 "N3", 
                                 "Oración", 
-                                "（で/に）さえ（も）～ない/（で/に）すら（も）～ない"
+                                "（で/に）さえ（も）～ない", 
+                                "（で/に）すら（も）～ない"
                             ]
                         }, 
                         {
