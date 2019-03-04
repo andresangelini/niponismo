@@ -5654,6 +5654,39 @@
                                 "ても差し支えない", 
                                 "でも差し支えない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "てしかるべきだ", 
+                                "てしかるべきだ", 
+                                "てしかるべきだ", 
+                                "debería / tendría / lo correcto / lo apropiado / se supone que", 
+                                "Vて + <font color=\"#ff0000\">＿＿＿</font><div>Aい→Aくて + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que indica molestia o descontento con algo porque no es o se hace como corresponde.<div><br /><div>安静[あんせい]してくだい。 自分[じぶん]の 体[からだ]をもっと 大切[たいせつ]にし<font color=\"#ff0000\">＿＿＿</font>から。</div></div><div><i>Por favor, permanezca en reposo. <font color=\"#ff0000\">Debería</font> cuidar mejor de su cuerpo</i>.</div><div><br /></div><div>Proviene de しかるべき, que significa \"apropiado\" u \"oportuno\" y &nbsp;es más bien de carácter formal, por lo que en el habla a menudo se intercambia por 〜が当然だ o 〜が当たり前だ.</div><div><br /></div><div>仕事[しごと]から 休[やす]みを 取[と]るなら、その 前[まえ]に｛お 知[し]らせ<font color=\"#ff0000\">＿＿＿</font>/お 知[し]らせるのが 当然[とうぜん]だ/お 知[し]らせるのが 当[あ]たり 前[まえ]だ｝。</div><div><i>Si vas a faltar al trabajo <font color=\"#ff0000\">deberías / lo natural es / lo obvio es</font> avisar primero</i>.</div><div><br /></div><div>Naturalmente, también se puede usar para acciones pasadas.</div><div><br /></div><div>その 大学[だいがく]に 入[はい]る 為[ため]もっと 真面目[まじめ]に 勉強[べんきょう]し<font color=\"#ff0000\">＿＿＿</font>った。</div><div><i>Para entrar en esa universidad <font color=\"#ff0000\">deberías</font> haber estudiado más seriamente</i>.</div><div><br /></div><div>Es posible usar esta expresión con adjetivo い conjugándolos a la forma くて.</div><div><br /></div><div>こんな 高級[こうきゅう]なレストランとして、 料理[りょうり]はもっと 美味[おい]しく<font color=\"#ff0000\">＿＿＿</font>よ。</div><div><i>Para un restaurante tan caro como este la comida <font color=\"#ff0000\">debería</font> ser mucho más rica</i>.</div><div><br /></div><div>Por último, funciona como adjetivo cuando se usa delante de un sustantivo, en cuyo caso, se elimina el declarativo だ.</div><div><br /></div><div>本当[ほんとう]の 兵士[へいし]の 人生[じんせい]は 辛[から]く<font color=\"#ff0000\">＿＿＿</font>ものだ。</div><div><i>La vida de un verdadero soldado <font color=\"#ff0000\">debería</font> ser dura</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "PNFaxLuDA<", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "てしかるべきだ"
+                            ]
                         }
                     ]
                 }, 
@@ -30125,6 +30158,132 @@
                                 "をもちまして", 
                                 "をもって"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "＿＿＿時期にお支払いいたしました。", 
+                                "Pagué en el momento <font color=\"#ff0000\">apropiado</font>.", 
+                                "<font color=\"#ff0000\">しかるべき</font> 時期[じき]にお 支払[しはら]いいたしました。", 
+                                "しかるべき"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QTE=dA;sSZ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てしかるべきだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "老人のための国立の病院がもっとあっ＿＿＿。", 
+                                "<font color=\"#ff0000\">Deberían</font> haber más hospitales públicos para adultos mayores.", 
+                                "老人[ろうじん]のための 国立[こくりつ]の 病院[びょういん]がもっとあっ<font color=\"#ff0000\">てしかるべきだ</font>。", 
+                                "てしかるべきだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "iWquvU<6}W", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てしかるべきだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "君の年齢ならもっと思慮分別があっ＿＿＿。", 
+                                "<font color=\"#ff0000\">Deberías</font> saber lo que es mejor a tu edad.", 
+                                "君[きみ]の 年齢[ねんれい]ならもっと 思慮[しりょ] 分別[ふんべつ]があっ<font color=\"#ff0000\">てしかるべきだ</font>。", 
+                                "てしかるべきだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nxPb1K8k^$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てしかるべきだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "トムは非難され＿＿＿。", 
+                                "Tom <font color=\"#ff0000\">debería</font> tener la culpa.", 
+                                "トムは 非難[ひなん]され<font color=\"#ff0000\">てしかるべきだ</font>。", 
+                                "てしかるべきだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B}Qi.!1(P&", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "てしかるべきだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女にそんことを言っちゃったの？信じられない。女性にもっと優しくし___よ。", 
+                                "¿Le dijiste eso a ella? No lo puedo creer. ¡<font color=\"#ff0000\">Deberías</font> ser más gentil con las damas!", 
+                                "彼女[かのじょ]にそんことを 言[い]っちゃったの？ 信[しん]じられない。 女性[じょせい]にもっと 優[やさ]しくし<font color=\"#ff0000\">てしかるべきだ</font>よ。", 
+                                "てしかるべきだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q--o9Wcs*g", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "てしかるべきだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "いきなり自宅に立ち寄らないください。予め電話を掛け＿＿＿。", 
+                                "No pases por mi casa sin avisar. <font color=\"#ff0000\">Deberías</font> haberme llamado antes.", 
+                                "いきなり 自宅[じたく]に 立ち寄[たちよ]らないください。 予[あらかじ]め 電話[でんわ]を 掛[か]け<font color=\"#ff0000\">てしかるべきだ</font>った。", 
+                                "てしかるべきだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "daq(1D_H0i", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "てしかるべきだ"
+                            ]
                         }
                     ]
                 }
@@ -30257,8 +30416,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "をもちまして", 
-                "をもって"
+                "てしかるべきだ"
             ], 
             "tmpls": [
                 {
@@ -30462,8 +30620,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "ても差し支えない", 
-                "でも差し支えない"
+                "てしかるべきだ"
             ], 
             "tmpls": [
                 {
