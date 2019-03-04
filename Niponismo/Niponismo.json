@@ -10055,7 +10055,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は＿＿＿「営業」って感じだね。", 
-                                "Él ciertamente parece un hombre de negocios.", 
+                                "Él <font color=\"#ff0000\">ciertamente</font> parece un hombre de negocios.", 
                                 "彼[かれ]は <font color=\"#ff0000\">如何[いか]にも</font>「 営業[えいぎょう]」って 感[かん]じだね。", 
                                 "如何にも"
                             ], 
