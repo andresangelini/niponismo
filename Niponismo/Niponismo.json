@@ -15489,7 +15489,7 @@
                             "data": "", 
                             "fields": [
                                 "会話の練習では、話すこと＿＿＿、確実に聞き取ることが重要です。", 
-                                "En una conversación, no sólo hablar es importante, sino que también asegurarse de escuchar.", 
+                                "En una conversación, <font color=\"#ff0000\">no sólo</font> hablar es importante, <font color=\"#ff0000\">sino que también</font> asegurarse de escuchar.", 
                                 "会話[かいわ]の 練習[れんしゅう]では、 話[はな]すこと<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">もさることながら</font></span>、 確実[かくじつ]に 聞き取[ききと]ることが 重要[じゅうよう]です。", 
                                 "もさることながら"
                             ], 
