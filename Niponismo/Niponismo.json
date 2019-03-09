@@ -6488,7 +6488,7 @@
                             "data": "", 
                             "fields": [
                                 "山に登る時水筒は欠く＿＿＿ものの一つである。", 
-                                "Una cantimplora es una de esas cosas que no pueden faltar a la hora de subir a una montaña.", 
+                                "Una cantimplora es una de esas cosas <font color=\"#ff0000\">que no pueden</font> faltar a la hora de subir a una montaña.", 
                                 "山[やま]に 登[のぼ]る 時[とき] 水筒[すいとう]は<font color=\"#ef2929\">べきでない/</font><span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">べからざる</font></span>ものの 一[ひと]つである。", 
                                 "べきでない/べからざる"
                             ], 
@@ -15462,7 +15462,7 @@
                             "data": "", 
                             "fields": [
                                 "この図書館は蔵書の多さ＿＿＿サービスが実にすばらしい。", 
-                                "No sólo la cantidad de libros, sino que también el servicio en esta biblioteca es realmente impresionante.", 
+                                "<font color=\"#ff0000\">No sólo</font> la cantidad de libros, <font color=\"#ff0000\">sino que también</font> el servicio en esta biblioteca es realmente impresionante.", 
                                 "この 図書館[としょかん]は 蔵書[ぞうしょ]の 多[おお]さ<font color=\"#ff0000\">もさることながら</font>サービスが 実[じつ]にすばらしい。", 
                                 "もさることながら"
                             ], 
