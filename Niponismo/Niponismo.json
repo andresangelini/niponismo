@@ -26843,9 +26843,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "命が縮む＿＿＿。", 
-                                "<font color=\"#ff0000\">Sentí</font> como si se me hubiera acortado la vida.", 
-                                "命[いのち]が 縮[ちぢ]む <font color=\"#ff0000\">思[おも]いをした</font>。", 
+                                "崩れていた橋から逃げた後命が縮む＿＿＿。", 
+                                "<font color=\"#ff0000\">Sentí</font> como si se me hubiera acortado la vida tras huir del puente derrumbado.", 
+                                "崩[くず]れていた 橋[はし]から 逃[に]げた 後[のち] 命[いのち]が 縮[ちぢ]む<font color=\"#ff0000\">思いをした</font>。", 
                                 "思いをした"
                             ], 
                             "flags": 0, 
@@ -26855,8 +26855,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "Oración", 
-                                "tatoeba", 
                                 "思いをする"
                             ]
                         }, 
