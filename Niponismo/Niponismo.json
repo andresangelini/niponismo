@@ -6063,7 +6063,7 @@
                             "data": "", 
                             "fields": [
                                 "この素晴らしい家をやっと買えるのはその根気＿＿＿ことだよ。", 
-                                "El que haya podido finalmente comprar esta maravillosa casa se debe todo a esa perseverancia.", 
+                                "El que haya podido finalmente comprar esta maravillosa casa <font color=\"#ff0000\">se debe todo a</font> esa perseverancia.", 
                                 "この 素晴[すば]らしい 家[いえ]をやっと 買[か]えるのはその 根気[こんき]<font color=\"#ff0000\">あっての</font>ことだよ。", 
                                 "あっての"
                             ], 
@@ -10956,7 +10956,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は一年間で５０億円＿＿＿稼ぐそうだ。", 
-                                "Escuché que ella gana hasta unos cincuenta millones de yenes por año.", 
+                                "Escuché que ella gana <font color=\"#ff0000\">hasta unos</font> cincuenta millones de yenes por año.", 
                                 "彼女[かのじょ]は一 年間[ねんかん]で５０ 億[おく] 円[えん]<font color=\"#ff0000\">からする</font> 稼[かせ]ぐそうだ。", 
                                 "からする"
                             ], 
@@ -17863,7 +17863,7 @@
                             "data": "", 
                             "fields": [
                                 "友人は「不可能だ」と言わ＿＿＿首を横に振った。", 
-                                "Mi amigo sacudió la cabeza como diciendo \"imposible\".", 
+                                "Mi amigo sacudió la cabeza <font color=\"#ff0000\">como</font> diciendo \"imposible\".", 
                                 "友人[ゆうじん]は「 不可能[ふかのう]だ」と 言[い]わ<font color=\"#ff0000\">んばかりに/ぬばかりに</font> 首[くび]を 横[よこ]に 振[ふ]った。", 
                                 "んばかりに/ぬばかりに"
                             ], 
