@@ -6899,7 +6899,7 @@
                             "data": "", 
                             "fields": [
                                 "この不景気では家を簡単に手に入る＿＿＿。", 
-                                "No puedo comprar una casa con esta recesión.", 
+                                "<font color=\"#ff0000\">No puedo</font> comprar una casa con esta recesión.", 
                                 "この 不景気[ふけいき]では 家[いえ]を 簡単[かんたん]に 手[て]に 入[はい]る<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">べくもない</font></span>。", 
                                 "べくもない"
                             ], 
@@ -6992,6 +6992,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Oración", 
+                                "leech", 
                                 "びる"
                             ]
                         }, 
@@ -16468,7 +16469,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は借金し＿＿＿賭け続けた。", 
-                                "Ella siguió apostando hasta endeudarse.", 
+                                "Ella siguió apostando <font color=\"#ff0000\">hasta</font> endeudarse.", 
                                 "彼女[かのじょ]は 借金[しゃっきん]し<font color=\"#ff0000\">てまで（も）</font> 賭[か]け 続[つづ]けた。", 
                                 "<span style=\"font-family: Arial\">てまで（も）</span>"
                             ], 
@@ -17684,7 +17685,7 @@
                             "fields": [
                                 "あの奴がどんなに怪しい＿＿＿、取り敢えず付き添わせて上げるしかない。", 
                                 "<font color=\"#ff0000\">Aun</font> siendo sospechoso, no nos queda otra que dejar que ese tipo nos acompañe.", 
-                                "あの 奴[やつ]がどんなに 怪[あや]しい<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>、 取り敢[とりあ]えず 付き添[つきそ]わせて 上[あ]げるしかない。", 
+                                "あの 奴[やつ]がどんなに 怪[あや]しい<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>、 取り敢[とりあ]えず 付[つ]き 添[そ]わせて 上[あ]げるしかない。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
                             "flags": 0, 
