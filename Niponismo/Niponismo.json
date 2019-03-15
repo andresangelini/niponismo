@@ -13981,7 +13981,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は死んだ＿＿＿諦めたことは非常に残念である。", 
-                                "Es una verdadera lástima que lo hayan dado por muerto.", 
+                                "Es una verdadera lástima que <font color=\"#ff0000\">lo hayan dado por</font> muerto.", 
                                 "彼[かれ]は 死[し]んだ<font color=\"#ff0000\">ものとして</font> 諦[あきら]めたことは 非常[ひじょう]に 残念[ざんねん]である。", 
                                 "ものとして"
                             ], 
