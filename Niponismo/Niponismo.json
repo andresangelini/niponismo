@@ -8441,7 +8441,7 @@
                             "data": "", 
                             "fields": [
                                 "&nbsp;食べ出した＿＿＿、おいしくて止められなかった。", 
-                                "Una vez que comencé a comer, no pude parar de lo rico que estaba.", 
+                                "<font color=\"#ff0000\">Una vez que</font> comencé a comer, no pude parar de lo rico que estaba.", 
                                 "食[た]べ 出[だ]した<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が最後/ら最後</font></span>、おいしくて 止[と]められなかった。", 
                                 "が最後/ら最後"
                             ], 
@@ -16722,7 +16722,7 @@
                             "data": "", 
                             "fields": [
                                 "素直に謝れば、許してやら＿＿＿。", 
-                                "Si te disculpas honestamente, quizás te perdone.", 
+                                "Si te disculpas honestamente, <font color=\"#ff0000\">quizás</font> te perdone.", 
                                 "素直[すなお]に 謝[あやま]れば、 許[ゆる]してやら<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないものでもない</font></span>。", 
                                 "ないものでもない"
                             ], 
@@ -25671,7 +25671,7 @@
                             "fields": [
                                 "かわりに「ある程度」「多くの」「しばしば」という言葉を使い、「私の経験では」「間違っていたら申し訳ないのですが」「多くの例では」のような言葉＿＿＿話を始めなさい。", 
                                 "Podrías usar en su lugar palabras como \"en cierta medida\", \"muchos\" o \"a menudo\", <font color=\"#ff0000\">comenzando</font> la oración <font color=\"#ff0000\">con</font> frases como \"En mi experiencia,...\", \"Discúlpeme si me equivoco,...\" o \"En muchos casos,...\".", 
-                                "かわりに「ある 程度[ていど]」「 多[おお]くの」「しばしば」という 言葉[ことば]を 使[つか]い、「 私[わたし]の 経験[けいけん]では」「 間違[まちが]っていたら 申し訳[もうしわけ]ないのですが」「 多[おお]くの 例[れい]では」のような 言葉[ことば]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font> 話[はなし]を 始[はじ]めなさい。", 
+                                "かわりに「ある 程度[ていど]」「 多[おお]くの」「しばしば」という 言葉[ことば]を 使[つか]い、「 私[わたし]の 経験[けいけん]では」「 間違[まちが]っていたら 申[もう]し 訳[わけ]ないのですが」「 多[おお]くの 例[れい]では」のような 言葉[ことば]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振[ふ]り 出[だ]しに</font> 話[はなし]を 始[はじ]めなさい。", 
                                 "を皮切りに（して）/を皮切りとして/を振り出しに"
                             ], 
                             "flags": 0, 
