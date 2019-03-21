@@ -5797,7 +5797,7 @@
                                 "とあれば", 
                                 "por / con tal de / si (fuera /&nbsp;fuese)", 
                                 "V / Aい / S + <font color=\"#ef2929\">＿＿＿</font><div>A<strike>な</strike>&nbsp;+ <font color=\"#ef2929\">＿＿＿</font></div>", 
-                                "<div>Expresión condicional usado para enfatizar hasta qué punto se estaría dispuesto a llegar para alcanzar un determinado fin.</div><div><br /></div><div><div>Puede ser equivalente a 〜ためなら cuando se usa con sustantivo.</div></div><div><br /></div><div>子供[こども]のため<font color=\"#ef2929\">＿＿＿/ためなら</font>、どんなことでもします。</div><div><i>Yo haría cualquier cosa <font color=\"#ef2929\">por</font> mis hijos</i>.<br /></div><div><br /></div><div><div>O a なら simplemente cuando se usa con verbos.</div></div><div><br /></div><div>彼[かれ]は 飛行機[ひこうく]のオタクだから、 空[そら]を 飛[と]ぶ<font color=\"#ef2929\">＿＿＿/なら</font>、 如何[いか]なる 理由[りゆう]を 使[つか]う。<br /></div><div><i>Como él es un fanático de los aviones usa cualquier excusa <font color=\"#ef2929\">con tal de</font> volar por lo cielos</i>.<br /></div><div><br /></div><div><div>Así como a なら o ば en el caso de adjetivos い.</div></div><div>忙[いそが]し<font color=\"#ef2929\">ければ</font>/ 忙[いそ]しい<font color=\"#ef2929\">＿＿＿</font>/ 忙[いそ]しい<font color=\"#ef2929\">なら</font>、またご 連絡[れんらく] 致[いた]しますので、ご 心配[しんぱい]なく。<br /></div><div><i><font color=\"#ef2929\">Si</font> se encuentra ocupado, no se preocupe ya que le contactaremos más tarde</i>.<br /></div><div><br /></div><div><div>Si la expresión es precedida por un adjetivo な, éste debe ir sin な y puede equivaler a 〜であれば o なら.</div></div><div><br /></div><div>必要[ひつよう]<font color=\"#ef2929\"><b>＿＿＿</b>/であれば/なら</font>、お 客様[きゃくさま] の 代[か]わりにホテルの 予約[よやく]も 出来[でき]ます。<br /></div><div><i>También podemos hacer la reservas de hotel en su lugar <font color=\"#ef2929\">si fuese</font> necesario</i>.<br /></div>", 
+                                "<div>Expresión condicional usado para enfatizar hasta qué punto se estaría dispuesto a llegar para alcanzar un determinado fin.</div><div><br /></div><div><div>Puede ser equivalente a 〜ためなら cuando se usa con sustantivo.</div></div><div><br /></div><div>子供[こども]のため<font color=\"#ef2929\">＿＿＿/なら</font>、どんなことでもします。</div><div><i>Yo haría cualquier cosa <font color=\"#ef2929\">por</font> mis hijos</i>.<br /></div><div><br /></div><div><div>O a なら simplemente cuando se usa con verbos.</div></div><div><br /></div><div>彼[かれ]は 飛行機[ひこうく]のオタクだから、 空[そら]を 飛[と]ぶ<font color=\"#ef2929\">＿＿＿/なら</font>、 如何[いか]なる 理由[りゆう]を 使[つか]う。<br /></div><div><i>Como él es un fanático de los aviones usa cualquier excusa <font color=\"#ef2929\">con tal de</font> volar por lo cielos</i>.<br /></div><div><br /></div><div><div>Así como a なら o ば en el caso de adjetivos い.</div></div><div>忙[いそが]し<font color=\"#ef2929\">ければ</font>/ 忙[いそ]しい<font color=\"#ef2929\">＿＿＿</font>/ 忙[いそ]しい<font color=\"#ef2929\">なら</font>、またご 連絡[れんらく] 致[いた]しますので、ご 心配[しんぱい]なく。<br /></div><div><i><font color=\"#ef2929\">Si</font> se encuentra ocupado, no se preocupe ya que le contactaremos más tarde</i>.<br /></div><div><br /></div><div><div>Si la expresión es precedida por un adjetivo な, éste debe ir sin な y puede equivaler a 〜であれば o なら.</div></div><div><br /></div><div>必要[ひつよう]<font color=\"#ef2929\"><b>＿＿＿</b>/であれば/なら</font>、お 客様[きゃくさま] の 代[か]わりにホテルの 予約[よやく]も 出来[でき]ます。<br /></div><div><i>También podemos hacer la reservas de hotel en su lugar <font color=\"#ef2929\">si fuese</font> necesario</i>.<br /></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -9898,7 +9898,7 @@
                             "data": "", 
                             "fields": [
                                 "環境汚染に＿＿＿取り組むかは深刻な問題である。", 
-                                "Cómo controlar la contaminación ambiental es un problema serio.", 
+                                "<font color=\"#ff0000\">Cómo</font> controlar la contaminación ambiental es un problema serio.", 
                                 "環境[かんきょう] 汚染[おせん]に&nbsp;<font color=\"#ff0000\" style=\"font-family: 'Liberation Sans';\">如何[いか]に</font>&nbsp;取り組[とりく]むかは 深刻[しんこく]な 問題[もんだい]である。", 
                                 "如何に"
                             ], 
@@ -17175,7 +17175,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女はうまくゆかなかったが、＿＿＿初めてのことだったからね。", 
-                                "A ella no le fue bien, pero fue su primera vez, después de todo.", 
+                                "A ella no le fue bien, pero fue su primera vez, <font color=\"#ff0000\">después de todo</font>.", 
                                 "彼女[かのじょ]はうまくゆかなかったが、&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">何[なに]せ/ 何[なに]しろ/ 何[なに]にせよ/ 何[なに]にしろ</font></span>&nbsp;初[はじ]めてのことだったからね。", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ], 
