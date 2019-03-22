@@ -14901,8 +14901,8 @@
                             "data": "", 
                             "fields": [
                                 "彼は有名な俳優ですから、単なる家族問題＿＿＿なり、大スキャンダルになるはずですよ。", 
-                                "Él es un actor famoso, así que esto no va a terminar como un simple problema familiar, sino que seguramente se volverá todo un escándalo.", 
-                                "彼[かれ]は 有名[ゆうめい]な 俳優[はいゆう]ですから、 家族[かぞく] 問題[もんだい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（だけ）では 済[す]まなく/（だけ）じゃ 済</font></span><span style=\"color: rgb(0, 0, 255); font-family: 'Liberation Sans';\">[す]</span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">まなく/（だけ）では 済</font></span><span style=\"color: rgb(0, 0, 255); font-family: 'Liberation Sans';\">[す]</span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">まされなく/（だけ）じゃ 済</font></span><span style=\"color: rgb(0, 0, 255); font-family: 'Liberation Sans';\">[す]</span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">まされなく</font></span>なり、 大[だい]スキャンダルになるはずですよ。", 
+                                "Él es un actor famoso, así que esto <font color=\"#ff0000\">no va a terminar como</font> un simple problema familiar, sino que seguramente se volverá todo un escándalo.", 
+                                "彼[かれ]は 有名[ゆうめい]な 俳優[はいゆう]ですから、 家族[かぞく] 問題[もんだい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（だけ）では 済[す]まなく/（だけ）じゃ&nbsp;</font></span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0);\">済[す]</span>まなく/（だけ）では</font></span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0);\">済[す]</span>まされなく/（だけ）じゃ&nbsp;</font></span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0);\">済[す]</span>まされなく</font></span>なり、 大[だい]スキャンダルになるはずですよ。", 
                                 "（だけ）では済まなく/（だけ）じゃ済まなく/（だけ）では済まされなく/（だけ）じゃ済まされなく"
                             ], 
                             "flags": 0, 
@@ -17871,7 +17871,7 @@
                             "data": "", 
                             "fields": [
                                 "スミスさんが来られないと言いましたが、鈴木さん＿＿＿未だ何も聞いていませんでした。", 
-                                "Smith ha dicho que no podría venir pero aún no he escuchado nada en cuanto a Suzuki.", 
+                                "Smith ha dicho que no podría venir pero aún no he escuchado nada <font color=\"#ff0000\">en cuanto a</font> Suzuki.", 
                                 "スミスさんが 来[こ]られないと 言[い]いましたが、 鈴木[すずき]さん<font color=\"#ff0000\">に 至[いた]っては</font>&nbsp;未[ま]だ 何[なに]も 聞[き]いていませんでした。", 
                                 "に至っては"
                             ], 
