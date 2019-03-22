@@ -1757,10 +1757,10 @@
                                 "かたがた", 
                                 "かたがた", 
                                 "a propósito de", 
-                                "Sustantivo + forma gramatical.", 
-                                "Es una forma arcaica que expresa que se hace una cosa mientras se cumple con otra. Se asemeja tanto a ～ながら como a su forma más formal ～がてら ya que lleva una connotación de \"mientras\", pero también se usa para indicar un propósito, por lo que cuando se usa en ese sentido se asimila más a ～ 為[ため]に.", 
-                                "&nbsp;仕事＿＿＿京都見物にゆく。", 
-                                "Visité Kioto a propósito de mi trabajo.", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Es una forma arcaica que expresa que se hace una cosa mientras se cumple con otra.<div><br /></div><div>仕事[しごと]＿＿＿ 京都[きょうと]見物[けんぶつ]にゆく。</div><div><i>Visité Kioto <font color=\"#ff0000\">a propósito de</font> mi trabajo</i>.</div><div><br /></div><div>Se asemeja tanto a ～ながら como a su forma más formal ～がてら ya que lleva una connotación de \"mientras\", pero también se usa para indicar un propósito, por lo que cuando se usa en ese sentido se asimila más a ～ 為[ため]に.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2608,6 +2608,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "leech", 
                                 "ば～ものを/たら～ものを"
                             ]
                         }, 
@@ -2752,7 +2753,7 @@
                                 "さえ～ば/さえ～たら", 
                                 "さえ～ば/さえ～たら", 
                                 "さえ～ば/さえ～たら", 
-                                "<div>mientras / en tanto / siempre y cuando / si tan sólo / si tan siquiera / basta con</div>", 
+                                "<div>mientras / en tanto / basta con / si tan sólo / si tan siquiera /&nbsp;siempre y cuando</div>", 
                                 "V<strike>ます</strike> + <font color=\"#ff0000\">＿＿＿</font><div>Vて + <font color=\"#ff0000\">＿＿＿</font></div><div>S + （で） + <font color=\"#ff0000\">＿＿＿</font></div><div>A<strike>い</strike> + く + <font color=\"#ff0000\">＿＿＿</font></div><div>Aな + （で/に） + <font color=\"#ff0000\">＿＿＿</font></div>", 
                                 "Expresión que <font color=\"#ff0000\">establece una condición</font> para que algo se cumpla. No se puede usar junto a <font color=\"#ff0000\">すら</font>.<div><br /></div><div>薬[くすり]を 飲[の]み<font color=\"#ff0000\">＿＿＿</font>すれ<font color=\"#ff0000\">＿＿＿</font>&nbsp;風邪[かぜ]が 治[なお]ります。</div><div><i><font color=\"#ff0000\">Siempre y cuando</font> tomes el remedio, el resfriado se te curará</i>.</div><div><br /></div><div>あなたはあそこで 黙[だま]って<font color=\"#ff0000\">＿＿＿</font>いてくれ<font color=\"#ff0000\">＿＿＿</font>いいです。</div><div><i><font color=\"#ff0000\">Mientras</font> te quedes cayado todo estará bien</i>.</div><div><br /></div><div>宿題[しゅくだい]<font color=\"#ff0000\">＿＿＿&nbsp;</font>終[お]わっ<font color=\"#ff0000\">＿＿＿&nbsp;</font>後[あと]で 遊[あそ]んでもいいです。</div><div><i>Podrás ir a jugar más tarde&nbsp;<font color=\"#ff0000\">siempre y cuando</font> termines los deberes</i>.</div><div><br /></div><div>ケーキは 美味[おい]しく<font color=\"#ff0000\">＿＿＿</font>できれ<font color=\"#ff0000\">＿＿＿&nbsp;</font>彼[かれ]が 元気[げんき]になります。</div><div><i>Él estará contento <font color=\"#ff0000\">siempre y cuando</font> la torta esté rica</i>.</div>", 
                                 "", 
@@ -5786,6 +5787,72 @@
                                 "Niponismo", 
                                 "相まって"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とあれば", 
+                                "とあれば", 
+                                "とあれば", 
+                                "por / con tal de / si (fuera /&nbsp;fuese)", 
+                                "V / Aい / S + <font color=\"#ef2929\">＿＿＿</font><div>A<strike>な</strike>&nbsp;+ <font color=\"#ef2929\">＿＿＿</font></div>", 
+                                "<div>Expresión condicional usado para enfatizar hasta qué punto se estaría dispuesto a llegar para alcanzar un determinado fin.</div><div><br /></div><div><div>Puede ser equivalente a 〜ためなら cuando se usa con sustantivo.</div></div><div><br /></div><div>子供[こども]のため<font color=\"#ef2929\">＿＿＿/なら</font>、どんなことでもします。</div><div><i>Yo haría cualquier cosa <font color=\"#ef2929\">por</font> mis hijos</i>.<br /></div><div><br /></div><div><div>O a なら simplemente cuando se usa con verbos.</div></div><div><br /></div><div>彼[かれ]は 飛行機[ひこうく]のオタクだから、 空[そら]を 飛[と]ぶ<font color=\"#ef2929\">＿＿＿/なら</font>、 如何[いか]なる 理由[りゆう]を 使[つか]う。<br /></div><div><i>Como él es un fanático de los aviones usa cualquier excusa <font color=\"#ef2929\">con tal de</font> volar por lo cielos</i>.<br /></div><div><br /></div><div><div>Así como a なら o ば en el caso de adjetivos い.</div></div><div>忙[いそが]し<font color=\"#ef2929\">ければ</font>/ 忙[いそ]しい<font color=\"#ef2929\">＿＿＿</font>/ 忙[いそ]しい<font color=\"#ef2929\">なら</font>、またご 連絡[れんらく] 致[いた]しますので、ご 心配[しんぱい]なく。<br /></div><div><i><font color=\"#ef2929\">Si</font> se encuentra ocupado, no se preocupe ya que le contactaremos más tarde</i>.<br /></div><div><br /></div><div><div>Si la expresión es precedida por un adjetivo な, éste debe ir sin な y puede equivaler a 〜であれば o なら.</div></div><div><br /></div><div>必要[ひつよう]<font color=\"#ef2929\"><b>＿＿＿</b>/であれば/なら</font>、お 客様[きゃくさま] の 代[か]わりにホテルの 予約[よやく]も 出来[でき]ます。<br /></div><div><i>También podemos hacer la reservas de hotel en su lugar <font color=\"#ef2929\">si fuese</font> necesario</i>.<br /></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "h%1^~uRNC3", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とあれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とあって", 
+                                "とあって", 
+                                "とあって", 
+                                "como…, (obviamente / naturalmente / evidentemente) / así que (obviamente / naturalmente / evidentemente) / (obviamente / naturalmente / evidentemente) porque", 
+                                "<div>S / V / Aい / Aな (sin な) + <font color=\"#ef2929\">＿＿＿</font><br></div>", 
+                                "<div>Expresión que establece un hecho como causa natural de algo.</div><div><br /></div><div>Se puede utilizar con sustantivos.</div><div><br /></div><div>日本[にほん]に 今[いま]は 夏休[なつやす]み<font color=\"#ef2929\">＿＿＿</font>、 観光客[かんこうきゃく][が 多[おお]い。<br /></div><div><i><font color=\"#ef2929\">Como</font> ahora es verano en Japón, <font color=\"#ef2929\">(obviamente / naturalmente / evidentemente)</font> está lleno de turistas</i>.<br /></div><div><br /></div><div><div>Así como verbos.</div></div><div><br /></div><div>鈴木[すずき]さんは 中国語[ちゅうごくご] 出来[でき]る<font color=\"#ef2929\">＿＿＿</font>、 彼女[かのじょ]は 中国[ちゅうごく]の 支店[してん]に 最良[さいりょう]の 候補[こうほ]だと 思[おも]っております。<br /></div><div><i><font color=\"#ef2929\">Como</font> ella habla chino, pienso que <font color=\"#ef2929\">(obviamente / naturalmente / evidentemente)</font> ella es la candidata ideal para la sucursal en China</i>.<br /></div><div><br /></div><div><div>Adjetivos い.</div></div><div><br /></div><div>日本[にっぽん]にはウーバーより 安[やす]い<font color=\"#ef2929\">＿＿＿</font>、タクシーに 乗[の]った。<br /></div><div><i><font color=\"#ef2929\">Como</font> en Japón es más barato que uber, <font color=\"#ef2929\">(obviamente / naturalmente / evidentemente)</font> tomamos un taxi</i>.<br /></div><div><br /></div><div><div>Y también adjetivos な (sin la propia な).</div></div><div><br /></div><div>旅行中[りょこうちゅう]にはスマートホンの 方[ほう]が 便利[べんり]<font color=\"#ef2929\">＿＿＿</font>、パソコンを 持[も]って行かないことにした。<br /></div><div><i><font color=\"#ef2929\">Como</font> los smartphones son más convenientes durante el viaje, <font color=\"#ef2929\">(obviamente / naturalmente / evidentemente)</font> decidimos no llevar laptops</i>.<br /></div><div><br /></div><div><b>Expresiones similares</b><br /></div><div><b><br /></b></div><div><div>Es sinónimo de から y ので en la mayoría de las situaciones.</div></div><div><br /></div><div>日本[にっぽん]に 住[す]んでいる 友達[ともだち]と 久[ひさ]しぶりの 再会[さいかい]｛<font color=\"#ef2929\">＿＿＿</font>/から/なので｝、 私達[わたしたち]は 何時間[なんじかん]も 話[はな]していた。<br /></div><div><i><font color=\"#ef2929\">Como</font> era un reencuentro después de muchos años con un amigo que vivía en Japón, <font color=\"#ef2929\">(obviamente / naturalmente / evidentemente)</font> charlamos durante horas</i>.<br /></div><div><br /></div><div><div>Sin embargo, como acarrea una connotación de que la consecuencia es resultado natural y evidente, no se puede usar en frases donde la causa carezca del contexto apropiado para determinarla como razón suficiente.</div></div><div><br /></div><div>お 金[かね]が 足[た]りない｛<font color=\"#ef2929\">＿＿＿✕</font>/から/ので｝、 旅行[りょこう] 出来[でき]ない。<br /></div><div><i><font color=\"#ef2929\">Como</font> no me alcanza el dinero, <font color=\"#ef2929\">(obviamente / naturalmente / evidentemente)</font> no puedo viajar</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Pw:/*8{@#N", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とあって"
+                            ]
                         }
                     ]
                 }, 
@@ -8441,7 +8508,7 @@
                             "data": "", 
                             "fields": [
                                 "&nbsp;食べ出した＿＿＿、おいしくて止められなかった。", 
-                                "Una vez que comencé a comer, no pude parar de lo rico que estaba.", 
+                                "<font color=\"#ff0000\">Una vez que</font> comencé a comer, no pude parar de lo rico que estaba.", 
                                 "食[た]べ 出[だ]した<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">が最後/ら最後</font></span>、おいしくて 止[と]められなかった。", 
                                 "が最後/ら最後"
                             ], 
@@ -9831,7 +9898,7 @@
                             "data": "", 
                             "fields": [
                                 "環境汚染に＿＿＿取り組むかは深刻な問題である。", 
-                                "Cómo controlar la contaminación ambiental es un problema serio.", 
+                                "<font color=\"#ff0000\">Cómo</font> controlar la contaminación ambiental es un problema serio.", 
                                 "環境[かんきょう] 汚染[おせん]に&nbsp;<font color=\"#ff0000\" style=\"font-family: 'Liberation Sans';\">如何[いか]に</font>&nbsp;取り組[とりく]むかは 深刻[しんこく]な 問題[もんだい]である。", 
                                 "如何に"
                             ], 
@@ -11819,7 +11886,7 @@
                             "data": "", 
                             "fields": [
                                 "美智子さんの＿＿＿、これから考えているのことは全部話します。", 
-                                "Ya que se trata de Michiko con quien estoy hablando, a partir de ahora pasaré a contarle todo lo que estoy pensando.", 
+                                "<font color=\"#ff0000\">Ya que</font> se trata de Michiko con quien estoy hablando, a partir de ahora pasaré a contarle todo lo que estoy pensando.", 
                                 "美智子[みちこ]さんの<font color=\"#ff0000\">ことだし</font>、これから 考[かんが]えているのことは 全部[ぜんぶ] 話[はな]します。", 
                                 "ことだし"
                             ], 
@@ -14169,7 +14236,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は簡単な算数＿＿＿できなかった。", 
-                                "Él ni siquiera podía hacer simple aritmética.", 
+                                "Él <font color=\"#ff0000\">ni siquiera</font> podía hacer simple aritmética.", 
                                 "彼[かれ]は 簡単[かんたん]な 算数[さんすう]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（で/に）（さえ/すら）（も）</font></span>できなかった。", 
                                 "（で/に）さえ（も）/（で/に）すら（も）"
                             ], 
@@ -14834,8 +14901,8 @@
                             "data": "", 
                             "fields": [
                                 "彼は有名な俳優ですから、単なる家族問題＿＿＿なり、大スキャンダルになるはずですよ。", 
-                                "Él es un actor famoso, así que esto no va a terminar como un simple problema familiar, sino que seguramente se volverá todo un escándalo.", 
-                                "彼[かれ]は 有名[ゆうめい]な 俳優[はいゆう]ですから、 家族[かぞく] 問題[もんだい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（だけ）では 済[す]まなく/（だけ）じゃ 済</font></span><span style=\"color: rgb(0, 0, 255); font-family: 'Liberation Sans';\">[す]</span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">まなく/（だけ）では 済</font></span><span style=\"color: rgb(0, 0, 255); font-family: 'Liberation Sans';\">[す]</span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">まされなく/（だけ）じゃ 済</font></span><span style=\"color: rgb(0, 0, 255); font-family: 'Liberation Sans';\">[す]</span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\">まされなく</font></span>なり、 大[だい]スキャンダルになるはずですよ。", 
+                                "Él es un actor famoso, así que esto <font color=\"#ff0000\">no va a terminar como</font> un simple problema familiar, sino que seguramente se volverá todo un escándalo.", 
+                                "彼[かれ]は 有名[ゆうめい]な 俳優[はいゆう]ですから、 家族[かぞく] 問題[もんだい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（だけ）では 済[す]まなく/（だけ）じゃ&nbsp;</font></span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0);\">済[す]</span>まなく/（だけ）では</font></span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0);\">済[す]</span>まされなく/（だけ）じゃ&nbsp;</font></span><span style=\"font-family: 'Liberation Sans';\"><font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0);\">済[す]</span>まされなく</font></span>なり、 大[だい]スキャンダルになるはずですよ。", 
                                 "（だけ）では済まなく/（だけ）じゃ済まなく/（だけ）では済まされなく/（だけ）じゃ済まされなく"
                             ], 
                             "flags": 0, 
@@ -16722,7 +16789,7 @@
                             "data": "", 
                             "fields": [
                                 "素直に謝れば、許してやら＿＿＿。", 
-                                "Si te disculpas honestamente, quizás te perdone.", 
+                                "Si te disculpas honestamente, <font color=\"#ff0000\">quizás</font> te perdone.", 
                                 "素直[すなお]に 謝[あやま]れば、 許[ゆる]してやら<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないものでもない</font></span>。", 
                                 "ないものでもない"
                             ], 
@@ -17108,7 +17175,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女はうまくゆかなかったが、＿＿＿初めてのことだったからね。", 
-                                "A ella no le fue bien, pero fue su primera vez, después de todo.", 
+                                "A ella no le fue bien, pero fue su primera vez, <font color=\"#ff0000\">después de todo</font>.", 
                                 "彼女[かのじょ]はうまくゆかなかったが、&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">何[なに]せ/ 何[なに]しろ/ 何[なに]にせよ/ 何[なに]にしろ</font></span>&nbsp;初[はじ]めてのことだったからね。", 
                                 "何せ/何しろ/何にせよ/何にしろ"
                             ], 
@@ -17804,7 +17871,7 @@
                             "data": "", 
                             "fields": [
                                 "スミスさんが来られないと言いましたが、鈴木さん＿＿＿未だ何も聞いていませんでした。", 
-                                "Smith ha dicho que no podría venir pero aún no he escuchado nada en cuanto a Suzuki.", 
+                                "Smith ha dicho que no podría venir pero aún no he escuchado nada <font color=\"#ff0000\">en cuanto a</font> Suzuki.", 
                                 "スミスさんが 来[こ]られないと 言[い]いましたが、 鈴木[すずき]さん<font color=\"#ff0000\">に 至[いた]っては</font>&nbsp;未[ま]だ 何[なに]も 聞[き]いていませんでした。", 
                                 "に至っては"
                             ], 
@@ -25671,7 +25738,7 @@
                             "fields": [
                                 "かわりに「ある程度」「多くの」「しばしば」という言葉を使い、「私の経験では」「間違っていたら申し訳ないのですが」「多くの例では」のような言葉＿＿＿話を始めなさい。", 
                                 "Podrías usar en su lugar palabras como \"en cierta medida\", \"muchos\" o \"a menudo\", <font color=\"#ff0000\">comenzando</font> la oración <font color=\"#ff0000\">con</font> frases como \"En mi experiencia,...\", \"Discúlpeme si me equivoco,...\" o \"En muchos casos,...\".", 
-                                "かわりに「ある 程度[ていど]」「 多[おお]くの」「しばしば」という 言葉[ことば]を 使[つか]い、「 私[わたし]の 経験[けいけん]では」「 間違[まちが]っていたら 申し訳[もうしわけ]ないのですが」「 多[おお]くの 例[れい]では」のような 言葉[ことば]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振り出[ふりだ]しに</font> 話[はなし]を 始[はじ]めなさい。", 
+                                "かわりに「ある 程度[ていど]」「 多[おお]くの」「しばしば」という 言葉[ことば]を 使[つか]い、「 私[わたし]の 経験[けいけん]では」「 間違[まちが]っていたら 申[もう]し 訳[わけ]ないのですが」「 多[おお]くの 例[れい]では」のような 言葉[ことば]<font color=\"#ff0000\">を 皮切[かわき]りに（して）/を 皮切[かわき]りとして/を 振[ふ]り 出[だ]しに</font> 話[はなし]を 始[はじ]めなさい。", 
                                 "を皮切りに（して）/を皮切りとして/を振り出しに"
                             ], 
                             "flags": 0, 
@@ -30762,6 +30829,278 @@
                                 "Oración", 
                                 "相まって"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "大好きなバンドのため＿＿＿、どこでも行く。", 
+                                "<font color=\"#ef2929\">Por</font> mi banda favorita voy a cualquier lado.", 
+                                "大好[だいす]きなバンドのため<font color=\"#ef2929\">なら/とあれば</font>、どこでも 行[い]く。", 
+                                "なら/とあれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Qwm1`1A6?v", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とあれば", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "望み＿＿＿、人間がどんなことでもする。", 
+                                "<font color=\"#ef2929\">Si</font> el ser humano desea algo, hace lo que sea.", 
+                                "望[のぞ]み<font color=\"#ef2929\">なら/とあれば</font>、 人間[にんげん]がどんなことでもする。", 
+                                "なら/とあれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "BV1n_Wn)XE", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とあれば", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "必要＿＿＿、我々は全力で後援する。", 
+                                "<font color=\"#ef2929\">Si fuese</font> necesario, nosotros te daríamos todo nuestro apoyo.", 
+                                "必要[ひつよう]<font color=\"#ef2929\">なら/であれば/とあれば</font>、 我々[われわれ]は 全力[ぜんりょく]で 後援[こうえん]する。", 
+                                "なら/であれば/とあれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dEvi#G8if6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "であれば", 
+                                "とあれば", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "動物を守るため＿＿＿、活動家たちは自分の命を失くすのを覚悟していると言っていた。", 
+                                "Los activistas dicen que están preparados para perder su vida <font color=\"#ef2929\">por</font> los animales.", 
+                                "動物[どうぶつ]を 守[まも]るため<font color=\"#ef2929\">なら/とあれば</font>、 活動[かつどう] 家[か]たちは 自分[じぶん]の 命[いのち]を 失[しつ]くすのを 覚悟[かくご]していると 言[い]っていた。", 
+                                "なら/とあれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zuinALhl*Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とあれば", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "酒が欲しくて堪らない＿＿＿、ヘビードリンカーはどんなことする。", 
+                                "<font color=\"#ef2929\">Si</font> no aguanta más las ganas de beber, el alchólico hace lo que sea.", 
+                                "酒[さけ]が 欲[ほ]しくて 堪[たま]らない<font color=\"#ef2929\">なら/とあれば</font>、ヘビードリンカーはどんなことする。", 
+                                "なら/とあれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "s;ipz-j:XD", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とあれば", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "それは問題になるかもしれないね。必要＿＿＿、彼を処分しろ。", 
+                                "Eso podría volverse un problema. Deságanse de él <font color=\"#ef2929\">si</font> es necesario.", 
+                                "それは 問題[もんだい]になるかもしれないね。 必要[ひつよう]<font color=\"#ef2929\">なら/であれば/とあれば</font>、 彼[かれ]を 処分[しょぶん]しろ。", 
+                                "なら/であれば/とあれば"
+                            ], 
+                            "flags": 0, 
+                            "guid": "L}!qlXITo7", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "であれば", 
+                                "とあれば", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "セール＿＿＿、デパートは大勢の人で混んでいる。", 
+                                "<font color=\"#ef2929\">Como</font> esá de oferta, <font color=\"#ef2929\">naturalmente</font> la tienda por departamentos está llena de gente.", 
+                                "セール<font color=\"#ff0000\">だから/なので/とあって</font>、デパートは 大勢[たいせい]の 人[ひと]で 混[こ]んでいる。", 
+                                "だから/なので/とあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ztoV0^O,|1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "から", 
+                                "とあって", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "有名人はこの国にやってくる＿＿＿、空港内で大勢の記者は待ち受けている。", 
+                                "Un famoso va a venir a este país <font color=\"#ef2929\">así que naturalmente</font> un montón de periodistas lo esperan en el aeropuerto.", 
+                                "有名人[ゆうめいじん]はこの 国[くに]にやってくる<font color=\"#ef2929\">から/ので/とあって</font>、 空港[くうこう] 内[ない]で 大勢[たいせい]の 記者[きしゃ]は 待ち受[まちう]けている。", 
+                                "から/ので/とあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P%)v.2wXnE", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "から", 
+                                "とあって", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日曜日＿＿＿、銀行は閉店でした。", 
+                                "<font color=\"#ef2929\">Como</font> era domingo, <font color=\"#ef2929\">evidentemente</font> el banco estaba cerrado.", 
+                                "日曜日[にちようび]<font color=\"#ef2929\">だから/なので/とあって</font>、 銀行[ぎんこう]は 閉店[へいてん]でした。", 
+                                "だから/なので/とあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B_|E($Kkz*", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "から", 
+                                "とあって", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "決勝戦＿＿＿、入場券はとても高い。", 
+                                "<font color=\"#ef2929\">Como</font> es la final, <font color=\"#ef2929\">obviamente</font>&nbsp;las entradas son carísimas.", 
+                                "決勝[けっしょう] 戦[せん]<font color=\"#ef2929\">だから/なので/とあって</font>、 入場[にゅうじょう] 券[けん]はとても 高[たか]い。", 
+                                "だから/なので/とあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MRC[cbh]ty", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "から", 
+                                "とあって", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "静か＿＿＿、暫くリラックスしたい観光客の中でその行楽地は人気がある。", 
+                                "<font color=\"#ef2929\">Como</font> es tranquilo, <font color=\"#ef2929\">naturalmente</font> ese lugar de veraneo es popular entre los turistas que buscan relajarse por un tiempo.", 
+                                "静[しず]か<font color=\"#ef2929\">だから/なので/とあって</font>、 暫[しばら]くリラックスしたい 観光[かんこう] 客[きゃく]の 中[なか]でその 行楽[こうらく] 地[ち]は 人気[にんき]がある。", 
+                                "だから/なので/とあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zl1N?N@+td", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "から", 
+                                "とあって", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ドルは安い＿＿＿、消費者は沢山のお金を費やしている。", 
+                                "<font color=\"#ef2929\">Como</font> el dolar está bajo, <font color=\"#ef2929\">naturalmente</font> los consumidores están gastando montones de dinero.", 
+                                "ドルは 安[やす]い<font color=\"#ef2929\">から/ので/とあって</font>、 消費[しょうひ] 者[しゃ]は 沢山[たくさん]のお 金[かね]を 費[つい]やしている。", 
+                                "から/ので/とあって"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jW}cAGqIqg", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "から", 
+                                "とあって", 
+                                "ので"
+                            ]
                         }
                     ]
                 }
@@ -30889,12 +31228,14 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "Oración", 
-                "相まって"
+                "から", 
+                "とあって", 
+                "ので"
             ], 
             "tmpls": [
                 {
@@ -31098,7 +31439,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "相まって"
+                "とあって"
             ], 
             "tmpls": [
                 {
