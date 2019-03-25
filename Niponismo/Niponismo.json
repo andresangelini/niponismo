@@ -2819,9 +2819,9 @@
                                 "もしくは", 
                                 "もしくは", 
                                 "もしくは", 
-                                "o de otro modo", 
-                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo<div>Sustantivo する + <font color=\"#ff0000\">＿＿＿</font> + verbo</div>", 
-                                "Sirve para mencionar otra <font color=\"#ff0000\">alternativa o posibilidad</font>. Dependiendo del contexto, se puede interpretar como \"<font color=\"#ff0000\">o</font>\", \"<font color=\"#ff0000\">o de otro modo</font>\", \"<font color=\"#ff0000\">o de lo contrario</font>\", \"<font color=\"#ff0000\">o al menos</font>\", \"<font color=\"#ff0000\">o también</font>\", \"<font color=\"#ff0000\">o si no</font>\", etc.<div><br /></div><div>川越[かわごえ]の 山車[だし]は、いわゆる 鉾[ほこ] 山車[だし]と 呼[よ]ばれる 形[かたち]で、 車輪[しゃりん]が 3[みっ]つ、<font color=\"#ff0000\">＿＿＿</font> 4[よっ]つ 付[つ]いています。</div><div><i>La carroza del festival de Kawagoe tiene la forma de lo que se llama una carroza hoko, la cual tiene tres <font color=\"#ff0000\">o</font> cuatro ruedas pegadas</i>.</div>", 
+                                "o (bien)", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font> + S<div>Sする + <font color=\"#ff0000\">＿＿＿</font> + V</div>", 
+                                "Expresion que sirve para mencionar otra <font color=\"#ff0000\">alternativa o posibilidad</font>.<div><br /></div><div>川越[かわごえ]の 山車[だし]は、いわゆる 鉾[ほこ] 山車[だし]と 呼[よ]ばれる 形[かたち]で、 車輪[しゃりん]が 3[みっ]つ、<font color=\"#ff0000\">＿＿＿</font> 4[よっ]つ 付[つ]いています。</div><div><i>La carroza del festival de Kawagoe tiene la forma de lo que se llama una carroza hoko, la cual tiene tres <font color=\"#ff0000\">o</font> cuatro ruedas pegadas</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -12324,7 +12324,7 @@
                             "data": "", 
                             "fields": [
                                 "何も知らぬ＿＿＿、失礼を致しました。&nbsp;", 
-                                "Debido a que no sabía nada, les pido mil disculpas.", 
+                                "<font color=\"#ff0000\">Debido a</font> que no sabía nada, les pido mil disculpas.", 
                                 "何[なに]も 知[し]らぬ<font color=\"#ff0000\">こととて</font>、 失礼[しつれい]を 致[いた]しました。", 
                                 "こととて"
                             ], 
