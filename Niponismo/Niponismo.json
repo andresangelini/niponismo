@@ -10832,7 +10832,7 @@
                             "data": "", 
                             "fields": [
                                 "辛い評判の＿＿＿、彼の態度は全く変わらなかった。", 
-                                "A pesar de las duras críticas, su actitud no ha cambiado para nada.", 
+                                "<font color=\"#ff0000\">A pesar de</font> las duras críticas, su actitud no ha cambiado para nada.", 
                                 "辛[つら]い 評判[ひょうばん]の<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">かいもなく</font></span>、 彼[かれ]の 態度[たいど]は 全[まった]く 変[か]わらなかった。", 
                                 "かいもなく"
                             ], 
@@ -23590,9 +23590,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "好むと好まざる＿＿＿、君は義務を果たさねばならない。", 
+                                "好むと好まざる＿＿＿、君は義務を果たさなければばならない。", 
                                 "Debes hacer tus deberes, te guste o no.", 
-                                "好[この]むと 好[この]まざる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">によらず/にかかわらず</font></span>、 君[きみ]は 義務[ぎむ]を 果[は]たさねばならない。", 
+                                "好[この]むと 好[この]まざる<font color=\"#ff0000\">によらず/にかかわらず</font>、 君[きみ]は 義務[ぎむ]を 果[は]たさなければばならない。", 
                                 "によらず/にかかわらず"
                             ], 
                             "flags": 0, 
