@@ -2819,9 +2819,9 @@
                                 "もしくは", 
                                 "もしくは", 
                                 "もしくは", 
-                                "o de otro modo", 
-                                "Sustantivo + <font color=\"#ff0000\">＿＿＿</font> + sustantivo<div>Sustantivo する + <font color=\"#ff0000\">＿＿＿</font> + verbo</div>", 
-                                "Sirve para mencionar otra <font color=\"#ff0000\">alternativa o posibilidad</font>. Dependiendo del contexto, se puede interpretar como \"<font color=\"#ff0000\">o</font>\", \"<font color=\"#ff0000\">o de otro modo</font>\", \"<font color=\"#ff0000\">o de lo contrario</font>\", \"<font color=\"#ff0000\">o al menos</font>\", \"<font color=\"#ff0000\">o también</font>\", \"<font color=\"#ff0000\">o si no</font>\", etc.<div><br /></div><div>川越[かわごえ]の 山車[だし]は、いわゆる 鉾[ほこ] 山車[だし]と 呼[よ]ばれる 形[かたち]で、 車輪[しゃりん]が 3[みっ]つ、<font color=\"#ff0000\">＿＿＿</font> 4[よっ]つ 付[つ]いています。</div><div><i>La carroza del festival de Kawagoe tiene la forma de lo que se llama una carroza hoko, la cual tiene tres <font color=\"#ff0000\">o</font> cuatro ruedas pegadas</i>.</div>", 
+                                "o (bien)", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font> + S<div>Sする + <font color=\"#ff0000\">＿＿＿</font> + V</div>", 
+                                "Expresion que sirve para mencionar otra <font color=\"#ff0000\">alternativa o posibilidad</font>.<div><br /></div><div>川越[かわごえ]の 山車[だし]は、いわゆる 鉾[ほこ] 山車[だし]と 呼[よ]ばれる 形[かたち]で、 車輪[しゃりん]が 3[みっ]つ、<font color=\"#ff0000\">＿＿＿</font> 4[よっ]つ 付[つ]いています。</div><div><i>La carroza del festival de Kawagoe tiene la forma de lo que se llama una carroza hoko, la cual tiene tres <font color=\"#ff0000\">o</font> cuatro ruedas pegadas</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -3453,7 +3453,7 @@
                                 "んばかり/ぬばかり", 
                                 "como si fuese a", 
                                 "Verbo ない sin い (する-&gt;せ) + <font color=\"#ff0000\">＿＿＿</font> + に.<div>Verbo ない sin い (する-&gt;せ) + <font color=\"#ff0000\">＿＿＿</font> + の + sustantivo.</div><div>Verbo ない sin い (する-&gt;せ) + <font color=\"#ff0000\">＿＿＿</font> + だ/だった.</div>", 
-                                "<div>Esta es una expresión utilizada para decir que algo o alguien aparenta estar a punto de hacer alguna cosa, más allá de que termine pasando o no.</div><div><br /></div><div>彼女はそれを聞いて泣か<font color=\"#ff0000\">＿＿＿</font>部屋から逃げ出した。</div><div><i>Ella escuchó eso y salió corriendo de la habitación <font color=\"#ff0000\">como si fuese a</font> llorar</i>.</div><div><br /></div><div>Como suele suceder, en el habla la forma negativa ぬ se abrevia como ん. Además, se puede comportar tanto como adjetivo, como adverbio e incluso como sustantivo dependiendo de lo que le siga.</div><div>&nbsp; &nbsp; &nbsp;</div><div>Si le sigue un <font color=\"#ff0000\">sustantivo</font>, entonces se comporta como un adjetivo <font color=\"#ff0000\">の</font>:</div><div><br /></div><div>頭が爆発せん<font color=\"#ff0000\">＿＿＿</font>の頭痛がした。</div><div><i>Tenía un dolor de cabeza <font color=\"#ff0000\">como si me fuese</font> a explotar</i>.</div><div><br /></div><div>Si en cambio le sigue una <font color=\"#ff0000\">acción</font>, entonces se comporta como un <font color=\"#ff0000\">adverbio</font>:</div><div><br /></div><div>彼は答えん<font color=\"#ff0000\">＿＿＿</font>手を上げた。</div><div><i>Él levantó la mano <font color=\"#ff0000\">como si fuese a</font> contestar</i>.</div><div><br /></div><div></div><div>Y por último, <font color=\"#ff0000\">si no le sigue nada y termina la frase</font>, entonces se comporta como un <font color=\"#ff0000\">sustantivo</font>:</div><div><br /></div><div>足が疲れて倒れ<font color=\"#ff0000\">＿＿＿</font>だった。</div><div><i>Mis piernas estaban tan cansadas que parecía <font color=\"#ff0000\">como si me fuese a</font> caer en cualquier momento</i>.</div><div><br /></div><div>Lo importante a recordar de esta expresión es que se usa cuando <font color=\"#ff0000\">algo parece o parecía inminente</font> más allá de que tome o haya tomado lugar.</div><div><br /></div><div>タブルの端に置いた鉛筆は倒れ<font color=\"#ff0000\">＿＿＿</font>揺らんでいた。</div><div><i>El lápiz al borde de la mesa se balanceaba <font color=\"#ff0000\">como si fuese a</font> caer</i>.</div>", 
+                                "<div>Esta es una expresión utilizada para decir que algo o alguien aparenta estar a punto de hacer alguna cosa, más allá de que termine pasando o no.</div><div><br></div><div>彼女はそれを聞いて泣か<font color=\"#ff0000\">＿＿＿</font>部屋から逃げ出した。</div><div><i>Ella escuchó eso y salió corriendo de la habitación <font color=\"#ff0000\">como si fuese a</font> llorar</i>.</div><div><br></div><div>Como suele suceder, en el habla la forma negativa ぬ se abrevia como ん. Además, se puede comportar tanto como adjetivo, como adverbio e incluso como sustantivo dependiendo de lo que le siga.</div><div>&nbsp; &nbsp; &nbsp;</div><div>Si le sigue un <font color=\"#ff0000\">sustantivo</font>, entonces se comporta como un adjetivo <font color=\"#ff0000\">の</font>:</div><div><br></div><div>頭が爆発せん<font color=\"#ff0000\">＿＿＿</font>の頭痛がした。</div><div><i>Tenía un dolor de cabeza <font color=\"#ff0000\">como si me fuese</font> a explotar</i>.</div><div><br></div><div>Si en cambio le sigue una <font color=\"#ff0000\">acción</font>, entonces se comporta como un <font color=\"#ff0000\">adverbio</font>:</div><div><br></div><div>彼は答えん<font color=\"#ff0000\">＿＿＿</font>手を上げた。</div><div><i>Él levantó la mano <font color=\"#ff0000\">como si fuese a</font> contestar</i>.</div><div><br></div><div></div><div>Y por último, <font color=\"#ff0000\">si no le sigue nada y termina la frase</font>, entonces se comporta como un <font color=\"#ff0000\">sustantivo</font>:</div><div><br></div><div>足が疲れて倒れ<font color=\"#ff0000\">＿＿＿</font>だった。</div><div><i>Mis piernas estaban tan cansadas que parecía <font color=\"#ff0000\">como si me fuese a</font> caer en cualquier momento</i>.</div><div><br></div><div>Lo importante a recordar de esta expresión es que se usa cuando <font color=\"#ff0000\">algo parece o parecía inminente</font> más allá de que tome o haya tomado lugar.</div><div><br></div><div>タブルの端に置いた鉛筆は倒れ<font color=\"#ff0000\">＿＿＿</font>揺らんでいた。</div><div><i>El lápiz al borde de la mesa se balanceaba <font color=\"#ff0000\">como si fuese a</font> caer</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -5852,6 +5852,72 @@
                                 "N1", 
                                 "Niponismo", 
                                 "とあって"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とあっては", 
+                                "とあっては", 
+                                "とあっては", 
+                                "como / porque / si (es cierto que / es verdad&nbsp;que)", 
+                                "S (sin だ) + <font color=\"#ef2929\">＿＿＿</font><div>Vる +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span></div><div>Aい +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span></div><div>Aな (sin な o だ) +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span><br></div>", 
+                                "<div>Expresión que utiliza una construcción condicional para presentar un hecho como causa o razón.</div><div><br /></div><div><div>Cuando se usa junto a un sustantivo, se emplea de la siguiente forma:</div></div><div><br /></div><div>一将[いっしょう]の 命令[めいれい]<font color=\"#ef2929\">＿＿＿</font>、 従[したが]うしかない。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / es verdad que)</font> es una orden del general, no nos queda otra que obedecer</i>.<br /></div><div><br /></div><div><div>La cual es la versión abreviada de:</div></div><div><br /></div><div>それが 一将[いっしょう]の 命令[めいれい]<font color=\"#ef2929\">＿＿＿</font>、 従[したが]うしかない。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / es verdad que) eso</font> es una orden del general, no nos queda otra que obedecer</i>.<br /></div><div><br /></div><div><div>Cuando se usa junto a verbos, estos deben ir en infinitivo.</div></div><div><br /></div><div>皆[みんな]が 行[い]く<span style=\"color: rgb(239, 41, 41)\">＿＿＿</span>、もちろん 私[わたし]も 行[い]かなければならない。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / es verdad que)</font> todos van, por supuesto que yo también deberé ir</i>.<br /></div><div><br /></div><div><div>Al igual que con los adjetivos い.</div></div><div><br /></div><div>日本人[にほんじん]にとって 長崎[ながさき]に 飛行機[ひこうき]で 行[い]くのが 安[やす]い<strong><font color=\"#ef2929\">＿＿＿</font></strong>、 新幹線[しんかんせん]を 使[つか]うわけにはいかない。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / si es verdad que)</font> para los japoneses sale barato ir a Nagasaki en avión, entonces no hay razón para que vayan en tren bala</i>.<br /></div><div><br /></div><div><div>En el caso de los adjetivos な, se omite la な y el だ.</div></div><div><br /></div><div>このホテルの 場所[ばしょ]の 方[ほう]が 便利[べんり]<strong><font color=\"#ef2929\">＿＿＿</font></strong>、ここに 泊[と]まりましょう。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / si es verdad que)</font> la ubicación de este hotel es más conveniente, hospedémonos aquí</i>.<br /></div><div><br /></div><div><div>Dependiendo del contexto, también puede ser interpretada como “como” o “porque”. Por tal razón, frases como la del primer ejemplo también pueden traducirse como:</div><div><br /></div><i><font color=\"#ef2929\">Como</font> es una orden del general, no nos queda otra que obedecer</i>.<div><br /></div><div>O:</div><div><br /></div><i>No nos queda otra que obedecer <font color=\"#ef2929\">porque</font> es una orden del general</i>.<br /></div><div><br /></div><div><b>Expresiones similares</b><br /></div><div><b><br /></b></div><div><div>Las expresiones （の）であれば y （の）なら son muy parecidas a とあっては y de hecho pueden sustituirla.</div></div><div><br /></div><div><div><br /></div>一将[いっしょう]の 命令[めいれい]｛<font color=\"#ef2929\">＿＿＿/であれば/なら</font>｝、 従[したが]うしかない。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / es verdad que)</font> es una orden del general, no nos queda otra que obedecer</i>.<br /></div><div><br /></div><div><div>Sin embargo, （の）であれば y （の）なら son más ambiguas y no necesariamente indican un hecho, si no que también pueden referirse a un caso hipotético. Por consiguiente, frases como la anterior podrían interpretarse de la siguiente forma.</div></div><div><br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / es verdad que)</font> es una orden del general, no nos queda / quedaría otra que obedecer</i>.<br /></div><div><br /></div><div><div>Cuando se usan estas dos expresiones no queda claro si la orden es algo que de verdad ocurrió o algo que pudiera ocurrir. Es por eso que en la segunda mitad de la frase se puede interpretar tanto como “no nos queda” así como “no nos quedaría”. En cambio, <font color=\"#ef2929\">＿＿＿</font> indica implícitamente que la orden del general fue un hecho y sólo usa el condicional como estructura gramatical para enfatizar dicho hecho como causal de tener que cumplir con la orden.</div></div><div><br /></div><div><div>（の）だから y （な）ので también pueden ser usadas en lugar de esta expresión en aquellas frases en donde <font color=\"#ef2929\">＿＿＿</font> se interprete como “como / porque”.</div></div><div><br /></div><div>一将[しっほう]の 命令[めいれい]｛<font color=\"#ef2929\">＿＿＿</font>/だから/なので｝、 従[したが]うしかない。<br /></div><div><i><font color=\"#ef2929\">Si (es cierto que / es verdad que) / Como / Porque</font> es una orden del general, no nos queda otra que obedecer</i>.<br /></div><div><br /></div><div>O bien:</div><div><br /></div><div><i>No nos queda otra que obedecer <font color=\"#ef2929\">porque</font> es una orden del general</i>.<br /></div><div><br /></div><div><div>Dicho esto, estas últimas dos son más directas y por consiguiente, ligeramente menos formales.</div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "pE2KEsL&/_", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とあっては"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とばかり（に）", 
+                                "とばかり（に）", 
+                                "とばかり（に）", 
+                                "como si fuera / como si fuese / como diciendo / como creyendo / como convencido", 
+                                "Cita directa + <font color=\"#ef2929\">＿＿＿</font><div>Cita indirecta + <font color=\"#ef2929\">＿＿＿</font></div><div>S + <font color=\"#ef2929\">＿＿＿</font></div>", 
+                                "<div>Expresión que indica que alguien actúa tratando de transmitir algo o de te tal forma que da a entender una determinada intención.</div><div><br></div><div>静[しず]かにしなさい<font color=\"#ef2929\">＿＿＿</font> 佐々木[ささき]さんは 指[ゆび]を 口[くち]の 前[まえ]に 置[お]いた。<br></div><div><i>Sasaki puso su dedo enfrente de la boca <font color=\"#ef2929\">como diciendo</font> que hiciera silencio</i>.<br></div><div><br></div><div><div>Su interpretación se debe a que en realidad es una abreviación ya que el verbo usado para reportar junto a la partícula と (por ejemplo: &nbsp;言[い]う, &nbsp;信[しん]じる, &nbsp;考[かんが]える, etc.) es omitido. Esto, sumado al hecho de que ばかり significa “casi” y la partícula に hace que se comporte como un adverbio, nos permite interpretar que el sujeto está “como diciendo”, “como creyendo” o “como convencido” de algo.</div></div><div><br></div><div><div>Se usa con citas directas.</div></div><div><br></div><div>「 助[たす]けて」<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>彼女[かのじょ]は 手[て]を 差[さ]し 出[だ]した。</div><div><i>Ella extendió la mano <font color=\"#ef2929\">como diciendo</font> “auxilio”</i>.<br></div><div><br></div><div><div>Así como con citas indirectas (sin comillas).</div></div><div><br></div><div>ほっておいてくれ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>愛美[まなみ]は 部屋[へや]のドアを 激[はげ]しく 閉[し]めた。<br></div><div><i>Manami cerró la puerta de su cuarto violentamente <font color=\"#ef2929\">como diciendo</font> que la dejaran sola</i>.<br></div><div><br></div><div><div>La partícula declarativa だ suele ser omitida por completo.</div></div><div>その 企画[きかく]が 駄目[だめ]（だ<strong>）</strong><font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>自分[じぶん]の 机[つくえ]から 課長[かちょう]は 手振[てぶ]りをした。<br></div><div><i>El jefe hizo señas desde su escritorio <font color=\"#ef2929\">como diciendo</font> que el plan no servía</i>.<br></div><div><br></div><div><div>Esta expresión también se puede usar junto a un sustantivo siguiendo el patrón S + とばかり（に） cuando se actúa creyendo que es una buena oportunidad para hacerlo.</div></div><div><br></div><div>相手[あいて]のチームはこの 時[とき]（だ）<font color=\"#ef2929\">＿＿＿</font> 積極的[せっきょくてき]に 攻[せ]め 始[はじ]めた。<br></div><div><i>El equipo contrario comenzó a atacar activamente <font color=\"#ef2929\">como si fuera / como si fuese / como creyendo que era / como convencido de que era</font> el mejor momento para hacerlo</i>.<br></div><div><br></div><div><div>Aunque aquí también la traducción literal sería “como diciendo”, se interpreta mejor como cualquiera de esas otras formas, siendo las mejores las primeras dos; “como si fuera / como si fuese”.</div></div><div><br></div><div><div>Por otro lado, el この 時[とき] del último ejemplo es una abreviación de &nbsp;一番[]いいのはこの 時[とき]だ. La frase completa entonces sería:</div></div><div><br></div><div>&nbsp;相手[あいて]のチームは 一番[いちばん]いいのはこの 時[とき]（だ）<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>積極的[せっきょくてき]に 攻[せ]め 始[し]めた。<br></div><div><i>El equipo contrario comenzó a atacar activamente <font color=\"#ef2929\">como si fuera / como si fuese / como creyendo que era / como convencido de que era</font> ese el mejor momento para hacerlo</i>.<br></div><div><br></div><div><div>Hay una expresión muy común que es ここぞとばかりに. ここぞ (a veces escrita como &nbsp;此処[ここ]ぞ) significa “momento crítico”, por lo que esta frase puede ser interpretada como “como diciendo / como creyendo que / como convencido de que este es el momento crítico”.</div></div><div><br></div><div>ここぞ<font color=\"#ef2929\">＿＿＿</font>、 上司[じょうし]に 昇給[しょうきゅう]を 要求[ようきゅう]してみた。<br></div><div><i>Intenté pedir un aumento de salario a mi jefe <font color=\"#ef2929\">como convencido</font> de que ese era el momento</i>.<br></div><div><br></div><div><b>Expresiones similares</b><br></div><div><b><br></b></div><div><div>と 言[い]わんばかりに/と 言[い]わぬばかりに y と 言[い]うように/と 言[い]う 風[ふう]に son sinónimas de esta expresión y pueden reemplazarla siempre y cuando se esté hablando de una tercera persona.</div></div><div><br></div><div>答[こた]えを 知[し]っている｛<font color=\"#ef2929\">＿＿＿/と 言[い]わんばかりに/と 言[い]わぬばかりに/と 言[い]うように/よ 言[い]う 風[ふう]に</font>｝一つだけの 生徒[せいと]は 手[て]を 挙[あ]げた。<br></div><div><i>Un solo estudiante alzó la mano <font color=\"#ef2929\">como diciendo</font> que sabía la respuesta</i>.<br></div><div><br></div><div><div>Pero lógicamente no pueden sustituirla cuando se habla de uno mismo ya que estas describen la aparente intención de un accionar.</div></div><div><br></div><div>私[わたし]は 今[いま]がチャンス｛<font color=\"#ef2929\">＿＿＿/と 言[い]わんばかりに✕/と 言[い]わぬばかりに✕/と 言[い]うように✕/と 言[い]うふうに✕</font>｝ 彼女[かのじょ]に 告白[こくはく]した。<br></div><div><i>Me le confesé a ella <font color=\"#ef2929\">como convencido</font> de que esta era la oportunidad</i>.<br></div><div><br></div><div><div>Se debe tener mucho cuidado de no confundir esta expresión con んばかりに/んばかりの porque esta última indica algo que alguien está a punto de hacer o que está a punto de pasar.</div></div><div><br></div><div>彼女[かのじょ]はそれを 聞[き]いて 泣[な]か<font color=\"#ef2929\">んばかりに</font><strong>&nbsp;</strong>部屋[へや]から 逃[に]げ 出[だ]した。<br></div><div><i>Ella escuchó eso y salió corriendo de la habitación <font color=\"#ef2929\">como si fuese a</font> llorar</i>.<br></div><div><br></div><div><div>Aunque とばかり（に） pueda parecer similar a la partícula と, las dos expresiones quieren decir cosas diferentes ya que mientras que la primera indica una aparente intención detrás del accionar de alguien, la segunda simplemente reporta de forma directa o indirecta lo que el sujeto dice, piensa o cree.</div></div><div><br></div><div>静[しず]かにしなさい<font color=\"#ef2929\">と</font><strong>&nbsp;</strong>佐々木[ささき]さんは 指[ゆび]を 口[くち]の 前[まえ]に 置[お]いた。<br></div><div><i>Sasaki puso su dedo enfrente de la boca <font color=\"#ef2929\">diciéndome</font> que hiciera silencio</i>.<br></div><div><br></div><div><div>O por ejemplo:</div></div><div><br></div><div>「 助[たす]けて」<font color=\"#ef2929\">と</font><strong>&nbsp;</strong>彼女[かのじょ]は 手[て]を 差[さ]し 出[だ]した。<br></div><div><i>Ella extendió la mano <font color=\"#ef2929\">diciendo</font> “auxilio”</i>.<br></div><div><br></div><div><div>Por último, se debe tener en cuenta que esta expresión no puede ser reemplazada por と en frases abreviadas.</div></div><div><br></div><div>相手[あいて]のチームはこの 時[とき]（だ）｛<font color=\"#ef2929\">と✕/＿＿＿</font>｝ 積極的[せっきょく]に 攻[せ]め 始[はじ]めた。<br></div><div><i>El equipo contrario comenzó a atacar activamente <font color=\"#ef2929\">como si fuera / como si fuese / como creyendo que era / como convencido de que era</font> el mejor momento para hacerlo</i>.<br></div><div><br></div><div><div>Por lo que tampoco se puede con la frase hecha ここぞとばかりに.</div></div><div><br></div><div>ここぞ｛<font color=\"#ef2929\">と✕/＿＿＿</font>｝、 上司[じょうし]に 昇給[しょうゆう]を 要求[ようきゅう]してみた。<br></div><div><i>Intenté pedir un aumento de salario a mi jefe <font color=\"#ef2929\">como convencido</font> de que ese era el momento</i>.<br></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "e,2#8%Epf7", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とばかり（に）"
                             ]
                         }
                     ]
@@ -10799,7 +10865,7 @@
                             "data": "", 
                             "fields": [
                                 "辛い評判の＿＿＿、彼の態度は全く変わらなかった。", 
-                                "A pesar de las duras críticas, su actitud no ha cambiado para nada.", 
+                                "<font color=\"#ff0000\">A pesar de</font> las duras críticas, su actitud no ha cambiado para nada.", 
                                 "辛[つら]い 評判[ひょうばん]の<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">かいもなく</font></span>、 彼[かれ]の 態度[たいど]は 全[まった]く 変[か]わらなかった。", 
                                 "かいもなく"
                             ], 
@@ -11237,7 +11303,7 @@
                             "data": "", 
                             "fields": [
                                 "妹は会社に勤める＿＿＿、夜は専門学校で英語を勉強しています。", 
-                                "Además de trabajar en una compañía, mi hermana menor estudia inglés en una escuela técnica.", 
+                                "<font color=\"#ff0000\">Además de</font> trabajar en una compañía, mi hermana menor estudia inglés en una escuela técnica.", 
                                 "妹[いもうと]は 会社[かいしゃ]に 勤[つと]める <font color=\"#ff0000\">傍[かたわ]ら</font>、 夜[よる]は 専門[せんもん] 学校[がっこう]で 英語[えいご]を 勉強[べんきょう]しています。", 
                                 "傍ら"
                             ], 
@@ -12324,7 +12390,7 @@
                             "data": "", 
                             "fields": [
                                 "何も知らぬ＿＿＿、失礼を致しました。&nbsp;", 
-                                "Debido a que no sabía nada, les pido mil disculpas.", 
+                                "<font color=\"#ff0000\">Debido a</font> que no sabía nada, les pido mil disculpas.", 
                                 "何[なに]も 知[し]らぬ<font color=\"#ff0000\">こととて</font>、 失礼[しつれい]を 致[いた]しました。", 
                                 "こととて"
                             ], 
@@ -13313,7 +13379,7 @@
                             "data": "", 
                             "fields": [
                                 "万一考えることをやめれば、その人は＿＿＿人間ではなくなるであろう。", 
-                                "Un hombre que no piensa ya no es un hombre.", 
+                                "Un hombre que no piensa <font color=\"#ff0000\">ya</font> no es un hombre.", 
                                 "万一[まんいち] 考[かんが]えることをやめれば、その 人[ひと]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font> 人間[にんげん]ではなくなるであろう。", 
                                 "最早"
                             ], 
@@ -13460,7 +13526,7 @@
                             "data": "", 
                             "fields": [
                                 "伝統は＿＿＿何の意味もない。", 
-                                "Las tradiciones ya no tienen ningún sentido.", 
+                                "Las tradiciones <font color=\"#ff0000\">ya</font> no tienen ningún sentido.", 
                                 "伝統[でんとう]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font> 何[なに]の 意味[いみ]もない。", 
                                 "最早"
                             ], 
@@ -13565,7 +13631,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はその手紙を受け取ると、読み＿＿＿それを燃やした。", 
-                                "Al tomar esa carta, él la quemó sin siquiera leerla.", 
+                                "Al tomar esa carta, él la quemó <font color=\"#ff0000\">sin siquiera</font> leerla.", 
                                 "彼[かれ]はその 手紙[てがみ]を 受け取[うけと]ると、 読[よ]み<font color=\"#ff0000\">もしないで</font>それを 燃[も]やした。", 
                                 "もしないで"
                             ], 
@@ -17027,7 +17093,7 @@
                             "data": "", 
                             "fields": [
                                 "支援者＿＿＿これまで続けられなかっただろう。", 
-                                "Sin la gente que me apoya, no hubiera podido continuar hasta donde estoy ahora.", 
+                                "<font color=\"#ff0000\">Sin</font> la gente que me apoya, no hubiera podido continuar hasta donde estoy ahora.", 
                                 "支援[しえん] 者[しゃ]<font color=\"#ff0000\">なくして（は）/なしに（は）/なしでは</font>これまで 続[つづ]けられなかっただろう。", 
                                 "なくして（は）/なしに（は）/なしでは"
                             ], 
@@ -17427,7 +17493,7 @@
                             "data": "", 
                             "fields": [
                                 "他の人＿＿＿、私はそんなことができない。", 
-                                "No sé otra persona, pero yo eso no lo puedo hacer.", 
+                                "<font color=\"#ff0000\">No sé</font> otra persona, <font color=\"#ff0000\">pero</font> yo eso no lo puedo hacer.", 
                                 "他[た]の 人[ひと]<font color=\"#ff0000\">ならいざ 知[し]らず/はいざ 知[し]らず</font>、 私[わたし]はそんなことができない。", 
                                 "ならいざ知らず/はいざ知らず"
                             ], 
@@ -23557,9 +23623,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "好むと好まざる＿＿＿、君は義務を果たさねばならない。", 
+                                "好むと好まざる＿＿＿、君は義務を果たさなければばならない。", 
                                 "Debes hacer tus deberes, te guste o no.", 
-                                "好[この]むと 好[この]まざる<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">によらず/にかかわらず</font></span>、 君[きみ]は 義務[ぎむ]を 果[は]たさねばならない。", 
+                                "好[この]むと 好[この]まざる<font color=\"#ff0000\">によらず/にかかわらず</font>、 君[きみ]は 義務[ぎむ]を 果[は]たさなければばならない。", 
                                 "によらず/にかかわらず"
                             ], 
                             "flags": 0, 
@@ -31101,6 +31167,269 @@
                                 "とあって", 
                                 "ので"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "皆が忙しい＿＿＿、同窓会の企画は潰れるでしょう。", 
+                                "<font color=\"#ef2929\">Si es cierto que</font> todos están ocupados, entonces los planes para la reunión de ex estudiantes se arruinarán.", 
+                                "皆[みな]が 忙[いそが]しい<font color=\"#ef2929\">なら/とあっては</font>、 同窓会[どうそうかい]の 企画[きかく]は 潰[つぶ]れるでしょう。", 
+                                "なら/とあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q_xDXUW.^Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とあっては", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は真面目＿＿＿、その大学に無事に入るに違いない。", 
+                                "<font color=\"#ef2929\">Si es verdad que</font> él es serio, entonces seguramente el entra a esa universidad sin problemas.", 
+                                "彼[かれ]は 真面目[まじめ]<font color=\"#ef2929\">なら/であれば/とあっては</font>、その 大学[だいがく]に 無事[ぶじ]に 入[はい]るに 違[ちが]いない。", 
+                                "なら/であれば/とあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rl,D0pSnx8", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "であれば", 
+                                "とあっては", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "我社は買収される＿＿＿、他の仕事を探した方がいい。", 
+                                "<font color=\"#ef2929\">Si es cierto que</font> nuestra empresa va a ser vendida, mejor vamos buscando otro trabajo.", 
+                                "我[わが] 社[しゃ]は 買収[ばいしゅう]される<font color=\"#ff0000\">（の）なら/のであれば/とあっては</font>、 他[た]の 仕事[しごと]を 探[さが]した 方[ほう]がいい。", 
+                                "（の）なら/のであれば/とあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Eo.!c10!t;", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "であれば", 
+                                "とあっては", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "友人に頼まれる＿＿＿、断るわけにはいかないだろう。", 
+                                "<font color=\"#ef2929\">Como</font> me lo pide un amigo, no hay razón para negarme.", 
+                                "友人[ゆうじん]に 頼[たの]まれる<font color=\"#ff0000\">（の）なら/のであれば/とあっては</font>、 断[ことわ]るわけにはいかないだろう。", 
+                                "（の）なら/のであれば/とあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P@C8|*Rlb1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "であれば", 
+                                "とあっては", 
+                                "なら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "こっちの方が近い＿＿＿、答えは簡単です。", 
+                                "<font color=\"#ef2929\">Como</font> éste es el más cerca, la respuesta es sencilla.", 
+                                "こっちの 方[ほう]が 近[ちか]い<font color=\"#ef2929\">から/ので/とあっては</font>、 答[こた]えは 簡単[かんたん]です。", 
+                                "から/ので/とあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "b1_@+2zL`U", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "とあっては", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本には車より電車の方が便利＿＿＿、車がない家族が多い。", 
+                                "Hay muchas familias sin auto <font color=\"#ef2929\">porque</font> en Japón el metro es más conveniente que el auto.", 
+                                "日本[にっぽん]には 車[くるま]より 電車[でんしゃ]の 方[ほう]が 便利[べんり]<font color=\"#ef2929\">だから/なので/とあっては</font>、 車[くるま]がない 家族[かぞく]が 多[おお]い。", 
+                                "だから/なので/とあっては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "elg:UD5/8b", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "とあっては", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "絶好の機会＿＿＿飛びついた。", 
+                                "Me abalancé hacia ella <font color=\"#ef2929\">como si fuera</font> la gran oportunidad.", 
+                                "絶好[ぜっこう]の 機会[きかい]<font color=\"#ef2929\">（だ）とばかり（に）</font> 飛[と]びついた。", 
+                                "（だ）とばかり（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "NC(kWKJ6wl", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とばかり（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "「いらない」＿＿＿彼女は顔をした。", 
+                                "Ella puso cara <font color=\"#ef2929\">como diciendo</font> \"no lo necesito\".", 
+                                "「いらない」<font color=\"#ef2929\">と（ 言[い]わん）ばかり（に）/と 言[い]うように/と 言[い]う 風[かぜ]に</font> 彼女[かのじょ]は 顔[かお]をした。", 
+                                "と（言わん）ばかり（に）/と言うように/と言う風に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "F!~1LKh=V_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とばかり（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "これまで育って来た勧めは「今までありがとう。そしてさようなら」＿＿＿僕の方に向いて暫く悲しげに見つめていた。", 
+                                "El gorrión que había venido criando hasta ahora se dio vuelta y me miró por un rato con alfo de tristeza <font color=\"#ef2929\">como diciendo</font> \"gracias por todo y adiós\".", 
+                                "これまで 育[そだ]って 来[き]た 勧[すす]めは「 今[いま]までありがとう。そしてさようなら」<font color=\"#ef2929\">と（ 言[い]わん）ばかり（に）/と 言[い]うように/と 言[い]う 風[かぜ]に</font> 僕[ぼく]の 方[ほう]に 向[む]いて 暫[しばら]く 悲[かな]しげに 見[み]つめていた。", 
+                                "と（言わん）ばかり（に）/と言うように/と言う風に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "jtRw0he/[9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とばかり（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "守衛が眠り込んだ時、ここぞ＿＿＿泥棒は速く銀行に入り込んだ。", 
+                                "Cuando el guardia se quedó dormido, el ladrón entró rápidamente al banco <font color=\"#ef2929\">como convencido</font>&nbsp;de que ese era el momento.", 
+                                "守衛[しゅえい]が 眠り込[ねむりこ]んだ 時[とき]、ここぞ<font color=\"#ef2929\">とばかりに</font> 泥棒[どろぼう]は 速[はや]く 銀行[ぎんこう]に 入り込[はいりこ]んだ。", 
+                                "とばかりに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "P1^G&3}[P^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とばかり（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何も言うな＿＿＿彼女は密かに僕の腕を摘んだ。", 
+                                "Ella me pellizcó a escondidas el brazo <font color=\"#ef2929\">como diciendo</font> que no dijera nada.", 
+                                "何[なに]も 言[い]うな<font color=\"#ef2929\">と（ 言[い]わん）ばかり（に）/と 言[い]うように/と 言[い]う 風[かぜ]に</font> 彼女[かのじょ]は 密[ひそ]かに 僕[ぼく]の 腕[うで]を 摘[つ]んだ。", 
+                                "と（言わん）ばかり（に）/と言うように/と言う風に"
+                            ], 
+                            "flags": 0, 
+                            "guid": "f|S6miBC)1", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とばかり（に）"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今がチャンス＿＿＿森田さんの方向へ行ったが、その突端に知らない彼女が急に現れて彼に話し掛けた。", 
+                                "Me dirigí hacia Morita <font color=\"#ef2929\">como convencido</font> de que esa era mi oportunidad pero en ese momento apareció una chica desconocida de la nada y comenzó a hablarle.", 
+                                "今[いま]がチャンス<font color=\"#ef2929\">（だ）とばかり（に）</font> 森田[もりた]さんの 方向[ほうこう]へ 行[い]ったが、その 突端[とったん]に 知[し]らない 彼女[かのじょ]が 急[きゅう]に 現[あらわ]れて 彼[かれ]に 話し掛[はなしか]けた。", 
+                                "（だ）とばかり（に）"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g6}1.,7}6B", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とばかり（に）"
+                            ]
                         }
                     ]
                 }
@@ -31228,14 +31557,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "から", 
-                "とあって", 
-                "ので"
+                "Oración", 
+                "とばかり（に）"
             ], 
             "tmpls": [
                 {
@@ -31439,7 +31766,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "とあって"
+                "とばかり（に）"
             ], 
             "tmpls": [
                 {
