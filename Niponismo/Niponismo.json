@@ -15495,7 +15495,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らは＿＿＿はお互いに助け合っていました。", 
-                                "Ellos se habían ayudado mutuamente antes.", 
+                                "Ellos se habían ayudado mutuamente <font color=\"#ff0000\">antes</font>.", 
                                 "彼[かれ]らは&nbsp;<font color=\"#ff0000\">曾[かつ]て</font>はお 互[たが]いに 助け合[たすけあ]っていました。", 
                                 "曾て"
                             ], 
@@ -29524,9 +29524,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "家族と友達の応援は感謝が素早く治るため欠く＿＿＿ものだ。", 
+                                "家族と友達の応援は患者が素早く治るため欠く＿＿＿ものだ。", 
                                 "El apoyo de familia y amigos es <font color=\"#ef2929\">indispensable</font> para la pronta recuperación del paciente.", 
-                                "家族[かぞく]と 友達[ともだち]の 応援[おうえん]は 感謝[かんしゃ]が 素早[すばや]く 治[なお]るため 欠[か]く<font color=\"#ef2929\">べきでない/べからざる</font>ものだ。", 
+                                "家族[かぞく]と 友達[ともだち]の 応援[おうえん]は 患者[かんじゃ]が 素早[すばや]く 治[なお]るため 欠[か]く<font color=\"#ef2929\">べきでない/べからざる</font>ものだ。", 
                                 "べきでない/べからざる"
                             ], 
                             "flags": 0, 
