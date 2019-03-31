@@ -14051,7 +14051,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女は親の愛情が全くなかった環境で育ったので、酷く無慈悲な人となった＿＿＿。", 
-                                "Se cree que ella se convirtió en una persona cruel y despiadad debido a que creció en un ambiente carente de amor paternal.", 
+                                "<font color=\"#ff0000\">Se cree que</font> ella se convirtió en una persona cruel y despiadad debido a que creció en un ambiente carente de amor paternal.", 
                                 "彼女[かのじょ]は 親[おや]の 愛情[あいじょう]が 全[まった]くなかった 環境[かんきょう]で 育[そだ]ったので、 酷[ひど]く 無慈悲[むじひ]な 人[ひと]となったも<font color=\"#ff0000\">のと 思[おも]われる</font>。", 
                                 "ものと思われる"
                             ], 
@@ -29653,7 +29653,7 @@
                             "fields": [
                                 "その新法が定まっ＿＿＿、犯罪率は徐々減てきました。", 
                                 "<font color=\"#ef2929\">Desde que</font> se promulgó la nueva ley la tasa de crímenes ha venido descendiendo.", 
-                                "その新法[しんぽう]が 定[さだ]まっ<font color=\"#ef2929\">てからというもの</font>、 犯罪[はんざい] 率[りつ]は 徐々[じょじょ] 減[げん]てきました。", 
+                                "その 新法[しんぽう]が 定[さだ]まっ<font color=\"#ef2929\">てからというもの</font>、 犯罪[はんざい] 率[りつ]は 徐々[じょじょ] 減[げん]てきました。", 
                                 "てからというもの"
                             ], 
                             "flags": 0, 
