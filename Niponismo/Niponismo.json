@@ -5181,6 +5181,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "leech", 
                                 "そばから"
                             ]
                         }, 
@@ -9860,7 +9861,7 @@
                             "data": "", 
                             "fields": [
                                 "占いの結果＿＿＿、アメリカに帰ることになります。", 
-                                "Volveré a Estados Unidos dependiendo de lo que me diga la adivina.", 
+                                "Volveré a Estados Unidos <font color=\"#ff0000\">dependiendo de</font> lo que me diga la adivina.", 
                                 "占[うらな]いの 結果[けっか]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">（の）いかんで（は）/（の）いかんによって（は）</font></span>、アメリカに 帰[かえ]ることになります。", 
                                 "（の）いかんで（は）/（の）いかんによって（は）"
                             ], 
@@ -18339,7 +18340,7 @@
                             "data": "", 
                             "fields": [
                                 "風を引いたら、薬を飲む＿＿＿医者に行く＿＿＿した方がいい。", 
-                                "Si agarras un resfrío es mejor que tomes un remedio o vayas al médico.", 
+                                "Si agarras un resfrío es mejor que tomes un remedio <font color=\"#ff0000\">o</font> vayas al médico.", 
                                 "風[かぜ]を 引[ひ]いたら、 薬[くすり]を 飲[の]む<font color=\"#ff0000\">なり</font> 医者[いしゃ]に 行[い]く<font color=\"#ff0000\">なり</font>した 方[ほう]がいい。", 
                                 "なり～なり"
                             ], 
