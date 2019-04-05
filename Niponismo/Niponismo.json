@@ -4709,6 +4709,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "leech", 
                                 "も兼ねて", 
                                 "を兼ねて"
                             ]
@@ -6654,7 +6655,7 @@
                             "data": "", 
                             "fields": [
                                 "好機逸す＿＿＿。", 
-                                "No se debe dejar pasar una oportunidad.", 
+                                "<font color=\"#ff0000\">No se debe</font> dejar pasar una oportunidad.", 
                                 "好機[こうき] 逸[いっ]す<font color=\"#ff0000\">べからず</font>。", 
                                 "べからず"
                             ], 
@@ -11622,7 +11623,7 @@
                             "data": "", 
                             "fields": [
                                 "人間は年をとると、ほかの人の話しを聞かなくなる＿＿＿。", 
-                                "A medida que la gente envejece, tiende a no esuchar lo que dicen los demás.", 
+                                "A medida que la gente envejece, <font color=\"#ff0000\">tiende a</font> no esuchar lo que dicen los demás.", 
                                 "人間[にんげん]は 年[とし]をとると、ほかの 人[ひと]の 話[はな]しを 聞[き]かなくなる&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">嫌[きら]いがある</font></span>。", 
                                 "嫌いがある"
                             ], 
@@ -16753,7 +16754,7 @@
                             "data": "", 
                             "fields": [
                                 "このレポートは未だ完璧だと言えない。もう少し 磨け＿＿＿。", 
-                                "Aú no puedo decir que este reporte está perfecto. ¿No lo podré pulir un poco más?", 
+                                "Aú no puedo decir que este reporte está perfecto. ¿<font color=\"#ff0000\">No lo podré</font> pulir un poco más?", 
                                 "このレポートは 未[いま]だ 完璧[かんぺき]だと 言[い]えない。もう少し&nbsp;磨[みが]け<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないもの（だろう）か</font></span>。", 
                                 "ないもの（だろう）か"
                             ], 
@@ -18025,7 +18026,7 @@
                             "data": "", 
                             "fields": [
                                 "その国会議員の取材で色々なことが分かりましたが、その提案を賛成するかどうか＿＿＿ノーコメントでした。", 
-                                "Nos hemos enterado de unas cuantos cosas con la entrevista al parlamentario pero éste no quizo hacer comentarios en cuanto a si el votaría a favor del proyecto de ley o no.", 
+                                "Nos hemos enterado de unas cuantos cosas con la entrevista al parlamentario pero éste no quizo hacer comentarios <font color=\"#ff0000\">en cuanto a</font> si el votaría a favor del proyecto de ley o no.", 
                                 "その 国会[こっかい] 議員[ぎいん]の 取材[しゅざい]で 色々[いろいろ]なことが 分[わ]かりましたが、その 提案[ていあん]を 賛成[さんせい]するかどうか<font color=\"#ff0000\">に 至[い]っては</font>ノーコメントでした。", 
                                 "に至っては"
                             ], 
