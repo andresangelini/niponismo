@@ -6228,7 +6228,7 @@
                             "data": "", 
                             "fields": [
                                 "マイクはその部屋へと駆け出した。＿＿＿、もう誰もいなかった。", 
-                                "Mike corrió hacia esa habitación. Como era de esperarse, ya no había nadie.", 
+                                "Mike corrió hacia esa habitación. <font color=\"#ff0000\">Como era de esperarse</font>, ya no había nadie.", 
                                 "マイクはその 部屋[へや]へと 駆け出[かけだ]した。&nbsp;<font color=\"#ff0000\">案[あん]の定[じょう]</font>、もう 誰[だれ]もいなかった。", 
                                 "案の定"
                             ], 
