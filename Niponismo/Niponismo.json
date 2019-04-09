@@ -2776,6 +2776,7 @@
                                 "Japonés", 
                                 "N3", 
                                 "Niponismo", 
+                                "leech", 
                                 "さえ～ば/さえ～たら"
                             ]
                         }, 
@@ -23517,7 +23518,7 @@
                             "fields": [
                                 "職場で巫山戯るのは、許す＿＿＿行為である。", 
                                 "Jugar en el lugar de trabajo <font color=\"#ff0000\">es inadmisible</font>.", 
-                                "職場[しょくば]で 巫山戯[ふざけ]るのは、 許[ゆる]<font color=\"#ef2929\">べきでない/</font><font color=\"#ff0000\">すべからざる</font> 行為[こうい]である。", 
+                                "職場[しょくば]で 巫山戯[ふざけ]るのは、 許[ゆる]す<font color=\"#ef2929\">べきでない/</font><font color=\"#ff0000\">べからざる</font> 行為[こうい]である。", 
                                 "べきでない/べからざる"
                             ], 
                             "flags": 0, 
