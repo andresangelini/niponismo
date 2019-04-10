@@ -31978,6 +31978,132 @@
                                 "（と言）ったらありゃしない", 
                                 "（と言）ったらない"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "深夜でトイレ行った時寝ぼけて壁＿＿＿壁にぶつけてしまった。", 
+                                "Cuando fui al baño tarde en la noche estaba medio dormido y me golpe contra <font color=\"#ff0000\">todas y cada una de</font> las paredes.", 
+                                "深夜[しんや]でトイレ 行[い]った 時[とき] 寝[ね]ぼけて 壁[かべ]<font color=\"#ff0000\">という</font> 壁[かべ]にぶつけてしまった。", 
+                                "という"
+                            ], 
+                            "flags": 0, 
+                            "guid": "CRM0oPKE-Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "という"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "周辺の店＿＿＿店で聞いてみたが、誰も彼を見なかったらしい。", 
+                                "Pregunté en <font color=\"#ff0000\">todas y cada una de</font> las tiendas de la zona, pero parece que nadie lo vio.", 
+                                "周辺[しゅうへん]の 店[みせ]<font color=\"#ff0000\">という</font> 店[みせ]で 聞[き]いてみたが、 誰[だれ]も 彼[かれ]を 見[み]なかったらしい。", 
+                                "という"
+                            ], 
+                            "flags": 0, 
+                            "guid": "r{8<eKy2K^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "という"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "このチームのメンバー＿＿＿メンバーは責任がある。", 
+                                "<font color=\"#ff0000\">Todos y cada uno de</font> los miembros de este equipo son responsables.", 
+                                "このチームのメンバー<font color=\"#ff0000\">という</font>メンバーは 責任[せきにん]がある。", 
+                                "という"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ghv;!]L](y", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "という"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今日と＿＿＿今日は病院に行かなければならない。", 
+                                "Hoy <font color=\"#ff0000\">sí que</font> tengo que ir al hospital.", 
+                                "今日[きょう]<font color=\"#ff0000\">という</font> 今日[きょう]は 病院[びょういん]に 行[い]かなければならない。", 
+                                "という"
+                            ], 
+                            "flags": 0, 
+                            "guid": "M%9l^_<xC$", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "という"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今度と＿＿＿今度は休みを取ることは許せません。", 
+                                "Hoy <font color=\"#ff0000\">sí que</font> no voy a permitir que se tomen licencia.", 
+                                "今度[こんど]<font color=\"#ff0000\">という</font> 今度[こんど]は 休[やす]みを 取[と]ることは 許[ゆる]せません。", 
+                                "という"
+                            ], 
+                            "flags": 0, 
+                            "guid": "PR!6R_}p/R", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "という"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "進められたレストラン＿＿＿レストランを行ってみたいです。", 
+                                "Quiero ir a <font color=\"#ff0000\">todos y cada uno de</font> los restaurantes que me recomendaron.", 
+                                "進[すす]められたレストラン<font color=\"#ff0000\">という</font>レストランを 行[おこな]ってみたいです。", 
+                                "という"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ul0ygUFqOn", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "という"
+                            ]
                         }
                     ]
                 }
@@ -32110,9 +32236,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "（と言）ったらありはしない", 
-                "（と言）ったらありゃしない", 
-                "（と言）ったらない"
+                "という"
             ], 
             "tmpls": [
                 {
