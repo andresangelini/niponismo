@@ -14397,7 +14397,7 @@
                             "data": "", 
                             "fields": [
                                 "彼がした事が違反＿＿＿。", 
-                                "Si lo que él hizo no es una infracción, ¿entónces qué es? / Lo que él hizo es definitivamente una infracción.", 
+                                "<font color=\"#ff0000\">Si</font> lo que él hizo <font color=\"#ff0000\">no es</font> una infracción, ¿<font color=\"#ff0000\">entónces qué es</font>? / Lo que él hizo es <font color=\"#ff0000\">definitivamente</font> una infracción.", 
                                 "彼[かれ]がした 事[こと]が 違反[いはん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">でなくて何だろう</font></span>。", 
                                 "でなくて何だろう"
                             ], 
@@ -19714,7 +19714,7 @@
                             "fields": [
                                 "日本では職業を聞くのがちょっと失礼＿＿＿でしょうか。", 
                                 "¿<font color=\"#ff0000\">No es de</font> mala educación preguntarle a alguien sobre el trabajo en Japón?", 
-                                "日本[にっぽん]では 職業[しょくぎょう]を 聞[き]くのがちょっと 失礼[しつれい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） [は]当たらない</font></span>でしょうか。", 
+                                "日本[にっぽん]では 職業[しょくぎょう]を 聞[き]くのがちょっと 失礼[しつれい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">に（は） 当[は]たらない</font></span>でしょうか。", 
                                 "に（は）当たらない"
                             ], 
                             "flags": 0, 
@@ -31983,9 +31983,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "深夜でトイレ行った時寝ぼけて壁＿＿＿壁にぶつけてしまった。", 
+                                "深夜でトイレに行った時寝ぼけて壁＿＿＿壁にぶつけてしまった。", 
                                 "Cuando fui al baño tarde en la noche estaba medio dormido y me golpe contra <font color=\"#ff0000\">todas y cada una de</font> las paredes.", 
-                                "深夜[しんや]でトイレ 行[い]った 時[とき] 寝[ね]ぼけて 壁[かべ]<font color=\"#ff0000\">という</font> 壁[かべ]にぶつけてしまった。", 
+                                "深夜[しんや]でトイレ に行[い]った 時[とき] 寝[ね]ぼけて 壁[かべ]<font color=\"#ff0000\">という</font> 壁[かべ]にぶつけてしまった。", 
                                 "という"
                             ], 
                             "flags": 0, 
@@ -32046,7 +32046,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "今日と＿＿＿今日は病院に行かなければならない。", 
+                                "今日＿＿＿今日は病院に行かなければならない。", 
                                 "Hoy <font color=\"#ff0000\">sí que</font> tengo que ir al hospital.", 
                                 "今日[きょう]<font color=\"#ff0000\">という</font> 今日[きょう]は 病院[びょういん]に 行[い]かなければならない。", 
                                 "という"
@@ -32067,7 +32067,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "今度と＿＿＿今度は休みを取ることは許せません。", 
+                                "今度＿＿＿今度は休みを取ることは許せません。", 
                                 "Hoy <font color=\"#ff0000\">sí que</font> no voy a permitir que se tomen licencia.", 
                                 "今度[こんど]<font color=\"#ff0000\">という</font> 今度[こんど]は 休[やす]みを 取[と]ることは 許[ゆる]せません。", 
                                 "という"
@@ -32088,9 +32088,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "進められたレストラン＿＿＿レストランを行ってみたいです。", 
+                                "進められたレストラン＿＿＿レストランに行ってみたいです。", 
                                 "Quiero ir a <font color=\"#ff0000\">todos y cada uno de</font> los restaurantes que me recomendaron.", 
-                                "進[すす]められたレストラン<font color=\"#ff0000\">という</font>レストランを 行[おこな]ってみたいです。", 
+                                "進[すす]められたレストラン<font color=\"#ff0000\">という</font>レストランに 行[おこな]ってみたいです。", 
                                 "という"
                             ], 
                             "flags": 0, 
