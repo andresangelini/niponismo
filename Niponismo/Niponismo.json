@@ -6031,7 +6031,7 @@
                                 "という", 
                                 "という", 
                                 "という", 
-                                "todo / toda / todos (y cada uno de) / todas (y cada una de) / mismo / sí&nbsp;(que)", 
+                                "todos (y cada uno de) / todas (y cada una de) / mismo / sí&nbsp;(que)", 
                                 "S + <font color=\"#ef2929\">＿＿＿</font> + S", 
                                 "<div>Expresión que afirma de manera enfática que no hay excepción. Dependiendo del tipo de sustantivo, la interpretación puede variar.</div><div><br /></div><b>Sustantivo no&nbsp;temporal</b><div><br /><div>Cuando el sustantivo sea una cosa o lugar, esta expresión hace referencia a la totalidad de un conjunto, por lo que se la puede interpretar como “todo”, “toda”, “todos (y cada uno)” o “todas (y cada una)”.</div></div><div><br /></div><div>近所[きんじょ]の 家[いえ]<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>家[いえ]で 探[さが]していたが、 子猫[こねこ]ちゃんが 未[まだ]だ 見[み]つかっていない。<br /></div><div><i>Busque en <font color=\"#ef2929\">todas y (cada una de)</font> las casas del vecindario pero aún no encuentro al gatito</i>.<br /></div><div><br /></div><div><div>Cuando se trata de cosas o lugares, “casas” y “paredes” son dos de los ejemplos clásicos.</div></div><div><br /></div><div>容疑者[ようぎしゃ]の 部屋[へや]は 壁[かべ]<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>壁[かべ]に 被害者[ひがいしゃ]の 写真[しゃしん]が 貼[は]ってあった。<br /></div><div><i><font color=\"#ef2929\">Todas y (cada una de)</font> las paredes de la habitación del sospechoso tenían fotos de la víctima pegadas</i>.<br /></div><div><br /></div><div><b>Sustantivo temporal</b></div><div><br /></div><div><div>Si el sustantivo hace referencia al momento actual, esta expresión lo destaca por sobre cualquier otro. Dicho esto, en la práctica los ejemplos más comunes son &nbsp;今日[きょう] y &nbsp;今度[こんど]. En cualquier caso, las interpretaciones posibles son “mismo” y “sí (que)”.</div></div><div><br /></div><div>今日[きょう]<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>今日[きょう]はレポートを 出[だ]さなきゃ。<br /></div><div><i>Hoy <font color=\"#ef2929\">mismo / sí (que) tengo</font> que terminar el reporte</i>.<br /></div><div><br /></div><div><div>O también:</div></div><div><br /></div><div>今度[こんど]<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>今度[こんど]は 許[ゆる]されない。<br /></div><div><i>Esta vez<strong> </strong><font color=\"#ef2929\">sí que</font> no te perdono</i>.<br /></div>", 
                                 "", 
@@ -11190,7 +11190,7 @@
                             "data": "", 
                             "fields": [
                                 "地震はいつでも起こる＿＿＿。", 
-                                "Puede haber un terremoto en cualquier momento.", 
+                                "<font color=\"#ff0000\">Puede haber</font> un terremoto en cualquier momento.", 
                                 "地震[じしん]はいつでも 起[お]こる <font color=\"#ff0000\">可能[かのう] 性[せい]がある</font>。", 
                                 "可能性がある"
                             ], 
@@ -22467,7 +22467,7 @@
                             "fields": [
                                 "鈴木さんはこの間大変お世話になりました。感謝の念＿＿＿ません。", 
                                 "Suzuki nos ha tratado muy bien el otro día. Le estamos <font color=\"#ff0000\">profundamente agradecidos</font>.", 
-                                "鈴木[すずき]さんはこの 間[かん] 大変[たいへん]お 世話[せわ]になりました。 感謝[かんしゃ]の 念[ねん]<font color=\"#ff0000\">に 堪[こた]え</font>ません。", 
+                                "鈴木[すずき]さんはこの 間[かん] 大変[たいへん]お 世話[せわ]になりました。 感謝[かんしゃ]の 念[ねん]<font color=\"#ff0000\">に 堪[た]え</font>ません。", 
                                 "に堪え"
                             ], 
                             "flags": 0, 
