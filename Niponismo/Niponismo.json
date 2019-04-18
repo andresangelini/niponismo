@@ -11659,7 +11659,7 @@
                             "data": "", 
                             "fields": [
                                 "私は会社に勤めてる＿＿＿、夜は家で日本語を勉強しています。", 
-                                "Además de trabajar en una empresa, estudio japonés en casa por las noches.", 
+                                "<font color=\"#ff0000\">Además de</font> trabajar en una empresa, estudio japonés en casa por las noches.", 
                                 "私[わたし]は 会社[かいしゃ]に 勤[つと]めてる <font color=\"#ff0000\">傍[かたわ]ら</font>、 夜[よる]は 家[いえ]で 日本語[にほんご]を 勉強[べんきょう]しています。", 
                                 "傍ら"
                             ], 
@@ -13924,7 +13924,7 @@
                             "data": "", 
                             "fields": [
                                 "彼らは挨拶＿＿＿通り過ぎた。", 
-                                "Ellos pasaron de largo sin siquiera saludar.", 
+                                "Ellos pasaron de largo <font color=\"#ff0000\">sin siquiera</font> saludar.", 
                                 "彼[かれ]らは 挨拶[あいさつ]<font color=\"#ff0000\">もしないで</font> 通り過[とおりす]ぎた。", 
                                 "もしないで"
                             ], 
@@ -16643,7 +16643,7 @@
                             "data": "", 
                             "fields": [
                                 "父の借金を払いたくないけど、払わ＿＿＿。", 
-                                "No quiero pagar la deuda de mi padre pero tengo que hacerlo.", 
+                                "No quiero pagar la deuda de mi padre pero <font color=\"#ff0000\">tengo que</font> hacerlo.", 
                                 "父[ちち]の借金[しゃっきん]を 払[はら]いたくないけど、 払[はら]わ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないで（は）済まない/ずに（は）済まない</font></span>。", 
                                 "ないで（は）済まない/ずに（は）済まない"
                             ], 
