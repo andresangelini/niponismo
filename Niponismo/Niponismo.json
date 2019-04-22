@@ -17528,7 +17528,7 @@
                             "data": "", 
                             "fields": [
                                 "地方＿＿＿魅力的な仕事。", 
-                                "Es líndo trabo único de esta región.", 
+                                "Es líndo trabo <font color=\"#ff0000\">único de</font> esta región.", 
                                 "地方[ちほう]<font color=\"#ff0000\">ならではの</font> 魅力[みりょく] 的[てき]な 仕事[しごと]。", 
                                 "<span style=\"font-family: Arial\">ならではの</span>"
                             ], 
@@ -30509,9 +30509,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "電車は不便＿＿＿。", 
-                                "<font color=\"#ef2929\">No hay problema</font> con que el tren sea un poco inconveniente.", 
-                                "電車[でんしゃ]は 不便[ふべん]<font color=\"#ef2929\">でも 差し支[さしつか]えない/でも 構[かま]わない/でも 気[き]にしない</font>。", 
+                                "タクシーより安いから、電車は不便＿＿＿。", 
+                                "<font color=\"#ef2929\">Es más barato que un taxi así que no hay problema</font> con que el tren sea un poco inconveniente.", 
+                                "タクシーより 安[やす]いから、電車[でんしゃ]は 不便[ふべん]<font color=\"#ef2929\">でも 差し支[さしつか]えない/でも 構[かま]わない/でも 気[き]にしない</font>。", 
                                 "でも差し支えない/でも構わない/でも気にしない"
                             ], 
                             "flags": 0, 
