@@ -15433,7 +15433,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女はそのドレスを見たとき＿＿＿笑わずにはいれなかった。", 
-                                "Ella no pudo evitar reír al ver el vestido.", 
+                                "Ella <font color=\"#ff0000\">no pudo evitar</font> reír al ver el vestido.", 
                                 "彼女[かのじょ]はそのドレスを 見[み]たとき<font color=\"#ff0000\">どうにも</font> 笑[わら]わずにはいれなかった。", 
                                 "どうにも"
                             ], 
@@ -18593,7 +18593,7 @@
                             "data": "", 
                             "fields": [
                                 "彼女はその知らせを聞いて、気も狂わ＿＿＿喜んだ。", 
-                                "Ella se puso como loca al enterarse de esa noticia.", 
+                                "Ella se puso <font color=\"#ff0000\">como</font> loca al enterarse de esa noticia.", 
                                 "彼女[かのじょ]はその 知[し]らせを 聞[き]いて、 気[き]も 狂[くる]わ<font color=\"#ff0000\">んばかりに/ぬばかりに</font> 喜[よろこ]んだ。", 
                                 "んばかりに/ぬばかりに"
                             ], 
