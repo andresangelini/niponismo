@@ -6161,182 +6161,6 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "彼女は多く見ても２０歳＿＿＿。", 
-                                "<font color=\"#ef2929\">A lo sumo</font> ella tiene 20 años de edad.", 
-                                "彼女[かのじょ]は 多[おお]く 見[み]ても２０ 歳[さい]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "KQBla8z7]T", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "tatoeba", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "家主に家賃を払えば、食物を買う金がなくなる。進退きわまった＿＿＿。", 
-                                "Si pagamos la renta al casero, no tendremos plata para comprar comida. Te <font color=\"#ef2929\">diría que</font> estamos en una situación crítica.", 
-                                "家主[やぬし]に 家賃[やちん]を 払[はら]えば、 食物[しょくもつ]を 買[か]う 金[きん]がなくなる。 進退[しんたい]きわまった<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "MAql@m%|WQ", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "tatoeba", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "また、お説教が始まった。一言居士の面目躍如＿＿＿ね。", 
-                                "Bueno, ya empezó de nuevo con otro sermón. Te <font color=\"#ef2929\">diría que</font> siempre tiene algo qué criticar.", 
-                                "また、お 説教[せっきょう]が 始[はじ]まった。 一言居士[いちげんこじ]の 面目[めんぼく] 躍如[やくじょ]<font color=\"#ef2929\">というところだ/といったところだ</font>ね。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "uGM;#Ct`H7", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "tatoeba", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "それは可でもなく不可でもなし＿＿＿。", 
-                                "Te <font color=\"#ef2929\">diría que</font> no es ni bueno ni malo.", 
-                                "それは 可[か]でもなく 不可[ふか]でもなし<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "dB;Y$P*ln3", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "tatoeba", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "新しいレストランの食事は特にどうということはない。よくて平均的＿＿＿。", 
-                                "La comida del nuevo restaurante no tiene nada de especial. Te diría que es promedio, <font color=\"#ef2929\">como mucho</font>.", 
-                                "新[あたら]しいレストランの 食事[しょくじ]は 特[とく]にどうということはない。よくて 平均[へいきん] 的[てき]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "uu>vkC_s1K", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "tatoeba", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "あのプレイボーイと結婚するのはブロンドの女の子か、ブルーネットの女の子か五分五分＿＿＿。どちらもきれいだから。", 
-                                "Te <font color=\"#ef2929\">diría que</font> hay iguales probabilidades de que ese mujeriego se case con la rubia o con la morocha; ambas chicas son hermosas.", 
-                                "あのプレイボーイと 結婚[けっこん]するのはブロンドの 女の子[おんなのこ]か、ブルーネットの 女の子[おんなのこ]か五 分[ふん]五 分[ふん]<font color=\"#ef2929\">というところだ/といったところだ</font>。どちらもきれいだから。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "Fil%/<8|_6", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Oración", 
-                                "tatoeba", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "日本では平均月収は６５０，０００円＿＿＿。", 
-                                "<font color=\"#ef2929\">Diría que</font> el salario promedio en Japón es de aproximadamente unos 650 mil yenes al mes.", 
-                                "日本[にっぽん]では 平均[へいきん] 月収[げっしゅう]は６５０，０００ 円[えん]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "Mf`;n9DrR0", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Niponismo", 
-                                "Oración", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
-                                "今晩の飲み会に来る人の数は、上司と部下は合わせて２０人＿＿＿。", 
-                                "Te diría que el número de personas que vienen al happy our son <font color=\"#ef2929\">a lo sumo</font> unas veinte personas, entre jefes y subordinados.", 
-                                "今晩[こんばん]の 飲[の]み 会[かい]に 来[く]る 人[ひと]の 数[かず]は、 上司[じょうし]と 部下[ぶか]は 合[あ]わせて２０ 人[にん]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
-                                "というところだ/といったところだ"
-                            ], 
-                            "flags": 0, 
-                            "guid": "DfPfz(%mB0", 
-                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
-                            "tags": [
-                                "Gramática", 
-                                "Japonés", 
-                                "N1", 
-                                "Niponismo", 
-                                "Oración", 
-                                "というところだ", 
-                                "といったところだ"
-                            ]
-                        }, 
-                        {
-                            "__type__": "Note", 
-                            "data": "", 
-                            "fields": [
                                 "（この/ここ）〜というもの", 
                                 "（この/ここ）〜というもの", 
                                 "（この/ここ）〜というもの", 
@@ -32680,6 +32504,182 @@
                                 "N1", 
                                 "Niponismo", 
                                 "と言うか〜と言うか"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は多く見ても２０歳＿＿＿。", 
+                                "<font color=\"#ef2929\">A lo sumo</font> ella tiene 20 años de edad.", 
+                                "彼女[かのじょ]は 多[おお]く 見[み]ても２０ 歳[さい]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KQBla8z7]T", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "家主に家賃を払えば、食物を買う金がなくなる。進退きわまった＿＿＿。", 
+                                "Si pagamos la renta al casero, no tendremos plata para comprar comida. Te <font color=\"#ef2929\">diría que</font> estamos en una situación crítica.", 
+                                "家主[やぬし]に 家賃[やちん]を 払[はら]えば、 食物[しょくもつ]を 買[か]う 金[きん]がなくなる。 進退[しんたい]きわまった<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "MAql@m%|WQ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "また、お説教が始まった。一言居士の面目躍如＿＿＿ね。", 
+                                "Bueno, ya empezó de nuevo con otro sermón. Te <font color=\"#ef2929\">diría que</font> siempre tiene algo qué criticar.", 
+                                "また、お 説教[せっきょう]が 始[はじ]まった。 一言居士[いちげんこじ]の 面目[めんぼく] 躍如[やくじょ]<font color=\"#ef2929\">というところだ/といったところだ</font>ね。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uGM;#Ct`H7", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "それは可でもなく不可でもなし＿＿＿。", 
+                                "Te <font color=\"#ef2929\">diría que</font> no es ni bueno ni malo.", 
+                                "それは 可[か]でもなく 不可[ふか]でもなし<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "dB;Y$P*ln3", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "新しいレストランの食事は特にどうということはない。よくて平均的＿＿＿。", 
+                                "La comida del nuevo restaurante no tiene nada de especial. Te diría que es promedio, <font color=\"#ef2929\">como mucho</font>.", 
+                                "新[あたら]しいレストランの 食事[しょくじ]は 特[とく]にどうということはない。よくて 平均[へいきん] 的[てき]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uu>vkC_s1K", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あのプレイボーイと結婚するのはブロンドの女の子か、ブルーネットの女の子か五分五分＿＿＿。どちらもきれいだから。", 
+                                "Te <font color=\"#ef2929\">diría que</font> hay iguales probabilidades de que ese mujeriego se case con la rubia o con la morocha; ambas chicas son hermosas.", 
+                                "あのプレイボーイと 結婚[けっこん]するのはブロンドの 女の子[おんなのこ]か、ブルーネットの 女の子[おんなのこ]か五 分[ふん]五 分[ふん]<font color=\"#ef2929\">というところだ/といったところだ</font>。どちらもきれいだから。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Fil%/<8|_6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本では平均月収は６５０，０００円＿＿＿。", 
+                                "<font color=\"#ef2929\">Diría que</font> el salario promedio en Japón es de aproximadamente unos 650 mil yenes al mes.", 
+                                "日本[にっぽん]では 平均[へいきん] 月収[げっしゅう]は６５０，０００ 円[えん]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Mf`;n9DrR0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "というところだ", 
+                                "といったところだ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "今晩の飲み会に来る人の数は、上司と部下は合わせて２０人＿＿＿。", 
+                                "Te diría que el número de personas que vienen al happy our son <font color=\"#ef2929\">a lo sumo</font> unas veinte personas, entre jefes y subordinados.", 
+                                "今晩[こんばん]の 飲[の]み 会[かい]に 来[く]る 人[ひと]の 数[かず]は、 上司[じょうし]と 部下[ぶか]は 合[あ]わせて２０ 人[にん]<font color=\"#ef2929\">というところだ/といったところだ</font>。", 
+                                "というところだ/といったところだ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "DfPfz(%mB0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "というところだ", 
+                                "といったところだ"
                             ]
                         }, 
                         {
