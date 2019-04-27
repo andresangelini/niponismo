@@ -7142,7 +7142,7 @@
                             "data": "", 
                             "fields": [
                                 "結婚式に間に合わせる＿＿＿タクシーに乗った。", 
-                                "Me subí a un taxi para poder llegar al casamiento a tiempo.", 
+                                "Me subí a un taxi <font color=\"#ff0000\">para poder</font> llegar al casamiento a tiempo.", 
                                 "結婚式[けっこんしき]に 間に合[まにあ]わせる<font color=\"#ff0000\">べく</font>タクシーに 乗[の]った。", 
                                 "べく"
                             ], 
@@ -16389,7 +16389,7 @@
                             "data": "", 
                             "fields": [
                                 "少し悪いと思い＿＿＿、彼は笑うのを抑えることはできなかった。", 
-                                "Aun sientiéndose un poco culpable, él no pudo contener la risa.", 
+                                "<font color=\"#ff0000\">Aun</font> sientiéndose un poco culpable, él no pudo contener la risa.", 
                                 "少[すこ]し 悪[わる]いと 思[おも]い<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ながら（も</font>）</span>、 彼[かれ]は 笑[わら]うのを 抑[おさ]えることはできなかった。", 
                                 "ながら（も）"
                             ], 
