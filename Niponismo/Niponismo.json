@@ -16012,7 +16012,7 @@
                             "data": "", 
                             "fields": [
                                 "この合作映画は、作品の完成度の高さ＿＿＿、文化の異なるにこくが協力して一つの映画を完成させたという事実が非常に意義深い。", 
-                                "No sólo es muy bueno el nivel de esta coproducción, sino que el hecho de que ambos países hayan trabajado juntos para completar una película también es muy significativo.", 
+                                "<font color=\"#ff0000\">No sólo</font> es muy bueno el nivel de esta coproducción, <font color=\"#ff0000\">sino que</font> el hecho de que ambos países hayan trabajado juntos para completar una película <font color=\"#ff0000\">también</font> es muy significativo.", 
                                 "この 合作[がっさく] 映画[えいが]は、 作品[さくひん]の 完成[かんせい] 度[ど]の 高[たか]さ<font color=\"#ff0000\">もさることながら</font>、 文化[ぶんか]の 異[こと]なるにこくが 協力[きょうりょく]して 一[ひと]つの 映画[えいが]を 完成[かんせい]させたという 事実[じじつ]が 非常[ひじょう]に 意義[いぎ] 深[ふか]い。", 
                                 "もさることながら"
                             ], 
@@ -16714,7 +16714,7 @@
                             "data": "", 
                             "fields": [
                                 "君のレポートは、優秀とは言え＿＿＿かなりよい。", 
-                                "Este informe es muy bueno, por no decir excelente.", 
+                                "Este informe es muy bueno, <font color=\"#ff0000\">por no decir</font> excelente.", 
                                 "君[きみ]のレポートは、 優秀[ゆうしゅう]とは 言[い]え<font color=\"#ff0000\">ないまでも</font>かなりよい。", 
                                 "ないまでも"
                             ], 
@@ -18073,7 +18073,7 @@
                             "data": "", 
                             "fields": [
                                 "例えどんなに綺麗＿＿＿彼女の言うことを信じるわけがない。", 
-                                "Aun siendo linda no quiere decir que le vaya a creer.", 
+                                "<font color=\"#ff0000\">Aun</font> siendo linda no quiere decir que le vaya a creer.", 
                                 "例[たと]えどんなに 綺麗[きれい]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">としたところで/にしたところで/としたって/にしたって</font></span>&nbsp;彼女[かのじょ]の 言[い]うことを 信[しん]じるわけがない。", 
                                 "としたところで/にしたところで/としたって/にしたって"
                             ], 
