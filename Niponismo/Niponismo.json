@@ -9231,7 +9231,7 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "このごろ町＿＿＿で活動は行われています。", 
+                                "このごろ町＿＿＿活動は行われています。", 
                                 "Estos días se están llevando a cabo actividades <font color=\"#ff0000\">por toda</font>&nbsp;la ciudad.", 
                                 "このごろ 町[まち]<font color=\"#ff0000\">ぐるみで</font> 活動[かつどう]は 行[おこな]われています。", 
                                 "ぐるみで"
@@ -10680,7 +10680,7 @@
                             "data": "", 
                             "fields": [
                                 "朝食前に出勤するなんて＿＿＿彼らしい。", 
-                                "Irse a trabajar antes de desayunar es algo ciertamente típico de él.", 
+                                "Irse a trabajar antes de desayunar es algo <font color=\"#ff0000\">ciertamente</font> típico de él.", 
                                 "朝食[ちょうしょく] 前[まえ]に 出勤[しゅっきん]するなんて&nbsp;<font color=\"#ff0000\">如何[いか]にも</font>&nbsp;彼[かれ]らしい。", 
                                 "如何にも"
                             ], 
