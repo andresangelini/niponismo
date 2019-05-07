@@ -6257,6 +6257,39 @@
                                 "といわず〜といわず", 
                                 "と言わず〜と言わず"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ときたら", 
+                                "ときたら", 
+                                "ときたら", 
+                                "en cuanto a / hablando de / si hablamos de", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font><div>Frase + こと + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión coloquial que destaca al sujeto de la oración al igual que la partícula は pero que por lo general es usada para criticar o hablar negativamente sobre el mismo.<div><br /></div><div>彼女[かのじょ]の 彼氏[かれし]<font color=\"#ff0000\">＿＿＿</font>、 一日[いちにち]で 何[なに]もしないでソファで 眠[ねむ]ってばかりいるんですよ。</div><div><i><font color=\"#ff0000\">En cuanto a</font> su novio, él se la pasa todo el día sin hacer nada durmiendo en el sillón</i>.</div><div><br /></div><div>Se usa tanto en el habla.</div><div><br /></div><div>近所[きんじょ]の 人[ひと]<font color=\"#ff0000\">＿＿＿</font>、 何[なん]だかんだでいつも 大騒[おおさわ]ぎしているんだ。</div><div><i><font color=\"#ff0000\">Hablando de</font> mi vecino, siempre está haciendo un gran escándalo por cualquier cosa</i>.</div><div><br /></div><div>Como en la escritura.</div><div><br /></div><div>最近[さいきん]はやっている 映画[えいが]<font color=\"#ff0000\">＿＿＿</font>、 見[み]るに 値[あたい]しないものばかりだと 彼[かれ]が 思[おも]った。</div><div><i><font color=\"#ff0000\">Si hablamos de</font> las películas que están pasando últimamente, ninguna de ellas valen la pena verlas, pensó él</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>に 至[いた]っては también se usa para hablar sobre un tema en particular y es más genérico ya que no importa si el comentario es negativo o positivo.</div><div><br /></div><div>洋介[ようすけ]がしたこと｛<font color=\"#ff0000\">＿＿＿✕/に 至[いた]っては</font>｝ 結構[けっこ] 偉[えら]いと 思[おも]うけど。</div><div><i><font color=\"#ff0000\">En cuanto a</font> lo que hizo Yousuke, creo que es bastante admirable</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "E#VtL$}A-y", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "ときたら"
+                            ]
                         }
                     ]
                 }, 
@@ -33274,6 +33307,138 @@
                                 "といわず〜といわず", 
                                 "と言わず〜と言わず"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "スペイン語の書き言葉は、ほんのいくらかわかるが、スペイン語の話し言葉＿＿＿、ちんぷんかんぷんだ。", 
+                                "Puedo entender algo del español escrito, pero <font color=\"#ff0000\">en cuanto al</font> hablado, no entiendo nada.", 
+                                "スペイン 語[ご]の 書き言葉[かきことば]は、ほんのいくらかわかるが、スペイン 語[ご]の 話し言葉[はなしことば]<font color=\"#ff0000\">ときたら/に 至[いた]っては</font>、ちんぷんかんぷんだ。", 
+                                "ときたら/に至っては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "IY8!:JE[/c", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ときたら", 
+                                "に至っては"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "うちの上司＿＿＿、朝令暮改なんだから、仕事がちっとも進まないよ。", 
+                                "<font color=\"#ff0000\">En cuanto a</font> nuestro supervisor, él es muy desordenado y por eso nuestro trabajo no avanza mucho.", 
+                                "うちの 上司[じょうし]<font color=\"#ff0000\">ときたら/に 至[いた]っては</font>、 朝令暮改[ちょうれいぼかい]なんだから、 仕事[しごと]がちっとも 進[すす]まないよ。", 
+                                "ときたら/に至っては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "d!o.[$>)m2", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ときたら", 
+                                "に至っては"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "我々はボロ勝ちした。何せ相手の選手＿＿＿弱いのなんの。", 
+                                "Ganamos con un amplio margen. Porque <font color=\"#ff0000\">si hablamos de</font> los otros jugadores, eran tan débiles.", 
+                                "我々[われわれ]はボロ 勝[が]ちした。 何[なに]せ 相手[あいて]の 選手[せんしゅ]<font color=\"#ff0000\">ときたら/に 至[いた]っては</font> 弱[よわ]いのなんの。", 
+                                "ときたら/に至っては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "y<^OB,w`P?", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ときたら", 
+                                "に至っては"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の子供の扱い方＿＿＿ひどいものだ。", 
+                                "<font color=\"#ff0000\">Si hablamos de</font> cómo él trata a los niños, es terrible.", 
+                                "彼[かれ]の 子供[こども]の 扱[あつか]い 方[かた]<font color=\"#ff0000\">ときたら/に 至[いた]っては</font>ひどいものだ。", 
+                                "ときたら/に至っては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Q4YU[i$5#^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ときたら", 
+                                "に至っては"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼の母親は可哀相だ。あいつ＿＿＿母親泣かせもいいところだ。", 
+                                "Su madre me da lástima. <font color=\"#ff0000\">Si hablamos de</font> él, sólo la hace sufrir.", 
+                                "彼[かれ]の 母親[ははおや]は 可哀相[かわいそう]だ。あいつ<font color=\"#ff0000\">ときたら/に 至[いた]っては</font> 母親[ははおや] 泣[な]かせもいいところだ。", 
+                                "ときたら/に至っては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "mC.6vmquCc", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ときたら", 
+                                "に至っては"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの喜劇役者のジョーク＿＿＿、どれもこれも古くて、以前に聞いたことのあるものばかりだ。", 
+                                "<font color=\"#ff0000\">Si hablamos de</font> los chistes de ese comediante, todos son viejos y ya los hemos escuchado un millón de veces.", 
+                                "あの 喜劇[きげき] 役者[やくしゃ]のジョーク<font color=\"#ff0000\">ときたら/に 至[いた]っては</font>、どれもこれも 古[ふる]くて、 以前[いぜん]に 聞[き]いたことのあるものばかりだ。", 
+                                "ときたら/に至っては"
+                            ], 
+                            "flags": 0, 
+                            "guid": "bxkc<3Z[RX", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ときたら", 
+                                "に至っては"
+                            ]
                         }
                     ]
                 }
@@ -33404,10 +33569,10 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "といわず〜といわず", 
-                "と言わず〜と言わず"
+                "tatoeba", 
+                "ときたら", 
+                "に至っては"
             ], 
             "tmpls": [
                 {
@@ -33611,8 +33776,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "といわず〜といわず", 
-                "と言わず〜と言わず"
+                "ときたら"
             ], 
             "tmpls": [
                 {
