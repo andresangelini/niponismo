@@ -6545,7 +6545,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>＿＿＿、幽霊はバルコニーに現れた。</div>", 
-                                "Como era de esperarse, el fantasma apareció en el valcón.", 
+                                "<font color=\"#ff0000\">Como era de esperarse</font>, el fantasma apareció en el valcón.", 
                                 "<font color=\"#ff0000\">案[あん]の 定[じょう]</font>、 幽霊[ゆうれい]はバルコニーに 現[あらわ]れた。", 
                                 "案の定"
                             ], 
@@ -6807,7 +6807,7 @@
                             "data": "", 
                             "fields": [
                                 "お爺さんがそんな腐った態度を取るは、君のことを心配していれ＿＿＿だ。", 
-                                "El viejo se pone en esa actitud podrida sólo porque se preocupa por ti.", 
+                                "El viejo se pone en esa actitud podrida <font color=\"#ff0000\">sólo porque</font> se preocupa por ti.", 
                                 "お 爺[じい]さんがそんな 腐[くさ]った 態度[たいど]を 取[と]るは、 君[きみ]のことを 心配[しんぱい]していれ<font color=\"#ff0000\">ばこそ</font>だ。", 
                                 "ばこそ"
                             ], 
@@ -27416,9 +27416,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "我社の社長を批判＿＿＿買収の話を発表した。", 
+                                "我社の社長は批判＿＿＿買収の話を発表した。", 
                                 "El presidente de nuestra compañía anunció las negociaciones por la adquisición <font color=\"#ff0000\">ignorando</font> las críticas.", 
-                                "我[わが] 社[しゃ]の 社長[しゃちょう]を 批判[ひはん]<font color=\"#ff0000\">をよそに</font> 買収[ばいしゅう]の 話[はなし]を 発表[はっぴょう]した。", 
+                                "我[わが] 社[しゃ]の 社長[しゃちょう]は 批判[ひはん]<font color=\"#ff0000\">をよそに</font> 買収[ばいしゅう]の 話[はなし]を 発表[はっぴょう]した。", 
                                 "をよそに"
                             ], 
                             "flags": 0, 
