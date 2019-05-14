@@ -6324,6 +6324,40 @@
                                 "ときている〜から", 
                                 "ときている〜ので"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ところがある", 
+                                "ところがある", 
+                                "ところがある", 
+                                "tener algo / haber algo", 
+                                "V + <font color=\"#ff0000\">＿＿＿</font><div>S + の + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい + <font color=\"#ff0000\">＿＿＿</font></div><div>Aな + な + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión utilizada para indicar que algo o alguien tiene una cierta característica aunque no se está seguro hasta qué nivel.<div><br /></div><div>Puede usarse junto a verbos.</div><div><br /></div><div>一見[いっけん]したところその２つの 事件[じけん]は 関係[かんけい]がなかったと 思[おも]ったが、もうちょっと 調[しら]べたら 共通[きょうつう]した<font color=\"#ff0000\">＿＿＿</font>ことに 気[き]が 付[つい]いた。</div><div><i>A primera vista pensé que esos dos casos no estaban relacionados, pero al investigar un poco más me di cuenta de que <font color=\"#ff0000\">tienen algo</font> en común</i>.</div><div><br /></div><div>También su puede usar esta expresión con sustantivos agregando la partícula posesiva の. En español esto sería algo equivalente a \"haber algo de\" o \"tener algo de\".</div><div><br /></div><div>その 町[まち]は 中世[ちゅうせい] 風[ふう]の<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Esa ciudad <font color=\"#ff0000\">tiene algo</font> de medieval</i>.</div><div><br /></div><div>Los adjetivos い se utilizan sin ninguna modificación.</div><div><br /></div><div>信[しん]じらないかもしれませんが、その 言葉[ことば]の 裏[うら]には 優[やさ]しいと<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Puede que no me crea, pero <font color=\"#ff0000\">hay algo</font> tierno detrás de esas palabras</i>.</div><div><br /></div><div>Los adjetivos な, por su parte, deben llevar な.</div><div><br /></div><div>あの 頑固[がんこう]な 刑事[けいじ]は 妙[みょう]な<font color=\"#ff0000\">＿＿＿</font>と 思[おも]えば、とことん 調[しら]べる。</div><div><i>Si ese detective testarudo descubre que <font color=\"#ff0000\">hay algo</font> raro, lo investigará a fondo</i>.</div><div><br /></div><div>La conjugación al pasado es perfectamente normal.</div><div><br /></div><div>あの　容疑者[ようぎしゃ]の 言葉[ことば]は 嘘[うそ]じゃ 無[な]かったけど、 如何[いか]にも 怪[あや]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Lo que dijo el testigo no era mentira pero ciertamente <font color=\"#ff0000\">había algo</font> sospechoso</i>.</div><div><br /></div><div>De igual forma, esta expresión puede conjugarse en negativo, en cuyo caso podremos interpretarlo como \"no tener nada\" o \"no haber nada\".</div><div><br /></div><div>その 映画[えいが]に 至[いた]っては、いい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>En cuanto a esa película, <font color=\"#ff0000\">no tenía nada</font> de bueno</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "h9z*}155oL", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
                         }
                     ]
                 }, 
@@ -33605,6 +33639,363 @@
                                 "ときている〜から", 
                                 "ときている〜ので"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女にはどことなく神秘的な＿＿＿。", 
+                                "Hay algo de misterioso en ella.", 
+                                "彼女[かのじょ]にはどことなく 神秘[しんぴ] 的[てき]な<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AC~jBB%sVM", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼らは似た＿＿＿。</div>", 
+                                "Ellos <font color=\"#ff0000\">tienen algo</font> en común.", 
+                                "彼[かれ]らは 似[に]た<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w8|1.iRS-9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らには何か共通した＿＿＿。", 
+                                "Ellos <font color=\"#ff0000\">tienen algo</font> en común.", 
+                                "彼[かれ]らには 何[なに]か 共通[きょうつう]した<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hbj;5lAoe]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は人に命令するような＿＿＿。</div>", 
+                                "Él <font color=\"#ff0000\">tiene algo</font> de mandón.", 
+                                "彼[かれ]は 人[ひと]に 命令[めいれい]するような<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "GBVjdmWF5-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は少しは学者らしい＿＿＿。", 
+                                "Él <font color=\"#ff0000\">tiene algo</font> de académico.", 
+                                "彼[かれ]は 少[すこ]しは 学者[がくしゃ]らしい<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q&yT)4eO`@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は幾分父親に似た＿＿＿。", 
+                                "Él <font color=\"#ff0000\">tiene algo</font> de su padre hasta cierto punto.", 
+                                "彼[かれ]は 幾分[いくぶん] 父親[ちちおや]に 似[に]た<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kYFl@@7-m6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は確かにハンサムで頭もいいかもしれないけど、どこか虫の好かない＿＿＿の。</div>", 
+                                "Puede que sea guapo e inteligente pero <font color=\"#ff0000\">hay algo</font> en él que no me gusta.", 
+                                "彼[かれ]は 確[たし]かにハンサムで 頭[あたま]もいいかもしれないけど、どこか 虫[むし]の 好[す]かない<font color=\"#ff0000\">ところがある</font>の。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QeOdflTuCp", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の態度にはごう慢な＿＿＿。</div>", 
+                                "Su actitud <font color=\"#ff0000\">tiene algo</font> de engreído.", 
+                                "彼[かれ]の 態度[たいど]にはごう 慢[まん]な<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ynw/ZKon:H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼にはどことなく謎めいた＿＿＿。", 
+                                "<font color=\"#ff0000\">Hay algo</font> misterioso en él.", 
+                                "彼[かれ]にはどことなく 謎[なぞ]めいた<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xgyui+Jfm@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼には、少し臆病な＿＿＿。", 
+                                "Hay algo de cobarde en él.", 
+                                "彼[かれ]には、 少[すこ]し 臆病[おくびょう]な<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "t?qC`lvM)W", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "店を出るときウェイトレスに言った。「用心してよ、スー。君が出してくれたグラスには何かおかしな＿＿＿よ。上がふさがっていて下に穴がある。」", 
+                                "Cuando salía le dije a la moza: \"Ten cuidado, Sue. La copa que me diste <font color=\"#ff0000\">tenía algo</font> extraño. Estaba llena hasta el tope y tenía un agujero en la parte de abajo\".", 
+                                "店[みせ]を 出[で]るときウェイトレスに 言[い]った。「 用心[ようじん]してよ、スー。 君[きみ]が 出[だ]してくれたグラスには 何[なに]かおかしな<font color=\"#ff0000\">ところがある</font>よ。 上[うえ]がふさがっていて 下[した]に 穴[あな]がある。」", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yg#3.3GE^f", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "君の話にも多少当たっている＿＿＿、君の話もわからないでもない。", 
+                                "<font color=\"#ff0000\">Hay muchas cosas</font> ciertas en lo que dices. No es que no lo entienda.", 
+                                "君[きみ]の 話[はなし]にも 多少[たしょう] 当[あ]たっている<font color=\"#ff0000\">ところがある</font>、 君[きみ]の 話[はなし]もわからないでもない。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nGe5&Fvgzw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その町はヨーロッパ風の＿＿＿。", 
+                                "Esa ciudad tiene algo de europea.", 
+                                "その 町[まち]はヨーロッパ 風[ふう]の<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ymWa.A4S;c", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その少年にはどこか風変わりな＿＿＿ように思われる。", 
+                                "Parece <font color=\"#ff0000\">haber algo</font> peculiar en ese chico.", 
+                                "その 少年[しょうねん]にはどこか 風変[ふうが]わりな<font color=\"#ff0000\">ところがある</font>ように 思[おも]われる。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ClHKd)oVbO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その計画には大いに飽き足らぬ＿＿＿。", 
+                                "<font color=\"#ff0000\">Hay algo</font> muy insatisfactorio en ese plan.", 
+                                "その 計画[けいかく]には 大[おお]いに 飽[あ]き 足[た]らぬ<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "qa)}(/+@O4", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この事件はあの事件と似た＿＿＿。", 
+                                "Este caso <font color=\"#ff0000\">tiene algo</font> en común con eso otro.", 
+                                "この 事件[じけん]はあの 事件[じけん]と 似[に]た<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "k*kZx,AlfC", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の性格には根本的に自分本位の＿＿＿。</div>", 
+                                "<font color=\"#ff0000\">Hay algo</font> esencialmente egoísta en su carácter.", 
+                                "彼[かれ]の 性格[せいかく]には 根本[こんぽん] 的[てき]に 自分[じぶん] 本位[ほんい]の<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "CR(fTp|/Wq", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
                         }
                     ]
                 }
@@ -33732,13 +34123,12 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "ときている〜から", 
-                "ときている〜ので"
+                "Oración", 
+                "ところがある"
             ], 
             "tmpls": [
                 {
@@ -33942,8 +34332,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "ときている〜から", 
-                "ときている〜ので"
+                "ところがある"
             ], 
             "tmpls": [
                 {
