@@ -6299,7 +6299,7 @@
                                 "ときている〜から/ときている〜ので", 
                                 "ときている〜から/ときている〜ので", 
                                 "tan… que / tanto… que / tanta… que", 
-                                "V / Aい / Aな / S + ときている〜から/ときている〜ので", 
+                                "V / Aい / Aな / S + <font color=\"#ff0000\">＿＿＿</font>", 
                                 "Expresión más enfática que la partícula だ usada junto a から y ので como justificación.<div><br /></div><div>Se puede usar con verbos.</div><div><br /></div><div>麦野[むぎの]さんはこのプロジェクトの 為[ため] 一所懸命[いっしょけんめい]に 働[はたら]く<font color=\"#ff0000\">＿＿＿</font>、 何時[いつ]か 疲労[ひろう]で 倒[たお]れるよ。</div><div><i>Mugino trabaja con <font color=\"#ff0000\">tanto</font> afán por ese proyecto <font color=\"#ff0000\">que</font> un día de estos va a desplomarse del cansancio</i>.</div><div><br /></div><div>Al igual que con adjetivos adjetivos い.</div><div><br /></div><div>その 蕎麦[そば]の 店[みせ]は 安[やす]くて 美味[おい]しい<font color=\"#ff0000\">＿＿＿</font>、いつも 大学生[だいがくせい]で 一杯[いっぱい]だ。</div><div><i>Ese bar de soba es <font color=\"#ff0000\">tan</font> barato y rico <font color=\"#ff0000\">que</font> siempre está lleno de estudiantes universitarios</i>.</div><div><br /></div><div>Adjetivos な.</div><div><br /></div><div>彼女[かのじょ]は 美人[びじん]で 優秀[ゆうしゅう]<font color=\"#ff0000\">＿＿＿</font>、 当選[とうせん]されないわけじゃないでしょ。</div><div><i>Ella es <font color=\"#ff0000\">tan</font> bella y exitosa <font color=\"#ff0000\">que</font> no hay forma de que no la elijan</i>.</div><div><br /></div><div>Así como con sustantivos.</div><div><br /></div><div>彼[かれ]は 格好[かっこう]よくてお 金持[かねも]ち<font color=\"#ff0000\">＿＿＿</font>、 皆[みんな]に 羨[うらや]ましがられるのは 当然[とうぜん]だろう。</div><div><i>Él es <font color=\"#ff0000\">tan</font> atractivo y rico <font color=\"#ff0000\">que</font> es natural que todo el mundo lo envidie</i>.</div><div><br /></div><div>Entre ときている y から/ので puede ir もの cuando se define una cosa en términos generales, como cuando decimos \"…es algo tan… que\".</div><div><br /></div><div>人[ひと]の 気持[きも]ちは 複雑[ふくざつ]<font color=\"#ff0000\">＿＿＿</font>ものな<font color=\"#ff0000\">＿＿＿</font>、 注意深[ちゅういぶか]く 扱[あつか]わなければならない。</div><div><i>Los sentimientos de las personas son algo <font color=\"#ff0000\">tan</font> complejo <font color=\"#ff0000\">que</font> deben manejarse con el mayor de los cuidados</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Esta expresión es muy similar a のなんの（って） ya que ésta última también se usa para enfatizar algo.</div><div><br /></div><div>この 彼[かれ]は 辛[から]い｛<font color=\"#ff0000\">＿＿＿/のなんの（って）</font>｝、 全部[ぜんぶ]を 食[た]べるのは 無[むり]だ。</div><div><i>Este curry es <font color=\"#ff0000\">tan</font> picante <font color=\"#ff0000\">que</font> comerlo todo es imposible</i>.</div><div><br /></div><div>Sin embargo, のなんの（って） es una forma bastante informal de mostrar sorpresa por lo que se debe tener cuidado en qué situación se usa.</div><div><br /></div><div>申[もう]し 訳[わけ]ございません。ただ今お 客様[きゃくさま]が 多[おお]い｛<font color=\"#ff0000\">＿＿＿/のなんの（って）✕</font>｝、 当分[とうぶん]ご 注文[ちゅうもん]を 取[と]り 扱[あつか]うことが 出来[でき]ません。 本当[ほんとう]にすみません。</div><div><i>Lo sentimos muchísimo. Actualmente tenemos <font color=\"#ff0000\">tantos</font> clientes <font color=\"#ff0000\">que</font> en estos momentos no podemos atender su solicitud. Les pedimos nuestras más sinceras disculpas</i>.</div><div><br /></div><div>Además de que no necesariamente tiene que justificar nada.</div><div><br /></div><div>今日[きょう]は 仕事[しごと]が 少[すく]ないはずだったのに、 疲[つか]れた｛<font color=\"#ff0000\">＿＿＿✕/のなんの（って）</font>｝。</div><div><i>Se suponía que hoy no iba a haber mucho trabajo y sin embargo estoy <font color=\"#ff0000\">tan</font> cansado</i>.</div><div><br /></div><div>Y tampoco se puede usar junto a sustantivos.</div><div><br /></div><div>皇子[きみこ]ちゃんの 彼氏[かれし]はお 金持[かねも]ち｛<font color=\"#ff0000\">＿＿＿/のなんの（って）✕</font>｝、 王子様[おうじさま]みたい。</div><div><i>El novio de Kimiko es <font color=\"#ff0000\">tan</font> rico <font color=\"#ff0000\">que</font> parece un príncipe</i>.</div>", 
                                 "", 
                                 "", 
@@ -6323,6 +6323,73 @@
                                 "Niponismo", 
                                 "ときている〜から", 
                                 "ときている〜ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ところがある", 
+                                "ところがある", 
+                                "ところがある", 
+                                "tener algo / haber algo", 
+                                "V + <font color=\"#ff0000\">＿＿＿</font><div>S + の + <font color=\"#ff0000\">＿＿＿</font></div><div>Aい + <font color=\"#ff0000\">＿＿＿</font></div><div>Aな + な + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión utilizada para indicar que algo o alguien tiene una cierta característica aunque no se está seguro hasta qué nivel.<div><br /></div><div>Puede usarse junto a verbos.</div><div><br /></div><div>一見[いっけん]したところその２つの 事件[じけん]は 関係[かんけい]がなかったと 思[おも]ったが、もうちょっと 調[しら]べたら 共通[きょうつう]した<font color=\"#ff0000\">＿＿＿</font>ことに 気[き]が 付[つい]いた。</div><div><i>A primera vista pensé que esos dos casos no estaban relacionados, pero al investigar un poco más me di cuenta de que <font color=\"#ff0000\">tienen algo</font> en común</i>.</div><div><br /></div><div>También su puede usar esta expresión con sustantivos agregando la partícula posesiva の. En español esto sería algo equivalente a \"haber algo de\" o \"tener algo de\".</div><div><br /></div><div>その 町[まち]は 中世[ちゅうせい] 風[ふう]の<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Esa ciudad <font color=\"#ff0000\">tiene algo</font> de medieval</i>.</div><div><br /></div><div>Los adjetivos い se utilizan sin ninguna modificación.</div><div><br /></div><div>信[しん]じらないかもしれませんが、その 言葉[ことば]の 裏[うら]には 優[やさ]しいと<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Puede que no me crea, pero <font color=\"#ff0000\">hay algo</font> tierno detrás de esas palabras</i>.</div><div><br /></div><div>Los adjetivos な, por su parte, deben llevar な.</div><div><br /></div><div>あの 頑固[がんこう]な 刑事[けいじ]は 妙[みょう]な<font color=\"#ff0000\">＿＿＿</font>と 思[おも]えば、とことん 調[しら]べる。</div><div><i>Si ese detective testarudo descubre que <font color=\"#ff0000\">hay algo</font> raro, lo investigará a fondo</i>.</div><div><br /></div><div>La conjugación al pasado es perfectamente normal.</div><div><br /></div><div>あの 容疑者[ようぎしゃ]の 言葉[ことば]は 嘘[うそ]じゃ 無[な]かったけど、 如何[いか]にも 怪[あや]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Lo que dijo el testigo no era mentira pero ciertamente <font color=\"#ff0000\">había algo</font> sospechoso</i>.</div><div><br /></div><div>De igual forma, esta expresión puede conjugarse en negativo, en cuyo caso podremos interpretarlo como \"no tener nada\" o \"no haber nada\".</div><div><br /></div><div>その 映画[えいが]に 至[いた]っては、いい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>En cuanto a esa película, <font color=\"#ff0000\">no tenía nada</font> de bueno</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "h9z*}155oL", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ところから", 
+                                "ところから", 
+                                "ところから", 
+                                "debido a que / debido al hecho de que", 
+                                "V / Aい + <font color=\"#ef2929\">＿＿＿</font><div>Aな + な/である/だった/であった + <font color=\"#ef2929\">＿＿＿</font></div><div>S + である/だった/であった + <font color=\"#ef2929\">＿＿＿</font></div>", 
+                                "<div>Expresión que se utiliza a menudo en forma de conjunción para explicar cuál es el origen de un nombre, una idea, una teoría o algún evento en particular.</div><div><br /></div><div>Cuando se usa con verbos, ya sea en presente o pasado, no se precisa hacer nada.</div><div><br /></div><div>彼女[かのじょ]はいつも 一所懸命[いっしょけんめい]に 働[はたら]いている<font color=\"#ef2929\">＿＿＿</font>、「 頑張[がんば]り 屋[や]さん」と 名付[なづ]けられた。<br /></div><div><i>A ella le pusieron “la incansable trabajadora” <font color=\"#ef2929\">debido a que / debido al hecho de que</font> siempre está trabajando con todas sus fuerzas</i>.<br /></div><div><br /></div><div><div>Lo mismo sucede con los adjetivos del tipo い.</div></div><div><br /></div><div>コストはとても 高[たか]かった<font color=\"#ef2929\">＿＿＿</font>、その 企画[きかく]は 実現[じつげん]されなかった。<br /></div><div><i>El proyecto no se materializó <font color=\"#ef2929\">debido a que / debido al hecho de que</font> los costos eran muy altos</i>.<br /></div><div><br /></div><div><div>En cambio, cuando se emplea con un adjetivo な puede ir tanto con な como con である, así como con だった o であった si se habla de algo en pasado</div></div><div><br /></div><div>安[やす]くて 便利[べんり]である<font color=\"#ef2929\">＿＿＿</font>、 電車[でんしゃ]は 人気[にんき]があると 良[よ]く 言[い]われる。<br /></div><div><i>A menudo se dice que los trenes son populares <font color=\"#ef2929\">debido a que / debido al hecho de que</font> son baratos y convenientes</i>.<br /></div><div><br /></div><div><div>De forma similar, los sustantivos llevan である o sus respectivas formas pasadas だった y であった.</div></div><div><br /></div><div>彼[かれ]は 凄[すご]く 頭[あたま]がよくて 変[か]わり 者[もの]だった<font color=\"#ef2929\">＿＿＿</font>、 皆[みんな]に「アインシュタイン」と 呼[よ]ばれていた。<br /></div><div><i><font color=\"#ef2929\">Debido a que / Debido al hecho de que</font> era muy inteligente y excéntrico le llamaban “Einstein”</i>.<br /></div><div><br /></div><div><div><font color=\"#ef2929\">＿＿＿</font> significa literalmente “desde el lugar”, “desde el sitio” o “desde el punto” pero esta expresión lo utiliza de una forma figurativa para explicar que algo nace, surge o parte a raíz de una determinada causa.</div></div><div><br /></div><div>この 疑[うたが]いは、 山本[やまもと] 部長[ぶちょう]は 密[ひそ]かに 相手[あいて]の 会社[かいしゃ]としょっちゅう 待[ま]ち 合[あ]わせていた<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>来[き]ている。<br /></div><div><i>Esta sospecha surge <font color=\"#ef2929\">debido a que / debido al hecho de que</font> Yamamoto a menudo se ha estado reuniendo en secreto con la compañía rival</i>.<br /></div><div><br /></div><div><div>Sin embargo, no se puede usar a modo de justificación como sí se hace con から o ので.</div></div><div><br /></div><div>あの 日[ひ]は、 仕事[しごと]の 後[あと]とても 疲[つか]れた｛<font color=\"#ef2929\">から/ので/＿＿＿✕</font>｝パーティーに 行[い]かないことにした。<br /></div><div><i>Ese día estaba muy cansado después del trabajo <font color=\"#ef2929\">así que</font> decidí no ir a la fiesta</i>.<br /></div><div><br /></div><div><div>A menudo se lo usa junto a verbos como 思われる, 考えられる y 疑われる cuando se plantea una hipótesis.</div></div><div><br /></div><div>地球温暖化[ちきゅうおんだん]がこれからも 進[すす]む<font color=\"#ef2929\">＿＿＿</font>、 様々[さまざま]な 動物[どうぶつ]の 人口[じんこう]は 減[へ]ると 思[おも]われます。<br /></div><div><i>Se cree que las poblaciones de varios animales van a disminuir <font color=\"#ef2929\">debido a que / debido al hecho de que</font> el calentamiento global seguirá aumentando</i>.<br /></div><div><br /></div><div><b>Expresiones similares</b><br /></div><div><b><br /></b></div><div><div>ことから es sinónima de esta expresión y puede reemplazarla en todos los casos.</div></div><div><br /></div><div>彼女[かのじょ]はいつも 一所懸命[いっしょうけんめい]に 働[はたら]いている{<font color=\"#ef2929\">ことから/＿＿＿</font>}、「 頑張[がんば]り 屋[や]さん」と 名付[なづ]けられた。</div><div><i>A ella le pusieron “la incansable trabajadora” <font color=\"#ef2929\">debido a que / debido al hecho de que</font> siempre está trabajando con todas sus fuerzas</i>.<br /></div><div><br /></div><div><div>Sin embargo, lo contrario no siempre es cierto ya que <font color=\"#ef2929\">＿＿＿</font> no puede sustituir a ことから si la causa u origen a la que ésta hace referencia no es algo tangible. Esto se debe a que en algunos casos como en el ejemplo siguiente, こと no está nominalizando una frase sino que funciona como el sustantivo “asunto”, \"cuestión\" o “cosa”, lo cual difiere de ところ que significa “lugar”, “sitio” o “punto”.</div></div><div><br /></div><div>厄介[やっかい]な｛<font color=\"#ef2929\">ことから/＿＿＿✕</font>｝、その 仕事[しごと]は 誰[だれ]にも 受[う]け 取[と]らわなかった。<br /></div><div><i>Nadie aceptaba ese trabajo <font color=\"#ef2929\">debido a</font> una cuestión desagradable</i>.<br /></div><div><br /></div><div><div>Las partículas から y ので también pueden reemplazar a <font color=\"#ef2929\">＿＿＿</font> pero son menos específicas. No dejan muy claro que lo que les antecede sea precisamente el origen de lo que se está hablando como sí lo hace <font color=\"#ef2929\">＿＿＿</font>. Aunque esta sutileza no se refleje claramente en el español, es importante a tenerla en cuenta de todos modos.</div></div><div><br /></div><div>彼[かれ]は 凄[すご]く 頭[あたま]がよくて 変[か]わり 者[もの]だった{<font color=\"#ef2929\">から/ので/＿＿＿</font>}、 皆[みんな]に「アインシュタイン」と 呼[よ]ばれていた。<br /></div><div><i><font color=\"#ef2929\">Como / Debido a que / Debido al hecho de que</font> era muy inteligente y excéntrico le llamaban “Einstein”</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "nmDITADhM(", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "ところから"
                             ]
                         }
                     ]
@@ -6545,7 +6612,7 @@
                             "data": "", 
                             "fields": [
                                 "<div>＿＿＿、幽霊はバルコニーに現れた。</div>", 
-                                "Como era de esperarse, el fantasma apareció en el valcón.", 
+                                "<font color=\"#ff0000\">Como era de esperarse</font>, el fantasma apareció en el valcón.", 
                                 "<font color=\"#ff0000\">案[あん]の 定[じょう]</font>、 幽霊[ゆうれい]はバルコニーに 現[あらわ]れた。", 
                                 "案の定"
                             ], 
@@ -6807,7 +6874,7 @@
                             "data": "", 
                             "fields": [
                                 "お爺さんがそんな腐った態度を取るは、君のことを心配していれ＿＿＿だ。", 
-                                "El viejo se pone en esa actitud podrida sólo porque se preocupa por ti.", 
+                                "El viejo se pone en esa actitud podrida <font color=\"#ff0000\">sólo porque</font> se preocupa por ti.", 
                                 "お 爺[じい]さんがそんな 腐[くさ]った 態度[たいど]を 取[と]るは、 君[きみ]のことを 心配[しんぱい]していれ<font color=\"#ff0000\">ばこそ</font>だ。", 
                                 "ばこそ"
                             ], 
@@ -8449,7 +8516,7 @@
                             "data": "", 
                             "fields": [
                                 "そのレースに勝つ人は誰＿＿＿、その賞をもらえます。", 
-                                "Quien sea que gane la carrera, recibirá el premio.", 
+                                "<font color=\"#ff0000\">Quien sea</font> que gane la carrera, recibirá el premio.", 
                                 "そのレースに 勝[か]つ 人[ひと]は 誰[だれ]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">であれ/であろうと</font></span>、その 賞[しょう]をもらえます。", 
                                 "であれ/であろうと"
                             ], 
@@ -10768,8 +10835,8 @@
                             "data": "", 
                             "fields": [
                                 "遅れてやってくるのは、<font face=\"Arial\">＿＿＿</font>彼のやりそうなことだった。", 
-                                "Llegar tarde es algo que él ciertamente hacía.", 
-                                "遅[おく]れてやってくるのは、<span style=\"color: rgb(0, 0, 255)\">如何[いか]にも</span>&nbsp;彼[かれ]のやりそうなことだった。", 
+                                "Llegar tarde es algo que él <font color=\"#ff0000\">ciertamente</font> hacía.", 
+                                "遅[おく]れてやってくるのは、<font color=\"#ff0000\">如何[いか]にも</font>&nbsp;彼[かれ]のやりそうなことだった。", 
                                 "如何にも"
                             ], 
                             "flags": 0, 
@@ -16587,7 +16654,7 @@
                             "data": "", 
                             "fields": [
                                 "あの俳優はマスコミを魅了せ＿＿＿。", 
-                                "Esa actriz no deja de cautivar a los medios.", 
+                                "Esa actriz <font color=\"#ff0000\">no deja de</font> cautivar a los medios.", 
                                 "あの 俳優[はいゆう]はマスコミを 魅了[みりょう]せ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ずにはおかない</font></span>。", 
                                 "ずにはおかない"
                             ], 
@@ -18076,7 +18143,7 @@
                             "data": "", 
                             "fields": [
                                 "パーティー会場に入る＿＿＿、サムは食べ物めがけて突進した。", 
-                                "Fue apenas entrar al salón de fiestas y Sam cargó contra la comida.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> entrar al salón de fiestas y Sam cargó contra la comida.", 
                                 "パーティー 会場[かいじょう]に 入[はい]る<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なり</font></span>、サムは 食べ物[たべもの]めがけて 突進[とっしん]した。", 
                                 "なり"
                             ], 
@@ -27416,9 +27483,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "我社の社長を批判＿＿＿買収の話を発表した。", 
+                                "我社の社長は批判＿＿＿買収の話を発表した。", 
                                 "El presidente de nuestra compañía anunció las negociaciones por la adquisición <font color=\"#ff0000\">ignorando</font> las críticas.", 
-                                "我[わが] 社[しゃ]の 社長[しゃちょう]を 批判[ひはん]<font color=\"#ff0000\">をよそに</font> 買収[ばいしゅう]の 話[はなし]を 発表[はっぴょう]した。", 
+                                "我[わが] 社[しゃ]の 社長[しゃちょう]は 批判[ひはん]<font color=\"#ff0000\">をよそに</font> 買収[ばいしゅう]の 話[はなし]を 発表[はっぴょう]した。", 
                                 "をよそに"
                             ], 
                             "flags": 0, 
@@ -33605,6 +33672,505 @@
                                 "ときている〜から", 
                                 "ときている〜ので"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女にはどことなく神秘的な＿＿＿。", 
+                                "<font color=\"#ff0000\">Hay algo</font> de misterioso en ella.", 
+                                "彼女[かのじょ]にはどことなく 神秘[しんぴ] 的[てき]な<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "AC~jBB%sVM", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼らは似た＿＿＿。</div>", 
+                                "Ellos <font color=\"#ff0000\">tienen algo</font> en común.", 
+                                "彼[かれ]らは 似[に]た<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w8|1.iRS-9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らには何か共通した＿＿＿。", 
+                                "Ellos <font color=\"#ff0000\">tienen algo</font> en común.", 
+                                "彼[かれ]らには 何[なに]か 共通[きょうつう]した<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hbj;5lAoe]", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は人に命令するような＿＿＿。</div>", 
+                                "Él <font color=\"#ff0000\">tiene algo</font> de mandón.", 
+                                "彼[かれ]は 人[ひと]に 命令[めいれい]するような<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "GBVjdmWF5-", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は少しは学者らしい＿＿＿。", 
+                                "Él <font color=\"#ff0000\">tiene algo</font> de académico.", 
+                                "彼[かれ]は 少[すこ]しは 学者[がくしゃ]らしい<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q&yT)4eO`@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は幾分父親に似た＿＿＿。", 
+                                "Él <font color=\"#ff0000\">tiene algo</font> de su padre hasta cierto punto.", 
+                                "彼[かれ]は 幾分[いくぶん] 父親[ちちおや]に 似[に]た<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kYFl@@7-m6", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼は確かにハンサムで頭もいいかもしれないけど、どこか虫の好かない＿＿＿の。</div>", 
+                                "Puede que sea guapo e inteligente pero <font color=\"#ff0000\">hay algo</font> en él que no me gusta.", 
+                                "彼[かれ]は 確[たし]かにハンサムで 頭[あたま]もいいかもしれないけど、どこか 虫[むし]の 好[す]かない<font color=\"#ff0000\">ところがある</font>の。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "QeOdflTuCp", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の態度にはごう慢な＿＿＿。</div>", 
+                                "Su actitud <font color=\"#ff0000\">tiene algo</font> de engreído.", 
+                                "彼[かれ]の 態度[たいど]にはごう 慢[まん]な<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ynw/ZKon:H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼にはどことなく謎めいた＿＿＿。", 
+                                "<font color=\"#ff0000\">Hay algo</font> misterioso en él.", 
+                                "彼[かれ]にはどことなく 謎[なぞ]めいた<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xgyui+Jfm@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼には、少し臆病な＿＿＿。", 
+                                "<font color=\"#ff0000\">Hay algo</font> de cobarde en él.", 
+                                "彼[かれ]には、 少[すこ]し 臆病[おくびょう]な<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "t?qC`lvM)W", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "店を出るときウェイトレスに言った。「用心してよ、スー。君が出してくれたグラスには何かおかしな＿＿＿よ。上がふさがっていて下に穴がある。」", 
+                                "Cuando salía le dije a la moza: \"Ten cuidado, Sue. La copa que me diste <font color=\"#ff0000\">tenía algo</font> extraño. Estaba llena hasta el tope y tenía un agujero en la parte de abajo\".", 
+                                "店[みせ]を 出[で]るときウェイトレスに 言[い]った。「 用心[ようじん]してよ、スー。 君[きみ]が 出[だ]してくれたグラスには 何[なに]かおかしな<font color=\"#ff0000\">ところがある</font>よ。 上[うえ]がふさがっていて 下[した]に 穴[あな]がある。」", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yg#3.3GE^f", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "君の話にも多少当たっている＿＿＿、君の話もわからないでもない。", 
+                                "<font color=\"#ff0000\">Hay muchas cosas</font> ciertas en lo que dices. No es que no lo entienda.", 
+                                "君[きみ]の 話[はなし]にも 多少[たしょう] 当[あ]たっている<font color=\"#ff0000\">ところがある</font>、 君[きみ]の 話[はなし]もわからないでもない。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "nGe5&Fvgzw", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その町はヨーロッパ風の＿＿＿。", 
+                                "Esa ciudad <font color=\"#ff0000\">tiene algo</font> de europea.", 
+                                "その 町[まち]はヨーロッパ 風[ふう]の<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ymWa.A4S;c", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その少年にはどこか風変わりな＿＿＿ように思われる。", 
+                                "Parece <font color=\"#ff0000\">haber algo</font> peculiar en ese chico.", 
+                                "その 少年[しょうねん]にはどこか 風変[ふうが]わりな<font color=\"#ff0000\">ところがある</font>ように 思[おも]われる。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ClHKd)oVbO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その計画には大いに飽き足らぬ＿＿＿。", 
+                                "<font color=\"#ff0000\">Hay algo</font> muy insatisfactorio en ese plan.", 
+                                "その 計画[けいかく]には 大[おお]いに 飽[あ]き 足[た]らぬ<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "qa)}(/+@O4", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この事件はあの事件と似た＿＿＿。", 
+                                "Este caso <font color=\"#ff0000\">tiene algo</font> en común con eso otro.", 
+                                "この 事件[じけん]はあの 事件[じけん]と 似[に]た<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "k*kZx,AlfC", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "<div>彼の性格には根本的に自分本位の＿＿＿。</div>", 
+                                "<font color=\"#ff0000\">Hay algo</font> esencialmente egoísta en su carácter.", 
+                                "彼[かれ]の 性格[せいかく]には 根本[こんぽん] 的[てき]に 自分[じぶん] 本位[ほんい]の<font color=\"#ff0000\">ところがある</font>。", 
+                                "ところがある"
+                            ], 
+                            "flags": 0, 
+                            "guid": "CR(fTp|/Wq", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ところがある"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "怪しい団体と関係が見つけられた＿＿＿、あの国家公務員は辞任を余儀なくされた。", 
+                                "A ese oficial gubernamental no le quedó otra alternativa que renunciar <font color=\"#ef2929\">debido al hecho de que</font> se descubrió su relación con un agrupación sospechosa.", 
+                                "怪[あや]しい 団体[だんたい]と 関係[かんけい]が 見[み]つけられた<font color=\"#ef2929\">から/ので/ことから/ところから</font>、あの 国家[こっか] 公務員[こうむいん]は 辞任[じにん]を 余儀[よぎ]なくされた。", 
+                                "から/ので/ことから/ところから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "t~h_Px?CTe", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "ことから", 
+                                "ところから", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あそこにコンドルは沢山いる＿＿＿、土地の人に「コンドルの山」と名付けられた。", 
+                                "Los lugareños le pusieron \"La montaña del cóndor\" <font color=\"#ef2929\">debido al hecho de que</font> allí viven muchos cóndores.", 
+                                "あそこにコンドルは 沢山[たくさん]いる<font color=\"#ef2929\">から/ので/ことから/ところから</font>、 土地[とち]の 人[ひと]に「コンドルの 山[やま]」と 名付[なづ]けられた。", 
+                                "から/ので/ことから/ところから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "F3.%akKsgg", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "ことから", 
+                                "ところから", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "お客様にちゃんと説明しなかった＿＿＿、厄介な誤解が生じた。", 
+                                "Ocurrió un desafortunado malentendido <font color=\"#ef2929\">debido a que</font> no se le explicó bien al cliente.", 
+                                "お 客様[きゃくさま]にちゃんと 説明[せつめい]しなかった<font color=\"#ef2929\">から/ので/ことから/ところから</font>、 厄介[やっかい]な 誤解[ごかい]が 生[しょう]じた。", 
+                                "から/ので/ことから/ところから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "G#[Pcp5&,H", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "ことから", 
+                                "ところから", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "このアイディアは、自然と仲良くしたいという気持ちである＿＿＿来ている。", 
+                                "Esta idea surgió <font color=\"#ef2929\">debido al hecho de que</font> queremos llevarnos bien con la naturaleza.", 
+                                "このアイディアは、 自然[しぜん]と 仲良[なかよ]くしたいという 気持[きも]ちである<font color=\"#ef2929\">ことから/ところから</font>&nbsp;来[き]ている。", 
+                                "ことから/ところから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "j06yp-}=_^", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ことから", 
+                                "ところから"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "その家の部屋がガソリンまみれだった＿＿＿、家事は意図的だったものと思われる。", 
+                                "Se cree que el incendio fue intencional <font color=\"#ef2929\">debido al hecho de que</font> la habitación de la casa está cubierta de gasolina.", 
+                                "その 家[いえ]の 部屋[へや]がガソリンまみれだった<font color=\"#ef2929\">から/ので/ことから/ところから</font>、 家事[かじ]は 意図[いと] 的[てき]だったものと 思[おも]われる。", 
+                                "から/ので/ことから/ところから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "kJhc:7xhcp", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "ことから", 
+                                "ところから", 
+                                "ので"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は雷のように速く走る＿＿＿、「ウサイン・ボルト」と呼ばれている。", 
+                                "Le llaman \"Usain Bolt\" <font color=\"#ef2929\">debido a que</font> él corre rápido como un rayo.", 
+                                "彼[かれ]は 雷[かみなり]のように 速[はや]く 走[はし]る<font color=\"#ef2929\">から/ので/ことから/ところから</font>、「ウサイン・ボルト」と 呼[よ]ばれている。", 
+                                "から/ので/ことから/ところから"
+                            ], 
+                            "flags": 0, 
+                            "guid": "w^bU~@<.9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "から", 
+                                "ことから", 
+                                "ところから", 
+                                "ので"
+                            ]
                         }
                     ]
                 }
@@ -33732,13 +34298,15 @@
             ], 
             "sortf": 0, 
             "tags": [
-                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "ときている〜から", 
-                "ときている〜ので"
+                "Oración", 
+                "から", 
+                "ことから", 
+                "ところから", 
+                "ので"
             ], 
             "tmpls": [
                 {
@@ -33942,8 +34510,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "ときている〜から", 
-                "ときている〜ので"
+                "ところから"
             ], 
             "tmpls": [
                 {
