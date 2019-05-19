@@ -153,12 +153,12 @@
                                 "あっての", 
                                 "あっての", 
                                 "se debe todo a", 
-                                "Sustantivo + forma gramatical + sustantivo.", 
-                                "Se usa para expresar que lo que precede a este punto gramatical se debe en su totalidad a lo siguiente explicación.", 
-                                "実験[じっけん]の 成功[せいこう]は 皆様[みなさま]の 努力[どりょく]＿＿＿ことです。", 
-                                "El éxito de este experimento se debe exclusivamente al esfuerzo de todos.", 
-                                "これは 監督[かんとく]の 厳しい[きびしい] 練習[れんしゅう]＿＿＿ 勝利[しょうり]だ。", 
-                                "Esta victoria se debe todo al riguroso entrenamiento de nuestro entrenador.", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font> + S", 
+                                "Se usa para expresar que lo que precede a este punto gramatical se debe en su totalidad a lo siguiente explicación.<div><br /></div><div>実験[じっけん]の 成功[せいこう]は 皆様[みなさま]の 努力[どりょく]<font color=\"#ff0000\">＿＿＿</font>ことです。</div><div><i>El éxito de este experimento <font color=\"#ff0000\">se debe exclusivamente al</font> esfuerzo de todos</i>.</div><div><br /></div><div>これは 監督[かんとく]の 厳しい[きびしい] 練習[れんしゅう]＿＿＿ 勝利[しょうり]だ。</div><div><i>Esta victoria <font color=\"#ff0000\">se debe todo al</font> riguroso entrenamiento de nuestro entrenador</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -13915,7 +13915,7 @@
                             "data": "", 
                             "fields": [
                                 "彼は＿＿＿両親には頼っていなかった。", 
-                                "El ya no dependía de sus padres.", 
+                                "El <font color=\"#ff0000\">ya</font> no dependía de sus padres.", 
                                 "彼[かれ]は&nbsp;<font color=\"#ff0000\">最早[もはや]</font>&nbsp;両親[りょうしん]には 頼[たよ]っていなかった。", 
                                 "最早"
                             ], 
@@ -17598,7 +17598,7 @@
                             "data": "", 
                             "fields": [
                                 "届け出＿＿＿路上に出店してはならない。", 
-                                "No se puede poner un puesto ambulante sin previo aviso.", 
+                                "No se puede poner un puesto ambulante <font color=\"#ff0000\">sin</font> previo aviso.", 
                                 "届け出[とどけで]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なしに（は）/なしでは</font></span>&nbsp;路上[ろじょう]に 出店[しゅってん]してはならない。", 
                                 "なしに（は）/なしでは"
                             ], 
