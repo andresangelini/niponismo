@@ -15989,7 +15989,7 @@
                             "data": "", 
                             "fields": [
                                 "政治家として有権者を騙すなんて、許す＿＿＿ことです。", 
-                                "Mentirle a los votantes es algo inaceptable de un político.", 
+                                "Mentirle a los votantes <font color=\"#ff0000\">es algo</font> inaceptable <font color=\"#ff0000\">de un</font> político.", 
                                 "政治家[せいじか] として 有権者[ゆうけんしゃ]を 騙[だま]すなんて、 許[ゆる]す<font color=\"#ff0000\">まじき</font>ことです。", 
                                 "まじき"
                             ], 
@@ -16842,6 +16842,7 @@
                                 "N1", 
                                 "Niponismo", 
                                 "Oración", 
+                                "leech", 
                                 "しなければならない", 
                                 "ないで（は）済まない/ずに（は）済まない", 
                                 "ないわけにはいかない"
