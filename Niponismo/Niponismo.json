@@ -6426,6 +6426,40 @@
                                 "とみられる", 
                                 "と見られる"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ともなく/ともなしに", 
+                                "ともなく/ともなしに", 
+                                "ともなく/ともなしに", 
+                                "sin querer / sin saber / no saber / quién sabe", 
+                                "Vる + <font color=\"#ff0000\">＿＿＿</font> + Vる<div>Pronombre interrogativo + partícula + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que indica que se hace algo sin intención o sin tener el conocimiento. Es una abreviación de と言うこともなく, que quiere decir \"sin hacer\".<div><br /></div><div>上司[じょうし]の 話[はなし]を 聞[き]く<font color=\"#ff0000\">＿＿＿</font> 聞[き]いていたら、 今年[ことし]のボナスがなくなるかもしれないことが 分[わ]かった。</div><div><i>Me enteré que tal vez no haya bono este año escuchando <font color=\"#ff0000\">sin querer</font> la conversación de los superiores</i>.</div><div><br /></div><div>Como se puede ver en el ejemplo anterior, el verbo debe estar en infinitivo o \"forma diccionario\" y en presente. Sin embargo, no siempre tiene por qué repetirse detrás de la expresión.</div><div><br /></div><div>今朝[けさ] 散歩[さんぽ]をしているうちに、 行[い]く<font color=\"#ff0000\">＿＿＿</font> 今[いま]まで 行[い]ったことがない 町[まで]まで 着[つ]いた。</div><div>Esta mañana llegué <font color=\"#ff0000\">sin querer / sin saber</font> hasta un barrio al que nunca había ido antes.</div><div><br /></div><div>Además del uso ya mencionado anteriormente, también se utiliza junto a un pronombre interrogativo y una partícula para indicar que no se sabe o se está seguro del quién, cómo, cuándo, dónde, por qué, etc. de algo.</div><div><br /></div><div>うちの 母[はは]は 何時[いつ]から<font color=\"#ff0000\">＿＿＿</font> 英語[えいご]を 勉強[べんきょう]している。</div><div><i>Nuestra madre estudia inglés <font color=\"#ff0000\">no sé / quién sabe</font> desde cuando</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><b><br /></b></div><div>Ambas de estas expresiones quieren decir exactamente lo mismo y son perfectamente intercambiables por lo que conviene estudiarlas juntas como una sola. Sin embargo, la primera de ellas es similar a となく la cual sólo se usa con ciertas palabras específicas, entre las cuales también se encuentran los pronombres interrogativos.</div><div><br /></div><div>どこ<font color=\"#ff0000\">となく</font>:</div><div><br /></div><div>新入社員[しんにゅうしゃいん]にはどこ<font color=\"#ff0000\">となく&nbsp;</font>不思議[ふしぎ]なところがある。</div><div><i>Hay un <font color=\"#ff0000\">no sé</font> que muy misterioso en el nuevo empleado.</i></div><div><i><br /></i></div><div>何[なん]<font color=\"#ff0000\">となく</font>:</div><div><br /></div><div>彼[かれ]は 地図[ちず]なしに 何[なん]<font color=\"#ff0000\">となく</font> 目的地[もくてきち]に 着[つ]いた。</div><div><i>Él llegó a su destino sin mapa <font color=\"#ff0000\">no sé / quién sabe</font> cómo</i>.</div><div><br /></div><div>誰[だれ]かれ<font color=\"#ff0000\">となく</font>:</div><div><br /></div><div>彼女[かのじょ]は 何時[いつ]も 誰[だれ]かれ<font color=\"#ff0000\">となく</font> 人[ひと]を 疑[うたが]っている。</div><div><i>Ella siempre está sospechando <font color=\"#ff0000\">no sé / quién sabe</font> de quién</i>.</div><div><br /></div><div>それ<font color=\"#ff0000\">となく</font> representa un caso especial ya que indica que algo se hace de manera sutil, es decir, sin hacerlo directamente.</div><div><br /></div><div>執行部[しっこうぶ]はそれ<font color=\"#ff0000\">となく</font> 会社[かいしゃ]の 買収[ばいしゅう]に 賛成[さんせい]した。</div><div><i>Los ejecutivos aprobaron de la adquisición de la empresa <font color=\"#ff0000\">sin</font> decirlo directamente</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "xD]XT&u>^@", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
                         }
                     ]
                 }, 
@@ -34224,8 +34258,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34250,8 +34284,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34276,8 +34310,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34302,8 +34336,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34328,8 +34362,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34354,8 +34388,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34380,8 +34414,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34406,8 +34440,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34432,8 +34466,8 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
@@ -34458,14 +34492,190 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
-                                "Niponismo", 
                                 "Oración", 
+                                "tatoeba", 
                                 "とおもわれる", 
                                 "とかんがえられる", 
                                 "とみられる", 
                                 "と思われる", 
                                 "と考えられる", 
                                 "と見られる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女はどこから＿＿＿ひょっこりやってきた。", 
+                                "Ella se apareció de repente&nbsp;<font color=\"#ff0000\">quién sabe</font> de dónde.", 
+                                "彼女[かのじょ]はどこから<font color=\"#ff0000\">ともなく/ともなしに</font>ひょっこりやってきた。", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KvIq9OLu,q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼らはどこ＿＿＿突然現れた。", 
+                                "Ellos se aparecieron de repente&nbsp;<font color=\"#ff0000\">no sé</font>&nbsp;de dónde.", 
+                                "彼[かれ]らはどこから<font color=\"#ff0000\">ともなく/ともなしに</font> 突然[とつぜん] 現[あらわ]れた。", 
+                                "からともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HnvR-pKH1h", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "私の家族は何時から＿＿＿ばらばらになって初めた。", 
+                                "Mi familia <font color=\"#ff0000\">no sé</font> en qué momento se empezó a desarmar.", 
+                                "私[わたし]の 家族[かぞく]は 何[なん] 時[じ]から<font color=\"#ff0000\">ともなく/ともなしに</font>ばらばらになって 初[はじ]めた。", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wfSq9UNr><", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "テレビを見る＿＿＿見いていたら、顔なじみが突然現れた", 
+                                "Al ver la televisión <font color=\"#ff0000\">sin querer</font> hacerlo, de repente apareción una cara conocida.", 
+                                "テレビを 見[み]る<font color=\"#ff0000\">ともなく/ともなしに</font> 見[み]いていたら、 顔[かお]なじみが 突然[とつぜん] 現[あらわ]れた", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "uP))7(Mk+9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "どこから＿＿＿変な音が聞こえてきた。", 
+                                "Sentía un ruido raro <font color=\"#ff0000\">sin saber</font> de dónde venía.", 
+                                "どこから<font color=\"#ff0000\">ともなく/ともなしに</font> 変[へん]な 音[おと]が 聞[き]こえてきた。", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "p8KJ~QndnO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "「信じられない」。彼は誰に＿＿＿呟いた。", 
+                                "\"No lo creo\", murmuró él a <font color=\"#ff0000\">quién sabe</font> quién.", 
+                                "「 信[しん]じられない」。 彼[かれ]は 誰[だれ]に<font color=\"#ff0000\">ともなく/ともなしに</font> 呟[つぶや]いた。", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "yCk20X,Hd9", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "見る＿＿＿見いていたら、だんだんその番組に引き込まれていた。", 
+                                "Mirando <font color=\"#ff0000\">sin querer</font>, poco a poco me fui enganchando con ese programa.", 
+                                "見[み]る<font color=\"#ff0000\">ともなく/ともなしに</font> 見[み]いていたら、だんだんその 番組[ばんぐみ]に 引き込[ひきこ]まれていた。", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rmS3ScRGcx", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ともなく", 
+                                "ともなしに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あの頃のことを考える＿＿＿考えていると、涙が出て来る。", 
+                                "Cuando pienso <font color=\"#ff0000\">sin querer</font> en aquellas épocas, se me salen las lágrimas.", 
+                                "あの 頃[ころ]のことを 考[かんが]える<font color=\"#ff0000\">ともなく/ともなしに</font> 考[かんが]えていると、 涙[なみだ]が 出[で]て 来[く]る。", 
+                                "ともなく/ともなしに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "t^vZ6Cni^i", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "ともなく", 
+                                "ともなしに"
                             ]
                         }
                     ]
@@ -34599,12 +34809,8 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "とおもわれる", 
-                "とかんがえられる", 
-                "とみられる", 
-                "と思われる", 
-                "と考えられる", 
-                "と見られる"
+                "ともなく", 
+                "ともなしに"
             ], 
             "tmpls": [
                 {
@@ -34808,7 +35014,8 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "と見られる"
+                "ともなく", 
+                "ともなしに"
             ], 
             "tmpls": [
                 {
