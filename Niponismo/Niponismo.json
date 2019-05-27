@@ -186,10 +186,10 @@
                                 "場合[ばあい]によっては", 
                                 "ばあいによっては", 
                                 "dependiendo del caso", 
-                                "Forma gramatical + frase.", 
-                                "Indica que lo que sigue sólo sucede en ciertas ocasiones.", 
-                                "彼[かれ]の 立場[たちば]は 極[きわ]めて 微妙[びみょう]なので、＿＿＿ 首[くび]になるかもしれない。", 
-                                "Su situación es extremadamente delicada y, dependiendo del caso, puede terminar siendo despedido.", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + frase", 
+                                "Indica que lo que sigue sólo sucede en ciertas ocasiones.<div><br /></div><div>彼[かれ]の 立場[たちば]は 極[きわ]めて 微妙[びみょう]なので、<font color=\"#ff0000\">＿＿＿</font> 首[くび]になるかもしれない。</div><div>Su situación es extremadamente delicada y, <font color=\"#ff0000\">dependiendo del caso</font>, puede terminar siendo despedido.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -207,6 +207,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "場合によっては"
                             ]
                         }, 
@@ -7473,7 +7474,7 @@
                             "data": "", 
                             "fields": [
                                 "今回はプロプライエタリソフトウェアの危険性について話す＿＿＿に参りました。", 
-                                "Hoy he venido aquí para poder hablarles sobre los peligros del software privativo.", 
+                                "Hoy he venido aquí <font color=\"#ff0000\">para poder</font> hablarles sobre los peligros del software privativo.", 
                                 "今回はプロプライエタリソフトウェアの 危険[きけん] 性[せい]について 話[はな]す<font color=\"#ff0000\">べく</font>に 参[まい]りました。", 
                                 "べく"
                             ], 
