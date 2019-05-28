@@ -1549,6 +1549,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "leech", 
                                 "tatoeba", 
                                 "じみた"
                             ]
@@ -16808,7 +16809,7 @@
                             "data": "", 
                             "fields": [
                                 "あの事件はその二国の関係に影響を及ぼさ＿＿＿。", 
-                                "Ese incidente definitivamente afectó la relación entre ambos países.", 
+                                "Ese incidente <font color=\"#ff0000\">definitivamente</font> afectó la relación entre ambos países.", 
                                 "あの 事件[じけん]はその二 国[こく]の 関係[かんけい]に 影響[えいきょう]を 及[およ]ぼさ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないではおかない/ずにはおかない</font></span>。", 
                                 "ないではおかない/ずにはおかない"
                             ], 
