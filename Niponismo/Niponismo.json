@@ -18293,7 +18293,7 @@
                             "data": "", 
                             "fields": [
                                 "教室に入る＿＿＿、先生は突然怒ったような口調で話しはじめた。", 
-                                "Fue apenas entrar al salón y el profesor comenzó a hablar furioso.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> entrar al salón y el profesor comenzó a hablar furioso.", 
                                 "教室[きょうしつ]に 入[はい]る<font color=\"#ff0000\">なり</font>、 先生[せんせい]は 突然[とつぜん] 怒[おこ]ったような 口調[くちょう]で 話[はな]しはじめた。", 
                                 "なり"
                             ], 
