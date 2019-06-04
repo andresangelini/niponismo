@@ -5956,6 +5956,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "leech", 
                                 "といえど（も）"
                             ]
                         }, 
@@ -11960,7 +11961,7 @@
                             "data": "", 
                             "fields": [
                                 "<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>平日に仕事をする＿＿＿、休みの日にはボランティアをしている。", 
-                                "Además de trabajar los días de semana, hago voluntariado en mis días libres.", 
+                                "<font color=\"#ff0000\">Además de</font> trabajar los días de semana, hago voluntariado en mis días libres.", 
                                 "平日[へいじつ]に 仕事[しごと]をする <font color=\"#ff0000\">傍[かたわ]ら</font>、 休[やす]みの 日[ひ]にはボランティアをしている。", 
                                 "傍ら"
                             ], 
@@ -16860,7 +16861,7 @@
                             "data": "", 
                             "fields": [
                                 "この物語は我々に生きているとは何かを考えせさ＿＿＿。", 
-                                "Esta historia no nos deja sin hacernos cuestionar qué significa estar vivo.", 
+                                "Esta historia <font color=\"#ff0000\">no nos deja sin</font> hacernos cuestionar qué significa estar vivo.", 
                                 "この 物語[ものがたり]は 我々[われわれ]に 生[い]きているとは 何[なに]かを 考[かんが]えせさ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないではおかない/ずにはおかない</font></span>。", 
                                 "ないではおかない/ずにはおかない"
                             ], 
