@@ -6569,6 +6569,39 @@
                                 "とおもいきや", 
                                 "と思いきや"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とりわけ", 
+                                "とりわけ", 
+                                "とりわけ", 
+                                "(por) sobre todo / especialmente / particularmente / más que nada (en el mundo) / más que ningún otro… (en el mundo) / más que ninguna otra… (en el mundo) / más que cualquier otro… (en el mundo) / más que cualquier otra… (en el mundo)", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + Frase", 
+                                "Adverbio utilizado para destacar algo por sobre todo lo demás.<div><br /></div><div>彼[かれ]は 格好[かっこう]よくて、 賢[かしこ]くて、<font color=\"#ff0000\">＿＿＿</font> 皆[みんな]に 優[やさ]しい 人[ひと]だ。</div><div><i>Él es guapo, inteligente y <font color=\"#ff0000\">(por) sobre todo / especialmente / particularmente / más que nada</font>, una persona muy cariñosa con todo el mundo</i>.</div><div><br /></div><div>Tiene una variedad grande de interpretación, pero lo importante a recordar es que todas ellas cumplen la misma función.<br /><div><br /></div><div><div>私達[わたしたち]の 娘[むすめ]は<font color=\"#ff0000\">＿＿＿</font> 数学[すうがく]が 好[す]きみたい。</div><div><i>Parece que a nuestra hija le gusta <font color=\"#ff0000\">especialmente / particularmente</font> la matemática</i>.</div></div><div><br /></div><div>Lo que también se podría interpretar como:</div><div><br /></div><div><i>Parece que a nuestra hija le gusta la matemática <font color=\"#ff0000\">más que nada (en el mundo) / más que cualquier otra cosa (en el mundo)</font></i>.</div><div><br /></div><div>Aunque debemos tener en cuenta de que lo de \"en el mundo\" en este caso sea muy probablemente una exageración de nuestra parte, ya que seguramente se querrá decir \"más que ninguna otra materia\" o \"más que cualquier otra materia\".</div><div><br /></div><div><i>Parece que a nuestra hija le gusta la matemática <font color=\"#ff0000\">más que ninguna otra materia / más que cualquier otra</font> materia</i>.</div><div><br /></div><div>Afortunadamente, no hay mucho que decir sobre esta expresión ya que, como todo adverbio, su implementación es bastante sencilla y muy similar al español. Basta decir que sólo precisa ir delante de la frase que hace referencia a aquello que se quiera destacar.</div><div><br /></div><div>日本[にほん]の 歴史[れいきし]に 至[い]っては、 彼[かれ]にとって<font color=\"#ff0000\">＿＿＿</font> 古代[こだい]はとても 興味深[きょうみぶか]い。</div><div><i>En cuanto a historia japonesa se refiere, el Japón antiguo le resultaba <font color=\"#ff0000\">especialmente / particularmente</font> interesante</i>.</div><div><br /></div><div>Aunque este adverbio suele escribirse simplemente en hiragana, se puede escribir también como 取り分け, 取り分, 取分, o 取りわけ. Cuál forma se prefiere escribir es una elección enteramente de cada individuo. De hecho, este tipo de elección es una característica que diferencia a los escritores japoneses entre si.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Este adverbio es sinónimo de 特に y se pueden intercambiar sin ningún problema.</div><div><br /></div><div>私達[わたしたち]の 娘[むすめ]は{<font color=\"#ff0000\"> 特[とく]に/＿＿＿</font>} 数学[すうがく]が 好[す]きみたい。</div><div><i>Parece que a nuestra hija le gusta <font color=\"#ff0000\">especialmente / particularmente</font> la matemática</i>.</div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Obw&V6bK|!", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とりわけ"
+                            ]
                         }
                     ]
                 }, 
@@ -35212,6 +35245,144 @@
                                 "とおもいきや", 
                                 "と思いきや"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は旅行が＿＿＿好きである。", 
+                                "A ella le gusta viajar <font color=\"#ff0000\">más que cualquier otra cosa en el mundo</font>.", 
+                                "彼女[かのじょ]は 旅行[りょこう]が <font color=\"#ff0000\">特[とく]に/とりわけ</font> 好[す]きである。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q.$-ky4~S@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は＿＿＿宝石を磨くのが好きだった。", 
+                                "A ella le gustaba <font color=\"#ff0000\">especialmente</font> pulir sus joyas.", 
+                                "彼女[かのじょ]は <font color=\"#ff0000\">特[とく]に/とりわけ</font> 宝石[ほうせき]を 磨[みが]くのが 好[す]きだった。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FoL4`Ic#Mm", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は全科目うまくいったが、＿＿＿数学がうまくいった。", 
+                                "A él le iba bien en todas las materias, <font color=\"#ff0000\">especialmente</font>&nbsp;en las matemáticas.", 
+                                "彼[かれ]は 全[ぜん] 科目[かもく]うまくいったが、<font color=\"#ff0000\"> 特[とく]に/とりわけ</font> 数学[すうがく]がうまくいった。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H8oB=R*}Vs", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は強くて勇敢で、＿＿＿親切だ。", 
+                                "Él es fuerte, valiente y, <font color=\"#ff0000\">sobre todo</font>, amable.", 
+                                "彼[かれ]は 強[つよ]くて 勇敢[ゆうかん]で、 <font color=\"#ff0000\">特[とく]に/とりわけ</font> 親切[しんせつ]だ。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "k->F80|c_k", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は＿＿＿うそがきらいである。", 
+                                "Él odia la falsedad <font color=\"#ff0000\">más que cualquier otra cosa</font>.", 
+                                "彼[かれ]は <font color=\"#ff0000\">特[とく]に/とりわけ</font>うそがきらいである。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u;<aU4,:$z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は、どこへ出かけていっても、愛、忍耐、そして＿＿＿非暴力を説いた。", 
+                                "A donde fuese, él enseñaba sobre el amor, la paciencia, y <font color=\"#ff0000\">por sobre todo</font>, la no violencia.", 
+                                "彼[かれ]は、どこへ 出[で]かけていっても、 愛[あい]、 忍耐[にんたい]、そして <font color=\"#ff0000\">特[とく]にとりわけ</font> 非[ひ] 暴力[ぼうりょく]を 説[と]いた。", 
+                                "特にとりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xK-*<xW#R_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
                         }
                     ]
                 }
@@ -35342,10 +35513,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "とおもいきや", 
-                "と思いきや"
+                "tatoeba", 
+                "とりわけ"
             ], 
             "tmpls": [
                 {
@@ -35549,8 +35719,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "とおもいきや", 
-                "と思いきや"
+                "とりわけ"
             ], 
             "tmpls": [
                 {
