@@ -1694,7 +1694,7 @@
                                 "からある/からする/からの", 
                                 "からある/からする/からの", 
                                 "hasta unos / hasta unas", 
-                                "Sustantivo + forma gramatical.", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font>", 
                                 "<div>Se usa para expresar una gran cantidad de algo y tiene tres variaciones.</div><div><br /></div><div>～ある es para números, altura, volumen o peso.</div><div><br /></div><div>高[たか]さ10メートル<font color=\"#ff0000\">＿＿＿</font>モンスターが、目[め]の 前[まえ]に 現[あらわ]れた。</div><div><i>Se me apereció un monstruo de <font color=\"#ff0000\">hasta unos</font> diez metros de altura enfrente mío</i>.</div><div><br /></div><div>～する es para precios.</div><div><br /></div><div>このバッグは十万円<font color=\"#ff0000\">＿＿＿</font>バッグを持っています。</div><div><i>Ella tiene carteras de <font color=\"#ff0000\">hasta unos</font> cien mil yenes</i>.</div><div><br /></div><div>～の es para cantidad de personas o dinero.</div><div><br /></div><div>そのコンサートには２０万人[にじゅうまんにん]<font color=\"#ff0000\">＿＿＿</font> 人[ひと]がいたそうだ。</div><div><i>Escuché que hubo <font color=\"#ff0000\">hasta unas</font> doscientas mil personas en ese concierto</i>.</div>", 
                                 "", 
                                 "", 
@@ -12476,7 +12476,7 @@
                             "data": "", 
                             "fields": [
                                 "毎日練習することが＿＿＿重要です。", 
-                                "Practicar todos los días es extremadamente importante.", 
+                                "Practicar todos los días es <font color=\"#ff0000\">extremadamente</font> importante.", 
                                 "毎日[まいにち] 練習[れんしゅう]することが <font color=\"#ff0000\">極[きわ]めて</font> 重要[じゅうよう]です。", 
                                 "極めて"
                             ], 
@@ -32392,9 +32392,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "一人でさえもない人を知らないパーティーにいろことの違和感＿＿＿。", 
+                                "一人でさえもない人を知らないパーティーにいることの違和感＿＿＿。", 
                                 "La incomodidad de estar en una fiesta donde no conoces ni siquiera a una persona es <font color=\"#ef2929\">indesciptible</font>.", 
-                                "一 人[にん]でさえもない 人[ひと]を 知[し]らないパーティーにいろことの 違和感[いわかん]<font color=\"#ef2929\">（と 言[げん]）ったらありはしない/（と 言[げん]）ったらありゃしない/（と 言[げん]）ったらない</font>。", 
+                                "一 人[にん]でさえもない 人[ひと]を 知[し]らないパーティーにいることの 違和感[いわかん]<font color=\"#ef2929\">（と 言[げん]）ったらありはしない/（と 言[げん]）ったらありゃしない/（と 言[げん]）ったらない</font>。", 
                                 "（と言）ったらありはしない/（と言）ったらありゃしない/（と言）ったらない"
                             ], 
                             "flags": 0, 
