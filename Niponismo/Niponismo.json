@@ -1694,7 +1694,7 @@
                                 "からある/からする/からの", 
                                 "からある/からする/からの", 
                                 "hasta unos / hasta unas", 
-                                "Sustantivo + forma gramatical.", 
+                                "S + <font color=\"#ff0000\">＿＿＿</font>", 
                                 "<div>Se usa para expresar una gran cantidad de algo y tiene tres variaciones.</div><div><br /></div><div>～ある es para números, altura, volumen o peso.</div><div><br /></div><div>高[たか]さ10メートル<font color=\"#ff0000\">＿＿＿</font>モンスターが、目[め]の 前[まえ]に 現[あらわ]れた。</div><div><i>Se me apereció un monstruo de <font color=\"#ff0000\">hasta unos</font> diez metros de altura enfrente mío</i>.</div><div><br /></div><div>～する es para precios.</div><div><br /></div><div>このバッグは十万円<font color=\"#ff0000\">＿＿＿</font>バッグを持っています。</div><div><i>Ella tiene carteras de <font color=\"#ff0000\">hasta unos</font> cien mil yenes</i>.</div><div><br /></div><div>～の es para cantidad de personas o dinero.</div><div><br /></div><div>そのコンサートには２０万人[にじゅうまんにん]<font color=\"#ff0000\">＿＿＿</font> 人[ひと]がいたそうだ。</div><div><i>Escuché que hubo <font color=\"#ff0000\">hasta unas</font> doscientas mil personas en ese concierto</i>.</div>", 
                                 "", 
                                 "", 
@@ -5956,6 +5956,7 @@
                                 "Japonés", 
                                 "N1", 
                                 "Niponismo", 
+                                "leech", 
                                 "といえど（も）"
                             ]
                         }, 
@@ -6533,6 +6534,73 @@
                                 "ともすれば", 
                                 "ややもすると", 
                                 "ややもすれば"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "と思いきや", 
+                                "と 思[おも]いきや", 
+                                "とおもいきや", 
+                                "justo cuando creo / justo cuando pienso", 
+                                "V / S / Frase + （か/のか） + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión un tanto arcaica pero de uso aún vigente que indica que algo resulta ser contrario a lo que se pensaba momentos antes.<div><br /></div><div>やっとラスボスを 負[ま]かした<font color=\"#ff0000\">＿＿＿</font>、 彼奴[あいつ]は 以前[いぜん]にもまして 強[つよ]く 蘇[よみがえ]った。</div><div><i><font color=\"#ff0000\">Justo cuando creo / Justo cuando pienso</font> que por fin derroté al jefe final, el tipo resucita más fuerte que nunca</i>.</div><div><br /></div><div>Se usa principalmente para referirse a hechos pasados, por lo que la segunda mitad de la oración suele ir precisamente en tiempo pasado.</div><div><br /></div><div>彼[かれ]はもう 来[こ]ない<font color=\"#ff0000\">＿＿＿</font>、 二時間[にじかん] 後[あと]で 現[あらわ]れた。</div><div><i><font color=\"#ff0000\">Justo cuando creo / Justo cuando pienso</font> que él ya no viene, aparece dos horas después</i>.</div><div><br /></div><div>Al tratarse de algo que va en contra de nuestras expectativas, no tiene sentido usarlo para referirse a una acción llevada a cabo por uno mismo.</div><div><br /></div><div>よやく 止[や]めることに 決[き]めた<font color=\"#ff0000\">＿＿＿✕</font>、また 考[かんが]えずにタバコを 吸[す]ってしまった。</div><div><i><font color=\"#ff0000\">Justo cuando creo / Justo cuando pienso</font> que estaba decidido a dejar de fumar, vuelvo a fumar sin pensar</i>.</div><div><br /></div><div>Por lo que sólo se emplea para hablar sobre cosas ajenas al control propio.</div><div><br /></div><div>よやく 止[や]めることに 決[き]めた<font color=\"#ff0000\">＿＿＿</font>、 父[ちち]はまた 考[かんが]えずにタバコを 吸[す]ってしまった。</div><div><i><font color=\"#ff0000\">Justo cuando creo / Justo cuando pienso</font> que estaba decidido a dejar de fumar, mi padre vuelve a fumar sin pensar</i>.</div><div><br /></div><div>Es muy común usar esta expresión junto a la partícula か para reflejar que se tenía duda en el momento en cuestión. Cuando esto sucede, también puede agregarse la partícula の justo delante de la か para sustantivar la frase anterior.</div><div><br /></div><div>何[なに]か 起[お]こった（の）か<font color=\"#ff0000\">＿＿＿</font>、 子供[こども]たちから 電話[でんわ]があった。</div><div><i><font color=\"#ff0000\">Justo cuando pienso</font> si (no) les habrá ocurrido algo, recibo una llamada de los niños</i>.</div><div><br /></div><div>Si usáramos （の）か en el primer ejemplo también, quedaría de la siguiente forma:</div><div><br /></div><div>やっとラスボスを 負[ま]かした（の）か<font color=\"#ff0000\">＿＿＿</font>、 彼奴[あいつ]は 以前[いぜん]にもまして 強[つよ]く 蘇[よみがえ]った。</div><div><i><font color=\"#ff0000\">Justo cuando pienso</font> si por fin (no) habré derrotado al jefe final, el tipo resucita más fuerte que nunca</i>.</div><div><br /></div><div>También se puede emplear para mostrar indecisión sobre si hacer algo o no.</div><div><br /></div><div>病院[びょういん]に 行[い]こう（の）か<font color=\"#ff0000\">＿＿＿</font>、 痛[いた]みが 治[おさ]めた。</div><div><i><font color=\"#ff0000\">Justo cuando pienso</font> si (no) ir al hospital, el dolor se calma</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Esta expresión es intercambiable con と思うと y と思ったら.</div><div><br /></div><div>やっとラスボスを 負[ま]かした｛<font color=\"#ff0000\">と 思[おも]うと/と 思[おも]ったら/＿＿＿</font>｝、 彼奴[あいつ]は 以前[いぜん]にもまして 強[つよ]く 蘇[よみがえ]った。</div><div><i><font color=\"#ff0000\">Justo cuando creo / Justo cuando pienso</font> que por fin había derrotado al jefe final, el tipo resucita más fuerte que nunca</i>.</div><div><br /></div><div>Incluso cuando se quiere demostrar duda.</div><div><br /></div><div>やっとラスボスを 負ま]かした｛<font color=\"#ff0000\">（の）かと 思[おも]うと/（の）かと 思[おも]ったら/（の）か＿＿＿</font>｝、 彼奴[あいつ]は 以前[いぜん]にもまして 強[つよ]く 蘇[よみがえ]った。</div><div><i><font color=\"#ff0000\">Justo cuando pienso</font> si por fin (no) habré derrotado al jefe final, el tipo resucita más fuerte que nunca.</i></div><div><br /></div><div>Sin embargo, lo contrario no es cierto si estas expresiones no se usan para expresar que algo no salió como se pensaba.</div><div><br /></div><div>修学旅行[しゅうがくりょこう]に 行[い]く｛<font color=\"#ff0000\">と 思[おも]うと/と 思[おも]ったら/＿＿＿✕</font>｝わくわくする。</div><div><i>Me emociono <font color=\"#ff0000\">al pensar / cuando pienso</font> en la excursión escolar</i>.</div><div><br /></div><div>Tampoco se pueden usar con sustantivos.</div><div><br /></div><div>彼[かれ]は 有名人[ゆうめいじん]｛<font color=\"#ff0000\">と 思[おも]うと✕/と 思[おも]ったら✕/＿＿＿</font>｝、 普通[ふつう]のサラリーマンだけとなった。</div><div><i><font color=\"#ff0000\">Justo cuando creo / Justo cuando pienso</font> que él es una persona famosa, resulta ser que es tan sólo un asalariado común y corriente</i>.</div><div><br /></div><div>De hecho, estas expresiones son tan similares que se las pueden considerar como una sola en el uso cotidiano. La diferencia &nbsp;radica básicamente en la terminación de la mismas. Cuando se emplea la partícula condicional と, dicha expresión se traduce como \"al creer\" o \"al pensar\". Por otro lado, cuando el verbo se conjuga en la forma たら, podremos interpretar la misma como \"cuando creí\", \"cuando creía\" o \"cuando había creído\", o bien &nbsp;\"cuando pensé\", \"cuando pensaba\" o \"cuando había pensado\". Por último, la terminación きや es la combinación de una forma antigua de &nbsp;思[おも]う con la partícula や empleada para preguntas retóricas, por lo que técnicamente podríamos interpretar la expresión en su conjunto como \"justo cuando creo\" o \"justo cuando pienso\".</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "y{Uz<$S)c$", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とおもいきや", 
+                                "と思いきや"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とりわけ", 
+                                "とりわけ", 
+                                "とりわけ", 
+                                "(por) sobre todo / especialmente / particularmente / más que nada (en el mundo) / más que ningún otro… (en el mundo) / más que ninguna otra… (en el mundo) / más que cualquier otro… (en el mundo) / más que cualquier otra… (en el mundo)", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + Frase", 
+                                "Adverbio utilizado para destacar algo por sobre todo lo demás.<div><br /></div><div>彼[かれ]は 格好[かっこう]よくて、 賢[かしこ]くて、<font color=\"#ff0000\">＿＿＿</font> 皆[みんな]に 優[やさ]しい 人[ひと]だ。</div><div><i>Él es guapo, inteligente y <font color=\"#ff0000\">(por) sobre todo / especialmente / particularmente / más que nada</font>, una persona muy cariñosa con todo el mundo</i>.</div><div><br /></div><div>Tiene una gran variedad de interpretaciones, pero lo importante a recordar es que todas ellas cumplen la misma función.<br /><div><br /></div><div><div>私達[わたしたち]の 娘[むすめ]は<font color=\"#ff0000\">＿＿＿</font> 数学[すうがく]が 好[す]きみたい。</div><div><i>Parece que a nuestra hija le gusta <font color=\"#ff0000\">especialmente / particularmente</font> la matemática</i>.</div></div><div><br /></div><div>Lo que también se podría interpretar como:</div><div><br /></div><div><i>Parece que a nuestra hija le gusta la matemática <font color=\"#ff0000\">más que nada (en el mundo) / más que cualquier otra cosa (en el mundo)</font></i>.</div><div><br /></div><div>Aunque debemos tener en cuenta de que lo de \"en el mundo\" en este caso sea muy probablemente una exageración de nuestra parte, ya que seguramente se querrá decir \"más que ninguna otra materia\" o \"más que cualquier otra materia\".</div><div><br /></div><div><i>Parece que a nuestra hija le gusta la matemática <font color=\"#ff0000\">más que ninguna otra materia / más que cualquier otra</font> materia</i>.</div><div><br /></div><div>Afortunadamente, no hay mucho que decir sobre esta expresión ya que, como todo adverbio, su implementación es bastante sencilla y muy similar al español. Basta decir que sólo precisa ir delante de la frase que hace referencia a aquello que se quiera destacar.</div><div><br /></div><div>日本[にほん]の 歴史[れいきし]に 至[い]っては、 彼[かれ]にとって<font color=\"#ff0000\">＿＿＿</font> 古代[こだい]はとても 興味深[きょうみぶか]い。</div><div><i>En cuanto a historia japonesa se refiere, el Japón antiguo le resultaba <font color=\"#ff0000\">especialmente / particularmente</font> interesante</i>.</div><div><br /></div><div>Aunque este adverbio suele escribirse simplemente en hiragana, se puede escribir también como &nbsp;取[と]り 分[わ]け, &nbsp;取[と]り 分[わ], &nbsp;取分[とりわけ], o &nbsp;取[と]りわけ. Cuál forma se prefiere escribir es una elección enteramente de cada individuo. De hecho, este tipo de elección es una característica que diferencia a los escritores japoneses entre si.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Este adverbio es sinónimo de 特に y se pueden intercambiar sin ningún problema.</div><div><br /></div><div>私達[わたしたち]の 娘[むすめ]は{<font color=\"#ff0000\"> 特[とく]に/＿＿＿</font>} 数学[すうがく]が 好[す]きみたい。</div><div><i>Parece que a nuestra hija le gusta <font color=\"#ff0000\">especialmente / particularmente</font> la matemática</i>.</div></div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "Obw&V6bK|!", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とりわけ"
                             ]
                         }
                     ]
@@ -11356,7 +11424,7 @@
                             "data": "", 
                             "fields": [
                                 "隣人は殺人者だったって、恐ろしい＿＿＿。", 
-                                "Dijeron que el vecino era un asesino. ¡Estoy tan horrorizada!", 
+                                "Dijeron que el vecino era un asesino. ¡Estoy <font color=\"#ff0000\">tan</font> horrorizada!", 
                                 "隣人[りんじん]は 殺人[さつじん] 者[しゃ]だったって、 恐[おそ]ろしい&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">限[かぎ]りだ/ 限[かぎ]りです</font></span>。", 
                                 "限りだ/限りです"
                             ], 
@@ -11960,7 +12028,7 @@
                             "data": "", 
                             "fields": [
                                 "<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span>平日に仕事をする＿＿＿、休みの日にはボランティアをしている。", 
-                                "Además de trabajar los días de semana, hago voluntariado en mis días libres.", 
+                                "<font color=\"#ff0000\">Además de</font> trabajar los días de semana, hago voluntariado en mis días libres.", 
                                 "平日[へいじつ]に 仕事[しごと]をする <font color=\"#ff0000\">傍[かたわ]ら</font>、 休[やす]みの 日[ひ]にはボランティアをしている。", 
                                 "傍ら"
                             ], 
@@ -12441,7 +12509,7 @@
                             "data": "", 
                             "fields": [
                                 "毎日練習することが＿＿＿重要です。", 
-                                "Practicar todos los días es extremadamente importante.", 
+                                "Practicar todos los días es <font color=\"#ff0000\">extremadamente</font> importante.", 
                                 "毎日[まいにち] 練習[れんしゅう]することが <font color=\"#ff0000\">極[きわ]めて</font> 重要[じゅうよう]です。", 
                                 "極めて"
                             ], 
@@ -13047,7 +13115,7 @@
                             "data": "", 
                             "fields": [
                                 "今回の転勤は急な＿＿＿、ゆっくりに挨拶にも伺えませんでした。&nbsp;", 
-                                "Debido a que mi transferencia fue tan repentina, no he tenido la oportunidad de pasar a saludarlos.", 
+                                "<font color=\"#ff0000\">Debido a</font> que mi transferencia fue tan repentina, no he tenido la oportunidad de pasar a saludarlos.", 
                                 "今回[こんかい]の 転勤[てんきん]は 急[きゅう]な<font color=\"#ff0000\">こととて</font>、ゆっくりに 挨拶[あいさつ]にも 伺[うかが]えませんでした。", 
                                 "こととて"
                             ], 
@@ -16860,7 +16928,7 @@
                             "data": "", 
                             "fields": [
                                 "この物語は我々に生きているとは何かを考えせさ＿＿＿。", 
-                                "Esta historia no nos deja sin hacernos cuestionar qué significa estar vivo.", 
+                                "Esta historia <font color=\"#ff0000\">no nos deja sin</font> hacernos cuestionar qué significa estar vivo.", 
                                 "この 物語[ものがたり]は 我々[われわれ]に 生[い]きているとは 何[なに]かを 考[かんが]えせさ<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ないではおかない/ずにはおかない</font></span>。", 
                                 "ないではおかない/ずにはおかない"
                             ], 
@@ -32357,9 +32425,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "一人でさえもない人を知らないパーティーにいろことの違和感＿＿＿。", 
+                                "一人でさえもない人を知らないパーティーにいることの違和感＿＿＿。", 
                                 "La incomodidad de estar en una fiesta donde no conoces ni siquiera a una persona es <font color=\"#ef2929\">indesciptible</font>.", 
-                                "一 人[にん]でさえもない 人[ひと]を 知[し]らないパーティーにいろことの 違和感[いわかん]<font color=\"#ef2929\">（と 言[げん]）ったらありはしない/（と 言[げん]）ったらありゃしない/（と 言[げん]）ったらない</font>。", 
+                                "一 人[にん]でさえもない 人[ひと]を 知[し]らないパーティーにいることの 違和感[いわかん]<font color=\"#ef2929\">（と 言[げん]）ったらありはしない/（と 言[げん]）ったらありゃしない/（と 言[げん]）ったらない</font>。", 
                                 "（と言）ったらありはしない/（と言）ったらありゃしない/（と言）ったらない"
                             ], 
                             "flags": 0, 
@@ -35033,6 +35101,288 @@
                                 "ややもすると", 
                                 "ややもすれば"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "もっと古典的な顔立ちなのか＿＿＿、今の時代でも充分通用する美形です。", 
+                                "<font color=\"#ff0000\">Justo cuando creía</font> que ella tenía rasgos clásicos, su belleza demuestra ser aún bastante vigente.", 
+                                "もっと 古典[こてん] 的[てき]な 顔立[かおだ]ちなのか<font color=\"#ff0000\">と 思[おも]いきや</font>、 今[いま]の 時代[じだい]でも 充分[じゅうぶん] 通用[つうよう]する 美形[びけい]です。", 
+                                "と思いきや"
+                            ], 
+                            "flags": 0, 
+                            "guid": "I>1^(dyB|}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とおもいきや", 
+                                "と思いきや"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "あっさり断られる＿＿＿、彼女は承諾してくれました。", 
+                                "<font color=\"#ff0000\">Justo cuando creo</font> que lo va a rechazar de buenas a primeras, ella lo aprueba.", 
+                                "あっさり 断[ことわ]られる<font color=\"#ff0000\">と 思[おも]うと/と 思[おも]ったら/と 思[おも]いきや</font>、 彼女[かのじょ]は 承諾[しょうだく]してくれました。", 
+                                "と思うと/と思ったら/と思いきや"
+                            ], 
+                            "flags": 0, 
+                            "guid": "b{rze[*wD#", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とおもいきや", 
+                                "とおもうと", 
+                                "とおもったら", 
+                                "と思いきや", 
+                                "と思うと", 
+                                "と思ったら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼を呼び掛けようのか＿＿＿、私に近づけて来た。", 
+                                "<font color=\"#ff0000\">Justo cuando pienso</font> si llamarlo o no, él se me acerca.", 
+                                "彼[かれ]を 呼び掛[よびか]けようのか<font color=\"#ff0000\">と 思[おも]うと/ 思[おも]ったら/と 思[おも]いきや</font>、 私[わたし]に 近[ちか]づけて 来[き]た。", 
+                                "と思うと/と思ったら/と思いきや"
+                            ], 
+                            "flags": 0, 
+                            "guid": "B4@$:d;P,v", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とおもいきや", 
+                                "とおもうと", 
+                                "とおもったら", 
+                                "と思いきや", 
+                                "と思うと", 
+                                "と思ったら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "外に散歩をしようか＿＿＿、急に雨が降ってしまった。", 
+                                "<font color=\"#ff0000\">Justo cuando pensé</font> si salir a pasear, comenzó a llover repentinamente.", 
+                                "外[そと]に 散歩[さんぽ]をしようか<font color=\"#ff0000\">と 思[おも]うと/と 思[おも]ったら/と 思[おも]いきや</font>、 急[きゅう]に 雨[あめ]が 降[ふ]ってしまった。", 
+                                "と思うと/と思ったら/と思いきや"
+                            ], 
+                            "flags": 0, 
+                            "guid": "E1CGZ*0,r5", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とおもいきや", 
+                                "とおもうと", 
+                                "とおもったら", 
+                                "と思いきや", 
+                                "と思うと", 
+                                "と思ったら"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "この試合は楽勝<font color=\"#ff0000\">＿＿＿</font>、相手のチームが最後の最後で得点した。", 
+                                "<font color=\"#ff0000\">Justo cuando creo</font> que iba a ser una victoria fácil, el equipo contrario anota un gol a último momento.", 
+                                "この 試合[しあい]は 楽勝[らくしょう]<font color=\"#ff0000\">と 思[おも]いきや</font>、 相手[あいて]のチームが 最後[さいご]の 最後[さいご]で 得点[とくてん]した。", 
+                                "と思いきや"
+                            ], 
+                            "flags": 0, 
+                            "guid": "ll{V$0o@X{", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とおもいきや", 
+                                "と思いきや"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "試験の結果は不合格＿＿＿、ぎりぎりで合格したという届けがもらった。", 
+                                "<font color=\"#ff0000\">Justo cuando pienso</font> que perdí el examen, recibo un aviso diciendo que había aprobado.", 
+                                "試験[しけん]の 結果[けっか]は 不[ふ] 合格[ごうかく]<font color=\"#ff0000\">と 思[おも]いきや</font>、ぎりぎりで 合格[ごうかく]したという 届[とど]けがもらった。", 
+                                "と思いきや"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Bj6!N&Dgn[", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とおもいきや", 
+                                "と思いきや"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は旅行が＿＿＿好きである。", 
+                                "A ella le gusta viajar <font color=\"#ff0000\">más que cualquier otra cosa en el mundo</font>.", 
+                                "彼女[かのじょ]は 旅行[りょこう]が <font color=\"#ff0000\">特[とく]に/とりわけ</font> 好[す]きである。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "q.$-ky4~S@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は＿＿＿宝石を磨くのが好きだった。", 
+                                "A ella le gustaba <font color=\"#ff0000\">especialmente</font> pulir sus joyas.", 
+                                "彼女[かのじょ]は <font color=\"#ff0000\">特[とく]に/とりわけ</font> 宝石[ほうせき]を 磨[みが]くのが 好[す]きだった。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "FoL4`Ic#Mm", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は全科目うまくいったが、＿＿＿数学がうまくいった。", 
+                                "A él le iba bien en todas las materias, <font color=\"#ff0000\">especialmente</font>&nbsp;en las matemáticas.", 
+                                "彼[かれ]は 全[ぜん] 科目[かもく]うまくいったが、<font color=\"#ff0000\"> 特[とく]に/とりわけ</font> 数学[すうがく]がうまくいった。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "H8oB=R*}Vs", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は強くて勇敢で、＿＿＿親切だ。", 
+                                "Él es fuerte, valiente y, <font color=\"#ff0000\">sobre todo</font>, amable.", 
+                                "彼[かれ]は 強[つよ]くて 勇敢[ゆうかん]で、 <font color=\"#ff0000\">特[とく]に/とりわけ</font> 親切[しんせつ]だ。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "k->F80|c_k", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は＿＿＿うそがきらいである。", 
+                                "Él odia la falsedad <font color=\"#ff0000\">más que cualquier otra cosa</font>.", 
+                                "彼[かれ]は <font color=\"#ff0000\">特[とく]に/とりわけ</font>うそがきらいである。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u;<aU4,:$z", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼は、どこへ出かけていっても、愛、忍耐、そして＿＿＿非暴力を説いた。", 
+                                "A donde fuese, él enseñaba sobre el amor, la paciencia, y <font color=\"#ff0000\">por sobre todo</font>, la no violencia.", 
+                                "彼[かれ]は、どこへ 出[で]かけていっても、 愛[あい]、 忍耐[にんたい]、そして <font color=\"#ff0000\">特[とく]にとりわけ</font> 非[ひ] 暴力[ぼうりょく]を 説[と]いた。", 
+                                "特に/とりわけ"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xK-*<xW#R_", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とくに", 
+                                "とりわけ", 
+                                "特に"
+                            ]
                         }
                     ]
                 }
@@ -35163,12 +35513,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
-                "Niponismo", 
                 "Oración", 
-                "ともすると", 
-                "ともすれば", 
-                "ややもすると", 
-                "ややもすれば"
+                "tatoeba", 
+                "とりわけ"
             ], 
             "tmpls": [
                 {
@@ -35372,10 +35719,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "ともすると", 
-                "ともすれば", 
-                "ややもすると", 
-                "ややもすれば"
+                "とりわけ"
             ], 
             "tmpls": [
                 {
