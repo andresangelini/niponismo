@@ -6602,6 +6602,39 @@
                                 "Niponismo", 
                                 "とりわけ"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とされる", 
+                                "とされる", 
+                                "とされる", 
+                                "ser considerado", 
+                                "Frase / S + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión formada a partir de la partícula と y la forma pasiva del verbo する para indicar cómo algo es considerado sin especificar precisamente por quién.<div><br /></div><div>彼奴[あいつ]は 自分[じぶん]の 目的[もくてき]を 果[は]たすため 何[なん]でも 出来[でき]て 極[きわ]めて 危[あぶ]ない<font color=\"#ff0000\">＿＿＿</font> 人物[じんぶつ]だ。</div><div><i>Ese tipo es un sujeto que <font color=\"#ff0000\">se considera</font> muy peligroso y capaz de hacer cualquier cosa para cumplir sus objetivos</i>.</div><div><br /></div><div>Se puede usar con cualquier estructura pero se debe tener cuidado de que no lleva la partícula declarativa だ cuando se usa junto a un sustantivo.</div><div><br /></div><div>その 国[くに]は 回復[かいふく]すべく 国際的[こくさいてき]な 援助[えんじょ]が 必要[ひつよう]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>La ayuda internacional <font color=\"#ff0000\">se considera</font> necesaria para que ese país se pueda recuperar</i>.</div><div><br /></div><div>Lo mismo sucede con los adjetivos な.</div><div><br /></div><div>私[わたし]の 国[くに]ではそれは 不行儀[ふぎょうぎ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>En mi país eso <font color=\"#ff0000\">se considera</font> de mala educación</i>.</div><div><br /></div><div>La parte verbal de esta expresión puede estar conjugada de muchas formas siempre y cuando esté en modo pasivo.</div><div><br /></div><div>アインシュタインは 二十世紀[にじゅうせいき]のもっとも 偉大[いだい]な 天才[てんさい]<font color=\"#ff0000\">＿＿＿</font> <font color=\"#ff0000\">来[き]た</font>。</div><div><i>A Einstein <font color=\"#ff0000\">se lo ha llegado a considerar</font> el genio más grande del siglo XX</i>.</div><div><br /></div><div>Por ejemplo, puede hacer referencia a cómo algo se consideraba en el pasado.</div><div><br /></div><div>曾[かつ]てそれは 縁起悪[えんぎわる]い<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Antes eso <font color=\"#ff0000\">se consideraba</font> de mala fortuna</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Es sinónima de と 思[おも]われる, と 考[かんが]えられる y と 見[み]られる cuando estas se usan con la misma connotación.</div><div><br /></div><div>アインシュタインは 二十世紀[にじゅうせいき]のもっとも 偉大[いだい]な 天才[てんさい]{<font color=\"#ff0000\">と 見[み]られて 来[き]た/と 思[おも]われて 来[き]た/と 考[かんが]えられてきた/＿＿＿ 来[き]た</font>}。</div><div><i>A Einstein <font color=\"#ff0000\">se lo ha llegado a considerar</font> el genio más grande del siglo XX</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "O@}hYiA+_|", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とされる"
+                            ]
                         }
                     ]
                 }, 
@@ -35383,6 +35416,174 @@
                                 "とりわけ", 
                                 "特に"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "消費者の米離れや国際市場解放が原因＿＿＿米価の下落が原因だ。", 
+                                "La causa es la caída en el valor del arroz, que a su vez, <font color=\"#ff0000\">se considera</font> que se debe a la pérdida de interés por parte del consumidor y la liberación de los mercados internacionales.", 
+                                "消費[しょうひ] 者[しゃ]の 米[べい] 離[ばな]れや 国際[こくさい] 市場[しじょう] 解放[かいほう]が 原因[げんいん]<font color=\"#ff0000\">とされる</font> 米価[べいか]の 下落[げらく]が 原因[げんいん]だ。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cd&{^t8/ae", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "必要＿＿＿お金はいつでも与えられるでしょう。", 
+                                "Siempre se otorgará el dinero que <font color=\"#ff0000\">se considere</font> necesario.", 
+                                "必要[ひつよう]<font color=\"#ff0000\">とされる</font>お 金[かね]はいつでも 与[あた]えられるでしょう。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u2Ps9u60~0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼に責められる非はない＿＿＿。", 
+                                "<font color=\"#ff0000\">Se consideró</font> que no había nada de qué culparle.", 
+                                "彼[かれ]に 責[せ]められる 非[ひ]はない<font color=\"#ff0000\">とされた</font>。", 
+                                "とされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Dw<qN1+`cb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "犯罪はしばしば貧困と関連がある＿＿＿きた。", 
+                                "A menudo <font color=\"#ff0000\">se ha considerado</font> que existe un vínculo entre el crimen y la pobreza.", 
+                                "犯罪[はんざい]はしばしば 貧困[ひんこん]と 関連[かんれん]がある<font color=\"#ff0000\">とされて</font>きた。", 
+                                "とされて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zD*&?(0[#T", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本では誰かに会った時、お辞儀をするのが礼儀＿＿＿。", 
+                                "En Japón <font color=\"#ff0000\">se considera</font> de buenos modales hacer una reverencia al encontrarse con alguien.", 
+                                "日本[にっぽん]では 誰[だれ]かに 会[あ]った 時[とき]、お 辞儀[じぎ]をするのが 礼儀[れいぎ]<font color=\"#ff0000\">とされる</font>。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g%w(QP`?R+", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "選挙では、それが誰であれ、過半数を得た候補者が当選＿＿＿。", 
+                                "En una elección, <font color=\"#ff0000\">se considera</font> ganador al candidato que obtenga la mayoría de los votos.", 
+                                "選挙[せんきょ]では、それが 誰[だれ]であれ、 過半数[かはんすう]を 得[え]た 候補[こうほ] 者[しゃ]が 当選[とうせん]<font color=\"#ff0000\">とされる</font>。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fh7Z9>gj5)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "よく似たケースで責任は会社にある＿＿＿。", 
+                                "En un caso muy similar la compañía <font color=\"#ff0000\">fue considerada</font> responsable.", 
+                                "よく 似[に]たケースで 責任[せきにん]は 会社[かいしゃ]にある<font color=\"#ff0000\">とされた</font>。", 
+                                "とされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Pk$uk|+9.U", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "シンガポールでは道路に唾を吐くのは犯罪＿＿＿。", 
+                                "En Singapur <font color=\"#ff0000\">se considera</font> un crimen escupir en el camino.", 
+                                "シンガポールでは 道路[どうろ]に 唾[つば]を 吐[は]くのは 犯罪[はんざい]<font color=\"#ff0000\">とされる</font>。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cL[&Hz]:w7", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
                         }
                     ]
                 }
@@ -35515,7 +35716,7 @@
                 "N1", 
                 "Oración", 
                 "tatoeba", 
-                "とりわけ"
+                "とされる"
             ], 
             "tmpls": [
                 {
@@ -35719,7 +35920,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "とりわけ"
+                "とされる"
             ], 
             "tmpls": [
                 {
