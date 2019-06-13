@@ -6635,6 +6635,39 @@
                                 "Niponismo", 
                                 "とされる"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とっさに", 
+                                "とっさに", 
+                                "とっさに", 
+                                "en este mismo instante / en este mismo momento / en ese mismo instante / en ese mismo momento", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + acción", 
+                                "Adverbio que indica inmediatez, es decir, que algo ocurre o se lleva a cabo en el acto.<div><br /></div><div>あの 人[ひと]を 以前[いぜん]どこかで 見[み]たことがある 気[き]がするが、<font color=\"#ff0000\">＿＿＿</font>はよく 思[おも]い 出[だ]せない。</div><div><i>Tengo la sensación de haber visto antes a esa persona pero no lo puedo recordar bien <font color=\"#ff0000\">en este mismo instante / en este mismo momento</font></i>.</div><div><br /></div><div>En consecuencia, este adverbio debe ser seguido por una acción.</div><div><br /></div><div>皆[みんな]は 彼女[かのじょ]の 悪口[わるぐち]を 言[い]った 時[とき]、 彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 弁護[べんご]してくれた。</div><div><i>Cuando todos hablaban mal de ella, él la defendió <font color=\"#ff0000\">en ese mismo instante / en ese mismo momento</font></i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Este adverbio tiene un sin fin de sinónimos, lo cual permite que se lo pueda interpretar de muchas formas diferentes. Sin embargo, resulta más conveniente recordar que proviene del sustantivo &nbsp;咄嗟[とっさ], el cual significa \"instante\" o \"momento\", para reducir el número de interpretaciones y así poder memorizarla más fácilmente.</div><div><br /></div><div>「 嘘[うそ]じゃない」 彼[かれ]は｛<font color=\"#ff0000\">＿＿＿/ 直[す]ぐに/ 一瞬[いっしゅん]にして/その 場[ば]で/…</font>｝ 言[い]い 返[かえ]した。</div><div><i>\"No es mentira\", replicó él <font color=\"#ff0000\">en ese mismo instante / en ese mismo momento / enseguida / de inmediato / en el acto / rápidamente</font></i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "hLPO*c4e;-", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とっさに"
+                            ]
                         }
                     ]
                 }, 
@@ -35584,6 +35617,132 @@
                                 "tatoeba", 
                                 "とされる"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "突然の出来事だったから、＿＿＿どうするかと考えられなかった。", 
+                                "Fue un hecho muy repentino por lo que no se me ocurrió qué hacer <font color=\"#ff0000\">en ese mismo momento</font>.", 
+                                "突然[とつぜん]の 出来事[できごと]だったから、<font color=\"#ff0000\">とっさに</font>どうするかと 考[かんが]えられなかった。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wW{e~:!lEb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "絶えずに電話が掛けて我々がどうすればいいかと迷った時、＿＿＿部長はどこととなく現れてチーム全体を導いてくれた。", 
+                                "Cuando los teléfonos sonanaban sin parar y nosotros no teníamos ni idea de qué hacer, el jefe llegó de la nada <font color=\"#ff0000\">en ese mismo instante</font> y guió a todo el equipo.", 
+                                "絶[た]えずに 電話[でんわ]が 掛[か]けて 我々[われわれ]がどうすればいいかと 迷[まよ]った 時[とき]、<font color=\"#ff0000\">とっさに</font> 部長[ぶちょう]はどこととなく 現[あらわ]れてチーム 全体[ぜんたい]を 導[みちび]いてくれた。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HvVChzH41E", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は＿＿＿計画を立て始めた。", 
+                                "Ella comenzó a elaborar un plan <font color=\"#ff0000\">en ese mismo instante</font>.", 
+                                "彼女[かのじょ]は<font color=\"#ff0000\">とっさに</font> 計画[けいかく]を 立[た]て 始[はじ]めた。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n!*f_C`nh@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "部長に言い返したら、＿＿＿後悔した。", 
+                                "Le repliqué al jefe de división y <font color=\"#ff0000\">en ese mismo instante</font> me arrepentí.", 
+                                "部長[ぶちょう]に 言い返[いいかえ]したら、<font color=\"#ff0000\">とっさに</font> 後悔[こうかい]した。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Mv`~5n8*nO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "陪審は＿＿＿決断を発表した。", 
+                                "El jurado anunció su decision <font color=\"#ff0000\">en ese mismo instante</font>.", 
+                                "陪審[ばいしん]は<font color=\"#ff0000\">とっさに</font> 決断[けつだん]を 発表[はっぴょう]した。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KJsMcTk{HL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は顔をみせて部屋は＿＿＿静まった。", 
+                                "Ella apareció y la habitación quedó en silencio <font color=\"#ff0000\">en ese mismo instante</font>.", 
+                                "彼女[かのじょ]は 顔[かお]をみせて 部屋[へや]は<font color=\"#ff0000\">とっさに</font> 静[しず]まった。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fXjZoP|ZCs", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
                         }
                     ]
                 }
@@ -35714,9 +35873,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "とされる"
+                "とっさに"
             ], 
             "tmpls": [
                 {
@@ -35920,7 +36079,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "とされる"
+                "とっさに"
             ], 
             "tmpls": [
                 {
