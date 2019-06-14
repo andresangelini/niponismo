@@ -219,12 +219,12 @@
                                 "ばこそ", 
                                 "ばこそ", 
                                 "sólo porque", 
-                                "Verbo ば + forma gramatical.<div>Sustantivo o adjetivo な + であれば + forma gramatical.</div>", 
+                                "Vば + <font color=\"#ff0000\">＿＿＿</font><div>S / Aな + であれば + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "Expresión que adjudica toda la razón a una sóla causa.<div><br /></div><div>愛[あい]すれ<font color=\"#ff0000\">＿＿＿</font> 彼女[かのじょ]と 結婚[けっこん]しなかった。</div><div><i>No me casé con ella <font color=\"#ff0000\">sólo porque</font> la amo</i>.</div><div><br /></div><div>上司[じょうし]は 親切[しんせつ]<font color=\"#ff0000\">＿＿＿</font> 私達[わたしたち]のこといつも 心配[しんぱい]している。</div><div><i>Nuestro jefe se preocupa por nosotros <font color=\"#ff0000\">sólo porque</font> es bueno</i>.</div>", 
                                 "", 
-                                "愛[あい]すれ＿＿＿ 彼女[かのじょ]と 結婚[けっこん]しなかった。", 
-                                "No me casé con ella sólo porque la amo.", 
-                                "上司[じょうし]は 親切[しんせつ]＿＿＿ 私達[わたしたち]のこといつも 心配[しんぱい]している。", 
-                                "Nuestro jefe se preocupa por nosotros sólo porque es bueno.", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -1827,12 +1827,12 @@
                                 "曾[かつ]て", 
                                 "かつて", 
                                 "antes", 
-                                "Forma gramatical + frase.", 
-                                "Se usa para referirse a hechos pasados, usualmente distantes. Suele traducirse como \"antes\" o \"antiguamente\".", 
-                                "母[はは]は＿＿＿ 水泳[すいえい]で 優勝[ゆうしょう]したことがある。", 
-                                "Mi madre fue una vez campeona de natación.", 
-                                "＿＿＿はロードローラーは 馬[うま]が 曳[ひ]いていたが、 蒸気[じょうき] 機関[きかん]の 発明[はつめい]により、スチームローラーが 現[あらわ]れた。", 
-                                "Antes se usaban caballos para tirar de las aplanadoras, pero con la invención de las máquinas a vapor, aparecieron las aplanadoras a vapor.", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + frase", 
+                                "Se usa para referirse a hechos pasados, usualmente distantes. Suele traducirse como \"antes\" o \"antiguamente\".<div><br /></div><div>母[はは]は<font color=\"#ff0000\">＿＿＿</font> 水泳[すいえい]で 優勝[ゆうしょう]したことがある。</div><div><i>Mi madre fue <font color=\"#ff0000\">una vez</font> campeona de natación</i>.</div><div><br /></div><div><font color=\"#ff0000\">＿＿＿</font>はロードローラーは 馬[うま]が 曳[ひ]いていたが、 蒸気[じょうき] 機関[きかん]の 発明[はつめい]により、スチームローラーが 現[あらわ]れた。</div><div><i><font color=\"#ff0000\">Antes</font> se usaban caballos para tirar de las aplanadoras, pero con la invención de las máquinas a vapor, aparecieron las aplanadoras a vapor</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -2125,10 +2125,10 @@
                                 "ことのないよう（に）", 
                                 "ことのないよう（に）", 
                                 "para no", 
-                                "Verbo en forma diccionario + forma gramatical.", 
-                                "Se usa para expresar el deseo de evitar algo. Opcionalmente, se puede usar la partícula に al final.", 
-                                "用事を忘れる＿＿＿、メモを書いて置いた。", 
-                                "Para que no te olvides de los mandados que tenés que hacer, te dejé hecha una lista.", 
+                                "V + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Se usa para expresar el deseo de evitar algo. Opcionalmente, se puede usar la partícula に al final.<div><br /></div><div>用事[よいじ]を 忘[わす]れる<font color=\"#ff0000\">＿＿＿</font>、メモを 書[か]いて 置[お]いた。</div><div><i><font color=\"#ff0000\">Para</font> que <font color=\"#ff0000\">no</font> te olvides de los mandados que tenés que hacer, te dejé hecha una lista</i>.</div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -3887,7 +3887,7 @@
                                 "（する）に 難[かた]くない", 
                                 "（する）にかたくない", 
                                 "no ser difícil", 
-                                "Sustantivo verbal + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "SV + <font color=\"#ff0000\">＿＿＿</font>", 
                                 "<div>Esta expresión indica que algo \"<font color=\"#ff0000\">no es difícil</font>\" de <font color=\"#ff0000\">imaginar</font>, <font color=\"#ff0000\">entender</font>, <font color=\"#ff0000\">predecir</font>, <font color=\"#ff0000\">comprender</font>, etc., y se usa junto a un sustantivo verbal aunque el uso de <font color=\"#ff0000\">する</font> es opcional.</div><div><br /></div><div>彼女[かのじょ]の 気持[きも]ちは 理解[りかい]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No es difícil</font> entender lo que ella siente</i>.</div><div><br /></div><div>Lo que es lo mismo que decir:</div><div><br /></div><div>彼女[かのじょ]の 気持[きも]ちを 理解[りかい]するのは 難[むずか]しくない。</div><div><i><font color=\"#ff0000\">No es difícil</font> entender lo que ella siente</i>.</div><div><br /></div><div>Suele formar parte de oraciones &nbsp;tipo&nbsp;〜（であろう）ことは + SV + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>不況[ふきょう]がこのままに 続[つづ]ければ 失業率[しつぎょうりつ]が 真剣[しんけん]な 問題[もんだい]になるであろうことは 予測[よそく]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No es difícil</font> predecir que el ritmo se volverá un gran problema si la recesión sigue como está</i>.</div><div><br /></div><div>Así como del tipo いかに/どれほど〜かは + SV + <font color=\"#ff0000\">＿＿＿</font></div><div><br /></div><div>彼女[かのじょ]を 亡[な]くした 為[ため]、 彼[かれ]の 痛[いた]みはいかに/どれほど 苦[くる]しいのかは 想像[そうぞう]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">No es difícil</font> imaginar cuán doloroso debe haber sido para él perder a su novia</i>.</div><div><br /></div><div>Al igual que con el español, esta forma no es otra cosa que decir algo de una manera más rebuscada. Perectamente podríamos decir lo mismo con <font color=\"#ff0000\">〜（ことが）出来る</font> para decir que \"<font color=\"#ff0000\">es fácil</font>\" <font color=\"#ff0000\">entender</font>, <font color=\"#ff0000\">predecir</font>, <font color=\"#ff0000\">imaginar</font>, etc.</div>", 
                                 "", 
                                 "", 
@@ -5438,7 +5438,7 @@
                                 "てっきり", 
                                 "estar seguro de que / estar convencido de que / tener la seguridad de que / tener la convicción de que / tener la certeza de&nbsp;que", 
                                 "<font color=\"#ef2929\">＿＿＿</font> + frase", 
-                                "<div>Adverbio que indica que el sujeto tiene una certeza absoluta sobre algo pero que finalmente se equivoca. Usualmente se usa para hablar sobre una convicción pasada que resultó ser errónea junto con <font color=\"#ef2929\">と 思[おも]った（のに）</font>.</div><div><br></div><div><font color=\"#ef2929\">＿＿＿</font>この 道[みち]は 正[ただ]しかったと 思[おも]ったのに、 通行止[つうこうど]めとなった。<br></div><div><i><font color=\"#ef2929\">Estaba seguro de que</font> este camino era el correcto, pero resultó ser un camino cerrado al paso</i>.<br></div><div><br></div><div><div>Pero a veces también se la puede ver siendo usada para referirse a una certeza presente.</div></div><div><br></div><div>あの 奴[やつ]は<font color=\"#ef2929\">＿＿＿&nbsp;</font>嘘[うそ]を 言[い]っている。<br></div><div><i><font color=\"#ef2929\">Estoy seguro de que</font> ese tipo está mintiendo</i>.<br></div><div><br></div><div><div>También puede acompañarse con <font color=\"#ef2929\">に 違[ちが]いない o に 間違[まちが]いない</font> para agregar aún más énfasis.</div></div><div><br></div><div>あのころ<font color=\"#ef2929\">＿＿＿</font> 神様[かみさま]は 私達[わたしたち]に 支[ささ]えてくれるに 違[ちが]いないと 思[おも]ったのに、でも 救[すく]いは 全然[ぜんぜん] 届[とど]かなかった。<br></div><div><i>En aquella época <font color=\"#ef2929\">estaba totalmente seguro de que</font> Dios nos apoyaría, pero no nos llegó ninguna ayuda</i>.<br></div><div><br></div><div><b>Expresiones similares</b><br></div><div><b><br></b></div><div><div>La combinación de はず/はずだった+なのに guarda un significado parecido ya que refleja una expectativa sobre algo que finalmente termina no siendo.</div></div><div><br></div><div>この 道[みち]は 正[ただ]しい<strong>はず</strong>だったのに、 通行止[つうこうど]めとなった。<br></div><div><i><font color=\"#ef2929\">Se suponía que</font> este camino era el correcto, pero resultó ser un camino cerrado al paso</i>.<br></div>", 
+                                "<div>Adverbio que indica que el sujeto tiene una certeza absoluta sobre algo pero que finalmente se equivoca. Usualmente se usa para hablar sobre una convicción pasada que resultó ser errónea junto con <font color=\"#ef2929\">と 思[おも]った（のに）</font>.</div><div><br /></div><div><font color=\"#ef2929\">＿＿＿</font>この 道[みち]は 正[ただ]しかったと 思[おも]ったのに、 通行止[つうこうど]めとなった。<br /></div><div><i><font color=\"#ef2929\">Estaba seguro de que</font> este camino era el correcto, pero resultó ser un camino cerrado al paso</i>.<br /></div><div><br /></div><div><div>Pero a veces también se la puede ver siendo usada para referirse a una certeza presente.</div></div><div><br /></div><div>あの 奴[やつ]は<font color=\"#ef2929\">＿＿＿&nbsp;</font>嘘[うそ]を 言[い]っている。<br /></div><div><i><font color=\"#ef2929\">Estoy seguro de que</font> ese tipo está mintiendo</i>.<br /></div><div><br /></div><div><div>También puede acompañarse con <font color=\"#ef2929\">に 違[ちが]いない o に 間違[まちが]いない</font> para agregar aún más énfasis.</div></div><div><br /></div><div>あのころ<font color=\"#ef2929\">＿＿＿</font> 神様[かみさま]は 私達[わたしたち]に 支[ささ]えてくれるに 違[ちが]いないと 思[おも]ったのに、でも 救[すく]いは 全然[ぜんぜん] 届[とど]かなかった。<br /></div><div><i>En aquella época <font color=\"#ef2929\">estaba totalmente seguro de que</font> Dios nos apoyaría, pero no nos llegó ninguna ayuda</i>.<br /></div><div><br /></div><div><b>Expresiones similares</b><br /></div><div><b><br /></b></div><div><div>La combinación de はず/はずだった+なのに guarda un significado parecido ya que refleja una expectativa sobre algo que finalmente termina no siendo.</div></div><div><br /></div><div>この 道[みち]は 正[ただ]しい<font color=\"#ff0000\">はず</font>だったのに、 通行止[つうこうど]めとなった。<br /></div><div><i><font color=\"#ef2929\">Se suponía que</font> este camino era el correcto, pero resultó ser un camino cerrado al paso</i>.<br /></div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -6405,7 +6405,7 @@
                                 "とみられる", 
                                 "verse / preverse / considerarse", 
                                 "V / Aい /Aな / S + <font color=\"#ff0000\">＿＿＿</font>", 
-                                "Expresión formal muy usada en los medios de comunicación, especialmente en la prensa, para informar de algo generalmente negativo.<div><br /></div><div>あの 火山[かざん]は、 三年[さんねん]の 間[あいだ]で 激[はげ]しく 噴火[ふんか]する<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se prevé</font> que ese volcán hará una violenta erupción dentro de tres años</i>.</div><div><br /></div><div>Aunque naturalmente al usar una conjugación pasiva, también se utiliza para describir cómo algo es considerado (o literalmente \"visto\") por otros.</div><div><br /></div><div>刑事[けいじ] の 質問[しつもん]を 答[こた]えないと、その 態度[たいど]は 怪[あや]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si no respondes las preguntas del detective, tu actitud <font color=\"#ff0000\">se verá / se considerará</font> sospechosa</i>.</div><div><br /></div><div>Como suele suceder con otras expresiones que comienzan con la partícula と, puede usarse junto a cualquier tipo de palabra sin necesidad de hacerle ningún tipo de modificación.</div><div><br /></div><div>Por ejemplo, con un verbo se vería algo así:</div><div><br /></div><div>この 地域[ちいき]では、 今年[ことし]で 前代未聞[ぜんだいみもん]の 地震[じしん]が 来[く]る<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se prevé</font> que en esta región ocurrirá una terremoto sin precedentes este año</i>.</div><div><br /></div><div>Por otro lado, con un adjetivo い se usaría de la siguiente forma:</div><div><br /></div><div>今年[ことし]は 経済[けいざい]が 厳[きび]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se prevé</font> que la economía será difícil este año</i>.</div><div><br /></div><div>Lo mismo sucede con los adjetivos な.</div><div><br /></div><div>事務所[じむしょ]で 中本[なかもと]さんは 傲慢[ごうまん]<font color=\"#ff0000\">＿＿＿</font>が、 社外[しゃがい]では 本当[ほんとう]にいい 人[ひと]なんだ。</div><div><i>En la oficina a Takemoto <font color=\"#ff0000\">lo ven / lo consideran</font> arrogante pero él es realmente una buena persona fuera de la compañía</i>.</div><div><br /></div><div>Así como con los sustantivos.</div><div><br /></div><div>アインシュタインは 二十世紀[にじゅっせいき]の 最大[さいだい]の 天才[てんさい]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Einstein <font color=\"#ff0000\">es visto / es considerado</font> el genio más grande del siglo XX</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Esta expresión sinónima de と思われる y と考えられる en ambas de sus connotaciones y puede intercambiarse una por otro con total seguridad.</div><div><br /></div><div>あの 火山[かざん]は、 三年[さんねん]の 間[あいだ]で 激[はげ]しく 噴火[ふんか]する{<font color=\"#ff0000\">＿＿＿/と 思[おも]われている/と 考[かんが]えられている</font>}。</div><div><i><font color=\"#ff0000\">Se prevé / Se cree / Se piensa</font> que ese volcán hará una violenta erupción dentro de tres años</i>.</div><div><br /></div><div>O cuando se quiere decir que algo es visto o considerado como:</div><div><br /></div><div>刑事[けいじ]の 質問[しつもん]を 答[こた]えないと、その 態度[たいど]は 怪[あや]しい{<font color=\"#ff0000\">＿＿＿/と思われている/と考えられている</font>}。</div><div><i>Si no respondes las preguntas del detective, tu actitud <font color=\"#ff0000\">se verá / se considerará / se creerá</font> sospechosa</i>.</div><div><br /></div><div>O mejor aún (aunque los verbos en español dejan de ser pasivos):</div><div><br /></div><div><i>Si no respondes las preguntas del detective, <font color=\"#ff0000\">creerán / pensarán</font> que tu actitud es sospechosa</i>.</div>", 
+                                "Expresión formal muy usada en los medios de comunicación, especialmente en la prensa, para informar de algo generalmente negativo.<div><br></div><div>あの 火山[かざん]は、 三年[さんねん]の 間[あいだ]で 激[はげ]しく 噴火[ふんか]する<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se prevé</font> que ese volcán hará una violenta erupción dentro de tres años</i>.</div><div><br></div><div>Aunque naturalmente al usar una conjugación pasiva, también se utiliza para describir cómo algo es considerado (o literalmente \"visto\") por otros.</div><div><br></div><div>刑事[けいじ] の 質問[しつもん]を 答[こた]えないと、その 態度[たいど]は 怪[あや]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Si no respondes las preguntas del detective, tu actitud <font color=\"#ff0000\">se verá / se considerará</font> sospechosa</i>.</div><div><br></div><div>Como suele suceder con otras expresiones que comienzan con la partícula と, puede usarse junto a cualquier tipo de palabra sin necesidad de hacerle ningún tipo de modificación.</div><div><br></div><div>Por ejemplo, con un verbo se vería algo así:</div><div><br></div><div>この 地域[ちいき]では、 今年[ことし]で 前代未聞[ぜんだいみもん]の 地震[じしん]が 来[く]る<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se prevé</font> que en esta región ocurrirá una terremoto sin precedentes este año</i>.</div><div><br></div><div>Por otro lado, con un adjetivo い se usaría de la siguiente forma:</div><div><br></div><div>今年[ことし]は 経済[けいざい]が 厳[きび]しい<font color=\"#ff0000\">＿＿＿</font>。</div><div><i><font color=\"#ff0000\">Se prevé</font> que la economía será difícil este año</i>.</div><div><br></div><div>Lo mismo sucede con los adjetivos な.</div><div><br></div><div>事務所[じむしょ]で 中本[なかもと]さんは 傲慢[ごうまん]<font color=\"#ff0000\">＿＿＿</font>が、 社外[しゃがい]では 本当[ほんとう]にいい 人[ひと]なんだ。</div><div><i>En la oficina a Takemoto <font color=\"#ff0000\">lo ven / lo consideran</font> arrogante pero él es realmente una buena persona fuera de la compañía</i>.</div><div><br></div><div>Así como con los sustantivos.</div><div><br></div><div>アインシュタインは 二十世紀[にじゅっせいき]の 最大[さいだい]の 天才[てんさい]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Einstein <font color=\"#ff0000\">es visto / es considerado</font> el genio más grande del siglo XX</i>.</div><div><br></div><div><b>Expresiones similares</b></div><div><br></div><div>Esta expresión sinónima de と思われる y と考えられる en ambas de sus connotaciones y puede intercambiarse una por otro con total seguridad.</div><div><br></div><div>あの 火山[かざん]は、 三年[さんねん]の 間[あいだ]で 激[はげ]しく 噴火[ふんか]する{<font color=\"#ff0000\">＿＿＿/と 思[おも]われている/と 考[かんが]えられている</font>}。</div><div><i><font color=\"#ff0000\">Se prevé / Se cree / Se piensa</font> que ese volcán hará una violenta erupción dentro de tres años</i>.</div><div><br></div><div>O cuando se quiere decir que algo es visto o considerado como:</div><div><br></div><div>刑事[けいじ]の 質問[しつもん]を 答[こた]えないと、その 態度[たいど]は 怪[あや]しい{<font color=\"#ff0000\">＿＿＿/と思われている/と考えられている</font>}。</div><div><i>Si no respondes las preguntas del detective, tu actitud <font color=\"#ff0000\">se verá / se considerará / se creerá</font> sospechosa</i>.</div><div><br></div><div>O mejor aún (aunque los verbos en español dejan de ser pasivos):</div><div><br></div><div><i>Si no respondes las preguntas del detective, <font color=\"#ff0000\">creerán / pensarán</font> que tu actitud es sospechosa</i>.</div>", 
                                 "", 
                                 "", 
                                 "", 
@@ -6601,6 +6601,72 @@
                                 "N1", 
                                 "Niponismo", 
                                 "とりわけ"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とされる", 
+                                "とされる", 
+                                "とされる", 
+                                "ser considerado", 
+                                "Frase / S + <font color=\"#ff0000\">＿＿＿</font>", 
+                                "Expresión formada a partir de la partícula と y la forma pasiva del verbo する para indicar cómo algo es considerado sin especificar precisamente por quién.<div><br /></div><div>彼奴[あいつ]は 自分[じぶん]の 目的[もくてき]を 果[は]たすため 何[なん]でも 出来[でき]て 極[きわ]めて 危[あぶ]ない<font color=\"#ff0000\">＿＿＿</font> 人物[じんぶつ]だ。</div><div><i>Ese tipo es un sujeto que <font color=\"#ff0000\">se considera</font> muy peligroso y capaz de hacer cualquier cosa para cumplir sus objetivos</i>.</div><div><br /></div><div>Se puede usar con cualquier estructura pero se debe tener cuidado de que no lleva la partícula declarativa だ cuando se usa junto a un sustantivo.</div><div><br /></div><div>その 国[くに]は 回復[かいふく]すべく 国際的[こくさいてき]な 援助[えんじょ]が 必要[ひつよう]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>La ayuda internacional <font color=\"#ff0000\">se considera</font> necesaria para que ese país se pueda recuperar</i>.</div><div><br /></div><div>Lo mismo sucede con los adjetivos な.</div><div><br /></div><div>私[わたし]の 国[くに]ではそれは 不行儀[ふぎょうぎ]<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>En mi país eso <font color=\"#ff0000\">se considera</font> de mala educación</i>.</div><div><br /></div><div>La parte verbal de esta expresión puede estar conjugada de muchas formas siempre y cuando esté en modo pasivo.</div><div><br /></div><div>アインシュタインは 二十世紀[にじゅうせいき]のもっとも 偉大[いだい]な 天才[てんさい]<font color=\"#ff0000\">＿＿＿</font> <font color=\"#ff0000\">来[き]た</font>。</div><div><i>A Einstein <font color=\"#ff0000\">se lo ha llegado a considerar</font> el genio más grande del siglo XX</i>.</div><div><br /></div><div>Por ejemplo, puede hacer referencia a cómo algo se consideraba en el pasado.</div><div><br /></div><div>曾[かつ]てそれは 縁起悪[えんぎわる]い<font color=\"#ff0000\">＿＿＿</font>。</div><div><i>Antes eso <font color=\"#ff0000\">se consideraba</font> de mala fortuna</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Es sinónima de と 思[おも]われる, と 考[かんが]えられる y と 見[み]られる cuando éstas se usan con la misma connotación.</div><div><br /></div><div>アインシュタインは 二十世紀[にじゅうせいき]のもっとも 偉大[いだい]な 天才[てんさい]{<font color=\"#ff0000\">と 見[み]られて 来[き]た/と 思[おも]われて 来[き]た/と 考[かんが]えられてきた/＿＿＿ 来[き]た</font>}。</div><div><i>A Einstein <font color=\"#ff0000\">se lo ha llegado a considerar</font> el genio más grande del siglo XX</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "O@}hYiA+_|", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "とっさに", 
+                                "とっさに", 
+                                "とっさに", 
+                                "en este mismo instante / en este mismo momento / en ese mismo instante / en ese mismo momento", 
+                                "<font color=\"#ff0000\">＿＿＿</font> + acción", 
+                                "Adverbio que indica inmediatez, es decir, que algo ocurre o se lleva a cabo en el acto.<div><br /></div><div>あの 人[ひと]を 以前[いぜん]どこかで 見[み]たことがある 気[き]がするが、<font color=\"#ff0000\">＿＿＿</font>はよく 思[おも]い 出[だ]せない。</div><div><i>Tengo la sensación de haber visto antes a esa persona pero no lo puedo recordar bien <font color=\"#ff0000\">en este mismo instante / en este mismo momento</font></i>.</div><div><br /></div><div>En consecuencia, este adverbio debe ser seguido por una acción.</div><div><br /></div><div>皆[みんな]は 彼女[かのじょ]の 悪口[わるぐち]を 言[い]った 時[とき]、 彼[かれ]は<font color=\"#ff0000\">＿＿＿</font> 弁護[べんご]してくれた。</div><div><i>Cuando todos hablaban mal de ella, él la defendió <font color=\"#ff0000\">en ese mismo instante / en ese mismo momento</font></i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><br /></div><div>Este adverbio tiene un sin fin de sinónimos, lo cual permite que se lo pueda interpretar de muchas formas diferentes. Sin embargo, resulta más conveniente recordar que proviene del sustantivo &nbsp;咄嗟[とっさ], el cual significa \"instante\" o \"momento\", para reducir el número de interpretaciones y así poder memorizarla más fácilmente.</div><div><br /></div><div>「 嘘[うそ]じゃない」 彼[かれ]は｛<font color=\"#ff0000\">＿＿＿/ 直[す]ぐに/ 一瞬[いっしゅん]にして/その 場[ば]で/…</font>｝ 言[い]い 返[かえ]した。</div><div><i>\"No es mentira\", replicó él <font color=\"#ff0000\">en ese mismo instante / en ese mismo momento / enseguida / de inmediato / en el acto / rápidamente</font></i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "hLPO*c4e;-", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "とっさに"
                             ]
                         }
                     ]
@@ -35383,6 +35449,300 @@
                                 "とりわけ", 
                                 "特に"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "消費者の米離れや国際市場解放が原因＿＿＿米価の下落が原因だ。", 
+                                "La causa es la caída en el valor del arroz, que a su vez, <font color=\"#ff0000\">se considera</font> que se debe a la pérdida de interés por parte del consumidor y la liberación de los mercados internacionales.", 
+                                "消費[しょうひ] 者[しゃ]の 米[べい] 離[ばな]れや 国際[こくさい] 市場[しじょう] 解放[かいほう]が 原因[げんいん]<font color=\"#ff0000\">とされる</font> 米価[べいか]の 下落[げらく]が 原因[げんいん]だ。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cd&{^t8/ae", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "必要＿＿＿お金はいつでも与えられるでしょう。", 
+                                "Siempre se otorgará el dinero que <font color=\"#ff0000\">se considere</font> necesario.", 
+                                "必要[ひつよう]<font color=\"#ff0000\">とされる</font>お 金[かね]はいつでも 与[あた]えられるでしょう。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "u2Ps9u60~0", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼に責められる非はない＿＿＿。", 
+                                "<font color=\"#ff0000\">Se consideró</font> que no había nada de qué culparle.", 
+                                "彼[かれ]に 責[せ]められる 非[ひ]はない<font color=\"#ff0000\">とされた</font>。", 
+                                "とされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Dw<qN1+`cb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "犯罪はしばしば貧困と関連がある＿＿＿きた。", 
+                                "A menudo <font color=\"#ff0000\">se ha considerado</font> que existe un vínculo entre el crimen y la pobreza.", 
+                                "犯罪[はんざい]はしばしば 貧困[ひんこん]と 関連[かんれん]がある<font color=\"#ff0000\">とされて</font>きた。", 
+                                "とされて"
+                            ], 
+                            "flags": 0, 
+                            "guid": "zD*&?(0[#T", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "日本では誰かに会った時、お辞儀をするのが礼儀＿＿＿。", 
+                                "En Japón <font color=\"#ff0000\">se considera</font> de buenos modales hacer una reverencia al encontrarse con alguien.", 
+                                "日本[にっぽん]では 誰[だれ]かに 会[あ]った 時[とき]、お 辞儀[じぎ]をするのが 礼儀[れいぎ]<font color=\"#ff0000\">とされる</font>。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "g%w(QP`?R+", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "選挙では、それが誰であれ、過半数を得た候補者が当選＿＿＿。", 
+                                "En una elección, <font color=\"#ff0000\">se considera</font> ganador al candidato que obtenga la mayoría de los votos.", 
+                                "選挙[せんきょ]では、それが 誰[だれ]であれ、 過半数[かはんすう]を 得[え]た 候補[こうほ] 者[しゃ]が 当選[とうせん]<font color=\"#ff0000\">とされる</font>。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fh7Z9>gj5)", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "よく似たケースで責任は会社にある＿＿＿。", 
+                                "En un caso muy similar la compañía <font color=\"#ff0000\">fue considerada</font> responsable.", 
+                                "よく 似[に]たケースで 責任[せきにん]は 会社[かいしゃ]にある<font color=\"#ff0000\">とされた</font>。", 
+                                "とされた"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Pk$uk|+9.U", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "シンガポールでは道路に唾を吐くのは犯罪＿＿＿。", 
+                                "En Singapur <font color=\"#ff0000\">se considera</font> un crimen escupir en el camino.", 
+                                "シンガポールでは 道路[どうろ]に 唾[つば]を 吐[は]くのは 犯罪[はんざい]<font color=\"#ff0000\">とされる</font>。", 
+                                "とされる"
+                            ], 
+                            "flags": 0, 
+                            "guid": "cL[&Hz]:w7", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "とされる"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "突然の出来事だったから、＿＿＿どうするかと考えられなかった。", 
+                                "Fue un hecho muy repentino por lo que no se me ocurrió qué hacer <font color=\"#ff0000\">en ese mismo momento</font>.", 
+                                "突然[とつぜん]の 出来事[できごと]だったから、<font color=\"#ff0000\">とっさに</font>どうするかと 考[かんが]えられなかった。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "wW{e~:!lEb", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "絶えずに電話が掛けて我々がどうすればいいかと迷った時、＿＿＿部長はどこととなく現れてチーム全体を導いてくれた。", 
+                                "Cuando los teléfonos sonanaban sin parar y nosotros no teníamos ni idea de qué hacer, el jefe llegó de la nada <font color=\"#ff0000\">en ese mismo instante</font> y guió a todo el equipo.", 
+                                "絶[た]えずに 電話[でんわ]が 掛[か]けて 我々[われわれ]がどうすればいいかと 迷[まよ]った 時[とき]、<font color=\"#ff0000\">とっさに</font> 部長[ぶちょう]はどこととなく 現[あらわ]れてチーム 全体[ぜんたい]を 導[みちび]いてくれた。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "HvVChzH41E", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は＿＿＿計画を立て始めた。", 
+                                "Ella comenzó a elaborar un plan <font color=\"#ff0000\">en ese mismo instante</font>.", 
+                                "彼女[かのじょ]は<font color=\"#ff0000\">とっさに</font> 計画[けいかく]を 立[た]て 始[はじ]めた。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "n!*f_C`nh@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "部長に言い返したら、＿＿＿後悔した。", 
+                                "Le repliqué al jefe de división y <font color=\"#ff0000\">en ese mismo instante</font> me arrepentí.", 
+                                "部長[ぶちょう]に 言い返[いいかえ]したら、<font color=\"#ff0000\">とっさに</font> 後悔[こうかい]した。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Mv`~5n8*nO", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "陪審は＿＿＿決断を発表した。", 
+                                "El jurado anunció su decision <font color=\"#ff0000\">en ese mismo instante</font>.", 
+                                "陪審[ばいしん]は<font color=\"#ff0000\">とっさに</font> 決断[けつだん]を 発表[はっぴょう]した。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "KJsMcTk{HL", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女は顔をみせて部屋は＿＿＿静まった。", 
+                                "Ella apareció y la habitación quedó en silencio <font color=\"#ff0000\">en ese mismo instante</font>.", 
+                                "彼女[かのじょ]は 顔[かお]をみせて 部屋[へや]は<font color=\"#ff0000\">とっさに</font> 静[しず]まった。", 
+                                "とっさに"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fXjZoP|ZCs", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "とっさに"
+                            ]
                         }
                     ]
                 }
@@ -35513,9 +35873,9 @@
                 "Gramática", 
                 "Japonés", 
                 "N1", 
+                "Niponismo", 
                 "Oración", 
-                "tatoeba", 
-                "とりわけ"
+                "とっさに"
             ], 
             "tmpls": [
                 {
@@ -35719,7 +36079,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "とりわけ"
+                "とっさに"
             ], 
             "tmpls": [
                 {
