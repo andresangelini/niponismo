@@ -6668,6 +6668,39 @@
                                 "Niponismo", 
                                 "とっさに"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "一〜として〜ない", 
+                                "一〜として〜ない", 
+                                "一〜として〜ない", 
+                                "ni un solo / ni uno solo / ni una sola", 
+                                "一 + Contador + <font color=\"#ff0000\">＿＿＿</font> + Vない", 
+                                "Expresión enfática que niega cualquier ejemplo que cumpla determinada condición con excepción de algún caso.<div><br /></div><div>私[わたし]とゆいさん 以外[いがい]は 誠[まこと]くんがしたことを 誰[だれ] <font color=\"#ff0000\">一人[ひとり]＿＿＿</font> 知[し]ら<font color=\"#ff0000\">ない</font>。</div><div><i><font color=\"#ff0000\">Ni una sola</font> persona sabe lo que hizo Makoto aparte de Yui y yo</i>.</div><div><br /></div><div>Como se está negando que exista \"ni un\" caso, la cantidad siempre será uno, pero naturalmente, el contador a usar depende de lo que se esté contando.</div><div><br /></div><div>あなたの 所為[せい]で、 <font color=\"#ff0000\">一夜[いちや]＿＿＿</font> 眠[ねむ]れ<font color=\"#ff0000\">なかった</font>。</div><div><i>Por tu culpa, no dormí <font color=\"#ff0000\">ni una sola</font> noche</i>.</div><div><br /></div><div>Puede usarse para referirse a cualquier tiempo.</div><div><br /></div><div>彼[かれ]は 丸一晩[まるいちばん]でビールを <font color=\"#ff0000\">一本[いっぽん]＿＿＿</font> 飲[の]み<font color=\"#ff0000\">なかった</font>。</div><div><i>Él no bebió <font color=\"#ff0000\">ni una sola</font> botella en toda la noche</i>.</div><div><br /></div><div><b>Expresiones similares</b></div><div><b><br /></b></div><div>En determinados usos, es similar a （で/に）さえ（も）〜ない y （で/に）すら（も）ない. y por lo tanto, puede remplazarse con ella.</div><div><br /></div><div>彼[かれ]は 丸一晩[まるいちばん]でビールを 一本[いっぽん]｛<font color=\"#ff0000\">（で/に）さえ（も）/（で/に）すら（も）/＿＿＿</font>｝ 飲[の]みなかった。</div><div><i>Él no bebió <font color=\"#ff0000\">ni siquiera una / ni una sola</font> botella en toda la noche</i>.</div><div><br /></div><div>Pero lo contrario no es posible si se habla de otra cosa que no sea algo contable, como por ejemplo, una acción.</div><div><br /></div><div>ひかりはこの 一週間[いっしゅうかん]ずっと 私[わたし]に 話[はな]すこと｛<font color=\"#ff0000\">＿＿＿✕/（で/に）さえ（も）/（で/に）すら（も）</font>｝なかった。</div><div><i>Hikari <font color=\"#ff0000\">ni siquiera</font> me ha hablado durante toda esta semana</i>.</div><div><br /></div><div>Para poderlo usar, habría que agregar 一度.</div><div><br /></div><div>ひかりはこの 一週間[いっしゅうかん]ずっと 私[わたし]に 一度[いちど]｛<font color=\"#ff0000\">＿＿＿/（で/に）さえ（も）/（で/に）すら（も）</font>｝ 話[はな]さなかった。</div><div><i>Hikari no me ha hablado <font color=\"#ff0000\">ni una una sola / ni siquiera una sola vez</font> en toda esta semana</i>.</div>", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                "", 
+                                ""
+                            ], 
+                            "flags": 0, 
+                            "guid": "DJDt&-CBTj", 
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "一〜として〜ない"
+                            ]
                         }
                     ]
                 }, 
@@ -35743,6 +35776,132 @@
                                 "Oración", 
                                 "とっさに"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "関係者以外一人＿＿＿入りません。", 
+                                "No entrará <font color=\"#ff0000\">ni una sola</font> persona más a excepeción de los involucrados.", 
+                                "関係[かんけい] 者[しゃ] 以外[いがい]一 人[にん]<font color=\"#ff0000\">として</font> 入[はい]りません。", 
+                                "として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "fwYv[yz?{+", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "一〜として〜ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "ホテルの周辺は凄くうるさくて一夜＿＿＿泊れられなかった。", 
+                                "El área alrededor del hotel era muy ruidoso y no pude alojarme <font color=\"#ff0000\">ni una sóla</font> noche.", 
+                                "ホテルの 周辺[しゅうへん]は 凄[すご]くうるさくて 一夜[いちや]<font color=\"#ff0000\">として</font> 泊[とま]れられなかった。", 
+                                "として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "v8!f5=(W_Q", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "一〜として〜ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "会議室でテンションが高いときているから、敢えて自分の意見を言う人は一人＿＿＿いなかった。", 
+                                "La tensión en la sala de conferencias era tan alta que no hubo <font color=\"#ff0000\">ni una sola</font> persona que se atreviera a dar su propia opinión.", 
+                                "会議[かいぎ] 室[しつ]でテンションが 高[たか]いときているから、 敢[あ]えて 自分[じぶん]の 意見[いけん]を 言[い]う 人[ひと]は一 人[にん]<font color=\"#ff0000\">として</font>いなかった。", 
+                                "として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "e2%QDA^`lN", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "一〜として〜ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼には一円＿＿＿貸さないくらい信じていない。", 
+                                "Confío tan poco en él que no le prestaría <font color=\"#ff0000\">ni un solo</font> yen.", 
+                                "彼[かれ]には 一円[いちえん]<font color=\"#ff0000\">として</font> 貸[か]さないくらい 信[しん]じていない。", 
+                                "として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "o>SL0D|%xj", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "一〜として〜ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "彼女のこと一日＿＿＿思っていない日がない。", 
+                                "No hay <font color=\"#ff0000\">ni un solo</font> día que no piense en ella.", 
+                                "彼女[かのじょ]のこと一 日[にち]<font color=\"#ff0000\">として</font> 思[おも]っていない 日[ひ]がない。", 
+                                "として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xBd_q4-#V@", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "一〜として〜ない"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "沈んだクルーザーの乗客は未だ一人＿＿＿見つからなかった。", 
+                                "Aún no se ha encontrado <font color=\"#ff0000\">ni un solo</font> pasajero del crusero hundido.", 
+                                "沈[しず]んだクルーザーの 乗客[じょうきゃく]は 未[いま]だ一 人[にん]<font color=\"#ff0000\">として</font> 見[み]つからなかった。", 
+                                "として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "Dw8-DnNF;L", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "一〜として〜ない"
+                            ]
                         }
                     ]
                 }
@@ -35875,7 +36034,7 @@
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "とっさに"
+                "一〜として〜ない"
             ], 
             "tmpls": [
                 {
@@ -36079,7 +36238,7 @@
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
-                "とっさに"
+                "一〜として〜ない"
             ], 
             "tmpls": [
                 {
