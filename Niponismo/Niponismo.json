@@ -3621,7 +3621,7 @@
                                 "なるべく", 
                                 "なるべく", 
                                 "なるべく", 
-                                "lo más (menos) posible", 
+                                "lo más... posible / lo menos... posible / tan... como sea posible", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + acción.", 
                                 "Expresión usada para indicar que una acción <font color=\"#ff0000\">se debe hacer o evitar tanto como sea posible</font>. En el lenguaje cotideano equivale a <font color=\"#ff0000\">できるだけ</font>, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical <font color=\"#ff0000\">se enfonca en lograr el cometido</font>.<div><br /></div><div><font color=\"#ff0000\">＿＿＿</font> 早[はや]く 診察[しんさつ]を 受[う]けたいのですが。</div><div><i>Me gustaría hacerme un examen médico <font color=\"#ff0000\">lo más</font> pronto <font color=\"#ff0000\">posible</font></i>.</div><div><br /></div><div>われわれは<font color=\"#ff0000\">＿＿＿</font> たくさん 本[ほん]を 読[よ]むべきである。</div><div><i>Nosotros debemos leer <font color=\"#ff0000\">tantos</font> libros <font color=\"#ff0000\">como sea posible</font></i>.</div>", 
                                 "", 
@@ -8947,7 +8947,7 @@
                             "data": "", 
                             "fields": [
                                 "巫山戯ないで。この出会いは偶然＿＿＿。疑った所為で君は俺の足跡をずっと密かに辿っていただろう。", 
-                                "¡No me mientas! No es casualidad que nos hayamos encontrado aquí. Como sospechabas de mi, me estuviste siguiendo todo este tiempo.", 
+                                "¡No me mientas! Que nos hayamos encontrado aquí no es casualidad <font color=\"#ff0000\">ni nada por el estilo</font>. Como sospechabas de mi, me estuviste siguiendo todo este tiempo.", 
                                 "巫山戯[ふざけ]ないで。この 出会[であ]いは 偶然[ぐうぜん]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">でも何でもない</font></span>。 疑[うたが]った 所為[せい]で 君[きみ]は 俺[おれ]の 足跡[あしあと]をずっと 密[ひそ]かに 辿[たど]っていただろう。", 
                                 "でも何でもない"
                             ], 
@@ -17798,7 +17798,7 @@
                             "data": "", 
                             "fields": [
                                 "ITの活用＿＿＿我が社の成長は望めません。", 
-                                "Sin el uso de las TI, no podemos esperar que nuestra compañía crezca.", 
+                                "<font color=\"#ff0000\">Sin</font> el uso de las TI, no podemos esperar que nuestra compañía crezca.", 
                                 "ITの 活用[かつよう]<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">なくして（は）/なしに（は）/なしでは</font></span>&nbsp;我[わ]が 社[しゃ]の 成長[せいちょう]は 望[のぞ]めません。", 
                                 "なくして（は）/なしに（は）/なしでは"
                             ], 
@@ -35823,9 +35823,9 @@
                             "__type__": "Note", 
                             "data": "", 
                             "fields": [
-                                "会議室でテンションが高いときているから、敢えて自分の意見を言う人は一人＿＿＿いなかった。", 
+                                "会議室でテンションが高かったときているから、敢えて自分の意見を言う人は一人＿＿＿いなかった。", 
                                 "La tensión en la sala de conferencias era tan alta que no hubo <font color=\"#ff0000\">ni una sola</font> persona que se atreviera a dar su propia opinión.", 
-                                "会議[かいぎ] 室[しつ]でテンションが 高[たか]いときているから、 敢[あ]えて 自分[じぶん]の 意見[いけん]を 言[い]う 人[ひと]は一 人[にん]<font color=\"#ff0000\">として</font>いなかった。", 
+                                "会議[かいぎ] 室[しつ]でテンションが 高[たか]かったきているから、 敢[あ]えて 自分[じぶん]の 意見[いけん]を 言[い]う 人[ひと]は一 人[にん]<font color=\"#ff0000\">として</font>いなかった。", 
                                 "として"
                             ], 
                             "flags": 0, 
