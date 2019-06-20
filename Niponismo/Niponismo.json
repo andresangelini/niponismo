@@ -3621,7 +3621,7 @@
                                 "なるべく", 
                                 "なるべく", 
                                 "なるべく", 
-                                "lo más... posible / lo menos... posible / tan... como sea posible", 
+                                "lo más... posible / lo menos... posible / tan... como sea posible / tantos... como sea posible / tantas... como sea posible", 
                                 "<font color=\"#ff0000\">＿＿＿</font> + acción.", 
                                 "Expresión usada para indicar que una acción <font color=\"#ff0000\">se debe hacer o evitar tanto como sea posible</font>. En el lenguaje cotideano equivale a <font color=\"#ff0000\">できるだけ</font>, pero mientras que éste hace énfasis en las limitaciones, esta forma gramatical <font color=\"#ff0000\">se enfonca en lograr el cometido</font>.<div><br /></div><div><font color=\"#ff0000\">＿＿＿</font> 早[はや]く 診察[しんさつ]を 受[う]けたいのですが。</div><div><i>Me gustaría hacerme un examen médico <font color=\"#ff0000\">lo más</font> pronto <font color=\"#ff0000\">posible</font></i>.</div><div><br /></div><div>われわれは<font color=\"#ff0000\">＿＿＿</font> たくさん 本[ほん]を 読[よ]むべきである。</div><div><i>Nosotros debemos leer <font color=\"#ff0000\">tantos</font> libros <font color=\"#ff0000\">como sea posible</font></i>.</div>", 
                                 "", 
@@ -12232,7 +12232,7 @@
                             "data": "", 
                             "fields": [
                                 "田中さんが物事を悲観的に考える＿＿＿。", 
-                                "Tanaka tiende a ver todo en forma pesimista.", 
+                                "Tanaka <font color=\"#ff0000\">tiende a</font> ver todo en forma pesimista.", 
                                 "田中[たなか]さんが 物事[ものごと]を 悲観[ひかん] 的[てき]に 考[かんが]える&nbsp;<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">嫌[きら]いがある</font></span>。", 
                                 "嫌いがある"
                             ], 
