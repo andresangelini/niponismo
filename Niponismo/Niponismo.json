@@ -678,10 +678,10 @@
                                 "であれ/であろうと", 
                                 "であれ/であろうと", 
                                 "sea lo que sea", 
-                                "<div>Sustantivo o adjetivo な + forma gramatical.</div><div>誰[だれ], どこ, なに + froma gramatical.</div>", 
-                                "También puede usarse en su forma volitiva junto a la partícula と y es equivalente a ～にせよ y ～しろ, al igual que &nbsp;如何[いか]なる～でも. Indica que sin importar lo que algo fuese, el resultado no cambia. Su lectura cambia según qué lo acompaña:<div><br /></div><div><div>誰[だれ] + forma gramatical significa \"sea quien sea\".</div><div>どこ + forma gramatical significa \"sea donde sea\".</div><div>何[なに] + forma gramatical significa \"sea lo que sea\".</div><div>どの + sustantivo o adjetivo な + forma gramatical significa \"sea el que sea\".</div></div>", 
-                                "選挙[せんきょ]では、それが 誰[だれ]＿＿＿、 過半数[かはんすう]を 得[え]た 候補者[こうほしゃ]が 当選[とうせん]とされる。", 
-                                "En una elección, sea quien sea el que obtenga más votos, gana.", 
+                                "<div>S / Aな + <font color=\"#ff0000\">＿＿＿</font></div><div>誰[だれ], どこ, なに + <font color=\"#ff0000\">＿＿＿</font></div>", 
+                                "<div>Expresión usada para restarle importancia a alguien o algo indicando que éste no tiene influencia en el resultado final.</div><div><br /></div><div>どの 国[くに]で<font color=\"#ff0000\">＿＿＿</font> 国際法[こくさいほう]に 即(そく)して 行動[こうどう]するべきだ。</div><div><i><font color=\"#ff0000\">Sea el</font> país <font color=\"#ff0000\">que sea</font>, se supone que tiene que actuar de acuerdo a las leyes internacionales</i>.</div><div><br /></div>También puede usarse en su forma volitiva junto a la partícula と y es equivalente a ～にせよ y ～しろ, al igual que &nbsp;如何[いか]なる～でも. Indica que sin importar lo que algo fuese, el resultado no cambia. Su lectura cambia según qué lo acompaña:<div><br /></div><div><div>誰[だれ] + forma gramatical significa \"sea quien sea\".</div><div>どこ + forma gramatical significa \"sea donde sea\".</div><div>何[なに] + forma gramatical significa \"sea lo que sea\".</div><div>どの + sustantivo o adjetivo な + forma gramatical significa \"sea el que sea\".</div></div><div><br /></div><div><div>選挙[せんきょ]では、それが 誰[だれ]<font color=\"#ff0000\">＿＿＿</font>、 過半数[かはんすう]を 得[え]た 候補者[こうほしゃ]が 当選[とうせん]とされる。</div><div><i>En una elección,&nbsp;<font color=\"#ff0000\">sea quien sea</font>&nbsp;el que obtenga más votos, gana</i>.</div></div>", 
+                                "", 
+                                "", 
                                 "", 
                                 "", 
                                 "", 
@@ -699,6 +699,7 @@
                                 "Gramática", 
                                 "Japonés", 
                                 "N1", 
+                                "Niponismo", 
                                 "であれ/であろうと"
                             ]
                         }, 
