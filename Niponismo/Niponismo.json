@@ -16874,7 +16874,7 @@
                             "data": "", 
                             "fields": [
                                 "薬害の被害者たちは、これまでの苦しい経験を涙＿＿＿語った。", 
-                                "Las víctimas de las drogas hablas entre lágrimas de sus díficiles experiencias.", 
+                                "Las víctimas de las drogas hablas <font color=\"#ff0000\">entre</font> lágrimas de sus díficiles experiencias.", 
                                 "薬害[やくがい]の 被害[ひがい] 者[しゃ]たちは、これまでの 苦[くる]しい 経験[けいけん]を 涙[なみだ]<font color=\"#ff0000\">ながらに</font> 語[かた]った。", 
                                 "ながらに"
                             ], 
