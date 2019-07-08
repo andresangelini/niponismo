@@ -14944,7 +14944,7 @@
                             "data": "", 
                             "fields": [
                                 "少なくとも僕には二人が喧嘩している＿＿＿。", 
-                                "Al menos yo creo que ellos dos estaban peleando.", 
+                                "Al menos yo <font color=\"#ff0000\">creo que</font> ellos dos estaban peleando.", 
                                 "少[すく]なくとも 僕[ぼく]には二 人[にん]が 喧嘩[けんか]している<span style=\"font-family: 'Liberation Sans'\"><font color=\"#ff0000\">ものと 思[おも]われる</font></span>。", 
                                 "ものと思われる"
                             ], 
@@ -18607,7 +18607,7 @@
                             "data": "", 
                             "fields": [
                                 "彼はドアを開ける＿＿＿、靴をはいたまま部屋に入ってきた。", 
-                                "Fue apenas abrir la puerta y él entró con los zapatos puestos.", 
+                                "<font color=\"#ff0000\">Fue apenas</font> abrir la puerta y él entró con los zapatos puestos.", 
                                 "彼[かれ]はドアを 開[あ]ける<font color=\"#ff0000\">なり</font>、 靴[くつ]をはいたまま 部屋[へや]に 入[はい]ってきた。", 
                                 "なり"
                             ], 
