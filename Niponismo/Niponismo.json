@@ -9750,8 +9750,8 @@
                             "data": "", 
                             "fields": [
                                 "彼女は女王＿＿＿芸能界に君臨している。", 
-                                "Ella domina en el mundo del entretenimiento como si fuera una reina.", 
-                                "彼女[かのじょ]は 女王[じょおう]<font color=\"#ff0000\">（か）の&nbsp;</font><span style=\"color: rgb(0, 0, 255);font-family: 'Liberation Sans'\">如[ごと]く/であるかの 如[ごと]く</span>&nbsp;芸能[げいのう] 界[かい]に 君臨[くんりん]している。", 
+                                "Ella domina en el mundo del entretenimiento <font color=\"#ff0000\">como</font> si fuera una reina.", 
+                                "彼女[かのじょ]は 女王[じょおう]<font color=\"#ff0000\">（か）の&nbsp;<span style=\"font-family: 'Liberation Sans'\">如[ごと]く/であるかの 如[ごと]く</span></font>&nbsp;芸能[げいのう] 界[かい]に 君臨[くんりん]している。", 
                                 "（か）の如く/であるかの如く"
                             ], 
                             "flags": 0, 
