@@ -13696,7 +13696,7 @@
                             "data": "", 
                             "fields": [
                                 "言う＿＿＿、学生にとっては勉強が一番大切だ。", 
-                                "No hace falta que diga que lo más importante para un estudiante es el estudio.", 
+                                "<font color=\"#ff0000\">No hace falta</font> que diga que lo más importante para un estudiante es el estudio.", 
                                 "言[い]う<font color=\"#ff0000\">までもなく</font>、 学生[がくせい]にとっては 勉強[べんきょう]が 一番[いちばん] 大切[たいせつ]だ。", 
                                 "までもなく"
                             ], 
