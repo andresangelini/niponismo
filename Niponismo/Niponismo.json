@@ -36986,6 +36986,144 @@
                                 "Oración", 
                                 "はおろか"
                             ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "内容＿＿＿、なにこの物々しい話し方は？", 
+                                "<font color=\"#ff0000\">Dejando a un lado</font> el contenido de la discusión, ¿qué es esta forma tan presuntuosa de hablar?", 
+                                "内容[ないよう]<font color=\"#ff0000\"><span style=\"color: rgb(255, 0, 0)\">はさておき/</span>は 別[べつ]として</font>、なにこの 物々[ものもの]しい 話し方[はなしかた]は？", 
+                                "はさておき/は別として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "xw,RXSO4;~", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "はさておき", 
+                                "は別として"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "値段＿＿＿、そのドレスは君には似合わない。", 
+                                "<font color=\"#ff0000\">Dejando a un lado</font> el precio, ese vestido no te queda bien.", 
+                                "値段[ねだん]<font color=\"#ff0000\">はさておき/は 別[べつ]として</font>、そのドレスは 君[きみ]には 似合[にあ]わない。", 
+                                "はさておき/は別として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "M?_XMH1O-o", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "はさておき", 
+                                "は別として"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "冗談＿＿＿、君は何をするつもりなの。", 
+                                "<font color=\"#ff0000\">Dejando a un lado</font> las bromas, ¿qué tenés planeado hacer?", 
+                                "冗談[じょうだん]<font color=\"#ff0000\">はさておき/は 別[べつ]として</font>、 君[きみ]は 何[なに]をするつもりなの。", 
+                                "はさておき/は別として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "J}(5&[[I!}", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "はさておき", 
+                                "は別として"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "結果＿＿＿、あなたの意図はよかった。", 
+                                "<font color=\"#ff0000\">Dejando a un lado</font> el resultado, tu intención fue buena.", 
+                                "結果[けっか]<font color=\"#ff0000\">はさておき/は 別[べつ]として</font>、あなたの 意図[いと]はよかった。", 
+                                "はさておき/は別として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "OnY:HN2hVJ", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "はさておき", 
+                                "は別として"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "何＿＿＿もっと健康に注意するべきだ。", 
+                                "Dejando a un lado todo los demás, deberías enfocarte en tu salud.", 
+                                "何[なに]<font color=\"#ff0000\">はさておき/は 別[べつ]として</font>もっと 健康[けんこう]に 注意[ちゅうい]するべきだ。", 
+                                "はさておき/は別として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "hyu?04gq?P", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Oración", 
+                                "tatoeba", 
+                                "はさておき", 
+                                "は別として"
+                            ]
+                        }, 
+                        {
+                            "__type__": "Note", 
+                            "data": "", 
+                            "fields": [
+                                "世論＿＿＿、大統領はどう思っているだろうか。", 
+                                "<font color=\"#ff0000\">Dejando a un lado</font> la opinión pública, ¿qué piensa el presidente?", 
+                                "世論[せろん]<font color=\"#ff0000\">はさておき/は 別[べつ]として</font>、 大統領[だいとうりょう]はどう 思[おも]っているだろうか。", 
+                                "はさておき/は別として"
+                            ], 
+                            "flags": 0, 
+                            "guid": "rrJ*aP+<3h", 
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587", 
+                            "tags": [
+                                "Definición", 
+                                "Gramática", 
+                                "Japonés", 
+                                "N1", 
+                                "Niponismo", 
+                                "Oración", 
+                                "はさておき", 
+                                "は別として"
+                            ]
                         }
                     ]
                 }
@@ -37113,12 +37251,14 @@
             ], 
             "sortf": 0, 
             "tags": [
+                "Definición", 
                 "Gramática", 
                 "Japonés", 
                 "N1", 
                 "Niponismo", 
                 "Oración", 
-                "はおろか"
+                "はさておき", 
+                "は別として"
             ], 
             "tmpls": [
                 {
