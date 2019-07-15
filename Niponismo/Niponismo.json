@@ -7344,8 +7344,8 @@
                             "data": "", 
                             "fields": [
                                 "この薬品は＿＿＿毒にも薬にもなる。", 
-                                "Dependiendo del caso, esta medicina te puede hacer bien o mal.", 
-                                "この 薬品[やくひん]は&nbsp;<span style=\"color: rgb(0, 0, 255)\">場合[ばあい]によっては</span>&nbsp;毒[どく]にも 薬[くすり]にもなる。", 
+                                "<font color=\"#ff0000\">Dependiendo del caso</font>, esta medicina te puede hacer bien o mal.", 
+                                "この 薬品[やくひん]は&nbsp;<font color=\"#ff0000\">場合[ばあい]によっては</font>&nbsp;毒[どく]にも 薬[くすり]にもなる。", 
                                 "場合によっては"
                             ], 
                             "flags": 0, 
