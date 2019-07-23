@@ -30493,6 +30493,146 @@
                                 "tatoeba",
                                 "やしない"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "誰が何と言＿＿＿この計画を実施つもりだ。",
+                                "<font color=\"#ef2929\">Da igual</font> lo que digan, voy a llevar acabo este plan.",
+                                "誰[だれ]が 何[なん]と 言[い]<font color=\"#ef2929\">おうが/おうと/おうとも</font>この 計画[けいかく]を 実施[じっし]つもりだ。",
+                                "おうが/おうと/おうとも"
+                            ],
+                            "flags": 0,
+                            "guid": "oDo|kMImYk",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うが",
+                                "うと",
+                                "うとも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "幾ら高か＿＿＿一度でさえ日本を旅行したい。",
+                                "Me <font color=\"#ef2929\">da igual</font> cuán caro sea, quiero viajar a Japón al menos una vez.",
+                                "幾[いく]ら 高[たか]か<font color=\"#ef2929\">おうが/おうと/おうとも</font>一 度[ど]でさえ 日本[にっぽん]を 旅行[りょこう]したい。",
+                                "おうが/おうと/おうとも"
+                            ],
+                            "flags": 0,
+                            "guid": "NMfa4R$^%q",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うが",
+                                "うと",
+                                "うとも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "親は賛成＿＿＿賛成＿＿＿彼女はいつも勝手にする。",
+                                "<font color=\"#ef2929\">Da igual</font> si los padres están de acuerdo o no, ella siempre hace lo que quiere.",
+                                "親[おや]は 賛成[さんせい]<font color=\"#ef2929\">しようが/しようと/しても</font> 賛成[さんせい]<font color=\"#ef2929\">するまいか/しなくても</font> 彼女[かのじょ]はいつも 勝手[かって]にする。",
+                                "しようが〜するまいか/しようと〜するまいか/しても〜しなくても"
+                            ],
+                            "flags": 0,
+                            "guid": "n#7A@#|yMp",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うが",
+                                "うと",
+                                "ても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "同僚＿＿＿上司＿＿＿そんな風に話してはいけないでしょう。",
+                                "<font color=\"#ef2929\">Da igual</font> si es un compañero o es un jefe, él no puede hablar de esa forma.",
+                                "同僚[どうりょう]<font color=\"#ef2929\">だろうが/だろうと/であろうが/であろうと/だろうとも/であろうとも/でも</font> 上司[じょうし]<font color=\"#ef2929\">だろうが/だろうと/であろうが/であろうと/だろうとも/であろうとも/でも</font>そんな 風[かぜ]に 話[はな]してはいけないでしょう。",
+                                "だろうが〜だろうが/だろうと〜だろうと/であろうが〜であろうが/であろうと〜であろうと/だろうとも/であろうとも/でも〜でも"
+                            ],
+                            "flags": 0,
+                            "guid": "boJFb<mm1{",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うが",
+                                "うと",
+                                "うとも",
+                                "ても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "部長はどんなに忙し＿＿＿その契約をサインする前にちゃんと読んでしかるべきだった。",
+                                "<font color=\"#ef2929\">Da igual</font> cuán ocupado estuviese el jefe, él tenía que haber leído bien el contrato antes de firmar.",
+                                "部長[ぶちょう]はどんなに 忙[いそが]し<font color=\"#ef2929\">かろうが/かろうと/かろうとも/くても</font>その 契約[けいやく]をサインする 前[まえ]にちゃんと 読[よ]んでしかるべきだった。",
+                                "かろうが/かろうと/かろうとも/くても"
+                            ],
+                            "flags": 0,
+                            "guid": "cD!{@5d_zZ",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うが",
+                                "うと",
+                                "うとも",
+                                "ても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼との付き合いは昔のことだから、結婚＿＿＿結婚＿＿＿私と全く関係ない。",
+                                "Nuestra relación fue hace mucho tiempo así que me <font color=\"#ef2929\">da igual</font> si se casa o no. No tiene absolutamente nada que ver conmigo.",
+                                "彼[かれ]との 付き合[つきあ]いは 昔[むかし]のことだから、 結婚[けっこん]<font color=\"#ef2929\">しようが/しようと/しても</font> 結婚[けっこん]<font color=\"#ef2929\">するまいか/しなくても</font> 私[わたし]と 全[まった]く 関係[かんけい]ない。",
+                                "しようが〜するまいか/しようと〜するまいか/しても/しなくても"
+                            ],
+                            "flags": 0,
+                            "guid": "rQY<M3q4Jn",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うが",
+                                "うと",
+                                "ても"
+                            ]
                         }
                     ]
                 },
@@ -37500,6 +37640,40 @@
                                 "Niponismo",
                                 "やしない"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "うが/うと",
+                                "うが/うと",
+                                "うが/うと",
+                                "dar igual / dar lo mismo",
+                                "V volitivo + <font color=\"#ef2929\">＿＿＿</font><div>V volitivo + <font color=\"#ef2929\">＿＿＿</font> + V informal + まい + <font color=\"#ef2929\">＿＿＿</font></div><div>Aい sin い + ろう + <font color=\"#ef2929\">＿＿＿</font></div><div>Aな sin な / S+ だろう/であろう + <font color=\"#ef2929\">＿＿＿</font><br></div>",
+                                "<div>Expresión conjuntiva que se emplea a modo de concesión.</div><div><br></div><div>お 父[とう]さんは 何[なん]と 言[い]お<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>彼[かれ]と 結婚[けっこん]する。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> lo que diga mi padre, yo me voy a casar con él</i>.<br></div><div><br></div><div><div>Esta estructura se forma usando un verbo volitivo junto a la partícula が o と. Cualquiera de ellas es exactamente lo mismo porque no varían el significado.</div></div><div><br></div><div>相手[あいて]のチームはどんなに 優秀[ゆうしゅう]であろ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>我[われわれ]々は 絶対[ぜったい]に 負[ま]けないぞ。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> cuán bueno sea el equipo rival, ¡nosotros jamás perderemos!</i><br></div><div><i><br></i></div><div><div>Al igual que en el español, se pueden hacer más de una concesión en una misma frase.</div></div><div><br></div><div>明日[あした]は 雨[あめ]が 降[ふ]ろ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>地震[じしん]が 起[お]ころ<font color=\"#ef2929\">＿＿＿</font>、このイベントを 中止[ちゅうし]するわけにはいかに。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si mañana llueve o ocurre un terremoto, no hay forma de que vayamos a cancelar este evento</i>.<br></div><div><br></div><div><div>Se debe prestar particular atención con los adjetivos ya que estos también deben ser conjugados correctamente para poder ser usados con esta expresión.</div></div><div><br></div><div><div>A los adjetivos い se les debe cambiar la última い por ろう.</div></div><div><br></div><div>いくら 高[たか]ろ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>妻[つま]はそのネックラスが 欲[ほ]しい。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> cuánto cueste, mi esposa quiere ese collar</i>.<br></div><div><br></div><div><div>A los adjetivos な, por su parte, se le cambia la な por だろう o であろう.</div></div><div><br></div><div>便利[べんり]｛<font color=\"#ef2929\">だろう/であろう</font>｝｛<font color=\"#ef2929\">＿＿＿</font>｝ 電車[でんしゃ]を 使[つか]いたくないわ。<br></div><div><i>Me <font color=\"#ef2929\">da igual / da lo mismo</font> si es conveniente, yo no quiero usar el tren</i>.<br></div><div><br></div><div><div>Como suele suceder, los sustantivos se comportan exactamente igual que los adjetivos な.</div></div><div><br></div><div>飛行機[ひこうき]｛<font color=\"#ef2929\">だろう/であろう</font>｝｛<font color=\"#ef2929\">＿＿＿</font>｝ 電車[でんしゃ]｛<font color=\"#ef2929\">だろう/であろう</font>｝｛<font color=\"#ef2929\">＿＿＿</font>｝、どちらにも 乗[の]れないよ。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si es un avión o un tren, no me puedo subir a ninguno de los dos</i>.<br></div><div><br></div><div><div>Esta expresión tiene una variante en la cual se emplea un mismo verbo conjugado en volitivo positivo y luego en volitivo negativo para expresar la idea de que no importa de si la acción se ejecuta o no. El volitivo negativo se forma con un verbo conjugado al informal y agregando まい detrás.</div></div><div><br></div><div>彼[かれ]はパーティーに 来[き]よ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>来[く]るまい<font color=\"#ef2929\">＿＿＿</font>、 誰[だれ]も 構[かま]わない。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si él viene a la fiesta o no, a nadie le importa</i>.<br></div><div><br></div><div><b>Expresiones similares</b></div><div><br></div><div><div>La partícula ても es muy similar a <font color=\"#ef2929\">＿＿＿</font> aunque no es tan enfático y se puede emplear tanto de forma escrita como oral.</div></div><div><br></div><div>お 父[とう]さんは 何[なん]と｛ 言[い]お<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>言[い]お<font color=\"#ef2929\">＿＿＿</font>/ 言[い]<font color=\"#ef2929\">っても</font>｝ 彼[かれ]と 結婚[けっこん]する。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> lo que diga mi padre, yo me voy a casar con él</i>.<br></div><div><br></div><div><div>Incluso puede reemplazarla cuando se hace más de una concesión.</div></div><div><br></div><div>明日[あした]は 雨[あめ]が｛ 降[ふ]ろ<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>降[ふ]ろ<font color=\"#ef2929\">＿＿＿</font>/ 降[ふ]っ<font color=\"#ef2929\">ても</font>｝ 地震[じしん]が｛ 起[お]ころ<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>起[お]ころ<font color=\"#ef2929\">＿＿＿</font>/ 起[お]こっ<font color=\"#ef2929\">ても</font>｝、このイベントを 中止[ちゅうし]するわけにはいかない。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si mañana llueve o ocurre un terremoto, no hay forma de que vayamos a cancelar este evento</i>.<br></div><div><br></div><div><div>También se puede usar de igual forma que V volitivo + が/と + V informal + まい + が/と.</div></div><div><br></div><div>彼[かれ]はパーティーに｛ 来[き]よ<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>来[き]よ<font color=\"#ef2929\">＿＿＿</font>/ 来[き]<font color=\"#ef2929\">ても</font>｝｛ 来[き]るまい<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>来[き]るまい<font color=\"#ef2929\">＿＿＿</font>/ 来[き]<font color=\"#ef2929\">なくても</font>｝、 誰[だれ]も 構[かま]わない。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si él viene a la fiesta o no, a nadie le importa</i>.<br></div><div><br></div><div><div>うとも tiene el mismo significado que うが/うと.</div></div><div><br></div><div>お 父[とう]さんは 何[なん]と 言[い]お<font color=\"#ef2929\">＿＿＿/うとも</font><strong>&nbsp;</strong>彼[かれ]と 結婚[けっこん]する。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> lo que diga mi padre, yo me voy a casar con él</i>.<br></div><div><br></div><div><div>Con esta expresión también es posible dar más de una conseción.</div></div><div><br></div><div>明日[あした]は 雨[あめ]が 降[ふ]ろ<font color=\"#ef2929\">＿＿＿/うとも</font><strong>&nbsp;</strong>地震[じしん]が 起[お]ころ<font color=\"#ef2929\">＿＿＿/うとも</font>、このイベントを 中止[ちゅうし]するわけにはいかに。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si mañana llueve o ocurre un terremoto, no hay forma de que vayamos a cancelar este evento</i>.<br></div><div><br></div><div><div>Dicho esto, esta forma no se puede emplear verbos volitivos conjugados al negativo.</div></div><div><br></div><div>彼[かれ]はパーティーに 来[き]よ<font color=\"#ef2929\">うとも</font><strong>&nbsp;</strong>来[く]るまい<font color=\"#ef2929\">とも</font>、 誰[だれ]も 構[かま]わない。✕<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si él viene a la fiesta o no, a nadie le importa</i>.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "E}`3KmNvp%",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "うが",
+                                "うと"
+                            ]
                         }
                     ]
                 }
@@ -37630,9 +37804,11 @@
                 "Gramática",
                 "Japonés",
                 "N1",
+                "Niponismo",
                 "Oración",
-                "tatoeba",
-                "やしない"
+                "うが",
+                "うと",
+                "ても"
             ],
             "tmpls": [
                 {
@@ -37832,11 +38008,12 @@
             "sortf": 1,
             "tags": [
                 "Definición",
-                "Grámatica",
+                "Gramática",
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "やしない"
+                "うが",
+                "うと"
             ],
             "tmpls": [
                 {
