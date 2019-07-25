@@ -30635,6 +30635,132 @@
                                 "うと",
                                 "ても"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女は招待を受け＿＿＿受け＿＿＿決めかねていた。",
+                                "Ella dudaba si aceptar la invitación <font color=\"#ef2929\">o no</font>.",
+                                "彼女[かのじょ]は 招待[しょうたい]を 受[う]け<font color=\"#ef2929\">ようか</font> 受[う]け<font color=\"#ef2929\">まいか/るまいか</font> 決[き]めかねていた。",
+                                "ようか〜まいか/ようか〜るまいか"
+                            ],
+                            "flags": 0,
+                            "guid": "D)p;9KHvn4",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japones",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "うか〜まいか"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "<div>私は彼女にそれについて聞＿＿＿聞く＿＿＿思案した。<br></div><div></div>",
+                                "Él se debatía entre preguntarle <font color=\"#ef2929\">o no</font> a ella sobre eso.",
+                                "私[わたし]は 彼女[かのじょ]にそれについて 聞[き]<font color=\"#ef2929\">こうか</font> 聞[き]く<font color=\"#ef2929\">まいか</font> 思案[しあん]した。",
+                                "こうか〜まいか"
+                            ],
+                            "flags": 0,
+                            "guid": "O%7K+f]+_P",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japones",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "うか〜まいか"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "なおは緊張すぎて彼を招待＿＿＿招待＿＿＿か迷っていた。",
+                                "Nao estaba demasiado nerviosa y no sabía si invitarlo <font color=\"#ef2929\">o no</font>.",
+                                "なおは 緊張[きんちょう]すぎて 彼[かれ]を 招待[しょうたい]<font color=\"#ef2929\">しようか</font> 招待[しょうたい]<font color=\"#ef2929\">しまいか</font>/<font color=\"#ef2929\">すまいか/するまいか</font> 迷[まよ]っていた。",
+                                "しようか〜しまいか/しようか〜すまいか/しようか〜するまいか"
+                            ],
+                            "flags": 0,
+                            "guid": "c0It]jsf$l",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japones",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うか〜まいか"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "天気予報によると明日は良くないらしい。行事を延期＿＿＿延期＿＿＿悩んでいる。",
+                                "Mañana no va estar bueno según el pronóstico meterológico. Me cuesta decidir si aplazar el evento <font color=\"#ef2929\">o no</font>.",
+                                "天気[てんき] 予報[よほう]によると 明日[あした]は 良[よ]くないらしい。 行事[ぎょうじ]を 延期[えんき]<font color=\"#ef2929\">しようか</font> 延期[えんき]<font color=\"#ef2929\">しまいか/すまいか/するまいか</font> 悩[なや]んでいる。",
+                                "しようか〜しまいか/しようか〜すまいか/しようか〜するまいか"
+                            ],
+                            "flags": 0,
+                            "guid": "Gf%}d4/h2<",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japones",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うか〜まいか"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "先ず予告編を見てみよう。映画を見＿＿＿見＿＿＿後で決められるから。",
+                                "Primero probemos ver el adelanto. Luego podemos decidir si ver <font color=\"#ef2929\">o no</font> la película.",
+                                "先[ま]ず 予告編[よこくへん]を 見[み]てみよう。 映画[えいが]を 見[み]<font color=\"#ef2929\">ようか</font> 見[み]<font color=\"#ef2929\">まいか/るまいか</font> 後[のち]で 決[き]められるから。",
+                                "ようか〜まいか/ようか〜るまいか"
+                            ],
+                            "flags": 0,
+                            "guid": "C?_U27VVwI",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japones",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うか〜まいか"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "明後日のパーティーに行＿＿＿行く＿＿＿未だ決めかねない。",
+                                "No puedo diciderme si ir <font color=\"#ef2929\">o no</font> a la fiesta de pasado mañana.",
+                                "明後日[みょうごにち]のパーティーに 行[い]<font color=\"#ef2929\">こうか</font> 行[い]く<font color=\"#ef2929\">まいか</font> 未[いま]だ 決[き]めかねない。",
+                                "こうか〜まいか"
+                            ],
+                            "flags": 0,
+                            "guid": "PWk;gwUe=l",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japones",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "うか〜まいか"
+                            ]
                         }
                     ]
                 },
@@ -37676,6 +37802,39 @@
                                 "うが",
                                 "うと"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "うか〜まいか",
+                                "うか〜まいか",
+                                "うか〜まいか",
+                                "hacer o no hacer",
+                                "V volitivo+ が + V informal + まい + か",
+                                "<div>Expresión un tanto rígida que refleja duda acerca de si llevar a cabo una acción o no.<br></div><div style=\"font-style: italic;\"><em><br></em></div>自分[じぶん]の 将来[しょうらい]について 先生[せんせい]に 聞[き]こ<font color=\"#ef2929\">＿＿＿&nbsp;</font>聞[き]く<font color=\"#ef2929\">＿＿＿&nbsp;</font>迷[まよ]っていた。<div><i>Estaba dudando si preguntarle <font color=\"#ef2929\">o no</font> al profesor sobre mi futuro</i>.<div><br></div><div>Esta forma se compone de dos verbos volitivos; el primero positivo y el segundo negativo. La conjugación negativa de un verbo volitivo se forma agregando a su forma informal el auxiliar まい. La partícula か detrás de cada verbo es lo que de hecho le da la connotación de duda.</div><div style=\"font-style: italic;\"><em><br></em></div>今日[きょう]の 雨[あめ]は 酷[ひど]いよね。 子供[こども]を 学校[がっこう]に 行[い]かせよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>行[い]かせる<font color=\"#ef2929\">＿＿＿</font>。</div><div><i>Hoy sí que llueve feo. ¿Enviaré a los chicos al colegio <font color=\"#ef2929\">o no</font>?</i><div><br></div><div>Al igual que con los verbos volitivos en forma positiva, se debe tener cuidado con la conjugación de su contraparte negativa まい.</div><div><br></div>- Los verbos del grupo う se conjugan dejando el verbo en su forma informal o diccionario y agregando まい detrás. Por ejemplo, &nbsp;行[い]く se transforma en &nbsp;行[い]くまい.</div><div>- Los verbos del grupo る, por su parte, pueden conjugarse tanto a su forma raíz como al informal o diccionario y luego agregarle まい detrás. Por ejemplo, &nbsp;食[た]べる puede conjugarse en &nbsp;食[た]べまい o en &nbsp;食[た]べるまい.</div><div>- El verbo &nbsp;来[く]る se transforma en &nbsp;来[こ]まい (en cuyo caso se pronuncia こまい).</div><div>- Por último, する se puede conjugar tanto a su forma raíz し, como a su forma informal する, el cual a su vez se puede abreviar a す como sucede con するべく al abreviarse a すべく y luego agregarse la partícula か.<div><br></div><div><b>Expresiones similares</b><div><br></div><div>Es parecido a か 否[いな]か ya que ésta también puede usarse para reflejar duda sobre una acción o no pero su estructura es diferente. Para poder usar esta expresión el verbo debe repetirse.</div><div style=\"font-style: italic;\"><em><br></em></div>次[つぎ]の 試験[しけん]はとても 難[むずか]しそうだ。 徹[てっ]｛する<font color=\"#ef2929\">か 否[いな]か</font>/しよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>徹[てっ]し<font color=\"#ef2929\">＿＿＿</font>/しよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>徹[てっ]す<font color=\"#ef2929\">＿＿＿</font>/しよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>徹[てっ]する<font color=\"#ef2929\">＿＿＿</font>｝。</div><div><i>Dicen que el próximo examen es muy difícil. ¿Trasnochar <font color=\"#ef2929\">o no</font>?</i><br></div></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "n+EJapIKUT",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "うか〜まいか"
+                            ]
                         }
                     ]
                 }
@@ -37804,13 +37963,11 @@
             "sortf": 0,
             "tags": [
                 "Gramática",
-                "Japonés",
+                "Japones",
                 "N1",
                 "Niponismo",
                 "Oración",
-                "うが",
-                "うと",
-                "ても"
+                "うか〜まいか"
             ],
             "tmpls": [
                 {
@@ -38014,8 +38171,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "うが",
-                "うと"
+                "うか〜まいか"
             ],
             "tmpls": [
                 {
