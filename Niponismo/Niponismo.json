@@ -4865,8 +4865,8 @@
                             "data": "",
                             "fields": [
                                 "みんなはその恐ろしい災害から無事に帰ってきて、うれしい＿＿＿。",
-                                "Estoy tan feliz de que todos hayan vuelto sanos y salvos de ese desastre.",
-                                "みんなはその 恐[おそ]ろしい 災害[さいがい]から 無事[ぶじ]に 帰[かえ]ってきて、うれしい&nbsp;<span style=\"color: rgb(0, 0, 255)\">限[かぎ]りだ/ 限[かぎ]りです</span>。",
+                                "Estoy <font color=\"#ef2929\">tan</font> feliz de que todos hayan vuelto sanos y salvos de ese desastre.",
+                                "みんなはその 恐[おそ]ろしい 災害[さいがい]から 無事[ぶじ]に 帰[かえ]ってきて、うれしい&nbsp;<font color=\"#ef2929\">限[かぎ]りだ/ 限[かぎ]りです</font>。",
                                 "限りだ/限りです"
                             ],
                             "flags": 0,
@@ -30682,7 +30682,7 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "なおは緊張すぎて彼を招待＿＿＿招待＿＿＿か迷っていた。",
+                                "なおは緊張すぎて彼を招待＿＿＿招待＿＿＿迷っていた。",
                                 "Nao estaba demasiado nerviosa y no sabía si invitarlo <font color=\"#ef2929\">o no</font>.",
                                 "なおは 緊張[きんちょう]すぎて 彼[かれ]を 招待[しょうたい]<font color=\"#ef2929\">しようか</font> 招待[しょうたい]<font color=\"#ef2929\">しまいか</font>/<font color=\"#ef2929\">すまいか/するまいか</font> 迷[まよ]っていた。",
                                 "しようか〜しまいか/しようか〜すまいか/しようか〜するまいか"
