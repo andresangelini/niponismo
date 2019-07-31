@@ -30761,6 +30761,138 @@
                                 "Oración",
                                 "うか〜まいか"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "万一彼が君の結婚のことを聞＿＿＿、彼はものすごく怒るだろう。",
+                                "<font color=\"#ef2929\">Si</font> él <font color=\"#ef2929\">llegase a</font> escuchar de tu casamiento se, se enojaría muchísimo.",
+                                "万一[まんいち] 彼[かれ]が 君[きみ]の 結婚[けっこん]のことを 聞[き]<font color=\"#ef2929\">いたりしたら/こうものなら</font>、 彼[かれ]はものすごく 怒[おこ]るだろう。",
+                                "いたりしたら/こうものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "jL)enl^8.l",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "うちのかみさんは元プロレスラーで、だからもし私が浮気をしているところを見つかりでもし＿＿＿、それこそコテンパンにやられてしまうよ。",
+                                "Mi esposa es una ex luchadora profesional, así que <font color=\"#ef2929\">si</font> alguna vez ella <font color=\"#ef2929\">se llega a</font>&nbsp;enterar de que la estoy engañando, me mata a golpes.&nbsp;",
+                                "うちのかみさんは 元[もと]プロレスラーで、だからもし 私[わたし]が 浮気[うわき]をしているところを 見[み]つかりでもし<font color=\"#ef2929\">たりしたら/ようものなら</font>、それこそコテンパンにやられてしまうよ。",
+                                "たりしたら/ようものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "hJmKV=kHZ:",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "姉は授業をサボっていることを聞＿＿＿、叱られるだけじゃ済まない。",
+                                "<font color=\"#ef2929\">Si llegase a</font> enterarse de que estoy faltando a clase, mi hermana no se detendrá con un simple resongo.",
+                                "姉[あね]は 授業[じゅぎょう]を サボ[さぼ]っていることを 聞[き]<font color=\"#ef2929\">いたりしたら/こうものなら</font>、 叱[しか]られるだけじゃ 済[す]まない。",
+                                "いたりしたら/こうものならき"
+                            ],
+                            "flags": 0,
+                            "guid": "FE=M.o6kTY",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "家主は家賃を値上げ＿＿＿、払えなくなる。",
+                                "<font color=\"#ef2929\">Si</font> el propietario <font color=\"#ef2929\">llegase a</font> sube el precio de la renta, ya no la podré pagar.",
+                                "家主[やぬし]は 家賃[やちん]を 値上[ねあ]げ<font color=\"#ef2929\">たりしたら/ようものなら</font>、 払[はら]えなくなる。",
+                                "たりしたら/ようものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "K{j?Ko+PC$",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "この建物はとても古いので、もし地震が起＿＿＿、大災害になる。",
+                                "Como este edificio es muy viejo, <font color=\"#ef2929\">si llegase a</font> ocurrir un terremoto, sería un gran desastre.",
+                                "この 建物[たてもの]はとても 古[ふる]いので、もし 地震[じしん]が 起[お]<font color=\"#ef2929\">こったりしたら/ころうものなら</font>、 大[だい] 災害[さいがい]になる。",
+                                "こったりしたら/こうものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "w(nAZG(S0*",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "部長に資料を失くすことが言ったりしたら/われようものなら、僕は首にする羽目になる。",
+                                "<font color=\"#ef2929\">Si</font> le <font color=\"#ef2929\">llegasen a</font> decir al jefe que perdí los documentos yo terminaría siendo despedido.",
+                                "部長[ぶちょう]に 資料[しりょう]を 失[しつ]くすことが 言[い]<font color=\"#ef2929\">ったりしたら/われようものなら</font>、 僕[ぼく]は 首[くび]にする 羽目[はめ]になる。",
+                                "ったりしたら/われようものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "KQmUAOI*ZA",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
                         }
                     ]
                 },
@@ -37835,6 +37967,39 @@
                                 "Niponismo",
                                 "うか〜まいか"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ようものなら",
+                                "ようものなら",
+                                "ようものなら",
+                                "si llegara a / si llegase a",
+                                "V volitivo + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión conjuntiva de uso escrito con la cual se plantea un caso hipotético para advertir de un resultado indeseable.<br><br>そんなことを 言[い]お<font color=\"#ef2929\">＿＿＿</font>、 彼女[かのじょ]は 二度[にど]とあなたと 話[はな]さない。<br><font color=\"#ef2929\">Si llegaras a / Si llegases a</font> decirle eso, ella jamás volvería a hablar contigo.<br><br>Esta forma sólo se puede utilizar con verbos volitivos.<br><br>鳥[とり]の 群[む]れが 飛行機[ひこうき]の 前[まえ]で 突然[とつぜん]に 横切[よこぎ]ろ<font color=\"#ef2929\">＿＿＿</font>、エンジンを 壊[こわ]して 大[だい] 事故[じこ]を 犯[おか]すかもしれない。<br><font color=\"#ef2929\">Si llegara a / Si llegase a</font> cruzarse una bandada de pájaros frente al avión, podrían dañar los motores y ocasionar un grave accidente.<br><br>Naturalmente, también se puede traducir como:<br><br><font color=\"#ef2929\">Si</font> una bandada de pájaros <font color=\"#ef2929\">llegara a / llegase a</font> cruzarse frente al avión, podrían dañar los motores y ocasionar un grave accidente.<br><br>A menudo se usa junto adverbios tales comoうっかり y 間違[まちが]って.<br><br>注意[ちゅうい]してよ。 購入[こうにゅう]ボタンをうっかり 押[お]そ<font color=\"#ef2929\">＿＿＿</font> 後[のち]は 後悔[こうかい] 出来[でき]ない。<br>Ten cuidado. Si llegaras a / Si llegases a presionar el botón de \"comprar\" sin querer, luego no podrás dar vuelta atrás.<br><br>Como el objetivo es advertir de algo negativo, es común emplear esta expresión con 羽目になる.<br><br>相手[あいて]を 怒[おこ]らせよ<font color=\"#ef2929\">＿＿＿</font>、 大事[だいじ]な 交渉[こうしょう]は 崩[くず]れる 羽目[はめ]になる。<br><font color=\"#ef2929\">Si llegáramos a / Si llegásemos a</font> hacerlos enfadar, nuestra preciada negociación terminaría arruinada.<br><br><b>Expresiones similares</b><br><br>En el lenguaje oral normalmente se usa たりしたら en lugar de esta expresión.<br><br>そんなことを｛ 言[い]お<font color=\"#ef2929\">＿＿＿</font>/ 言[い]っ<font color=\"#ef2929\">たりしたら</font>｝、 彼女[かのじょ]は 二度[にど]とあなたと 話[はな]さない。<br>Si llegaras a / Si llegases a decirle eso, ella jamás volvería a hablar contigo.<br><br>たりしたら tiene la ventaja de que se puede usar también con adjetivos y sustantivos.<br><br>次[つぎ]のはあの 優秀[ゆうしゅう]なチーム｛<font color=\"#ef2929\">だったりしたら/ものなら✕/だったものなら✕</font>｝ 我[わ]がチームは 勝[か]つ 可能[かのう] 性[せい]が 完全[かんぜん]に 無[な]くなるでしょう。<br><font color=\"#ef2929\">Si</font> el próximo <font color=\"#ef2929\">llegara a / llegase a</font> ser ese excelente equipo, las probabilidades de que el nuestro gane desaparecerían completamente.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "u`q=fWzH*w",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ようものなら"
+                            ]
                         }
                     ]
                 }
@@ -37963,11 +38128,12 @@
             "sortf": 0,
             "tags": [
                 "Gramática",
-                "Japones",
+                "Japonés",
                 "N1",
                 "Niponismo",
                 "Oración",
-                "うか〜まいか"
+                "たりしたら",
+                "ようものなら"
             ],
             "tmpls": [
                 {
@@ -38171,7 +38337,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "うか〜まいか"
+                "ようものなら"
             ],
             "tmpls": [
                 {
