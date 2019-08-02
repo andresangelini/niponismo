@@ -464,7 +464,7 @@
                             "data": "",
                             "fields": [
                                 "僕もそれを分かる。親は心配していれ＿＿＿叱ること。",
-                                "Yo también entiendo que mis padres me regañan precísamente porque se preocupan por mi.",
+                                "Yo también entiendo que mis padres me regañan <font color=\"#ef2929\">precísamente porque</font> se preocupan por mi.",
                                 "僕[ぼく]もそれを 分[わ]かる。 親[おや]は 心配[しんぱい]していれ<font color=\"#ff0000\">ばこそ</font> 叱[しか]ること。",
                                 "ばこそ"
                             ],
@@ -30761,6 +30761,281 @@
                                 "Oración",
                                 "うか〜まいか"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "万一彼が君の結婚のことを聞＿＿＿、彼はものすごく怒るだろう。",
+                                "<font color=\"#ef2929\">Si</font> él <font color=\"#ef2929\">llegase a</font> escuchar de tu casamiento se, se enojaría muchísimo.",
+                                "万一[まんいち] 彼[かれ]が 君[きみ]の 結婚[けっこん]のことを 聞[き]<font color=\"#ef2929\">いたりしたら/こうものなら</font>、 彼[かれ]はものすごく 怒[おこ]るだろう。",
+                                "いたりしたら/こうものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "jL)enl^8.l",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "うちのかみさんは元プロレスラーで、だからもし私が浮気をしているところを見つかりでもし＿＿＿、それこそコテンパンにやられてしまうよ。",
+                                "Mi esposa es una ex luchadora profesional, así que <font color=\"#ef2929\">si</font> alguna vez ella <font color=\"#ef2929\">se llega a</font>&nbsp;enterar de que la estoy engañando, me mata a golpes.&nbsp;",
+                                "うちのかみさんは 元[もと]プロレスラーで、だからもし 私[わたし]が 浮気[うわき]をしているところを 見[み]つかりでもし<font color=\"#ef2929\">たりしたら/ようものなら</font>、それこそコテンパンにやられてしまうよ。",
+                                "たりしたら/ようものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "hJmKV=kHZ:",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "姉は授業をサボっていることを聞＿＿＿、叱られるだけじゃ済まない。",
+                                "<font color=\"#ef2929\">Si llegase a</font> enterarse de que estoy faltando a clase, mi hermana no se detendrá con un simple resongo.",
+                                "姉[あね]は 授業[じゅぎょう]を サボ[さぼ]っていることを 聞[き]<font color=\"#ef2929\">いたりしたら/こうものなら</font>、 叱[しか]られるだけじゃ 済[す]まない。",
+                                "いたりしたら/こうものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "FE=M.o6kTY",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "家主は家賃を値上げ＿＿＿、払えなくなる。",
+                                "<font color=\"#ef2929\">Si</font> el propietario <font color=\"#ef2929\">llegase a</font> sube el precio de la renta, ya no la podré pagar.",
+                                "家主[やぬし]は 家賃[やちん]を 値上[ねあ]げ<font color=\"#ef2929\">たりしたら/ようものなら</font>、 払[はら]えなくなる。",
+                                "たりしたら/ようものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "K{j?Ko+PC$",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "この建物はとても古いので、もし地震が起＿＿＿、大災害になる。",
+                                "Como este edificio es muy viejo, <font color=\"#ef2929\">si llegase a</font> ocurrir un terremoto, sería un gran desastre.",
+                                "この 建物[たてもの]はとても 古[ふる]いので、もし 地震[じしん]が 起[お]<font color=\"#ef2929\">こったりしたら/ころうものなら</font>、 大[だい] 災害[さいがい]になる。",
+                                "こったりしたら/こうものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "w(nAZG(S0*",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "部長に資料を失くすことが言＿＿＿、僕は首にする羽目になる。",
+                                "<font color=\"#ef2929\">Si</font> le <font color=\"#ef2929\">llegasen a</font> decir al jefe que perdí los documentos yo terminaría siendo despedido.",
+                                "部長[ぶちょう]に 資料[しりょう]を 失[しつ]くすことが 言[い]<font color=\"#ef2929\">われたりしたら/われようものなら</font>、 僕[ぼく]は 首[くび]にする 羽目[はめ]になる。",
+                                "われたりしたら/われようものなら"
+                            ],
+                            "flags": 0,
+                            "guid": "KQmUAOI*ZA",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たりしたら",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "僕のお父さんに納得させ＿＿＿全く眼光な人だから無駄だ。",
+                                "<font color=\"#ef2929\">Por más que intente</font> convencer a mi padre, él es una persona muy testaruda por lo que es inútil.",
+                                "僕[ぼく]のお 父[とう]さんに 納得[なっとく]させ<font color=\"#ef2929\">ようにも/ようったって/たくても/たくとも</font> 全[まった]く 眼光[がんこう]な 人[ひと]だから 無駄[むだ]だ。",
+                                "ようにも/ようったって/たくても/たくとも"
+                            ],
+                            "flags": 0,
+                            "guid": "hAn7pWle3f",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たくても",
+                                "たくとも",
+                                "ようったって",
+                                "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "国典を読＿＿＿難しい漢字が多すぎて読めない。",
+                                "<font color=\"#ef2929\">Por más que quiera</font> leer literatura japonesa, tiene demasiados kanji difíciles y no puedo leerla.",
+                                "国典[こくてん]を 読[よ]<font color=\"#ef2929\">もうにも/むにも/もうったって/みたくても/みたくとも</font> 難[むずか]しい 漢字[かんじ]が 多[おお]すぎて 読[よ]めない。",
+                                "もうにも/むにも/もうったって/みたくても/みたくとも"
+                            ],
+                            "flags": 0,
+                            "guid": "r2J0*xjJ%K",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たくても",
+                                "たくとも",
+                                "ようったって",
+                                "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "時々休みを取って遠い何処かに旅行＿＿＿仕事やら家族やらがあるし中々余裕が見つからないよね。",
+                                "<font color=\"#ef2929\">Por más que</font> algunas veces <font color=\"#ef2929\">quieras</font> tomarte licencia e irte de vacaciones a algún lugar lejano, no encuentras el tiempo entre el trabajo y la familia, ¿verdad?.",
+                                "時々[ときどき] 休[やす]みを 取[と]って 遠[とお]い 何処[どこ]かに 旅行[りょこう]<font color=\"#ef2929\">しようにも/するにも/しようったって/したくても/したくとも</font> 仕事[しごと]やら 家族[かぞく]やらがあるし 中[なか]々 余裕[よゆう]が 見[み]つからないよね。",
+                                "しようにも/するにも/しようったって/したくても/したくとも"
+                            ],
+                            "flags": 0,
+                            "guid": "vt2SdJ.Mt,",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たくても",
+                                "たくとも",
+                                "ようったって",
+                                "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "結婚＿＿＿結婚したい相手がいない。",
+                                "<font color=\"#ef2929\">Por más que me quiera</font> casar, no tengo con quien.",
+                                "結婚[けっこん]<font color=\"#ef2929\">しようにも/するにも/しようったって/したくても/したくとも</font> 結婚[けっこん]したい 相手[あいて]がいない。",
+                                "しようにも/するにも/しようったって/したくても/したくとも"
+                            ],
+                            "flags": 0,
+                            "guid": "lEBH,.XJO%",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たくても",
+                                "たくとも",
+                                "ようったって",
+                                "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼にどうして騙したのかを説明＿＿＿私の言うことを聞いてもらえなかった。",
+                                "<font color=\"#ef2929\">Por más que quise</font> explicarle por qué le había engañado, él no me escuchó.",
+                                "彼[かれ]にどうして 騙[だま]したのかを 説明[せつめい]<font color=\"#ef2929\">しようにも/するにも/したくても/したくとも</font> 私[わたし]の 言[い]うことを 聞[き]いてもらえなかった。",
+                                "しようにも/するにも/したくても/したくとも"
+                            ],
+                            "flags": 0,
+                            "guid": "lk70p^E]<f",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たくても",
+                                "たくとも",
+                                "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "先天性の病気で彼女は子供を生＿＿＿生めない。",
+                                "Debido a una enfermedad congénita ella no puede tener hijos <font color=\"#ef2929\">por más quiera</font> hacerlo.",
+                                "先天[せんてん] 性[せい]の 病気[びょうき]で 彼女[かのじょ]は 子供[こども]を 生[う]<font color=\"#ef2929\">もうにも/むにも/もうったって/みたくても/みたくとも</font> 生[う]めない。",
+                                "もうにも/むにも/もうったって/みたくても/みたくとも"
+                            ],
+                            "flags": 0,
+                            "guid": "uk12{=iGjc",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "たくても",
+                                "たくとも",
+                                "ようったって",
+                                "ようにも"
+                            ]
                         }
                     ]
                 },
@@ -37773,9 +38048,9 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "うが/うと",
-                                "うが/うと",
-                                "うが/うと",
+                                "ようが/ようと",
+                                "ようが/ようと",
+                                "ようが/ようと",
                                 "dar igual / dar lo mismo",
                                 "V volitivo + <font color=\"#ef2929\">＿＿＿</font><div>V volitivo + <font color=\"#ef2929\">＿＿＿</font> + V informal + まい + <font color=\"#ef2929\">＿＿＿</font></div><div>Aい sin い + ろう + <font color=\"#ef2929\">＿＿＿</font></div><div>Aな sin な / S+ だろう/であろう + <font color=\"#ef2929\">＿＿＿</font><br></div>",
                                 "<div>Expresión conjuntiva que se emplea a modo de concesión.</div><div><br></div><div>お 父[とう]さんは 何[なん]と 言[い]お<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>彼[かれ]と 結婚[けっこん]する。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> lo que diga mi padre, yo me voy a casar con él</i>.<br></div><div><br></div><div><div>Esta estructura se forma usando un verbo volitivo junto a la partícula が o と. Cualquiera de ellas es exactamente lo mismo porque no varían el significado.</div></div><div><br></div><div>相手[あいて]のチームはどんなに 優秀[ゆうしゅう]であろ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>我[われわれ]々は 絶対[ぜったい]に 負[ま]けないぞ。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> cuán bueno sea el equipo rival, ¡nosotros jamás perderemos!</i><br></div><div><i><br></i></div><div><div>Al igual que en el español, se pueden hacer más de una concesión en una misma frase.</div></div><div><br></div><div>明日[あした]は 雨[あめ]が 降[ふ]ろ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>地震[じしん]が 起[お]ころ<font color=\"#ef2929\">＿＿＿</font>、このイベントを 中止[ちゅうし]するわけにはいかに。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si mañana llueve o ocurre un terremoto, no hay forma de que vayamos a cancelar este evento</i>.<br></div><div><br></div><div><div>Se debe prestar particular atención con los adjetivos ya que estos también deben ser conjugados correctamente para poder ser usados con esta expresión.</div></div><div><br></div><div><div>A los adjetivos い se les debe cambiar la última い por ろう.</div></div><div><br></div><div>いくら 高[たか]ろ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>妻[つま]はそのネックラスが 欲[ほ]しい。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> cuánto cueste, mi esposa quiere ese collar</i>.<br></div><div><br></div><div><div>A los adjetivos な, por su parte, se le cambia la な por だろう o であろう.</div></div><div><br></div><div>便利[べんり]｛<font color=\"#ef2929\">だろう/であろう</font>｝｛<font color=\"#ef2929\">＿＿＿</font>｝ 電車[でんしゃ]を 使[つか]いたくないわ。<br></div><div><i>Me <font color=\"#ef2929\">da igual / da lo mismo</font> si es conveniente, yo no quiero usar el tren</i>.<br></div><div><br></div><div><div>Como suele suceder, los sustantivos se comportan exactamente igual que los adjetivos な.</div></div><div><br></div><div>飛行機[ひこうき]｛<font color=\"#ef2929\">だろう/であろう</font>｝｛<font color=\"#ef2929\">＿＿＿</font>｝ 電車[でんしゃ]｛<font color=\"#ef2929\">だろう/であろう</font>｝｛<font color=\"#ef2929\">＿＿＿</font>｝、どちらにも 乗[の]れないよ。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si es un avión o un tren, no me puedo subir a ninguno de los dos</i>.<br></div><div><br></div><div><div>Esta expresión tiene una variante en la cual se emplea un mismo verbo conjugado en volitivo positivo y luego en volitivo negativo para expresar la idea de que no importa de si la acción se ejecuta o no. El volitivo negativo se forma con un verbo conjugado al informal y agregando まい detrás.</div></div><div><br></div><div>彼[かれ]はパーティーに 来[き]よ<font color=\"#ef2929\">＿＿＿</font><strong>&nbsp;</strong>来[く]るまい<font color=\"#ef2929\">＿＿＿</font>、 誰[だれ]も 構[かま]わない。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si él viene a la fiesta o no, a nadie le importa</i>.<br></div><div><br></div><div><b>Expresiones similares</b></div><div><br></div><div><div>La partícula ても es muy similar a <font color=\"#ef2929\">＿＿＿</font> aunque no es tan enfático y se puede emplear tanto de forma escrita como oral.</div></div><div><br></div><div>お 父[とう]さんは 何[なん]と｛ 言[い]お<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>言[い]お<font color=\"#ef2929\">＿＿＿</font>/ 言[い]<font color=\"#ef2929\">っても</font>｝ 彼[かれ]と 結婚[けっこん]する。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> lo que diga mi padre, yo me voy a casar con él</i>.<br></div><div><br></div><div><div>Incluso puede reemplazarla cuando se hace más de una concesión.</div></div><div><br></div><div>明日[あした]は 雨[あめ]が｛ 降[ふ]ろ<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>降[ふ]ろ<font color=\"#ef2929\">＿＿＿</font>/ 降[ふ]っ<font color=\"#ef2929\">ても</font>｝ 地震[じしん]が｛ 起[お]ころ<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>起[お]ころ<font color=\"#ef2929\">＿＿＿</font>/ 起[お]こっ<font color=\"#ef2929\">ても</font>｝、このイベントを 中止[ちゅうし]するわけにはいかない。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si mañana llueve o ocurre un terremoto, no hay forma de que vayamos a cancelar este evento</i>.<br></div><div><br></div><div><div>También se puede usar de igual forma que V volitivo + が/と + V informal + まい + が/と.</div></div><div><br></div><div>彼[かれ]はパーティーに｛ 来[き]よ<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>来[き]よ<font color=\"#ef2929\">＿＿＿</font>/ 来[き]<font color=\"#ef2929\">ても</font>｝｛ 来[き]るまい<font color=\"#ef2929\">＿＿＿</font>/<strong>&nbsp;</strong>来[き]るまい<font color=\"#ef2929\">＿＿＿</font>/ 来[き]<font color=\"#ef2929\">なくても</font>｝、 誰[だれ]も 構[かま]わない。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si él viene a la fiesta o no, a nadie le importa</i>.<br></div><div><br></div><div><div>うとも tiene el mismo significado que うが/うと.</div></div><div><br></div><div>お 父[とう]さんは 何[なん]と 言[い]お<font color=\"#ef2929\">＿＿＿/うとも</font><strong>&nbsp;</strong>彼[かれ]と 結婚[けっこん]する。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> lo que diga mi padre, yo me voy a casar con él</i>.<br></div><div><br></div><div><div>Con esta expresión también es posible dar más de una conseción.</div></div><div><br></div><div>明日[あした]は 雨[あめ]が 降[ふ]ろ<font color=\"#ef2929\">＿＿＿/うとも</font><strong>&nbsp;</strong>地震[じしん]が 起[お]ころ<font color=\"#ef2929\">＿＿＿/うとも</font>、このイベントを 中止[ちゅうし]するわけにはいかに。<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si mañana llueve o ocurre un terremoto, no hay forma de que vayamos a cancelar este evento</i>.<br></div><div><br></div><div><div>Dicho esto, esta forma no se puede emplear verbos volitivos conjugados al negativo.</div></div><div><br></div><div>彼[かれ]はパーティーに 来[き]よ<font color=\"#ef2929\">うとも</font><strong>&nbsp;</strong>来[く]るまい<font color=\"#ef2929\">とも</font>、 誰[だれ]も 構[かま]わない。✕<br></div><div><i><font color=\"#ef2929\">Da igual / Da lo mismo</font> si él viene a la fiesta o no, a nadie le importa</i>.<br></div>",
@@ -37799,8 +38074,8 @@
                                 "Japonés",
                                 "N1",
                                 "Niponismo",
-                                "うが",
-                                "うと"
+                                "ようが",
+                                "ようと"
                             ]
                         },
                         {
@@ -37834,6 +38109,72 @@
                                 "N1",
                                 "Niponismo",
                                 "うか〜まいか"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ようものなら",
+                                "ようものなら",
+                                "ようものなら",
+                                "si llegara a / si llegase a",
+                                "V volitivo + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión conjuntiva de uso escrito con la cual se plantea un caso hipotético para advertir de un resultado indeseable.<br><br>そんなことを 言[い]お<font color=\"#ef2929\">＿＿＿</font>、 彼女[かのじょ]は 二度[にど]とあなたと 話[はな]さない。<br><i><font color=\"#ef2929\">Si llegaras a / Si llegases a</font> decirle eso, ella jamás volvería a hablar contigo</i>.<br><br>Esta forma sólo se puede utilizar con verbos volitivos.<br><br>鳥[とり]の 群[む]れが 飛行機[ひこうき]の 前[まえ]で 突然[とつぜん]に 横切[よこぎ]ろ<font color=\"#ef2929\">＿＿＿</font>、エンジンを 壊[こわ]して 大[だい] 事故[じこ]を 犯[おか]すかもしれない。<br><i><font color=\"#ef2929\">Si llegara a / Si llegase a</font> cruzarse una bandada de pájaros frente al avión, podrían dañar los motores y ocasionar un grave accidente</i>.<br><br>Naturalmente, también se puede traducir como:<br><br><i><font color=\"#ef2929\">Si</font> una bandada de pájaros <font color=\"#ef2929\">llegara a / llegase a</font> cruzarse frente al avión, podrían dañar los motores y ocasionar un grave accidente</i>.<br><br>A menudo se usa junto adverbios tales comoうっかり y &nbsp;間違[まちが]って.<br><br>注意[ちゅうい]してよ。 購入[こうにゅう]ボタンをうっかり 押[お]そ<font color=\"#ef2929\">＿＿＿</font> 後[のち]は 後悔[こうかい] 出来[でき]ない。<br><i>Ten cuidado. <font color=\"#ef2929\">Si llegaras a / Si llegases a</font> presionar el botón de \"comprar\" sin querer, luego no podrás dar vuelta atrás</i>.<br><br>Como el objetivo es advertir de algo negativo, es común emplear esta expresión con &nbsp;羽目[はめ]になる.<br><br>相手[あいて]を 怒[おこ]らせよ<font color=\"#ef2929\">＿＿＿</font>、 大事[だいじ]な 交渉[こうしょう]は 崩[くず]れる 羽目[はめ]になる。<br><i><font color=\"#ef2929\">Si llegáramos a / Si llegásemos a</font> hacerlos enfadar, nuestra preciada negociación terminaría arruinada</i>.<br><br><b>Expresiones similares</b><br><br>En el lenguaje oral normalmente se usa たりしたら en lugar de esta expresión.<br><br>そんなことを｛ 言[い]お<font color=\"#ef2929\">＿＿＿</font>/ 言[い]っ<font color=\"#ef2929\">たりしたら</font>｝、 彼女[かのじょ]は 二度[にど]とあなたと 話[はな]さない。<br><i><font color=\"#ef2929\">Si llegaras a / Si llegases a</font> decirle eso, ella jamás volvería a hablar contigo</i>.<br><br>たりしたら tiene la ventaja de que se puede usar también con adjetivos y sustantivos.<br><br>次[つぎ]のはあの 優秀[ゆうしゅう]なチーム｛<font color=\"#ef2929\">だったりしたら/ものなら✕/だったものなら✕</font>｝ 我[わ]がチームは 勝[か]つ 可能[かのう] 性[せい]が 完全[かんぜん]に 無[な]くなるでしょう。<br><i><font color=\"#ef2929\">Si</font> el próximo <font color=\"#ef2929\">llegara a / llegase a</font> ser ese excelente equipo, las probabilidades de que el nuestro gane desaparecerían completamente</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "u`q=fWzH*w",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ようものなら"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ようにも",
+                                "ようにも",
+                                "ようにも",
+                                "por más que quiera / por más que intente / por más que trate&nbsp;de",
+                                "V volitivo + にも + Vない<br>V informal + に（も） + Vない<br>V volitivo + にも…<br>V informal + にも…",
+                                "Expresión utilizada para indicar que no se puede hacer algo aun si se quiera o intente.<br><br>雨[あめ]が 激[はげ]しくなったのでパーティーに 行[い]こ<font color=\"#ef2929\">＿＿＿</font> 行[い]けない。<br><i>La lluvia se volvió más fuerte, así que <font color=\"#ef2929\">por más que trate / por más que quiera / por más que intente</font> ir a la fiesta, no puedo</i>.<br><br>En el español también se lo puede interpretar como:<br><br><i>La lluvia se volvió más fuerte, así que no puedo ir a la fiesta <font color=\"#ef2929\">por más que trate / por más que quiera / por más que intente</font></i>.<div><br></div><div><div>El primer verbo normalmente se conjuga en volitivo aunque también se puede usar en forma informal siempre y cuando la oración termine en un predicado negativo.</div><br>この 漢字[かんじ]は 読[よ]めにくいので 読[よ]も<span style=\"color: rgb(239, 41, 41);\">＿＿＿&nbsp;</span>読[よ]めない。<div><i>Este kanji es demasiado difícil de leer y no puedo leerlo <font color=\"#ef2929\">por más que quiera / por más que intente / por más que trate</font></i>.<br><br>Tal como se ve en el ejemplo anterior, está expresión se suele usar con un segundo verbo conjugado en potencial negativo, aunque los verbos en forma diccionario también son válidos.<br><br>彼[かれ]は 凄[すご]く 頑固[がんこ]なので 注意[ちゅうい]し<font color=\"#ef2929\">＿＿＿</font> 全然[ぜんぜん] 聞[き]かない。<br><i>Él es muy cabeza dura, así que <font color=\"#ef2929\">por más que trate de / por más quiera / por más que intente advertirle</font>, no me escucha para nada</i>.<br><br>Nótese además que tampoco tienen por qué ser el mismo verbo.<br><br>彼女[かのじょ]と 話し掛[はなしか]け<font color=\"#ef2929\">＿＿＿</font>&nbsp;何時[いつ]も 大勢[たいせい]の 人[ひと]に 囲[かこ]まれているから 近寄[ちかよ]られることさえ 出来[でき]ないよ。<br><i><font color=\"#ef2929\">Por más que trate de / Por más que quiera / Por más que intente</font> hablar con ella, siempre está rodeada de un montón de gente por lo que no puedo ni siquiera acercarme</i>.<br><br>De hecho, el segundo verbo no es obligatorio en lo absoluto.<br><br>その 車種[しゃしゅ]を 買[か]お<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>もう 製造[せいぞう]されないし、 中古[ちゅうこ]も 極[きわ]めて 高[たか]いし。<br><i><font color=\"#ef2929\">Por más que trate de / Por más que quiera / Por más que intente</font> comprar ese modelo de automóvil ya no se producen y los usados son extremadamente caros</i>.<br><br>Es importante tener en cuenta que la razón por la cual algo resulta imposible es dada en la segunda mitad de la frase, tras ようにも, por lo que frases como la siguiente no son correctas.<br><br>彼女[かのじょ]に 行[い]かないように 進[すす]め<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;無駄[むだ]だ。<br><i><font color=\"#ef2929\">Por más que trate de / Por más que quiera / Por más que intente</font> aconsejarle para que no vaya, es inútil</i>.<br><br>Aunque el sujeto por lo general está en primera persona, esto no es una restricción ya que se puede utilizar para mostrar empatía por el mismo.<br><br>マリは 皆[みな]と 一緒[いっしょ] 遠足[えんそく]に 行[い]こ<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;体[からだ]の 調子[ちょうし]はまだ 良[よ]くなかった。<br><i><font color=\"#ef2929\">Por más que</font> Marie <font color=\"#ef2929\">tratase de / Por más que</font> Marie <font color=\"#ef2929\">quisiese / Por más que</font> Marie <font color=\"#ef2929\">intentase</font> ir junto al resto a la excursión, su condición de salud aún no era buena</i>.<div><br><b>Expresiones similares</b><br><br>La expresión ようったって es muy parecida a ようにも pero es algo más coloquial.<br><br>雨[あめ]が 激[はげ]しくなったのでパーティーに 行[い]こ｛<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span><font color=\"#ef2929\">/うったって</font>｝ 行[い]けない。</div><div><i>La lluvia se volvió más fuerte, así que <font color=\"#ef2929\">por más que trate de / por más que quiera / por más que intente</font> ir a la fiesta, no puedo</i>.<br><br>Tiene la ventaja de que la segunda mitad no tiene por qué ser la razón de poderse realizar la acción.<br><br>彼女[かのじょ]に 行[い]かないように 進[すす]め｛<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span><font color=\"#ef2929\">/ようったって</font>｝ 無駄[むだ]だ。<br><i><font color=\"#ef2929\">Por más que trate de / Por más que quiera / Por más que intente</font> aconsejarle para que no vaya, es inútil</i>.<br><br>Pero al contrario que ようにも, no se puede usar en pasado.<br><br>書店[しょてん]に 行[い]こ｛<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span><font color=\"#ef2929\">/うったって</font>｝その 本[ほん]はもう 売[う]れ 切[き]りだった。<br><i><font color=\"#ef2929\">Por más que hubiese tratado de / Por más que hubiese querido / Por más que hubiese intentado</font> ir a la librería, ese libro ya estaba agotado</i>.<br><br>たくても y たくとも son perfectamente intercambiables con&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>, aunque esta última expresa más explícitamente el deseo o intención del sujeto de realizar la acción.<br><br>雨[あめ]が 激[はげ]しくなったのでパーティーに 行[くだり]｛こ<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span><font color=\"#ef2929\">/ったくても/ったくとも</font>｝ 行[い]けない。</div><div><i>La lluvia se volvió más fuerte, así que <font color=\"#ef2929\">por más que trate de / por más que quiera / por más que intente</font> ir a la fiesta, no puedo</i>.<br></div></div></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "g.teOwK.R]",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ようにも"
                             ]
                         }
                     ]
@@ -37963,11 +38304,14 @@
             "sortf": 0,
             "tags": [
                 "Gramática",
-                "Japones",
+                "Japonés",
                 "N1",
                 "Niponismo",
                 "Oración",
-                "うか〜まいか"
+                "たくても",
+                "たくとも",
+                "ようったって",
+                "ようにも"
             ],
             "tmpls": [
                 {
@@ -38171,7 +38515,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "うか〜まいか"
+                "ようにも"
             ],
             "tmpls": [
                 {
