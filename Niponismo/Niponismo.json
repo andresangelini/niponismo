@@ -31036,6 +31036,132 @@
                                 "ようったって",
                                 "ようにも"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "注意してね。言い<font color=\"#ef2929\">＿＿＿</font>姉は起こるかもしれない。",
+                                "Ten cuidado. <font color=\"#ef2929\">Dependiendo de cómo</font> se lo digas, mi hermana mayor se puede enojar.",
+                                "注意[ちゅうい]してね。 言[い]い<font color=\"#ef2929\">ようによっては</font> 姉[あね]は 起[お]こるかもしれない。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "JhFJdyog.n",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "これからもっといい取引が出来るかもしれないので、交渉が崩れたのは、見＿＿＿善にも悪にもなる。",
+                                "Capaz que conseguimos un trato mejor, así que el hecho de que se arruinaran las negociaciones podría resultar ser algo bueno o malo, <font color=\"#ef2929\">dependiendo de cómo</font> uno lo mire.",
+                                "これからもっといい 取引[とりひき]が 出来[でき]るかもしれないので、 交渉[こうしょう]が 崩[くず]れたのは、 見[み]<font color=\"#ef2929\">ようによっては</font> 善[ぜん]にも 悪[あく]にもなる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "IlXba]}*Ni",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "インターネットが使い＿＿＿善にも悪にもなる。",
+                                "El internet puede ser bueno o malo <font color=\"#ef2929\">dependiendo de cómo</font> lo uses.",
+                                "インターネットが 使[つか]い<font color=\"#ef2929\">ようによっては</font> 善[ぜん]にも 悪[あく]にもなる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "IAdQZnKPb.",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ここからその観光地まで、道の混み＿＿＿２時間以上掛かる場合もある。",
+                                "Desde acá hasta ese punto turístico te puede llevar hasta más de dos horas <font color=\"#ef2929\">dependiendo de cómo</font> esté de congestionado el camino.",
+                                "ここからその 観光[かんこう] 地[ち]まで、 道[みち]の 混[こ]み<font color=\"#ef2929\">ようによっては</font>２ 時間[じかん] 以上[いじょう] 掛[か]かる 場合[ばあい]もある。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "c[||`5%b;l",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "場合と考え＿＿＿不運は幸運にもなれる。",
+                                "<font color=\"#ef2929\">Dependiendo</font> de la situación y <font color=\"#ef2929\">de cómo</font> se tome, la mala fortuna también puede transformarse en buena fortuna.",
+                                "場合[ばあい]と 考[かんが]え<font color=\"#ef2929\">ようによっては</font> 不運[ふうん]は 幸運[こううん]にもなれる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "wL[vdTD4ch",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "攻め手はやり＿＿＿、最高の防衛にもなれる。",
+                                "<font color=\"#ef2929\">Dependiendo de cómo</font> se haga, la ofensa puede ser también la mejor defensa.",
+                                "攻[せ]め 手[しゅ]はやり<font color=\"#ef2929\">ようによっては</font>、 最高[さいこう]の 防衛[ぼうえい]にもなれる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "yCYkkuZ,mK",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
                         }
                     ]
                 },
@@ -38176,6 +38302,39 @@
                                 "Niponismo",
                                 "ようにも"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ようによっては",
+                                "ようによっては",
+                                "ようによっては",
+                                "dependiendo de cómo",
+                                "Raíz del Verbo + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión usada para establecer la relación entre un resultado y la forma en cómo se lleva a cabo una determinada acción.<br><br>スマーホーは、 使[つか]い<font color=\"#ef2929\">＿＿＿</font>、 結構[けっこう] 役に立[やくにた]つだと 思[おも]うけど。<br><i>Yo al menos pienso que los teléfonos inteligentes pueden ser útiles <font color=\"#ef2929\">dependiendo de cómo</font> se usen</i>.<br><br>Tal como se puede apreciar, su construcción es bastante sencilla; sólo hace falta utilizar la raíz del un verbo y agregar <font color=\"#ef2929\">＿＿＿</font>. Su interpretación se obtiene a partir del hecho de que よう significa \"cómo\", mientras que によっては se entiende como \"dependiendo de\". Es muy similar a（の）いかんで（は） y （の）いかんによって（は）&nbsp;, pero difiere con éstas en que sólo se puede usar con verbos.<br><br>相手[あいて]の 答[こた]え<font color=\"#ef2929\">＿＿＿</font>、 我々[われわれ]が 立[た]てた 計画[けいかく]を 提案[ていあん]するかどうか 決[き]めるつもりだ。<br><i>Nosotros tenemos planeado decidir si presentar o no nuestro plan <font color=\"#ef2929\">dependiendo de cómo</font> la otra parte responda</i>.<br><br>Nótese además que esta expresión no se pueden utilizar junto sustantivos del tipo verbal, es decir, aquellos que se conforman de un sustantivo y する.<br><br>説明[せつめい]<font color=\"#ef2929\">＿＿＿</font>、 相手[あいて]は 分[わ]からない 場合[ばあい]もある。<br><i>Puede que el otro no te entienda <font color=\"#ef2929\">dependiendo de cómo</font> le expliques</i>.<br><br>Y de hecho, los verbos más usados con esta expresión son 使[つか]える, 考[かんが]える, 見[み]る yやる.<br><br>飛行機[ひこうき]を 乗[の]り 逃[のが]したことでもう 少[すこ]し 休[やす]みを 楽[たの]しむことが 出来[でき]たので、 見[み]<font color=\"#ef2929\">＿＿＿</font> 恵[めぐ]みだと 思[おも]われる。<br><i>Gracias a que perdistes el avión pudiste disfrutar un poco más de tus vacaciones así que, <font color=\"#ef2929\">dependiendo de cómo</font> lo mires, podrías considerarlo como una bendición</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "C3T~q7<2<H",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ようによっては"
+                            ]
                         }
                     ]
                 }
@@ -38308,10 +38467,7 @@
                 "N1",
                 "Niponismo",
                 "Oración",
-                "たくても",
-                "たくとも",
-                "ようったって",
-                "ようにも"
+                "ようによっては"
             ],
             "tmpls": [
                 {
@@ -38515,7 +38671,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ようにも"
+                "ようによっては"
             ],
             "tmpls": [
                 {
