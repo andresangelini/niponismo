@@ -31162,6 +31162,144 @@
                                 "Oración",
                                 "ようによっては"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "しかし、天才である＿＿＿一般ピーポーから理解され難いというのは宿命とも言えるわ。",
+                                "Sin embargo, bien se podría decir que el no ser entendido por la gente común a <font color=\"#ef2929\">causa</font> de ser un genio es el destino.",
+                                "しかし、 天才[てんさい]である<font color=\"#ef2929\">から/ので/ため（に）/（が）ゆえ（に）</font> 一般[いっぱん]ピーポーから 理解[りかい]され 難[がた]いというのは 宿命[しゅくめい]とも 言[い]えるわ。",
+                                "から/ので/ため（に）/（が）ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "Pxmh,F!Qvs",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "から",
+                                "ため",
+                                "ので",
+                                "ゆえ",
+                                "故",
+                                "為"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "それ＿＿＿、全てが舞さんの肩に圧し掛かってくることになる訳だ。",
+                                "Y a <font color=\"#ef2929\">causa</font> de eso todo termina descansando sobre los hombros de Mai.",
+                                "それ<font color=\"#ef2929\">ゆえ（に）</font>、 全[すべ]てが 舞[まい]さんの 肩[かた]に 圧[お]し 掛[か]かってくることになる 訳[わけ]だ。",
+                                "ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "tAz40JaBl3",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "多くの女性がより高い教養とキャリアを追求し、それ＿＿＿結婚と出産を先延ばしにしている。",
+                                "Muchas mujeres persiguen estudios terciarios y una carrera, a <font color=\"#ef2929\">causa</font> de lo cual terminan postergando el matrimonio y la maternidad.",
+                                "多[おお]くの 女性[じょせい]がより 高[たか]い 教養[きょうよう]とキャリアを 追求[ついきゅう]し、それ<font color=\"#ef2929\">ゆえ（に）</font> 結婚[けっこん]と 出産[しゅっさん]を 先[さき] 延[の]ばしにしている。",
+                                "ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "kOEB84wot!",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼の欠点＿＿＿かえって人々は彼を好いた。",
+                                "A la gente le caía bien más bien a <font color=\"#ef2929\">causa</font> de sus falencias.",
+                                "彼[かれ]の 欠点[けってん]<font color=\"#ef2929\">のゆえ（に）</font>かえって 人々[ひとびと]は 彼[かれ]を 好[す]いた。",
+                                "（の）ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "c%e2ai}3,Q",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "登山は困難と冒険と伴う＿＿＿、特に青年にとって魅力がある。",
+                                "El alpinismo es especialmente atractivo para los jóvenes a <font color=\"#ef2929\">causa</font> de las dificultades y la aventura que éste presenta.",
+                                "登山[とざん]は 困難[こんなん]と 冒険[ぼうけん]と 伴[ともな]う<font color=\"#ef2929\">ため（に）/（が） 故[こ]（に）</font>、 特[とく]に 青年[せいねん]にとって 魅力[みりょく]がある。",
+                                "ため（に）/（が）故（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "bui;4RUL9&",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ため",
+                                "ゆえ",
+                                "故",
+                                "為"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "神は許し給うとも、その＿＿＿人間は忘れるべきではない。",
+                                "Dios podrá perdonar, pero el hombre no debe olvidar a <font color=\"#ef2929\">causa</font> de eso.",
+                                "神[かみ]は 許[ゆる]し 給[たま]うとも、その<font color=\"#ef2929\">ゆえ（に）</font> 人間[にんげん]は 忘[わす]れるべきではない。",
+                                "ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "E,r=~)I0KI",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
                         }
                     ]
                 },
@@ -38335,6 +38473,40 @@
                                 "Niponismo",
                                 "ようによっては"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ゆえ",
+                                "ゆえ",
+                                "ゆえ",
+                                "causa",
+                                "S + （の） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Aな + （な） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Frase terminada en V + （が） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Frase terminada en Aい + （が） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Frase terminada en S o Aな + である / だった / であった + （が） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>（それ / それが / その） + <font color=\"#ef2929\">＿＿＿</font> + に",
+                                "Sustantivo que se combina con las partículas に y の en el lenguaje escrito para indicar de forma extremadamente formal la causa de algo.<br><br>戦争[せんそう]（の）<font color=\"#ef2929\">＿＿＿</font>（に） 数[すう] 限[かぎ]りない 人[ひと]が 餓死[がし]した。<br><i>Un sin número de personas murieron de hambre a <font color=\"#ef2929\">causa</font> de las guerras</i>.<br><br><span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;literalmente quiere decir \"causa\" y a menudo se escribe con el kanji&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;pero hace referencia a cosas generales y no a eventos específicos.<br><br><br>地震[じしん]（の）<font color=\"#ef2929\">＿＿＿</font>（に） 電車[でんしゃ]のスケジュールに 遅[おく]れがあった。<br><i>A <font color=\"#ef2929\">causa</font> del terremoto hubo un retraso en el itinerario de los trenes</i>.<br><br>Suele ir acompañado de la partícula に ya que su uso es enteramente opcional, a no ser que se encuentre al comienzo de una oración, en cuyo caso, puede ser precedida por それ（が） o その.&nbsp;<br><br>その 短[みじか]い 間[ま]みつの 戦争[せんそう]があった。（それ/それが/その）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に 今[いま]は 我が国[わがくに]が 唯[ただ]の 荒地[あれち]に 過[す]ぎない。<br><i>En ese corto período hubieron tres guerras. A <font color=\"#ef2929\">causa</font> de ello / Por dicha <font color=\"#ef2929\">causa</font>, nuestro país no es más que una tierra deshecha</i>.<br><br>Cuando&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;no se encuentra al principio de una oración, puede ser precedida por la partícula の, な o が dependiendo de lo que tenga delante suyo.<br><br>Cuando la causa es un sustantivo, la partícula の puede emplearse para conectarla con&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>.<br><br>自我[じが]（の）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） 人間[にんげん]は 恐[おそ]ろし 事[こと]が 出来[でき]る。<br><i>El hombre es capaz de hacer cualquier cosa a <font color=\"#ef2929\">causa</font> su ego</i>.<br><br>Si por el contrario, lo que se encuentra delante a la expresión es un adjetivo del tipo な, entonces el mismo puede utilizar な opcionalmente.<br><br>便利[べんり]（な）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） 日本人[にっぽんじん]は 仕事[しごと]を 通[とお]っている 為[ため] 電車[でんしゃ]を 選[えら]ぶ。<br><i>A <font color=\"#ef2929\">cuasa</font> de su conveniencia, los japoneses eligen el tren para ir y venir del trabajo</i>.<div><br>También puede ser precedida por una oración en lugar de una palabra. En estos casos, dicha oración puede sustantivarse con la partícula が, que es la versión antigua de の cuando de sustantivar verbos se trata.<br><br>ブラジルがラテンアメリカに 位置[いち]している（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）ブラジルの 国語[こくご]はスペイン 語[ご]だと 思[おも]う 人[ひと]が 沢山[たくさん]いる。<br><i>A <font color=\"#ef2929\">causa</font> de que Brasil se ubica en Latinoamérica, hay muchas personas que piensan que su idioma nacional es el español</i>.<br><br>Si dicha oración además termina en sustantivo o adjetivo な, el だ debe reemplazarse por su equivalente ultra formal である o であった si está en pasado. Dicho esto, la versión pasada de la partícula declarativa だ, es decir, だった también puede emplearse.<br><br>アインシュタインは 天才[てんさい]｛だった/であった｝（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） 敢[あ]えて 彼[かれ]のアイディアを 逆[さか]らう 同僚[どうりょう]があまり 少[すく]なかった。<br><i>A <font color=\"#ef2929\">causa</font> de su genio, había muy pocos colegas que se animaran a contradecir las ideas de Einstein</i>.<br><br>Es posible agregar la partícula posesiva の detrás de&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;para crear una frase sustantivada.<br><br>手作[てづく]り<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>のよさは 高価[こうか]に 値[あたい]する。<br><i>El elevado precio que tiene a causa de estar hecho a mano bien vale la pena</i>.<br><br>Por último,&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;puede ubicarse al final de una oración conjuntamente con である o cualquiera de sus conjugaciones con el propósito de destacar aún más la causa.<br><br>経済[けいざい]は 人間[にんげん]の 歴史[れきし]には 戦争[せんそう]が 多[おお]い<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>である。<br><i>La economía es la <font color=\"#ef2929\">causa</font> de que hayan muchas guerras a lo largo de la historia humana</i>.<br><br><b>Expresiones similares</b><br><br>La palabra ため (a menudo escrito 為[ため]) es sinónima de&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;y puede reemplazarla en todos los casos. Es mucho más común y se usa tanto en el habla como en la escritura.<br><br>戦争[せんそう]（の）{<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>/ため}（に） 数[すう] 限[かぎ]りない 人[ひと]が 餓死[がし]した。<br><i>Un sin número de personas murieron de hambre a <font color=\"#ef2929\">causa</font> de las guerras</i>.<br><br>Nótese que al igual que con&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>, las partículas に y の son enteramente opcionales, aunque con ため no es necesaria la partícula が cuando es precedida por una frase.<br><br>ブラジルがラテンアメリカに 位置[いち]している｛（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）/ため（に）｝ブラジルの 国語[こくご]はスペイン 語[ご]だと 思[おも]う 人[ひと]が 沢山[たくさん]いる。<br><i>A <font color=\"#ef2929\">causa</font> de que Brasil se ubica en Latinoamérica, hay muchas personas que piensan que su idioma nacional es el español</i>.<br><br>También puede usarse al principio de una oración, aunque en este caso, se debe agregar delante その y la partícula に no es obligatoria.<br><br>その 短[みじか]い 間[ま]みつの 戦争[せんそう]があった。｛（それ/それが/その）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に/そのため（に）｝ 今[いま]は 我が国[わがくに]が 唯[ただ]の 荒地[あれち]に 過[す]ぎない。<br><i>En ese corto período hubieron tres guerras. A <font color=\"#ef2929\">causa</font> de ello / Por dicha causa, nuestro país no es más que una tierra deshecha</i>.<br><br>Pero al contrario que&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>, ため sí se usa para hacer referencia a hechos concretos.<br><br>地震[じしん]（の）｛<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>/ため｝（に） 電車[でんしゃ]のスケジュールに 遅[おく]れがあった。<br><i>A <font color=\"#ef2929\">causa</font> del terremoto hubo un retraso en el itinerario de los trenes</i>.<br><br>Las partículas から y ので también pueden reemplazar a （が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） sin que el significado cambie demasiado.<br><br>ブラジルがラテンアメリカに 位置[いち]している｛（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）/から/ので｝ブラジルの 国語[こくご]はスペイン 語[ご]だと 思[おも]う 人[ひと]が 沢山[たくさん]いる。<br><i>A <font color=\"#ef2929\">causa</font> de que / <font color=\"#ef2929\">Debido a que</font> / <font color=\"#ef2929\">Como</font> Brasil se ubica en Latinoamérica, hay muchas personas que piensan que su idioma nacional es el español</i>.<br><br>Sin embargo, su uso no es correcto si&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;se usa para hacer una negación parcial.<br><br>値段[ねだん]は 高[たか]い｛（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）/から/ので｝ 質[しつ]が 良[よ]からず。<br><i>La calidad de un producto no se define simplemente a <font color=\"#ef2929\">causa</font> de su precio</i>.<br><br>En su lugar, se debe usar la expresión からといって〜わけではない.<br><br>値段[ねだん]は 高[たか]いからといって 質[しつ]が 良[よ]いわけではない。<br><i>La calidad de un producto no se define simplemente a <font color=\"#ef2929\">causa</font> de su precio</i>.<br><br>Debemos recordar de todas formas que tanto から como ので y からといって〜わけではない son todos expresiones de uso corriente y menos formales que&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>.<br><br>Por último, es posible reemplazar&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に por だから o 従[したが]って al comienzo de una oración, aunque debemos tener en cuenta que ambas son menos formales que ella, especialmente だから.<br><br>その 短[みじか]い 間[ま]みつの 戦争[せんそう]があった。｛（それ/それが/その）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に/だから/ 従[したが]って｝ 今[いま]は 我が国[わがくに]が 唯[ただ]の 荒地[あれち]に 過[す]ぎない。<br><i>En ese corto período hubieron tres guerras. A <font color=\"#ef2929\">causa</font> de ello / Por dicha causa / Por eso / Por consiguiente, nuestro país no es más que una tierra deshecha</i>.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "H~6m_Z5.#`",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ゆえ",
+                                "故"
+                            ]
                         }
                     ]
                 }
@@ -38465,9 +38637,10 @@
                 "Gramática",
                 "Japonés",
                 "N1",
-                "Niponismo",
                 "Oración",
-                "ようによっては"
+                "tatoeba",
+                "ゆえ",
+                "故"
             ],
             "tmpls": [
                 {
@@ -38671,7 +38844,8 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ようによっては"
+                "ゆえ",
+                "故"
             ],
             "tmpls": [
                 {
