@@ -30654,7 +30654,7 @@
                                 "N1",
                                 "Oración",
                                 "tatoeba",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -30675,7 +30675,7 @@
                                 "N1",
                                 "Oración",
                                 "tatoeba",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -30696,7 +30696,7 @@
                                 "N1",
                                 "Niponismo",
                                 "Oración",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -30717,7 +30717,7 @@
                                 "N1",
                                 "Niponismo",
                                 "Oración",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -30738,7 +30738,7 @@
                                 "N1",
                                 "Niponismo",
                                 "Oración",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -30759,7 +30759,7 @@
                                 "N1",
                                 "Niponismo",
                                 "Oración",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -31035,6 +31035,396 @@
                                 "たくとも",
                                 "ようったって",
                                 "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "注意してね。言い<font color=\"#ef2929\">＿＿＿</font>姉は起こるかもしれない。",
+                                "Ten cuidado. <font color=\"#ef2929\">Dependiendo de cómo</font> se lo digas, mi hermana mayor se puede enojar.",
+                                "注意[ちゅうい]してね。 言[い]い<font color=\"#ef2929\">ようによっては</font> 姉[あね]は 起[お]こるかもしれない。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "JhFJdyog.n",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "これからもっといい取引が出来るかもしれないので、交渉が崩れたのは、見＿＿＿善にも悪にもなる。",
+                                "Capaz que conseguimos un trato mejor, así que el hecho de que se arruinaran las negociaciones podría resultar ser algo bueno o malo, <font color=\"#ef2929\">dependiendo de cómo</font> uno lo mire.",
+                                "これからもっといい 取引[とりひき]が 出来[でき]るかもしれないので、 交渉[こうしょう]が 崩[くず]れたのは、 見[み]<font color=\"#ef2929\">ようによっては</font> 善[ぜん]にも 悪[あく]にもなる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "IlXba]}*Ni",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "インターネットが使い＿＿＿善にも悪にもなる。",
+                                "El internet puede ser bueno o malo <font color=\"#ef2929\">dependiendo de cómo</font> lo uses.",
+                                "インターネットが 使[つか]い<font color=\"#ef2929\">ようによっては</font> 善[ぜん]にも 悪[あく]にもなる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "IAdQZnKPb.",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ここからその観光地まで、道の混み＿＿＿２時間以上掛かる場合もある。",
+                                "Desde acá hasta ese punto turístico te puede llevar hasta más de dos horas <font color=\"#ef2929\">dependiendo de cómo</font> esté de congestionado el camino.",
+                                "ここからその 観光[かんこう] 地[ち]まで、 道[みち]の 混[こ]み<font color=\"#ef2929\">ようによっては</font>２ 時間[じかん] 以上[いじょう] 掛[か]かる 場合[ばあい]もある。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "c[||`5%b;l",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "場合と考え＿＿＿不運は幸運にもなれる。",
+                                "<font color=\"#ef2929\">Dependiendo</font> de la situación y <font color=\"#ef2929\">de cómo</font> se tome, la mala fortuna también puede transformarse en buena fortuna.",
+                                "場合[ばあい]と 考[かんが]え<font color=\"#ef2929\">ようによっては</font> 不運[ふうん]は 幸運[こううん]にもなれる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "wL[vdTD4ch",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "攻め手はやり＿＿＿、最高の防衛にもなれる。",
+                                "<font color=\"#ef2929\">Dependiendo de cómo</font> se haga, la ofensa puede ser también la mejor defensa.",
+                                "攻[せ]め 手[しゅ]はやり<font color=\"#ef2929\">ようによっては</font>、 最高[さいこう]の 防衛[ぼうえい]にもなれる。",
+                                "ようによっては"
+                            ],
+                            "flags": 0,
+                            "guid": "yCYkkuZ,mK",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "しかし、天才である＿＿＿一般ピーポーから理解され難いというのは宿命とも言えるわ。",
+                                "Sin embargo, bien se podría decir que el no ser entendido por la gente común a <font color=\"#ef2929\">causa</font> de ser un genio es el destino.",
+                                "しかし、 天才[てんさい]である<font color=\"#ef2929\">から/ので/ため（に）/（が）ゆえ（に）</font> 一般[いっぱん]ピーポーから 理解[りかい]され 難[がた]いというのは 宿命[しゅくめい]とも 言[い]えるわ。",
+                                "から/ので/ため（に）/（が）ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "Pxmh,F!Qvs",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "から",
+                                "ため",
+                                "ので",
+                                "ゆえ",
+                                "故",
+                                "為"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "それ＿＿＿、全てが舞さんの肩に圧し掛かってくることになる訳だ。",
+                                "Y a <font color=\"#ef2929\">causa</font> de eso todo termina descansando sobre los hombros de Mai.",
+                                "それ<font color=\"#ef2929\">ゆえ（に）</font>、 全[すべ]てが 舞[まい]さんの 肩[かた]に 圧[お]し 掛[か]かってくることになる 訳[わけ]だ。",
+                                "ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "tAz40JaBl3",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "多くの女性がより高い教養とキャリアを追求し、それ＿＿＿結婚と出産を先延ばしにしている。",
+                                "Muchas mujeres persiguen estudios terciarios y una carrera, a <font color=\"#ef2929\">causa</font> de lo cual terminan postergando el matrimonio y la maternidad.",
+                                "多[おお]くの 女性[じょせい]がより 高[たか]い 教養[きょうよう]とキャリアを 追求[ついきゅう]し、それ<font color=\"#ef2929\">ゆえ（に）</font> 結婚[けっこん]と 出産[しゅっさん]を 先[さき] 延[の]ばしにしている。",
+                                "ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "kOEB84wot!",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼の欠点＿＿＿かえって人々は彼を好いた。",
+                                "A la gente le caía bien más bien a <font color=\"#ef2929\">causa</font> de sus falencias.",
+                                "彼[かれ]の 欠点[けってん]<font color=\"#ef2929\">のゆえ（に）</font>かえって 人々[ひとびと]は 彼[かれ]を 好[す]いた。",
+                                "（の）ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "c%e2ai}3,Q",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "登山は困難と冒険と伴う＿＿＿、特に青年にとって魅力がある。",
+                                "El alpinismo es especialmente atractivo para los jóvenes a <font color=\"#ef2929\">causa</font> de las dificultades y la aventura que éste presenta.",
+                                "登山[とざん]は 困難[こんなん]と 冒険[ぼうけん]と 伴[ともな]う<font color=\"#ef2929\">ため（に）/（が） 故[こ]（に）</font>、 特[とく]に 青年[せいねん]にとって 魅力[みりょく]がある。",
+                                "ため（に）/（が）故（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "bui;4RUL9&",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ため",
+                                "ゆえ",
+                                "故",
+                                "為"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "神は許し給うとも、その＿＿＿人間は忘れるべきではない。",
+                                "Dios podrá perdonar, pero el hombre no debe olvidar a <font color=\"#ef2929\">causa</font> de eso.",
+                                "神[かみ]は 許[ゆる]し 給[たま]うとも、その<font color=\"#ef2929\">ゆえ（に）</font> 人間[にんげん]は 忘[わす]れるべきではない。",
+                                "ゆえ（に）"
+                            ],
+                            "flags": 0,
+                            "guid": "E,r=~)I0KI",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あなたたちは、もうここに歓迎され＿＿＿者だ。",
+                                "Ustedes ya son personas <font color=\"#ef2929\">no</font> gratas aquí.",
+                                "あなたたちは、もうここに 歓迎[かんげい]され<font color=\"#ef2929\">ていない/ざる</font> 者[しゃ]だ。",
+                                "ていない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "ro{s~rGDuG",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は必死に急いだが、結局完成され＿＿＿作曲を差し出した羽目になった。",
+                                "Él se apresuró todo lo que pudo pero al final terminó entregando una obra <font color=\"#ef2929\">sin</font> terminar.&nbsp;",
+                                "彼[かれ]は 必死[ひっし]に 急[いそ]いだが、 結局[けっきょく] 完成[かんせい]され<font color=\"#ef2929\">ていない/ざる</font> 作曲[さっきょく]を 差し出[さしだ]した 羽目[はめ]になった。",
+                                "ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "t_>5qfLi0s",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "昨夜絶え＿＿＿頭痛で全く眠れなかった。",
+                                "Ayer no pude dormira para nada por un dolor de cabeza <font color=\"#ef2929\">in</font>cesante.",
+                                "昨夜[さくや] 絶[た]え<font color=\"#ef2929\">ない/ざる</font> 頭痛[ずつう]で 全[まった]く 眠[ねむ]れなかった。",
+                                "ない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "zF7ouMJOhL",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "この世では未だ解け＿＿＿謎が沢山ある。",
+                                "Aún quedan muchos misterios <font color=\"#ef2929\">sin</font> resolver en este mundo.",
+                                "この 世[よ]では 未[いま]だ 解[と]け<font color=\"#ef2929\">ていない/ざる</font> 謎[なぞ]が 沢山[たくさん]ある。",
+                                "ていない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "c7o/;RtC2X",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "こちらは彼の一番知られ＿＿＿作品である。",
+                                "He aquí su obra más <font color=\"#ef2929\">des</font>conocida.",
+                                "こちらは 彼[かれ]の 一番[いちばん] 知[し]られ<font color=\"#ef2929\">ていない/ざる</font> 作品[さくひん]である。",
+                                "ていない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "H{0tWcU`$_",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は終わら＿＿＿悪夢のような体験をした。",
+                                "Ellos vivieron una experiencia que fue como una pesadilla que <font color=\"#ef2929\">no</font> terminaba nunca.",
+                                "彼[かれ]は 終[お]わら<font color=\"#ef2929\">ない/ざる</font> 悪夢[あくむ]のような 体験[たいけん]をした。",
+                                "ない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "cCoIbLFy98",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
                             ]
                         }
                     ]
@@ -38082,9 +38472,9 @@
                             "__type__": "Note",
                             "data": "",
                             "fields": [
-                                "うか〜まいか",
-                                "うか〜まいか",
-                                "うか〜まいか",
+                                "ようか〜まいか",
+                                "ようか〜まいか",
+                                "ようか〜まいか",
                                 "hacer o no hacer",
                                 "V volitivo+ が + V informal + まい + か",
                                 "<div>Expresión un tanto rígida que refleja duda acerca de si llevar a cabo una acción o no.<br></div><div style=\"font-style: italic;\"><em><br></em></div>自分[じぶん]の 将来[しょうらい]について 先生[せんせい]に 聞[き]こ<font color=\"#ef2929\">＿＿＿&nbsp;</font>聞[き]く<font color=\"#ef2929\">＿＿＿&nbsp;</font>迷[まよ]っていた。<div><i>Estaba dudando si preguntarle <font color=\"#ef2929\">o no</font> al profesor sobre mi futuro</i>.<div><br></div><div>Esta forma se compone de dos verbos volitivos; el primero positivo y el segundo negativo. La conjugación negativa de un verbo volitivo se forma agregando a su forma informal el auxiliar まい. La partícula か detrás de cada verbo es lo que de hecho le da la connotación de duda.</div><div style=\"font-style: italic;\"><em><br></em></div>今日[きょう]の 雨[あめ]は 酷[ひど]いよね。 子供[こども]を 学校[がっこう]に 行[い]かせよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>行[い]かせる<font color=\"#ef2929\">＿＿＿</font>。</div><div><i>Hoy sí que llueve feo. ¿Enviaré a los chicos al colegio <font color=\"#ef2929\">o no</font>?</i><div><br></div><div>Al igual que con los verbos volitivos en forma positiva, se debe tener cuidado con la conjugación de su contraparte negativa まい.</div><div><br></div>- Los verbos del grupo う se conjugan dejando el verbo en su forma informal o diccionario y agregando まい detrás. Por ejemplo, &nbsp;行[い]く se transforma en &nbsp;行[い]くまい.</div><div>- Los verbos del grupo る, por su parte, pueden conjugarse tanto a su forma raíz como al informal o diccionario y luego agregarle まい detrás. Por ejemplo, &nbsp;食[た]べる puede conjugarse en &nbsp;食[た]べまい o en &nbsp;食[た]べるまい.</div><div>- El verbo &nbsp;来[く]る se transforma en &nbsp;来[こ]まい (en cuyo caso se pronuncia こまい).</div><div>- Por último, する se puede conjugar tanto a su forma raíz し, como a su forma informal する, el cual a su vez se puede abreviar a す como sucede con するべく al abreviarse a すべく y luego agregarse la partícula か.<div><br></div><div><b>Expresiones similares</b><div><br></div><div>Es parecido a か 否[いな]か ya que ésta también puede usarse para reflejar duda sobre una acción o no pero su estructura es diferente. Para poder usar esta expresión el verbo debe repetirse.</div><div style=\"font-style: italic;\"><em><br></em></div>次[つぎ]の 試験[しけん]はとても 難[むずか]しそうだ。 徹[てっ]｛する<font color=\"#ef2929\">か 否[いな]か</font>/しよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>徹[てっ]し<font color=\"#ef2929\">＿＿＿</font>/しよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>徹[てっ]す<font color=\"#ef2929\">＿＿＿</font>/しよ<font color=\"#ef2929\">＿＿＿&nbsp;</font>徹[てっ]する<font color=\"#ef2929\">＿＿＿</font>｝。</div><div><i>Dicen que el próximo examen es muy difícil. ¿Trasnochar <font color=\"#ef2929\">o no</font>?</i><br></div></div>",
@@ -38108,7 +38498,7 @@
                                 "Japonés",
                                 "N1",
                                 "Niponismo",
-                                "うか〜まいか"
+                                "ようか〜まいか"
                             ]
                         },
                         {
@@ -38175,6 +38565,106 @@
                                 "N1",
                                 "Niponismo",
                                 "ようにも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ようによっては",
+                                "ようによっては",
+                                "ようによっては",
+                                "dependiendo de cómo",
+                                "Raíz del Verbo + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión usada para establecer la relación entre un resultado y la forma en cómo se lleva a cabo una determinada acción.<br><br>スマーホーは、 使[つか]い<font color=\"#ef2929\">＿＿＿</font>、 結構[けっこう] 役に立[やくにた]つだと 思[おも]うけど。<br><i>Yo al menos pienso que los teléfonos inteligentes pueden ser útiles <font color=\"#ef2929\">dependiendo de cómo</font> se usen</i>.<br><br>Tal como se puede apreciar, su construcción es bastante sencilla; sólo hace falta utilizar la raíz del un verbo y agregar <font color=\"#ef2929\">＿＿＿</font>. Su interpretación se obtiene a partir del hecho de que よう significa \"cómo\", mientras que によっては se entiende como \"dependiendo de\". Es muy similar a（の）いかんで（は） y （の）いかんによって（は）&nbsp;, pero difiere con éstas en que sólo se puede usar con verbos.<br><br>相手[あいて]の 答[こた]え<font color=\"#ef2929\">＿＿＿</font>、 我々[われわれ]が 立[た]てた 計画[けいかく]を 提案[ていあん]するかどうか 決[き]めるつもりだ。<br><i>Nosotros tenemos planeado decidir si presentar o no nuestro plan <font color=\"#ef2929\">dependiendo de cómo</font> la otra parte responda</i>.<br><br>Nótese además que esta expresión no se pueden utilizar junto sustantivos del tipo verbal, es decir, aquellos que se conforman de un sustantivo y する.<br><br>説明[せつめい]<font color=\"#ef2929\">＿＿＿</font>、 相手[あいて]は 分[わ]からない 場合[ばあい]もある。<br><i>Puede que el otro no te entienda <font color=\"#ef2929\">dependiendo de cómo</font> le expliques</i>.<br><br>Y de hecho, los verbos más usados con esta expresión son 使[つか]える, 考[かんが]える, 見[み]る yやる.<br><br>飛行機[ひこうき]を 乗[の]り 逃[のが]したことでもう 少[すこ]し 休[やす]みを 楽[たの]しむことが 出来[でき]たので、 見[み]<font color=\"#ef2929\">＿＿＿</font> 恵[めぐ]みだと 思[おも]われる。<br><i>Gracias a que perdistes el avión pudiste disfrutar un poco más de tus vacaciones así que, <font color=\"#ef2929\">dependiendo de cómo</font> lo mires, podrías considerarlo como una bendición</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "C3T~q7<2<H",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ようによっては"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ゆえ",
+                                "ゆえ",
+                                "ゆえ",
+                                "causa",
+                                "S + （の） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Aな + （な） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Frase terminada en V + （が） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Frase terminada en Aい + （が） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>Frase terminada en S o Aな + である / だった / であった + （が） +&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;+ （に）<br>（それ / それが / その） + <font color=\"#ef2929\">＿＿＿</font> + に",
+                                "Sustantivo que se combina con las partículas に y の en el lenguaje escrito para indicar de forma extremadamente formal la causa de algo.<br><br>戦争[せんそう]（の）<font color=\"#ef2929\">＿＿＿</font>（に） 数[すう] 限[かぎ]りない 人[ひと]が 餓死[がし]した。<br><i>Un sin número de personas murieron de hambre a <font color=\"#ef2929\">causa</font> de las guerras</i>.<br><br><span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;literalmente quiere decir \"causa\" y a menudo se escribe con el kanji&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;pero hace referencia a cosas generales y no a eventos específicos.<br><br><br>地震[じしん]（の）<font color=\"#ef2929\">＿＿＿</font>（に） 電車[でんしゃ]のスケジュールに 遅[おく]れがあった。<br><i>A <font color=\"#ef2929\">causa</font> del terremoto hubo un retraso en el itinerario de los trenes</i>.<br><br>Suele ir acompañado de la partícula に ya que su uso es enteramente opcional, a no ser que se encuentre al comienzo de una oración, en cuyo caso, puede ser precedida por それ（が） o その.&nbsp;<br><br>その 短[みじか]い 間[ま]みつの 戦争[せんそう]があった。（それ/それが/その）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に 今[いま]は 我が国[わがくに]が 唯[ただ]の 荒地[あれち]に 過[す]ぎない。<br><i>En ese corto período hubieron tres guerras. A <font color=\"#ef2929\">causa</font> de ello / Por dicha <font color=\"#ef2929\">causa</font>, nuestro país no es más que una tierra deshecha</i>.<br><br>Cuando&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;no se encuentra al principio de una oración, puede ser precedida por la partícula の, な o が dependiendo de lo que tenga delante suyo.<br><br>Cuando la causa es un sustantivo, la partícula の puede emplearse para conectarla con&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>.<br><br>自我[じが]（の）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） 人間[にんげん]は 恐[おそ]ろし 事[こと]が 出来[でき]る。<br><i>El hombre es capaz de hacer cualquier cosa a <font color=\"#ef2929\">causa</font> su ego</i>.<br><br>Si por el contrario, lo que se encuentra delante a la expresión es un adjetivo del tipo な, entonces el mismo puede utilizar な opcionalmente.<br><br>便利[べんり]（な）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） 日本人[にっぽんじん]は 仕事[しごと]を 通[とお]っている 為[ため] 電車[でんしゃ]を 選[えら]ぶ。<br><i>A <font color=\"#ef2929\">cuasa</font> de su conveniencia, los japoneses eligen el tren para ir y venir del trabajo</i>.<div><br>También puede ser precedida por una oración en lugar de una palabra. En estos casos, dicha oración puede sustantivarse con la partícula が, que es la versión antigua de の cuando de sustantivar verbos se trata.<br><br>ブラジルがラテンアメリカに 位置[いち]している（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）ブラジルの 国語[こくご]はスペイン 語[ご]だと 思[おも]う 人[ひと]が 沢山[たくさん]いる。<br><i>A <font color=\"#ef2929\">causa</font> de que Brasil se ubica en Latinoamérica, hay muchas personas que piensan que su idioma nacional es el español</i>.<br><br>Si dicha oración además termina en sustantivo o adjetivo な, el だ debe reemplazarse por su equivalente ultra formal である o であった si está en pasado. Dicho esto, la versión pasada de la partícula declarativa だ, es decir, だった también puede emplearse.<br><br>アインシュタインは 天才[てんさい]｛だった/であった｝（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） 敢[あ]えて 彼[かれ]のアイディアを 逆[さか]らう 同僚[どうりょう]があまり 少[すく]なかった。<br><i>A <font color=\"#ef2929\">causa</font> de su genio, había muy pocos colegas que se animaran a contradecir las ideas de Einstein</i>.<br><br>Es posible agregar la partícula posesiva の detrás de&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;para crear una frase sustantivada.<br><br>手作[てづく]り<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>のよさは 高価[こうか]に 値[あたい]する。<br><i>El elevado precio que tiene a causa de estar hecho a mano bien vale la pena</i>.<br><br>Por último,&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;puede ubicarse al final de una oración conjuntamente con である o cualquiera de sus conjugaciones con el propósito de destacar aún más la causa.<br><br>経済[けいざい]は 人間[にんげん]の 歴史[れきし]には 戦争[せんそう]が 多[おお]い<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>である。<br><i>La economía es la <font color=\"#ef2929\">causa</font> de que hayan muchas guerras a lo largo de la historia humana</i>.<br><br><b>Expresiones similares</b><br><br>La palabra ため (a menudo escrito 為[ため]) es sinónima de&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;y puede reemplazarla en todos los casos. Es mucho más común y se usa tanto en el habla como en la escritura.<br><br>戦争[せんそう]（の）{<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>/ため}（に） 数[すう] 限[かぎ]りない 人[ひと]が 餓死[がし]した。<br><i>Un sin número de personas murieron de hambre a <font color=\"#ef2929\">causa</font> de las guerras</i>.<br><br>Nótese que al igual que con&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>, las partículas に y の son enteramente opcionales, aunque con ため no es necesaria la partícula が cuando es precedida por una frase.<br><br>ブラジルがラテンアメリカに 位置[いち]している｛（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）/ため（に）｝ブラジルの 国語[こくご]はスペイン 語[ご]だと 思[おも]う 人[ひと]が 沢山[たくさん]いる。<br><i>A <font color=\"#ef2929\">causa</font> de que Brasil se ubica en Latinoamérica, hay muchas personas que piensan que su idioma nacional es el español</i>.<br><br>También puede usarse al principio de una oración, aunque en este caso, se debe agregar delante その y la partícula に no es obligatoria.<br><br>その 短[みじか]い 間[ま]みつの 戦争[せんそう]があった。｛（それ/それが/その）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に/そのため（に）｝ 今[いま]は 我が国[わがくに]が 唯[ただ]の 荒地[あれち]に 過[す]ぎない。<br><i>En ese corto período hubieron tres guerras. A <font color=\"#ef2929\">causa</font> de ello / Por dicha causa, nuestro país no es más que una tierra deshecha</i>.<br><br>Pero al contrario que&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>, ため sí se usa para hacer referencia a hechos concretos.<br><br>地震[じしん]（の）｛<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>/ため｝（に） 電車[でんしゃ]のスケジュールに 遅[おく]れがあった。<br><i>A <font color=\"#ef2929\">causa</font> del terremoto hubo un retraso en el itinerario de los trenes</i>.<br><br>Las partículas から y ので también pueden reemplazar a （が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に） sin que el significado cambie demasiado.<br><br>ブラジルがラテンアメリカに 位置[いち]している｛（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）/から/ので｝ブラジルの 国語[こくご]はスペイン 語[ご]だと 思[おも]う 人[ひと]が 沢山[たくさん]いる。<br><i>A <font color=\"#ef2929\">causa</font> de que / <font color=\"#ef2929\">Debido a que</font> / <font color=\"#ef2929\">Como</font> Brasil se ubica en Latinoamérica, hay muchas personas que piensan que su idioma nacional es el español</i>.<br><br>Sin embargo, su uso no es correcto si&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>&nbsp;se usa para hacer una negación parcial.<br><br>値段[ねだん]は 高[たか]い｛（が）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>（に）/から/ので｝ 質[しつ]が 良[よ]からず。<br><i>La calidad de un producto no se define simplemente a <font color=\"#ef2929\">causa</font> de su precio</i>.<br><br>En su lugar, se debe usar la expresión からといって〜わけではない.<br><br>値段[ねだん]は 高[たか]いからといって 質[しつ]が 良[よ]いわけではない。<br><i>La calidad de un producto no se define simplemente a <font color=\"#ef2929\">causa</font> de su precio</i>.<br><br>Debemos recordar de todas formas que tanto から como ので y からといって〜わけではない son todos expresiones de uso corriente y menos formales que&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>.<br><br>Por último, es posible reemplazar&nbsp;<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に por だから o 従[したが]って al comienzo de una oración, aunque debemos tener en cuenta que ambas son menos formales que ella, especialmente だから.<br><br>その 短[みじか]い 間[ま]みつの 戦争[せんそう]があった。｛（それ/それが/その）<span style=\"color: rgb(239, 41, 41);\">＿＿＿</span>に/だから/ 従[したが]って｝ 今[いま]は 我が国[わがくに]が 唯[ただ]の 荒地[あれち]に 過[す]ぎない。<br><i>En ese corto período hubieron tres guerras. A <font color=\"#ef2929\">causa</font> de ello / Por dicha causa / Por eso / Por consiguiente, nuestro país no es más que una tierra deshecha</i>.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "H~6m_Z5.#`",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ゆえ",
+                                "故"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ざる",
+                                "ざる",
+                                "ざる",
+                                "no / sin / in- / des-",
+                                "Vない sin ない + <font color=\"#ef2929\">＿＿＿</font> + S<br>S + せ + <font color=\"#ef2929\">＿＿＿</font> + S",
+                                "Conjugación negativa que transforma a un verbo en adjetivo para describir el estado de algo.<br><br>判決[はんけつ]が 下[くだ]されたとはいえ、 解[と]け<font color=\"#ef2929\">＿＿＿</font> 謎[なぞ]が 未[いま]だ 沢山[たくさん] 残[のこ]っている。<br><i>Por más que se haya dictaminado una sentencia, aún quedan muchos misterios <font color=\"#ef2929\">no</font> resueltos / <font color=\"#ef2929\">sin</font> resolver</i>.<br><br>Como se puede ver, con esta conjugación básicamente negamos el verbo de la misma forma en como en el español decimos, por ejemplo, \"no terminado\" o \"sin terminar\". Sin embargo, en ocasiones se interpreta mejor como \"in-\" o \"des-\"<br><br>娘[むすめ]が 事故[じこ]に 掛[か]かって 入院[にゅういん]されてしまった。 絶[た]え<font color=\"#ef2929\">＿＿＿</font> 不安[ふあん]で 夜[よる]も 眠[ねむ]れない。<br><i>Mi hija tuvo un accidente y fue hospitalizada. No pude dormir por los <font color=\"#ef2929\">in</font>cesantes nervios</i>.<br><br>Por otro lado, el しない en los sustantivos verbales se transforma en せ para formar せ<font color=\"#ef2929\">＿＿＿</font>.<br><br>高岡[たかおか]くんは 相変[あいか]わらず 何[なに]も 心配[しんぱい]せ<font color=\"#ef2929\">＿＿＿</font> 者[もの]だ。<br><i>Takaoka no se preocupa por nada como siempre</i>.<br><br>O dicho de otra forma:<br><br><i>Takaoka es totalmente <font color=\"#ef2929\">des</font>preocupado como siempre</i>.<br><br>Sin embargo, lo más común cuando se usan sustantivos verbales es que estos estén en forma pasiva ya que lo que se describe es un estado.<br><br>あの 刑事[けいじ]なら、 解決[かいけつ]され<font color=\"#ef2929\">＿＿＿</font> 事件[じけん]を 残[のこ]さない。<br><i>Si se trata de ese detective, él no deja casos <font color=\"#ef2929\">no</font> resueltos / <font color=\"#ef2929\">sin</font> resolver</i>.<br><br><b>Expresiones similares</b><br><br>Básicamente, la conjugación <font color=\"#ef2929\">＿＿＿</font> es una forma algo más arcaica de la conjugación ない al igual como sucede con ず. La diferencia entre <font color=\"#ef2929\">＿＿＿</font> y ず es que la primera transforma al verbo en un adjetivo mientras que la segunda lo convierte en un adverbio.<br><br>判決[はんけつ]が 下[くだ]されたとはいえ、 解[と]け｛<font color=\"#ef2929\">ず（に）✕/ない/＿＿＿</font>｝ 謎[なぞ]が 未[いま]だ 沢山[たくさん] 残[のこ]っている。<br><i>Por más que se haya dictaminado una sentencia, aún quedan muchos misterios <font color=\"#ef2929\">no</font> resueltos / <font color=\"#ef2929\">sin</font> resolver</i>.<br><br>En el ejemplo anterior, usar ず（に） no es correcto porque lo que le sigue debe ser un verbo o un predicado que refleje una acción.<br><br>隣[となり]の 事務所[じむしょ]では一 日[にち] 絶[た]え｛<font color=\"#ef2929\">ず（に）/ない</font><span style=\"color: rgb(239, 41, 41);\">✕</span><font color=\"#ef2929\">/＿＿＿</font><span style=\"color: rgb(239, 41, 41);\">✕</span>｝ 電話[でんわ]が 掛[か]かっていた。<br><i>En la oficina de al lado sonó el teléfono todo el día <font color=\"#ef2929\">sin</font> parar</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "qIB~Xg,i-u",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ざる"
                             ]
                         }
                     ]
@@ -38308,10 +38798,7 @@
                 "N1",
                 "Niponismo",
                 "Oración",
-                "たくても",
-                "たくとも",
-                "ようったって",
-                "ようにも"
+                "ざる"
             ],
             "tmpls": [
                 {
@@ -38515,7 +39002,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ようにも"
+                "ざる"
             ],
             "tmpls": [
                 {
