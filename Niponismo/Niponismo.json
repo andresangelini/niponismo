@@ -31300,6 +31300,132 @@
                                 "ゆえ",
                                 "故"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あなたたちは、もうここに歓迎され＿＿＿者だ。",
+                                "Ustedes ya son personas <font color=\"#ef2929\">no</font> gratas aquí.",
+                                "あなたたちは、もうここに 歓迎[かんげい]され<font color=\"#ef2929\">ていない/ざる</font> 者[しゃ]だ。",
+                                "ていない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "ro{s~rGDuG",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は必死に急いだが、結局完成され＿＿＿作曲を差し出した羽目になった。",
+                                "Él se apresuró todo lo que pudo pero al final terminó entregando una obra <font color=\"#ef2929\">sin</font> terminar.&nbsp;",
+                                "彼[かれ]は 必死[ひっし]に 急[いそ]いだが、 結局[けっきょく] 完成[かんせい]され<font color=\"#ef2929\">ていない/ざる</font> 作曲[さっきょく]を 差し出[さしだ]した 羽目[はめ]になった。",
+                                "ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "t_>5qfLi0s",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "昨夜絶え＿＿＿頭痛で全く眠れなかった。",
+                                "Ayer no pude dormira para nada por un dolor de cabeza <font color=\"#ef2929\">in</font>cesante.",
+                                "昨夜[さくや] 絶[た]え<font color=\"#ef2929\">ない/ざる</font> 頭痛[ずつう]で 全[まった]く 眠[ねむ]れなかった。",
+                                "ない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "zF7ouMJOhL",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "この世では未だ解け＿＿＿謎が沢山ある。",
+                                "Aún quedan muchos misterios <font color=\"#ef2929\">sin</font> resolver en este mundo.",
+                                "この 世[よ]では 未[いま]だ 解[と]け<font color=\"#ef2929\">ていない/ざる</font> 謎[なぞ]が 沢山[たくさん]ある。",
+                                "ていない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "c7o/;RtC2X",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "こちらは彼の一番知られ＿＿＿作品である。",
+                                "He aquí su obra más <font color=\"#ef2929\">des</font>conocida.",
+                                "こちらは 彼[かれ]の 一番[いちばん] 知[し]られ<font color=\"#ef2929\">ていない/ざる</font> 作品[さくひん]である。",
+                                "ていない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "H{0tWcU`$_",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は終わら＿＿＿悪夢のような体験をした。",
+                                "Ellos vivieron una experiencia que fue como una pesadilla que <font color=\"#ef2929\">no</font> terminaba nunca.",
+                                "彼[かれ]は 終[お]わら<font color=\"#ef2929\">ない/ざる</font> 悪夢[あくむ]のような 体験[たいけん]をした。",
+                                "ない/ざる"
+                            ],
+                            "flags": 0,
+                            "guid": "cCoIbLFy98",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ざる"
+                            ]
                         }
                     ]
                 },
@@ -38507,6 +38633,39 @@
                                 "ゆえ",
                                 "故"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ざる",
+                                "ざる",
+                                "ざる",
+                                "no / sin / in- / des-",
+                                "Vない sin ない + <font color=\"#ef2929\">＿＿＿</font> + S<br>S + せ + <font color=\"#ef2929\">＿＿＿</font> + S",
+                                "Conjugación negativa que transforma a un verbo en adjetivo para describir el estado de algo.<br><br>判決[はんけつ]が 下[くだ]されたとはいえ、 解[と]け<font color=\"#ef2929\">＿＿＿</font> 謎[なぞ]が 未[いま]だ 沢山[たくさん] 残[のこ]っている。<br><i>Por más que se haya dictaminado una sentencia, aún quedan muchos misterios <font color=\"#ef2929\">no</font> resueltos / <font color=\"#ef2929\">sin</font> resolver</i>.<br><br>Como se puede ver, con esta conjugación básicamente negamos el verbo de la misma forma en como en el español decimos, por ejemplo, \"no terminado\" o \"sin terminar\". Sin embargo, en ocasiones se interpreta mejor como \"in-\" o \"des-\"<br><br>娘[むすめ]が 事故[じこ]に 掛[か]かって 入院[にゅういん]されてしまった。 絶[た]え<font color=\"#ef2929\">＿＿＿</font> 不安[ふあん]で 夜[よる]も 眠[ねむ]れない。<br><i>Mi hija tuvo un accidente y fue hospitalizada. No pude dormir por los <font color=\"#ef2929\">in</font>cesantes nervios</i>.<br><br>Por otro lado, el しない en los sustantivos verbales se transforma en せ para formar せ<font color=\"#ef2929\">＿＿＿</font>.<br><br>高岡[たかおか]くんは 相変[あいか]わらず 何[なに]も 心配[しんぱい]せ<font color=\"#ef2929\">＿＿＿</font> 者[もの]だ。<br><i>Takaoka no se preocupa por nada como siempre</i>.<br><br>O dicho de otra forma:<br><br><i>Takaoka es totalmente <font color=\"#ef2929\">des</font>preocupado como siempre</i>.<br><br>Sin embargo, lo más común cuando se usan sustantivos verbales es que estos estén en forma pasiva ya que lo que se describe es un estado.<br><br>あの 刑事[けいじ]なら、 解決[かいけつ]され<font color=\"#ef2929\">＿＿＿</font> 事件[じけん]を 残[のこ]さない。<br><i>Si se trata de ese detective, él no deja casos <font color=\"#ef2929\">no</font> resueltos / <font color=\"#ef2929\">sin</font> resolver</i>.<br><br><b>Expresiones similares</b><br><br>Básicamente, la conjugación <font color=\"#ef2929\">＿＿＿</font> es una forma algo más arcaica de la conjugación ない al igual como sucede con ず. La diferencia entre <font color=\"#ef2929\">＿＿＿</font> y ず es que la primera transforma al verbo en un adjetivo mientras que la segunda lo convierte en un adverbio.<br><br>判決[はんけつ]が 下[くだ]されたとはいえ、 解[と]け｛<font color=\"#ef2929\">ず（に）✕/ない/＿＿＿</font>｝ 謎[なぞ]が 未[いま]だ 沢山[たくさん] 残[のこ]っている。<br><i>Por más que se haya dictaminado una sentencia, aún quedan muchos misterios <font color=\"#ef2929\">no</font> resueltos / <font color=\"#ef2929\">sin</font> resolver</i>.<br><br>En el ejemplo anterior, usar ず（に） no es correcto porque lo que le sigue debe ser un verbo o un predicado que refleje una acción.<br><br>隣[となり]の 事務所[じむしょ]では一 日[にち] 絶[た]え｛<font color=\"#ef2929\">ず（に）/ない</font><span style=\"color: rgb(239, 41, 41);\">✕</span><font color=\"#ef2929\">/＿＿＿</font><span style=\"color: rgb(239, 41, 41);\">✕</span>｝ 電話[でんわ]が 掛[か]かっていた。<br><i>En la oficina de al lado sonó el teléfono todo el día <font color=\"#ef2929\">sin</font> parar</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "qIB~Xg,i-u",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ざる"
+                            ]
                         }
                     ]
                 }
@@ -38637,10 +38796,9 @@
                 "Gramática",
                 "Japonés",
                 "N1",
+                "Niponismo",
                 "Oración",
-                "tatoeba",
-                "ゆえ",
-                "故"
+                "ざる"
             ],
             "tmpls": [
                 {
@@ -38844,8 +39002,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ゆえ",
-                "故"
+                "ざる"
             ],
             "tmpls": [
                 {
