@@ -31426,6 +31426,139 @@
                                 "Oración",
                                 "ざる"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "僕は日曜日に働か＿＿＿父に同情する。",
+                                "Siento pena por mi padre, <font color=\"#ef2929\">que no tiene otra opción que</font> trabajar los domingos.",
+                                "僕[ぼく]は 日曜日[にちようび]に 働[はたら]か<font color=\"#ef2929\">なければならない/ざるを 得[え]ない</font> 父[ちち]に 同情[どうじょう]する。",
+                                "なければならない/ざるを得ない"
+                            ],
+                            "flags": 0,
+                            "guid": ";4RuOW$jg",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない",
+                                "なければならない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女らはその知らせに驚か＿＿＿。",
+                                "Ella <font color=\"#ef2929\">no pudo evitar</font> sorprenderse por esa noticia.",
+                                "彼女[かのじょ]らはその 知[し]らせに 驚[おどろ]か<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "f`Oa)[rhru",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女は笑わ＿＿＿。",
+                                "Ella <font color=\"#ef2929\">no pudo evitar</font> reírse.",
+                                "彼女[かのじょ]は 笑[わら]わ<font color=\"#ef2929\">ざるを 得[え]ない</font>。",
+                                "ざるを得ない"
+                            ],
+                            "flags": 0,
+                            "guid": "uy*X^X]<PH",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は暴力に訴え＿＿＿。",
+                                "Él <font color=\"#ef2929\">se vio obligado</font> a recurrir a la violencia.",
+                                "彼[かれ]は 暴力[ぼうりょく]に 訴[うった]え<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "xcMSGkq*4t",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は貧乏だったので学校を辞め＿＿＿。",
+                                "Como él era pobre, <font color=\"#ef2929\">se vio obligado</font> a abandonar el colegio.",
+                                "彼[かれ]は 貧乏[びんぼう]だったので 学校[がっこう]を 辞[や]め<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "CJ1)<v*up.",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は死んでしまったと考え＿＿＿。",
+                                "<font color=\"#ef2929\">No tuve otra opción</font> que darlo por muerto.",
+                                "彼[かれ]は 死[し]んでしまったと 考[かんが]え<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "mu{@%pK3&$",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
                         }
                     ]
                 },
@@ -38666,6 +38799,40 @@
                                 "Niponismo",
                                 "ざる"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ざるを得ない",
+                                "ざるを 得[え]ない",
+                                "ざるをえない",
+                                "no poder evitar / verse obligado a / no tener otra opción que / no tener otra alternativa que",
+                                "Vない sin ない + <font color=\"#ef2929\">＿＿＿</font><br>S + せ + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión algo arcaica que indica lo que el sujeto debe hacer en contra de su voluntad a falta de alternativas.<br><br>La estructura hace uso de la conjugación negativa ざる, que en los verbos comunes reemplaza a la forma ない.<br><br>大体[だいたい]のお 客[きゃく]さんは 歯[は]の 痛[いた]みで 行[い]か<font color=\"#ef2929\">＿＿＿</font> 時[とき]まで 歯医者[はいしゃ]を 必死[ひっし]に 避[さ]ける 嫌[きら]いがある。<br><i>La mayoría de los clientes evitan al dentista todo lo que pueden hasta que por el dolor <font color=\"#ef2929\">no tengan otra alternativa que</font> ir</i>.<br><br>En el caso de los sustantivos verbales, la し se transforma en せ para formar せざる.<br><br>全国[ぜんこく]の 騒動[そうどう] 故[ゆえ]に 総理[そうり] 大臣[だいじん]は 漸[ようや]く 辞任[じにん]せざるを 得[え]なかった。<br><i>Finalmente el presidente <font color=\"#ef2929\">se vio obligado a</font> renunciar a causa de las protestas en todo el país</i>.<br><br>El verbo 来[く]る es un caso especial ya que si bien ない se reemplaza ざる, el kanji pasa a leerse como こ.<br><br>頼[たの]みがあれば、 直接[ちょくせつ]に 会[あ]いに 来[こ]<font color=\"#ef2929\">＿＿＿</font>と 彼[かれ]に 伝[つた]えてくれ。<br><i>Dile que si tiene un favor que pedirme, <font color=\"#ef2929\">no tendrá otra opción que a</font> venir a reunirse conmigo directamente</i>.<br><br><b>Expresiones similares</b><br><br>Quiere decir prácticamente lo mismo que しかない y ほかない, por lo que son fácilmente intercambiables siempre y cuando se conjuguen debidamente los verbos en cada caso.<br><br>大体[だいたい]のお 客[きゃく]さんは 歯[は]の 痛[いた]みで 行[くだり]｛<font color=\"#ef2929\">くしかない/くほかない/か＿＿＿</font>｝ 時[じ]まで 歯医者[はいしゃ]を 必死[ひっし]に 避[さ]ける 嫌[きら]いがある。<br><i>La mayoría de los clientes evitan al dentista todo lo que pueden hasta que por el dolor <font color=\"#ef2929\">no tengan otra alternativa que</font> ir</i>.<br><br>Quizás la única diferencia notoria entre estas tres expresiones es el hecho de que, en el algunas ocasiones, しかない puede ser usado en oraciones de connotación positiva.<br><br>先日[せんじつ]は 大変[たいへん]お 世話[せわ]になったので、 宮本[みやもと]さんに 感謝[かんしゃ]<font color=\"#ef2929\">しかありません</font>。<br><i>El otro día me ha ayudado muchísimo así que <font color=\"#ef2929\">no tengo otra opción que</font> agradecerle a Miyamoto</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "p1>cS=|4-t",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
                         }
                     ]
                 }
@@ -38796,9 +38963,10 @@
                 "Gramática",
                 "Japonés",
                 "N1",
-                "Niponismo",
                 "Oración",
-                "ざる"
+                "tatoeba",
+                "ざるをえない",
+                "ざるを得ない"
             ],
             "tmpls": [
                 {
@@ -39002,7 +39170,8 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ざる"
+                "ざるをえない",
+                "ざるを得ない"
             ],
             "tmpls": [
                 {
