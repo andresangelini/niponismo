@@ -31559,6 +31559,136 @@
                                 "ざるをえない",
                                 "ざるを得ない"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "言いたかったことをそこまでずうっと控えてきたけど、あの顔を見いたとき可哀想だと<div>思って何も言わ＿＿＿だった。</div>",
+                                "Hasta ese entonces me había venido aguantando lo que quería decir desde hace mucho tiempo pero cuando vi esa cara <font color=\"#ef2929\">terminé no</font> diciendo nada.",
+                                "言[い]いたかったことをそこまでずうっと 控[ひか]えてきたけど、あの 顔[かお]を 見[み]いたとき 可哀想[かわいそう]だと 思[おも]って 何[なに]も 言[い]わ<font color=\"#ef2929\">ずじまい</font>だった。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "Q`H_vc[ppo",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "この一ヶ月はもうお金の無駄遣いをしないことを決めたのに、あの素敵なデルスを見ていたら自分に誓ったことを守ら＿＿＿店をでた。",
+                                "A pesar de que había decidio no malgastar más el dinero por este mes, luego de ver ese vestido tan lindo <font color=\"#ef2929\">terminé</font> saliendo de la tienda <font color=\"#ef2929\">sin</font> cumplir lo que me había jurado a mi misma.",
+                                "この一 ヶ月[かげつ]はもうお 金[かね]の 無駄遣[むだづか]いをしないことを 決[き]めたのに、あの 素敵[すてき]なデルスを 見[み]ていたら 自分[じぶん]に 誓[ちか]ったことを 守[まも]ら<font color=\"#ef2929\">ないで/ず（に）/ずじまいで</font> 店[みせ]をでた。",
+                                "ないで/ず（に）/ずじまいで"
+                            ],
+                            "flags": 0,
+                            "guid": "Ra{36DGK*z",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい",
+                                "ず（に）",
+                                "ないで"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あのスマホーの値段はとても高すぎて買わ＿＿＿だった。",
+                                "Ese teléfono inteligente era demasiado caro y <font color=\"#ef2929\">terminé no</font> comprandolo.",
+                                "あのスマホーの 値段[ねだん]はとても 高[たか]すぎて 買[か]わ<font color=\"#ef2929\">ずじまい</font>だった。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "C!#T^~(=}+",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "マキちゃんのことは、嫌いじゃないけど、顔を見せるといつも彼女にそなことを言わ＿＿＿だ。",
+                                "No odio a Maki, pero por alguna razón <font color=\"#ef2929\">termino no</font> diciéndoselo siempre que me la encuentro.",
+                                "マキちゃんのことは、 嫌[きら]いじゃないけど、 顔[かお]を 見[み]せるといつも 彼女[かのじょ]にそなことを 言[い]わ<font color=\"#ef2929\">ずじまい</font>だ。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "B.VGD*gQX$",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "有給を取りたいが、部長と合うと緊張になって何も言わ＿＿＿だ。",
+                                "Quisiera tomarme unas vacaciones pagas pero cada vez que me reuno con el jefe de sección me pongo nervioso y <font color=\"#ef2929\">termino sin</font> decir nada.",
+                                "有給[ゆうきゅう]を 取[と]りたいが、 部長[ぶちょう]と 合[あ]うと 緊張[きんちょう]になって 何[なに]も 言[い]わ<font color=\"#ef2929\">ずじまい</font>だ。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "rBcH+_kIra",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "竹本さんと話すと何時も夢中になって話が終わったらこの間のことでお礼を言わ＿＿＿家に買えてしまう。",
+                                "Cada vez que converso con Takemoto nos entusiasmamos y al acabar la charla <font color=\"#ef2929\">termino</font> volviendo a casa <font color=\"#ef2929\">sin</font> agradecerle por lo del otro día.",
+                                "竹本[たけもと]さんと 話[はな]すと 何時[いつ]も 夢中[むちゅう]になって 話[はなし]が 終[お]わったらこの 間[かん]のことでお 礼[れい]を 言[い]わ<font color=\"#ef2929\">ないで/ず（に）/ずじまいで</font> 家[いえ]に 買[か]えてしまう。",
+                                "ないで/ず（に）/ずじまいで"
+                            ],
+                            "flags": 0,
+                            "guid": "Hl+fHnt3aE",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい",
+                                "ず（に）",
+                                "ないで"
+                            ]
                         }
                     ]
                 },
@@ -38833,6 +38963,39 @@
                                 "ざるをえない",
                                 "ざるを得ない"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ずじまい",
+                                "ずじまい",
+                                "ずじまい",
+                                "acabar no / terminar no / acabar sin / terminar&nbsp;sin",
+                                "V negativo sin ない + <font color=\"#ef2929\">＿＿＿</font><br>Sustantivo verbal + せ + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión que indica que el sujeto finalmente terminó por no hacer algo a pesar de que sí hubiese querido, por lo que refleja un cierto sentimiento de pena.<br><br>村上[むらかみ]の「１ Q８４」を 買[か]ったが、 結局[けっきょく] 興味[きょうみ]がなくなって 最後[さいご]の 本[ほん]を 読[よ]み<font color=\"#ef2929\">＿＿＿</font>だった。<br><i>Compré \"1Q84\" de Murakami, pero al final perdí el interés y <font color=\"#ef2929\">terminé no</font> leyendo el último libro</i>.<br><br>Como se puede ver en el ejemplo, su formación consta de la conjugación negativa ず y el sustantivo じまい, el cual significa literalmente \"fin\" o \"final\". Y es que es la misma palabra que a menudos se emplea al final de un cuento; お 仕舞[しま]い o \"el fin\", sólo que en este último caso se pronuncia おしまい, es decir, la じ se convierte en し.<br><br>Al igual que el negativo ざる, los sustantivos verbos requieren especial atención ya que しない pasa a ser せず.<br><br>我々[われわれ]は 真相[しんそう]に 近付[ちかづ]けていることを 気[き]がしたが、 証拠[しょうこ]を 中[なか]々 見[み]つけなかったのでその 事件[じけん]を 解決[かいけつ]せ<font color=\"#ef2929\">＿＿＿</font>だった。<br><i>Teníamos la sensación de estar cerca de la verdad pero no pudimos encontrar pruebas, así que el caso <font color=\"#ef2929\">terminó sin</font> resolverse</i>.<br><br>El verbo 来[く]る también es otra excepción ya que debemos recordad que la forma negativa regular de くる es こない, y por lo tanto, se termina transformando en こず.<br><br>彼[かれ]と 漸[ようや]く 会[あ]える 機会[きかい]を 楽[たの]しみしていたけど、 結局[けっきょく] 来[こ]<font color=\"#ef2929\">＿＿＿</font>だった。<br><i>Esperaba con ansias la oportunidad de reunirme con él, pero al final <font color=\"#ef2929\">terminó no</font> viniendo</i>.<br><br>Al igual que en el español, es perfectamente válido usarlo para cosas que suelen suceder.<br><br>毎年[まいとし] 花見[はなみ]に 行[い]くつみりだけど、 相変[あいか]わらず 行[い]か<font color=\"#ef2929\">＿＿＿</font>だ。<br><i>Todos los años planeo ir a ver los cerezos en flor, pero siempre <font color=\"#ef2929\">termino no</font> yendo</i>.<br><br>Debido a que じまい es un sustantivo, a menudo se le agrega la partícula で detrás para usarlo como un adverbio.<br><br>店[みせ] 人[じん]が 見[み]せたパサコンはとても 気に入[きにい]ったが、 値段[ねだん]が 高[たか]すぎて 買[か]わ<font color=\"#ef2929\">＿＿＿</font>で 店[みせ]を 出[で]た。<br><i>La computadora que me mostró el empleado me gusto mucho pero era demasiada cara y <font color=\"#ef2929\">terminé</font> saliendo de la tienda <font color=\"#ef2929\">sin</font> comprarla</i>.<br><br><b>Expresiones similares</b><br><br>Existen expresiones similares pero sólo cuando se usa como adverbio utilizando la partícula で.<br><br>店[みせ] 人[じん]が 見[み]せたパサコンはとても 気に入[きにい]ったが、 値段[ねだん]が 高[たか]すぎて｛ 買[か]わないで/ 買[か]わず（に）/ 買[か]うことなしに/ 買[か]わ<font color=\"#ef2929\">＿＿＿</font>で｝ 店[てん]を 出[で]た。<br><i>La computadora que me mostró el empleado me gusto mucho pero era demasiada cara y <font color=\"#ef2929\">terminé</font> saliendo de la tienda <font color=\"#ef2929\">sin</font> comprarla</i>.<br><br>De lo contrario, si no se emplea la partícula で, las expresiones anteriores no se pueden emplear ya que un adverbio necesita una acción a la cual modificar.<br><br>村上[むらかみ]の「１ Q８４」を 買[か]ったが、 結局[けっきょく] 興味[きょうみ]がなくなって 最後[さいご]の 本[ほん]を｛ 読[よ]まないで/ 読[よ]まず（に）/ 読[よ]むことなし/ 読[よ]むことなしに/ 読[よ]み<font color=\"#ef2929\">＿＿＿</font>｝だった。<br><i>Compré \"1Q84\" de Murakami, pero al final perdí el interés y <font color=\"#ef2929\">terminé no</font> leyendo el último libro</i>.<br><br>Nótese que de todas formas que aún cuando otras expresiones puedan reemplazarlas, <font color=\"#ef2929\">＿＿＿</font> es la única de ellas que refleja un sentimiento de pena.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "boXn,@oWnD",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ずじまい"
+                            ]
                         }
                     ]
                 }
@@ -38963,10 +39126,11 @@
                 "Gramática",
                 "Japonés",
                 "N1",
+                "Niponismo",
                 "Oración",
-                "tatoeba",
-                "ざるをえない",
-                "ざるを得ない"
+                "ずじまい",
+                "ず（に）",
+                "ないで"
             ],
             "tmpls": [
                 {
@@ -39170,8 +39334,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ざるをえない",
-                "ざるを得ない"
+                "ずじまい"
             ],
             "tmpls": [
                 {
