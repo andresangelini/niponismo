@@ -31689,6 +31689,164 @@
                                 "ず（に）",
                                 "ないで"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "規則＿＿＿だが、静かにするという規則だけはない病院！？",
+                                "¿Un hospital <font color=\"#ef2929\">lleno de</font> reglas pero ninguna que ordene mantener silencio?",
+                                "規則[きそく]<font color=\"#ef2929\">ばかり/ずくめ</font>だが、 静[しず]かにするという 規則[きそく]だけはない 病院[びょういん]！？",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "hBei//wZdB",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女は黒＿＿＿の服装をしていた。",
+                                "Ella estaba vestida con ropa <font color=\"#ef2929\">todo de</font> negro.",
+                                "彼女[かのじょ]は 黒[くろ]<font color=\"#ef2929\">ずくめ</font>の 服装[ふくそう]をしていた。",
+                                "ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "j|lS?bsw^&",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あの黒＿＿＿の紳士は誰ですか。",
+                                "¿Quién es ese caballero vestido <font color=\"#ef2929\">todo de</font> negro?",
+                                "あの 黒[くろ]<font color=\"#ef2929\">ずくめ</font>の 紳士[しんし]は 誰[だれ]ですか。",
+                                "ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "gkUDWtTb|O",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "赤＿＿＿の人は銃を構えていた。",
+                                "El hombre <font color=\"#ef2929\">todo de</font> rojo sostenía una arma.",
+                                "赤[あか] <font color=\"#ef2929\">ずくめ</font>の 人[ひと]は 銃[じゅう]を 構[かま]えていた。",
+                                "ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "l75@8EC]@v",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あれは悪い噂＿＿＿の家だ。",
+                                "Ésa es una casa <font color=\"#ef2929\">llena de</font> malos rumores.",
+                                "あれは 悪[わる]い 噂[うわさ]<font color=\"#ef2929\">ばかり/ずくめ</font>の 家[いえ]だ。",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "J=A3C.)BiC",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "昨年は悪いこと＿＿＿の年だ",
+                                "El año pasado fue un año <font color=\"#ef2929\">colmado de</font> cosas malas.",
+                                "昨年[さくねん]は 悪[わる]いこと<font color=\"#ef2929\">ばかり/ずくめ</font>の 年[とし]だ",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "yP[_FtDbrG",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "最近テレビのニューズは悪いこと＿＿＿だよ。",
+                                "Últimamente las noticias de la televisión están <font color=\"#ef2929\">llenas de</font> cosas malas.",
+                                "最近[さいきん]テレビのニューズは 悪[わる]いこと<font color=\"#ef2929\">ばかり/ずくめ</font>だよ。",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "B>=_{#LI;Q",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
                         }
                     ]
                 },
@@ -38996,6 +39154,40 @@
                                 "Niponismo",
                                 "ずじまい"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ずくめ",
+                                "ずくめ",
+                                "ずくめ",
+                                "todo de / lleno de / repleto de / colmado&nbsp;de",
+                                "S + <font color=\"#ef2929\">＿＿＿</font><br>Aい / Aな + こと + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Sufijo que indica que algo intangible como un color o una idea colma o abarca por completo alguna otra cosa.<br><br>黒[くろ]<font color=\"#ef2929\">＿＿＿</font>の 服[ふく]を 着[き]ている 人物[じんぶつ]は 銀行[ぎんこう]に 入[はい]った。<br><i>Entró un sujeto al banco vestido <font color=\"#ef2929\">todo de</font> negro</i>.<br><br>Normalmente funciona como un adjetivo の pero también puede utilizarse como un sustantivo.<br><br>今年[ことし]は 卒業[そつぎょう]するし、 友達[ともだち]と 一緒[いっしょ]に 海外[かいがい] 旅行[りょこう]するし、 ５月[ごがつ]から 大[だい] 企業[きぎょう]の 会社[かいしゃ]で 働[はたら]き 始[はじ]める。いいこと<font color=\"#ef2929\">＿＿＿</font>だ。<br><i>Este año me gradúo, viajo al extranjero con amigos y comienzo a trabajar en una empresa importante a partir de mayo. Está <font color=\"#ef2929\">lleno de</font> cosas buenas</i>.<br><br>Se emplea más que nada en frases hechas con palabras como 黒[くろ]、 幸[しあわ]せ o ご 馳走[ちそう].<br><br>昨夜[さくや] 山下[やました] 部長[ぶちょう]は 全員[ぜんいん]のスタフをご 馳走[ちそう]<font color=\"#ef2929\">＿＿＿</font>の 晩[ばん]ご 飯[はん]に 誘[さそ]ってくれた。<br><i>Anoche nuestro jefe Yamashita nos invitó a todo el equipo a una cena <font color=\"#ef2929\">llena de</font> delicias</i>.<br><br>Si se quiere usar adjetivos como tales, estos se deben sustantivar agregando こと detrás.<br><br>昨夜[さくや]は 悪[わる]いこと<font color=\"#ef2929\">＿＿＿</font>の 夜[よる]だった。<br><i>La de ayer fue una noche <font color=\"#ef2929\">repleta de</font> cosas malas</i>.<br><br>Nótese que no es posible usar este sufijo con cosas tangibles como polvo, aceite, agua, etc. En su lugar, se debe usar otros sufijos dependiendo del caso.<br><br>あの 本棚[ほんだな]の 本[ほん]はみんなが 誇[ほこ]り｛<font color=\"#ef2929\">＿＿＿✕/だらけ</font>｝だ。<br><i>Los libros de esa estantería están todos <font color=\"#ef2929\">cubiertos de</font> polvo</i>.<br><br>Por último, cabe aclarar que, como se ve en los distintos ejemplos, este sufijo es indistinto de si la connotación de la oración es positiva o negativa.<br><br><b>Expresiones similares</b><br><br>En el japonés existen varias expresiones con significados parecidos a <font color=\"#ef2929\">＿＿＿</font> que hacen difícil saber cuál usar en cada ocasión, por lo que a continuación se ofrece un breve resumen para saber distinguirlas entre sí.<br><br><font color=\"#ef2929\">＿＿＿</font><b>:</b><br><br>Se emplea únicamente con cosas intangibles de carácter tanto positivo como negativo, generalmente en frases hechas.<br><br>今日[きょう]は 良[よ]いニューズ<font color=\"#ef2929\">＿＿＿</font>の 日[ひ]だ。<br><i>Hoy es un día <font color=\"#ef2929\">lleno de</font> buenas noticias</i>.<br><br><b>だらけ:</b><br><br>Es la más versátil de todas ya que se usa para cosas abstractas como 嘘[うそ] al igual que tangibles como 傷[きず]. Suele emplearse de forma negativa pero también es posible usarla con una connotación positiva.<br><br>うちの 子[こ]は 昨晩[さくばん]は 傷[きず]<font color=\"#ef2929\">だらけ</font>で 家[いえ]に 帰[かえ]ってきた。<br><i>Nuestro hijo ayer por la tarde volvió a case <font color=\"#ef2929\">lleno de</font> heridas</i>.<div><br><b>まみれ:</b><br><br>Se utiliza únicamente de forma negativa para referirse a algo tangible que cubre una superficie a modo de suciedad tal como 泥[どろ], 汗[あせ], 血[ち], 油[あぶら], 砂[すな] o 埃[ほこり]. La frase hecha 借金[しゃっきん]まみれ es la excepción a la regla.<br><br>料理[りょうり]をやってみたら 新[あたら]しい Tシャツ[てぃーしゃつ]は 油[あぶら]<font color=\"#ef2929\">まみれ</font>になってしまった。<br><i>Intenté cocinar y mi remera nueva se <font color=\"#ef2929\">cubrió de</font> aceite</i>.<br><br><b>ばかり:</b><br><br>Su función es expresar un sentimiento de molestia o insatisfacción con algo tangible o no, por lo que se utiliza siempre en frase de connotación negativa.&nbsp;<br><br>CM<font color=\"#ef2929\">ばかり</font>だからテレビを 見[み]るのに 飽[あ]きた。<br><i>Me cansé de ver televisión porque <font color=\"#ef2929\">no hay (nada / otra cosa) más que</font> propagandas</i>.<br><br>Cuando se usa como objeto de un verbo, éste se debe ubicar entre el verbo en forma て e いる.<br><br>山岡[やまおか] 部長[ぶちょう]は 悪[わる]い 冗談[じょうだん]を 言[い]って<font color=\"#ef2929\">ばかり</font>いる。<br><i>El jefe de sección Yamaoka <font color=\"#ef2929\">no dice (nada / otra cosa) más que</font> chistes malos</i>.<br><br>Básicamente, si se refiere a algo abstracto en una frase hecha, se usa <font color=\"#ef2929\">＿＿＿</font>. Si alguna suciedad que cubre una superficie es まみれ. De lo contrario, se usa だらけ.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "n*~]0|`FS?",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
                         }
                     ]
                 }
@@ -39128,9 +39320,8 @@
                 "N1",
                 "Niponismo",
                 "Oración",
-                "ずじまい",
-                "ず（に）",
-                "ないで"
+                "ずくめ",
+                "ばかり"
             ],
             "tmpls": [
                 {
@@ -39334,7 +39525,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ずじまい"
+                "ずくめ"
             ],
             "tmpls": [
                 {
