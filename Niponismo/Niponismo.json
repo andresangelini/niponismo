@@ -31847,6 +31847,142 @@
                                 "ばかり",
                                 "尽くめ"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は、黒人たちが暴力に頼ら＿＿＿平等な権利を勝ち取れると信じていた。",
+                                "Él creía que las personas de color podían obtener los mismos derechos <font color=\"#ef2929\">aun sin</font> recurrir a la violencia.",
+                                "彼[かれ]は、 黒人[こくじん]たちが 暴力[ぼうりょく]に 頼[たよ]<font color=\"#ef2929\">らなくても/ないでも/ずとも</font> 平等[びょうどう]な 権利[けんり]を 勝[か]ち 取[と]れると 信[しん]じていた。",
+                                "なくても/ないでも/ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "O9vfOIl[4v",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "君の考えは当たら＿＿＿遠からずだ。",
+                                "<font color=\"#ef2929\">Aun sin</font> estar acertado, tampoco estás errado del todo.",
+                                "君[きみ]の 考[かんが]えは 当[あ]た<font color=\"#ef2929\">らずとも</font> 遠[とお]からずだ。",
+                                "ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "w5P/j9?%3:",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずとも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "取り引き関係が回復されなくとも/ないでも/ずとも交渉は未だ進むはずである。",
+                                "<font color=\"#ef2929\">Aun si no</font> se restauran las relaciones comerciales, las negociaciones seguro seguirán adelante.",
+                                "取り引[とりひ]き 関係[かんけい]が 回復[かいふく]され<font color=\"#ef2929\">なくても/ないでも/ずとも</font> 交渉[こうしょう]は 未[いま]だ 進[すす]むはずである。",
+                                "なくても/ないでも/ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "vhD$wSo<Sd",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "今＿＿＿いつの日にかきっと素敵な男性に出会うはずだ。",
+                                "<font color=\"#ef2929\">Aun si no</font> es hoy, algún día estoy segura que conocerás a un chico maravilloso.",
+                                "今[いま]<font color=\"#ef2929\">でなくても/じゃなくても/ならず</font>ともいつの 日[ひ]にかきっと 素敵[すてき]な 男性[だんせい]に 出会[であ]うはずだ。",
+                                "でなくても/じゃなくても/ならずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "P;VR.T^m<U",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "京都＿＿＿金沢も江戸時代のところがある。",
+                                "<font color=\"#ef2929\">Aun sin</font> ser Kyoto, Kanazawa también tiene algo de la era Edo.",
+                                "京都[きょうと]<font color=\"#ef2929\">でなくても/じゃなくても/ならずとも</font> 金沢[かなざわ]も 江戸[えど] 時代[じだい]のところがある。",
+                                "でなくても/じゃなくても/ならずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "w;wss8{h)W",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼に電話で連絡出来＿＿＿住所が分かっているので、直接に話し合えるでしょう。",
+                                "<font color=\"#ef2929\">Aun si no</font> podemos contactarlo por teléfono, sabemos su dirección, así que podemos reunirnos a hablar con él directamente.",
+                                "彼[かれ]に 電話[でんわ]で 連絡[れんらく] 出来[でき]<font color=\"#ef2929\">なくても/ないでも/ずとも</font> 住所[じゅうしょ]が 分[わ]かっているので、 直接[ちょくせつ]に 話し合[はなしあ]えるでしょう。",
+                                "なくても/ないでも/ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "Q5|;l1*247",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
                         }
                     ]
                 },
@@ -39188,6 +39324,39 @@
                                 "ずくめ",
                                 "尽くめ"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ずとも",
+                                "ずとも",
+                                "ずとも",
+                                "no / aun sin / aun si&nbsp;no",
+                                "V negativo sin ない + <font color=\"#ef2929\">＿＿＿</font><br>Sustantivo verbal + せ + <font color=\"#ef2929\">＿＿＿</font><br>S + なら + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión de carácter conjuntivo que indica una concesión negativa.<br><br>三 日間[にちかん] 以上[いじょう]で 泊[と]まら<font color=\"#ef2929\">＿＿＿</font>パリを 楽[たの]しめる 時間[じかん]が 十分[じゅうぶん]だ。<br><i><font color=\"#ef2929\">Aun si no</font> nos quedamos más de tres días, es más que tiempo suficiente para poder disfrutar de París</i>.<br><br>Aunque significa lo mismo que なくても, su uso se limita a la escritura.<br><br>アンドレア・ボチェッリは 目[め]が 見[み]え<font color=\"#ef2929\">＿＿＿</font> 素晴[すば]らしい 演奏[えんそう]をする。<br><i>Adrea Bocelli da conciertos maravillosos <font color=\"#ef2929\">aun sin</font> ver</i>.<br><br>Como con todas las formas que emplean la conjugación ず, el verbo する se transforma en せず.<br><br>現在[げんざい]は 旅行[りょこう]せ<font color=\"#ef2929\">＿＿＿</font>ユーチューブのお 陰[かげ]でどの 国[くに]にも 行[い]ける。アンドレア・ボチェッリは 目[め]が 見[み]え<font color=\"#ef2929\">＿＿＿</font> 素晴[すば]らしい 演奏[えんそう]をする。<br><i>Hoy en día puedes ir a cualquier país <font color=\"#ef2929\">aun sin</font> viajar gracias a YouTube</i>.<br><br>Se forma con la conjugación negativa ず y la conjunción とも, versión antigua de ても. Debido a que requiere de un verbo, los sustantivos deben usar なり para poderla conjugar a su forma negativa ず y así formar S + ならず + とも.<br><br>東京[とうきょう]なら<font color=\"#ef2929\">＿＿＿</font> 大阪[おおさか]は 大阪[おおさか]なりに 中[なか]々 面白[おもしろ]い。<br><i><font color=\"#ef2929\">Aun sin</font> ser Tokio, Osaka es bastante interesante a su propio modo</i>.<br><br><font color=\"#ef2929\">＿＿＿</font> puede emplearse al final de una frase junto a palabras como 良[よ]い, 大丈夫[だいじょうぶ], o frase como 問題[もんだい]がない, 申[もう]し 分[ぶん]がない para dar consentimiento.<br><br>証人[しょうにん]は 多分[たぶん] 怖[こわ]がっているので、 今[いま]に 話[はな]さ<font color=\"#ef2929\">＿＿＿</font> 良[よ]い。<br><i>El testigo probablemente está asustado, así que está bien <font color=\"#ef2929\">aun si no</font> habla</i>.<br><br>Cuando se usa de dicha forma, suele omitirse 良[よ]い.<br><br>課長[かちょう]のことは 心配[しんぱい]せ<font color=\"#ef2929\">＿＿＿</font>、 僕[ぼく]はなんとか 説得[せっとく]する。<br>No te preocupes por el jefe de sección, yo lo persuadiré de alguna forma.<br><br>Esto literalmente sería algo así como:<div><br><i><font color=\"#ef2929\">Aun si no</font> te preocupas por el jefe de sección (está bien), yo lo persuadiré de alguna forma</i>.<br><br><b>Expresiones similares</b><br><br>Como mencionado anteriormente, <font color=\"#ef2929\">＿＿＿</font> no es más que una forma más antigua de なくても. Por un lado ず es la versión antigua de ない y とも la de ても, por lo tanto, estas dos expresiones son perfectamente intercambiable y la decisión de usar una u otra dependerá de la situación en que se use.<br><br>三 日間[にちかん] 以上[いじょう]で 泊[と]まら｛<font color=\"#ef2929\">なくても/＿＿＿</font>｝パリを 楽[たの]しめる 時間[じかん]が 十分[じゅうぶん]だ。<br><i><font color=\"#ef2929\">Aun si no</font> nos quedamos más de tres días, es más que tiempo suficiente para poder disfrutar de París</i>.<br><br>De igual forma, ならず en なら<font color=\"#ef2929\">＿＿＿</font> es la conjugación negativa de なり, por lo que el equivalente negativo simple de esta expresión es tanto でなくても como じゃなくても.<br><br>東京[とうきょう]｛<font color=\"#ef2929\">でなくても/じゃなくても/なら＿＿＿</font>｝ 大阪[おおさか]は 大阪[おおさか]なりに 中[なか]々 面白[おもしろ]い。<br><i><font color=\"#ef2929\">Aun sin</font> ser Tokio, Osaka es bastante interesante a su propio modo</i>.<br><br>Pero se debe tener cuidado ya que なくても también se puede usar con adjetivos い.<br><br>あの 車[くるま]は 高[たか]く｛<font color=\"#ef2929\">＿＿＿✕/なら＿＿＿✕/なくても</font>｝ 安[やす]いと 言[い]えるわけじゃない。<br><i><font color=\"#ef2929\">Aun si</font> ese auto <font color=\"#ef2929\">no</font> es caro, tampoco podemos llamarlo barato</i>.<br><br>Así como con adjetivos な.<br><br>砂糖[さとう]さんは 頑固[がんこ]｛<font color=\"#ef2929\">＿＿＿/なら＿＿＿✕/でなくても</font>｝ 自分[じぶん]の 限界[げんかい]がちゃんと 分[わ]かる。<br><i><font color=\"#ef2929\">Aun si</font> Sato es un cabeza dura, él conoce su propio límite</i>.<br><br>Nótese además que なくても puede usarse indistintamente tanto en el lenguage hablado como en el escrito.<br><br>La expresión ないまでも también puede reemplazar a <font color=\"#ef2929\">＿＿＿</font> cuando esta última se usa junto a verbos.<br><br>三 日間[にちかん] 以上[いじょう]で 泊[と]まら｛<font color=\"#ef2929\">ないでも/＿＿＿</font>｝パリを 楽[たの]しめる 時間[じかん]が 十分[じゅうぶん]だ。<br><i><font color=\"#ef2929\">Aun si no</font> nos quedamos más de tres días, es más que tiempo suficiente para poder disfrutar de París</i>.<br><br>Pero precisamente porque ない es la conjugación negativa de un verbo, no puede reemplazar a なら<font color=\"#ef2929\">＿＿＿</font>.<br><br>東京[とうきょう]｛<font color=\"#ef2929\">でないでも✕/じゃないでも✕/なら＿＿＿</font>｝ 大阪[おおさか]は 大阪[おおさか]なりに 中[なか]々 面白[おもしろ]い。<br><i><font color=\"#ef2929\">Aun sin</font> ser Tokio, Osaka es bastante interesante a su propio modo</i>.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "iDNG9j[g:u",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ずとも"
+                            ]
                         }
                     ]
                 }
@@ -39320,8 +39489,9 @@
                 "N1",
                 "Niponismo",
                 "Oración",
-                "ずくめ",
-                "ばかり"
+                "ずとも",
+                "ないでも",
+                "なくても"
             ],
             "tmpls": [
                 {
@@ -39525,7 +39695,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ずくめ"
+                "ずとも"
             ],
             "tmpls": [
                 {
