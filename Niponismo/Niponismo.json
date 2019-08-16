@@ -31426,6 +31426,563 @@
                                 "Oración",
                                 "ざる"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "僕は日曜日に働か＿＿＿父に同情する。",
+                                "Siento pena por mi padre, <font color=\"#ef2929\">que no tiene otra opción que</font> trabajar los domingos.",
+                                "僕[ぼく]は 日曜日[にちようび]に 働[はたら]か<font color=\"#ef2929\">なければならない/ざるを 得[え]ない</font> 父[ちち]に 同情[どうじょう]する。",
+                                "なければならない/ざるを得ない"
+                            ],
+                            "flags": 0,
+                            "guid": ";4RuOW$jg",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない",
+                                "なければならない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女らはその知らせに驚か＿＿＿。",
+                                "Ella <font color=\"#ef2929\">no pudo evitar</font> sorprenderse por esa noticia.",
+                                "彼女[かのじょ]らはその 知[し]らせに 驚[おどろ]か<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "f`Oa)[rhru",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女は笑わ＿＿＿。",
+                                "Ella <font color=\"#ef2929\">no pudo evitar</font> reírse.",
+                                "彼女[かのじょ]は 笑[わら]わ<font color=\"#ef2929\">ざるを 得[え]ない</font>。",
+                                "ざるを得ない"
+                            ],
+                            "flags": 0,
+                            "guid": "uy*X^X]<PH",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は暴力に訴え＿＿＿。",
+                                "Él <font color=\"#ef2929\">se vio obligado</font> a recurrir a la violencia.",
+                                "彼[かれ]は 暴力[ぼうりょく]に 訴[うった]え<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "xcMSGkq*4t",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は貧乏だったので学校を辞め＿＿＿。",
+                                "Como él era pobre, <font color=\"#ef2929\">se vio obligado</font> a abandonar el colegio.",
+                                "彼[かれ]は 貧乏[びんぼう]だったので 学校[がっこう]を 辞[や]め<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "CJ1)<v*up.",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は死んでしまったと考え＿＿＿。",
+                                "<font color=\"#ef2929\">No tuve otra opción</font> que darlo por muerto.",
+                                "彼[かれ]は 死[し]んでしまったと 考[かんが]え<font color=\"#ef2929\">ざるを 得[え]なかった</font>。",
+                                "ざるを得なかった"
+                            ],
+                            "flags": 0,
+                            "guid": "mu{@%pK3&$",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "言いたかったことをそこまでずうっと控えてきたけど、あの顔を見いたとき可哀想だと<div>思って何も言わ＿＿＿だった。</div>",
+                                "Hasta ese entonces me había venido aguantando lo que quería decir desde hace mucho tiempo pero cuando vi esa cara <font color=\"#ef2929\">terminé no</font> diciendo nada.",
+                                "言[い]いたかったことをそこまでずうっと 控[ひか]えてきたけど、あの 顔[かお]を 見[み]いたとき 可哀想[かわいそう]だと 思[おも]って 何[なに]も 言[い]わ<font color=\"#ef2929\">ずじまい</font>だった。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "Q`H_vc[ppo",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "この一ヶ月はもうお金の無駄遣いをしないことを決めたのに、あの素敵なデルスを見ていたら自分に誓ったことを守ら＿＿＿店をでた。",
+                                "A pesar de que había decidio no malgastar más el dinero por este mes, luego de ver ese vestido tan lindo <font color=\"#ef2929\">terminé</font> saliendo de la tienda <font color=\"#ef2929\">sin</font> cumplir lo que me había jurado a mi misma.",
+                                "この一 ヶ月[かげつ]はもうお 金[かね]の 無駄遣[むだづか]いをしないことを 決[き]めたのに、あの 素敵[すてき]なデルスを 見[み]ていたら 自分[じぶん]に 誓[ちか]ったことを 守[まも]ら<font color=\"#ef2929\">ないで/ず（に）/ずじまいで</font> 店[みせ]をでた。",
+                                "ないで/ず（に）/ずじまいで"
+                            ],
+                            "flags": 0,
+                            "guid": "Ra{36DGK*z",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい",
+                                "ず（に）",
+                                "ないで"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あのスマホーの値段はとても高すぎて買わ＿＿＿だった。",
+                                "Ese teléfono inteligente era demasiado caro y <font color=\"#ef2929\">terminé no</font> comprandolo.",
+                                "あのスマホーの 値段[ねだん]はとても 高[たか]すぎて 買[か]わ<font color=\"#ef2929\">ずじまい</font>だった。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "C!#T^~(=}+",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "マキちゃんのことは、嫌いじゃないけど、顔を見せるといつも彼女にそなことを言わ＿＿＿だ。",
+                                "No odio a Maki, pero por alguna razón <font color=\"#ef2929\">termino no</font> diciéndoselo siempre que me la encuentro.",
+                                "マキちゃんのことは、 嫌[きら]いじゃないけど、 顔[かお]を 見[み]せるといつも 彼女[かのじょ]にそなことを 言[い]わ<font color=\"#ef2929\">ずじまい</font>だ。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "B.VGD*gQX$",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "有給を取りたいが、部長と合うと緊張になって何も言わ＿＿＿だ。",
+                                "Quisiera tomarme unas vacaciones pagas pero cada vez que me reuno con el jefe de sección me pongo nervioso y <font color=\"#ef2929\">termino sin</font> decir nada.",
+                                "有給[ゆうきゅう]を 取[と]りたいが、 部長[ぶちょう]と 合[あ]うと 緊張[きんちょう]になって 何[なに]も 言[い]わ<font color=\"#ef2929\">ずじまい</font>だ。",
+                                "ずじまい"
+                            ],
+                            "flags": 0,
+                            "guid": "rBcH+_kIra",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "竹本さんと話すと何時も夢中になって話が終わったらこの間のことでお礼を言わ＿＿＿家に買えてしまう。",
+                                "Cada vez que converso con Takemoto nos entusiasmamos y al acabar la charla <font color=\"#ef2929\">termino</font> volviendo a casa <font color=\"#ef2929\">sin</font> agradecerle por lo del otro día.",
+                                "竹本[たけもと]さんと 話[はな]すと 何時[いつ]も 夢中[むちゅう]になって 話[はなし]が 終[お]わったらこの 間[かん]のことでお 礼[れい]を 言[い]わ<font color=\"#ef2929\">ないで/ず（に）/ずじまいで</font> 家[いえ]に 買[か]えてしまう。",
+                                "ないで/ず（に）/ずじまいで"
+                            ],
+                            "flags": 0,
+                            "guid": "Hl+fHnt3aE",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずじまい",
+                                "ず（に）",
+                                "ないで"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "規則＿＿＿だが、静かにするという規則だけはない病院！？",
+                                "¿Un hospital <font color=\"#ef2929\">lleno de</font> reglas pero ninguna que ordene mantener silencio?",
+                                "規則[きそく]<font color=\"#ef2929\">ばかり/ずくめ</font>だが、 静[しず]かにするという 規則[きそく]だけはない 病院[びょういん]！？",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "hBei//wZdB",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼女は黒＿＿＿の服装をしていた。",
+                                "Ella estaba vestida con ropa <font color=\"#ef2929\">todo de</font> negro.",
+                                "彼女[かのじょ]は 黒[くろ]<font color=\"#ef2929\">ずくめ</font>の 服装[ふくそう]をしていた。",
+                                "ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "j|lS?bsw^&",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あの黒＿＿＿の紳士は誰ですか。",
+                                "¿Quién es ese caballero vestido <font color=\"#ef2929\">todo de</font> negro?",
+                                "あの 黒[くろ]<font color=\"#ef2929\">ずくめ</font>の 紳士[しんし]は 誰[だれ]ですか。",
+                                "ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "gkUDWtTb|O",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "赤＿＿＿の人は銃を構えていた。",
+                                "El hombre <font color=\"#ef2929\">todo de</font> rojo sostenía una arma.",
+                                "赤[あか] <font color=\"#ef2929\">ずくめ</font>の 人[ひと]は 銃[じゅう]を 構[かま]えていた。",
+                                "ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "l75@8EC]@v",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "あれは悪い噂＿＿＿の家だ。",
+                                "Ésa es una casa <font color=\"#ef2929\">llena de</font> malos rumores.",
+                                "あれは 悪[わる]い 噂[うわさ]<font color=\"#ef2929\">ばかり/ずくめ</font>の 家[いえ]だ。",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "J=A3C.)BiC",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "昨年は悪いこと＿＿＿の年だ",
+                                "El año pasado fue un año <font color=\"#ef2929\">colmado de</font> cosas malas.",
+                                "昨年[さくねん]は 悪[わる]いこと<font color=\"#ef2929\">ばかり/ずくめ</font>の 年[とし]だ",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "yP[_FtDbrG",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "最近テレビのニューズは悪いこと＿＿＿だよ。",
+                                "Últimamente las noticias de la televisión están <font color=\"#ef2929\">llenas de</font> cosas malas.",
+                                "最近[さいきん]テレビのニューズは 悪[わる]いこと<font color=\"#ef2929\">ばかり/ずくめ</font>だよ。",
+                                "ばかり/ずくめ"
+                            ],
+                            "flags": 0,
+                            "guid": "B>=_{#LI;Q",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずくめ",
+                                "ばかり",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼は、黒人たちが暴力に頼ら＿＿＿平等な権利を勝ち取れると信じていた。",
+                                "Él creía que las personas de color podían obtener los mismos derechos <font color=\"#ef2929\">aun sin</font> recurrir a la violencia.",
+                                "彼[かれ]は、 黒人[こくじん]たちが 暴力[ぼうりょく]に 頼[たよ]<font color=\"#ef2929\">らなくても/ないでも/ずとも</font> 平等[びょうどう]な 権利[けんり]を 勝[か]ち 取[と]れると 信[しん]じていた。",
+                                "なくても/ないでも/ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "O9vfOIl[4v",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "君の考えは当たら＿＿＿遠からずだ。",
+                                "<font color=\"#ef2929\">Aun sin</font> estar acertado, tampoco estás errado del todo.",
+                                "君[きみ]の 考[かんが]えは 当[あ]た<font color=\"#ef2929\">らずとも</font> 遠[とお]からずだ。",
+                                "ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "w5P/j9?%3:",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Oración",
+                                "tatoeba",
+                                "ずとも"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "取り引き関係が回復されなくとも/ないでも/ずとも交渉は未だ進むはずである。",
+                                "<font color=\"#ef2929\">Aun si no</font> se restauran las relaciones comerciales, las negociaciones seguro seguirán adelante.",
+                                "取り引[とりひ]き 関係[かんけい]が 回復[かいふく]され<font color=\"#ef2929\">なくても/ないでも/ずとも</font> 交渉[こうしょう]は 未[いま]だ 進[すす]むはずである。",
+                                "なくても/ないでも/ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "vhD$wSo<Sd",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "今＿＿＿いつの日にかきっと素敵な男性に出会うはずだ。",
+                                "<font color=\"#ef2929\">Aun si no</font> es hoy, algún día estoy segura que conocerás a un chico maravilloso.",
+                                "今[いま]<font color=\"#ef2929\">でなくても/じゃなくても/ならず</font>ともいつの 日[ひ]にかきっと 素敵[すてき]な 男性[だんせい]に 出会[であ]うはずだ。",
+                                "でなくても/じゃなくても/ならずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "P;VR.T^m<U",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "京都＿＿＿金沢も江戸時代のところがある。",
+                                "<font color=\"#ef2929\">Aun sin</font> ser Kyoto, Kanazawa también tiene algo de la era Edo.",
+                                "京都[きょうと]<font color=\"#ef2929\">でなくても/じゃなくても/ならずとも</font> 金沢[かなざわ]も 江戸[えど] 時代[じだい]のところがある。",
+                                "でなくても/じゃなくても/ならずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "w;wss8{h)W",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "彼に電話で連絡出来＿＿＿住所が分かっているので、直接に話し合えるでしょう。",
+                                "<font color=\"#ef2929\">Aun si no</font> podemos contactarlo por teléfono, sabemos su dirección, así que podemos reunirnos a hablar con él directamente.",
+                                "彼[かれ]に 電話[でんわ]で 連絡[れんらく] 出来[でき]<font color=\"#ef2929\">なくても/ないでも/ずとも</font> 住所[じゅうしょ]が 分[わ]かっているので、 直接[ちょくせつ]に 話し合[はなしあ]えるでしょう。",
+                                "なくても/ないでも/ずとも"
+                            ],
+                            "flags": 0,
+                            "guid": "Q5|;l1*247",
+                            "note_model_uuid": "71c87694-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "Oración",
+                                "ずとも",
+                                "ないでも",
+                                "なくても"
+                            ]
                         }
                     ]
                 },
@@ -38666,6 +39223,140 @@
                                 "Niponismo",
                                 "ざる"
                             ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ざるを得ない",
+                                "ざるを 得[え]ない",
+                                "ざるをえない",
+                                "no poder evitar / verse obligado a / no tener otra opción que / no tener otra alternativa que",
+                                "Vない sin ない + <font color=\"#ef2929\">＿＿＿</font><br>S + せ + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión algo arcaica que indica lo que el sujeto debe hacer en contra de su voluntad a falta de alternativas.<br><br>La estructura hace uso de la conjugación negativa ざる, que en los verbos comunes reemplaza a la forma ない.<br><br>大体[だいたい]のお 客[きゃく]さんは 歯[は]の 痛[いた]みで 行[い]か<font color=\"#ef2929\">＿＿＿</font> 時[とき]まで 歯医者[はいしゃ]を 必死[ひっし]に 避[さ]ける 嫌[きら]いがある。<br><i>La mayoría de los clientes evitan al dentista todo lo que pueden hasta que por el dolor <font color=\"#ef2929\">no tengan otra alternativa que</font> ir</i>.<br><br>En el caso de los sustantivos verbales, la し se transforma en せ para formar せざる.<br><br>全国[ぜんこく]の 騒動[そうどう] 故[ゆえ]に 総理[そうり] 大臣[だいじん]は 漸[ようや]く 辞任[じにん]せざるを 得[え]なかった。<br><i>Finalmente el presidente <font color=\"#ef2929\">se vio obligado a</font> renunciar a causa de las protestas en todo el país</i>.<br><br>El verbo 来[く]る es un caso especial ya que si bien ない se reemplaza ざる, el kanji pasa a leerse como こ.<br><br>頼[たの]みがあれば、 直接[ちょくせつ]に 会[あ]いに 来[こ]<font color=\"#ef2929\">＿＿＿</font>と 彼[かれ]に 伝[つた]えてくれ。<br><i>Dile que si tiene un favor que pedirme, <font color=\"#ef2929\">no tendrá otra opción que a</font> venir a reunirse conmigo directamente</i>.<br><br><b>Expresiones similares</b><br><br>Quiere decir prácticamente lo mismo que しかない y ほかない, por lo que son fácilmente intercambiables siempre y cuando se conjuguen debidamente los verbos en cada caso.<br><br>大体[だいたい]のお 客[きゃく]さんは 歯[は]の 痛[いた]みで 行[くだり]｛<font color=\"#ef2929\">くしかない/くほかない/か＿＿＿</font>｝ 時[じ]まで 歯医者[はいしゃ]を 必死[ひっし]に 避[さ]ける 嫌[きら]いがある。<br><i>La mayoría de los clientes evitan al dentista todo lo que pueden hasta que por el dolor <font color=\"#ef2929\">no tengan otra alternativa que</font> ir</i>.<br><br>Quizás la única diferencia notoria entre estas tres expresiones es el hecho de que, en el algunas ocasiones, しかない puede ser usado en oraciones de connotación positiva.<br><br>先日[せんじつ]は 大変[たいへん]お 世話[せわ]になったので、 宮本[みやもと]さんに 感謝[かんしゃ]<font color=\"#ef2929\">しかありません</font>。<br><i>El otro día me ha ayudado muchísimo así que <font color=\"#ef2929\">no tengo otra opción que</font> agradecerle a Miyamoto</i>.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "p1>cS=|4-t",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ざるをえない",
+                                "ざるを得ない"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ずじまい",
+                                "ずじまい",
+                                "ずじまい",
+                                "acabar no / terminar no / acabar sin / terminar&nbsp;sin",
+                                "V negativo sin ない + <font color=\"#ef2929\">＿＿＿</font><br>Sustantivo verbal + せ + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión que indica que el sujeto finalmente terminó por no hacer algo a pesar de que sí hubiese querido, por lo que refleja un cierto sentimiento de pena.<br><br>村上[むらかみ]の「１ Q８４」を 買[か]ったが、 結局[けっきょく] 興味[きょうみ]がなくなって 最後[さいご]の 本[ほん]を 読[よ]み<font color=\"#ef2929\">＿＿＿</font>だった。<br><i>Compré \"1Q84\" de Murakami, pero al final perdí el interés y <font color=\"#ef2929\">terminé no</font> leyendo el último libro</i>.<br><br>Como se puede ver en el ejemplo, su formación consta de la conjugación negativa ず y el sustantivo じまい, el cual significa literalmente \"fin\" o \"final\". Y es que es la misma palabra que a menudos se emplea al final de un cuento; お 仕舞[しま]い o \"el fin\", sólo que en este último caso se pronuncia おしまい, es decir, la じ se convierte en し.<br><br>Al igual que el negativo ざる, los sustantivos verbos requieren especial atención ya que しない pasa a ser せず.<br><br>我々[われわれ]は 真相[しんそう]に 近付[ちかづ]けていることを 気[き]がしたが、 証拠[しょうこ]を 中[なか]々 見[み]つけなかったのでその 事件[じけん]を 解決[かいけつ]せ<font color=\"#ef2929\">＿＿＿</font>だった。<br><i>Teníamos la sensación de estar cerca de la verdad pero no pudimos encontrar pruebas, así que el caso <font color=\"#ef2929\">terminó sin</font> resolverse</i>.<br><br>El verbo 来[く]る también es otra excepción ya que debemos recordad que la forma negativa regular de くる es こない, y por lo tanto, se termina transformando en こず.<br><br>彼[かれ]と 漸[ようや]く 会[あ]える 機会[きかい]を 楽[たの]しみしていたけど、 結局[けっきょく] 来[こ]<font color=\"#ef2929\">＿＿＿</font>だった。<br><i>Esperaba con ansias la oportunidad de reunirme con él, pero al final <font color=\"#ef2929\">terminó no</font> viniendo</i>.<br><br>Al igual que en el español, es perfectamente válido usarlo para cosas que suelen suceder.<br><br>毎年[まいとし] 花見[はなみ]に 行[い]くつみりだけど、 相変[あいか]わらず 行[い]か<font color=\"#ef2929\">＿＿＿</font>だ。<br><i>Todos los años planeo ir a ver los cerezos en flor, pero siempre <font color=\"#ef2929\">termino no</font> yendo</i>.<br><br>Debido a que じまい es un sustantivo, a menudo se le agrega la partícula で detrás para usarlo como un adverbio.<br><br>店[みせ] 人[じん]が 見[み]せたパサコンはとても 気に入[きにい]ったが、 値段[ねだん]が 高[たか]すぎて 買[か]わ<font color=\"#ef2929\">＿＿＿</font>で 店[みせ]を 出[で]た。<br><i>La computadora que me mostró el empleado me gusto mucho pero era demasiada cara y <font color=\"#ef2929\">terminé</font> saliendo de la tienda <font color=\"#ef2929\">sin</font> comprarla</i>.<br><br><b>Expresiones similares</b><br><br>Existen expresiones similares pero sólo cuando se usa como adverbio utilizando la partícula で.<br><br>店[みせ] 人[じん]が 見[み]せたパサコンはとても 気に入[きにい]ったが、 値段[ねだん]が 高[たか]すぎて｛ 買[か]わないで/ 買[か]わず（に）/ 買[か]うことなしに/ 買[か]わ<font color=\"#ef2929\">＿＿＿</font>で｝ 店[てん]を 出[で]た。<br><i>La computadora que me mostró el empleado me gusto mucho pero era demasiada cara y <font color=\"#ef2929\">terminé</font> saliendo de la tienda <font color=\"#ef2929\">sin</font> comprarla</i>.<br><br>De lo contrario, si no se emplea la partícula で, las expresiones anteriores no se pueden emplear ya que un adverbio necesita una acción a la cual modificar.<br><br>村上[むらかみ]の「１ Q８４」を 買[か]ったが、 結局[けっきょく] 興味[きょうみ]がなくなって 最後[さいご]の 本[ほん]を｛ 読[よ]まないで/ 読[よ]まず（に）/ 読[よ]むことなし/ 読[よ]むことなしに/ 読[よ]み<font color=\"#ef2929\">＿＿＿</font>｝だった。<br><i>Compré \"1Q84\" de Murakami, pero al final perdí el interés y <font color=\"#ef2929\">terminé no</font> leyendo el último libro</i>.<br><br>Nótese que de todas formas que aún cuando otras expresiones puedan reemplazarlas, <font color=\"#ef2929\">＿＿＿</font> es la única de ellas que refleja un sentimiento de pena.",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "boXn,@oWnD",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ずじまい"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ずくめ",
+                                "ずくめ",
+                                "ずくめ",
+                                "todo de / lleno de / repleto de / colmado&nbsp;de",
+                                "S + <font color=\"#ef2929\">＿＿＿</font><br>Aい / Aな + こと + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Sufijo que indica que algo intangible como un color o una idea colma o abarca por completo alguna otra cosa.<br><br>黒[くろ]<font color=\"#ef2929\">＿＿＿</font>の 服[ふく]を 着[き]ている 人物[じんぶつ]は 銀行[ぎんこう]に 入[はい]った。<br><i>Entró un sujeto al banco vestido <font color=\"#ef2929\">todo de</font> negro</i>.<br><br>Normalmente funciona como un adjetivo の pero también puede utilizarse como un sustantivo.<br><br>今年[ことし]は 卒業[そつぎょう]するし、 友達[ともだち]と 一緒[いっしょ]に 海外[かいがい] 旅行[りょこう]するし、 ５月[ごがつ]から 大[だい] 企業[きぎょう]の 会社[かいしゃ]で 働[はたら]き 始[はじ]める。いいこと<font color=\"#ef2929\">＿＿＿</font>だ。<br><i>Este año me gradúo, viajo al extranjero con amigos y comienzo a trabajar en una empresa importante a partir de mayo. Está <font color=\"#ef2929\">lleno de</font> cosas buenas</i>.<br><br>Se emplea más que nada en frases hechas con palabras como 黒[くろ]、 幸[しあわ]せ o ご 馳走[ちそう].<br><br>昨夜[さくや] 山下[やました] 部長[ぶちょう]は 全員[ぜんいん]のスタフをご 馳走[ちそう]<font color=\"#ef2929\">＿＿＿</font>の 晩[ばん]ご 飯[はん]に 誘[さそ]ってくれた。<br><i>Anoche nuestro jefe Yamashita nos invitó a todo el equipo a una cena <font color=\"#ef2929\">llena de</font> delicias</i>.<br><br>Si se quiere usar adjetivos como tales, estos se deben sustantivar agregando こと detrás.<br><br>昨夜[さくや]は 悪[わる]いこと<font color=\"#ef2929\">＿＿＿</font>の 夜[よる]だった。<br><i>La de ayer fue una noche <font color=\"#ef2929\">repleta de</font> cosas malas</i>.<br><br>Nótese que no es posible usar este sufijo con cosas tangibles como polvo, aceite, agua, etc. En su lugar, se debe usar otros sufijos dependiendo del caso.<br><br>あの 本棚[ほんだな]の 本[ほん]はみんなが 誇[ほこ]り｛<font color=\"#ef2929\">＿＿＿✕/だらけ</font>｝だ。<br><i>Los libros de esa estantería están todos <font color=\"#ef2929\">cubiertos de</font> polvo</i>.<br><br>Por último, cabe aclarar que, como se ve en los distintos ejemplos, este sufijo es indistinto de si la connotación de la oración es positiva o negativa.<br><br><b>Expresiones similares</b><br><br>En el japonés existen varias expresiones con significados parecidos a <font color=\"#ef2929\">＿＿＿</font> que hacen difícil saber cuál usar en cada ocasión, por lo que a continuación se ofrece un breve resumen para saber distinguirlas entre sí.<br><br><font color=\"#ef2929\">＿＿＿</font><b>:</b><br><br>Se emplea únicamente con cosas intangibles de carácter tanto positivo como negativo, generalmente en frases hechas.<br><br>今日[きょう]は 良[よ]いニューズ<font color=\"#ef2929\">＿＿＿</font>の 日[ひ]だ。<br><i>Hoy es un día <font color=\"#ef2929\">lleno de</font> buenas noticias</i>.<br><br><b>だらけ:</b><br><br>Es la más versátil de todas ya que se usa para cosas abstractas como 嘘[うそ] al igual que tangibles como 傷[きず]. Suele emplearse de forma negativa pero también es posible usarla con una connotación positiva.<br><br>うちの 子[こ]は 昨晩[さくばん]は 傷[きず]<font color=\"#ef2929\">だらけ</font>で 家[いえ]に 帰[かえ]ってきた。<br><i>Nuestro hijo ayer por la tarde volvió a case <font color=\"#ef2929\">lleno de</font> heridas</i>.<div><br><b>まみれ:</b><br><br>Se utiliza únicamente de forma negativa para referirse a algo tangible que cubre una superficie a modo de suciedad tal como 泥[どろ], 汗[あせ], 血[ち], 油[あぶら], 砂[すな] o 埃[ほこり]. La frase hecha 借金[しゃっきん]まみれ es la excepción a la regla.<br><br>料理[りょうり]をやってみたら 新[あたら]しい Tシャツ[てぃーしゃつ]は 油[あぶら]<font color=\"#ef2929\">まみれ</font>になってしまった。<br><i>Intenté cocinar y mi remera nueva se <font color=\"#ef2929\">cubrió de</font> aceite</i>.<br><br><b>ばかり:</b><br><br>Su función es expresar un sentimiento de molestia o insatisfacción con algo tangible o no, por lo que se utiliza siempre en frase de connotación negativa.&nbsp;<br><br>CM<font color=\"#ef2929\">ばかり</font>だからテレビを 見[み]るのに 飽[あ]きた。<br><i>Me cansé de ver televisión porque <font color=\"#ef2929\">no hay (nada / otra cosa) más que</font> propagandas</i>.<br><br>Cuando se usa como objeto de un verbo, éste se debe ubicar entre el verbo en forma て e いる.<br><br>山岡[やまおか] 部長[ぶちょう]は 悪[わる]い 冗談[じょうだん]を 言[い]って<font color=\"#ef2929\">ばかり</font>いる。<br><i>El jefe de sección Yamaoka <font color=\"#ef2929\">no dice (nada / otra cosa) más que</font> chistes malos</i>.<br><br>Básicamente, si se refiere a algo abstracto en una frase hecha, se usa <font color=\"#ef2929\">＿＿＿</font>. Si alguna suciedad que cubre una superficie es まみれ. De lo contrario, se usa だらけ.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "n*~]0|`FS?",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ずくめ",
+                                "尽くめ"
+                            ]
+                        },
+                        {
+                            "__type__": "Note",
+                            "data": "",
+                            "fields": [
+                                "ずとも",
+                                "ずとも",
+                                "ずとも",
+                                "no / aun sin / aun si&nbsp;no",
+                                "V negativo sin ない + <font color=\"#ef2929\">＿＿＿</font><br>Sustantivo verbal + せ + <font color=\"#ef2929\">＿＿＿</font><br>S + なら + <font color=\"#ef2929\">＿＿＿</font>",
+                                "Expresión de carácter conjuntivo que indica una concesión negativa.<br><br>三 日間[にちかん] 以上[いじょう]で 泊[と]まら<font color=\"#ef2929\">＿＿＿</font>パリを 楽[たの]しめる 時間[じかん]が 十分[じゅうぶん]だ。<br><i><font color=\"#ef2929\">Aun si no</font> nos quedamos más de tres días, es más que tiempo suficiente para poder disfrutar de París</i>.<br><br>Aunque significa lo mismo que なくても, su uso se limita a la escritura.<br><br>アンドレア・ボチェッリは 目[め]が 見[み]え<font color=\"#ef2929\">＿＿＿</font> 素晴[すば]らしい 演奏[えんそう]をする。<br><i>Adrea Bocelli da conciertos maravillosos <font color=\"#ef2929\">aun sin</font> ver</i>.<br><br>Como con todas las formas que emplean la conjugación ず, el verbo する se transforma en せず.<br><br>現在[げんざい]は 旅行[りょこう]せ<font color=\"#ef2929\">＿＿＿</font>ユーチューブのお 陰[かげ]でどの 国[くに]にも 行[い]ける。アンドレア・ボチェッリは 目[め]が 見[み]え<font color=\"#ef2929\">＿＿＿</font> 素晴[すば]らしい 演奏[えんそう]をする。<br><i>Hoy en día puedes ir a cualquier país <font color=\"#ef2929\">aun sin</font> viajar gracias a YouTube</i>.<br><br>Se forma con la conjugación negativa ず y la conjunción とも, versión antigua de ても. Debido a que requiere de un verbo, los sustantivos deben usar なり para poderla conjugar a su forma negativa ず y así formar S + ならず + とも.<br><br>東京[とうきょう]なら<font color=\"#ef2929\">＿＿＿</font> 大阪[おおさか]は 大阪[おおさか]なりに 中[なか]々 面白[おもしろ]い。<br><i><font color=\"#ef2929\">Aun sin</font> ser Tokio, Osaka es bastante interesante a su propio modo</i>.<br><br><font color=\"#ef2929\">＿＿＿</font> puede emplearse al final de una frase junto a palabras como 良[よ]い, 大丈夫[だいじょうぶ], o frase como 問題[もんだい]がない, 申[もう]し 分[ぶん]がない para dar consentimiento.<br><br>証人[しょうにん]は 多分[たぶん] 怖[こわ]がっているので、 今[いま]に 話[はな]さ<font color=\"#ef2929\">＿＿＿</font> 良[よ]い。<br><i>El testigo probablemente está asustado, así que está bien <font color=\"#ef2929\">aun si no</font> habla</i>.<br><br>Cuando se usa de dicha forma, suele omitirse 良[よ]い.<br><br>課長[かちょう]のことは 心配[しんぱい]せ<font color=\"#ef2929\">＿＿＿</font>、 僕[ぼく]はなんとか 説得[せっとく]する。<br>No te preocupes por el jefe de sección, yo lo persuadiré de alguna forma.<br><br>Esto literalmente sería algo así como:<div><br><i><font color=\"#ef2929\">Aun si no</font> te preocupas por el jefe de sección (está bien), yo lo persuadiré de alguna forma</i>.<br><br><b>Expresiones similares</b><br><br>Como mencionado anteriormente, <font color=\"#ef2929\">＿＿＿</font> no es más que una forma más antigua de なくても. Por un lado ず es la versión antigua de ない y とも la de ても, por lo tanto, estas dos expresiones son perfectamente intercambiable y la decisión de usar una u otra dependerá de la situación en que se use.<br><br>三 日間[にちかん] 以上[いじょう]で 泊[と]まら｛<font color=\"#ef2929\">なくても/＿＿＿</font>｝パリを 楽[たの]しめる 時間[じかん]が 十分[じゅうぶん]だ。<br><i><font color=\"#ef2929\">Aun si no</font> nos quedamos más de tres días, es más que tiempo suficiente para poder disfrutar de París</i>.<br><br>De igual forma, ならず en なら<font color=\"#ef2929\">＿＿＿</font> es la conjugación negativa de なり, por lo que el equivalente negativo simple de esta expresión es tanto でなくても como じゃなくても.<br><br>東京[とうきょう]｛<font color=\"#ef2929\">でなくても/じゃなくても/なら＿＿＿</font>｝ 大阪[おおさか]は 大阪[おおさか]なりに 中[なか]々 面白[おもしろ]い。<br><i><font color=\"#ef2929\">Aun sin</font> ser Tokio, Osaka es bastante interesante a su propio modo</i>.<br><br>Pero se debe tener cuidado ya que なくても también se puede usar con adjetivos い.<br><br>あの 車[くるま]は 高[たか]く｛<font color=\"#ef2929\">＿＿＿✕/なら＿＿＿✕/なくても</font>｝ 安[やす]いと 言[い]えるわけじゃない。<br><i><font color=\"#ef2929\">Aun si</font> ese auto <font color=\"#ef2929\">no</font> es caro, tampoco podemos llamarlo barato</i>.<br><br>Así como con adjetivos な.<br><br>砂糖[さとう]さんは 頑固[がんこ]｛<font color=\"#ef2929\">＿＿＿/なら＿＿＿✕/でなくても</font>｝ 自分[じぶん]の 限界[げんかい]がちゃんと 分[わ]かる。<br><i><font color=\"#ef2929\">Aun si</font> Sato es un cabeza dura, él conoce su propio límite</i>.<br><br>Nótese además que なくても puede usarse indistintamente tanto en el lenguage hablado como en el escrito.<br><br>La expresión ないまでも también puede reemplazar a <font color=\"#ef2929\">＿＿＿</font> cuando esta última se usa junto a verbos.<br><br>三 日間[にちかん] 以上[いじょう]で 泊[と]まら｛<font color=\"#ef2929\">ないでも/＿＿＿</font>｝パリを 楽[たの]しめる 時間[じかん]が 十分[じゅうぶん]だ。<br><i><font color=\"#ef2929\">Aun si no</font> nos quedamos más de tres días, es más que tiempo suficiente para poder disfrutar de París</i>.<br><br>Pero precisamente porque ない es la conjugación negativa de un verbo, no puede reemplazar a なら<font color=\"#ef2929\">＿＿＿</font>.<br><br>東京[とうきょう]｛<font color=\"#ef2929\">でないでも✕/じゃないでも✕/なら＿＿＿</font>｝ 大阪[おおさか]は 大阪[おおさか]なりに 中[なか]々 面白[おもしろ]い。<br><i><font color=\"#ef2929\">Aun sin</font> ser Tokio, Osaka es bastante interesante a su propio modo</i>.<br></div>",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                "",
+                                ""
+                            ],
+                            "flags": 0,
+                            "guid": "iDNG9j[g:u",
+                            "note_model_uuid": "71c87555-861d-11e8-b22c-9cb6d00ae587",
+                            "tags": [
+                                "Definición",
+                                "Gramática",
+                                "Japonés",
+                                "N1",
+                                "Niponismo",
+                                "ずとも"
+                            ]
                         }
                     ]
                 }
@@ -38798,7 +39489,9 @@
                 "N1",
                 "Niponismo",
                 "Oración",
-                "ざる"
+                "ずとも",
+                "ないでも",
+                "なくても"
             ],
             "tmpls": [
                 {
@@ -39002,7 +39695,7 @@
                 "Japonés",
                 "N1",
                 "Niponismo",
-                "ざる"
+                "ずとも"
             ],
             "tmpls": [
                 {
